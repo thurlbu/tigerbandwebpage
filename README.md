@@ -1,3 +1,3 @@
 # tigerbandwebpage
 
-Tiger Band Website
+Clemson University Tiger Band Website
