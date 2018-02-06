@@ -541,7 +541,7 @@ video#homeVideoBkg {
 }
 
 /***** HOMEPAGE ARTICLES *****/
-#content {
+#Col2FlexContent.homepage {
     display: flex;
     flex-flow: row wrap;
     width: 96.5vw;
@@ -557,6 +557,7 @@ article {
     margin: 1.5rem 0 0 0;
     padding: 1.5rem;
     background: white;
+    overflow: auto;
     -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.2);
     box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.2);
     -webkit-transition: none 150ms ease;
@@ -1635,7 +1636,7 @@ h5 {
 		width: 1.5rem; height: 1.5rem;
 	}
 	/***** ARTICLES *****/
-    #content {
+    #Col2FlexContent.homepage {
         width: 95.5vw;
         width: calc(100vw - 1rem);
         margin: 1rem auto;

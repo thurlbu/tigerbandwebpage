@@ -155,50 +155,60 @@
         <h4 class="orangeText">Announcements</h4>
     </div>
     
-    <section id="content">
-        <article class="text">
-            <h1>Join the 2018 Clemson University Tiger Band</h1>
+    <div id="Col2FlexContent" class="homepage">
+        <div id="col1Flex">
+            <article class="text">
+                <h1>Join the 2018 Clemson University Tiger Band</h1>
                 <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/Basco.jpg'></a>
-            <p>Do you have what it takes to be a "Guardian of the Clemson Spirit?"</p> 
-	    <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
-	    <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
-	    <p>Submit your audition video today!</p>
-        </article>
-        <article class="media">
-            <h1>Tiger Band at the 2018 Sugar Bowl</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor.</p>
-            <div class="iframeContainer">    
-                <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/sIAt07BUOoo" frameborder="0" allowfullscreen></iframe>
+                <p>Do you have what it takes to be a "Guardian of the Clemson Spirit?"</p> 
+            <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
+            <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
+            <p>Submit your audition video today!</p>
+            </article>
+            <article class="media">
+                <h1>Lee Greenwood performs with Tiger Band</h1>
+                <p>Tiger Band and Lee Greenwood perform God Bless the USA on Military Appreciation Day!</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IH2GsIbeoDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
                 </div>
-            </div>
-        </article>
-        <article class="media">
-            <h1>Lee Greenwood performs with Tiger Band</h1>
-            <p>Tiger Band and Lee Greenwood perform God Bless the USA on Military Appreciation Day!</p>
-            <div class="iframeContainer">
-                <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/IH2GsIbeoDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </article>
+            <article class="media">
+                <h1>We are Tiger Band</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
                 </div>
-            </div>
-        </article>
-        <article class="text">
-            <h1>Tiger Band meets John F Kennedy</h1>
-                <a href="https://clemson.world/tiger-band-jfk/" class="boxWrapper"><img class="articleImg" src='/img/Kennedy.jpg'></a>
-            <p>Tiger Band had the honor of meeting and singing for President John F Kennedy at the White House in 1962.</p>
-	    <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
-        </article>
-        <article class="media">
-            <h1>We are Tiger Band</h1>
-            <p>What does it mean to be a member of Tiger Band?</p>
-            <div class="iframeContainer">
-                <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </article>
+        </div>
+        
+        <div id="col2Flex">
+            <article class="media">
+                <h1>Tiger Band at the 2018 Sugar Bowl</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor.</p>
+                <div class="iframeContainer">    
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/sIAt07BUOoo" frameborder="0" allowfullscreen></iframe>
+                    </div>
                 </div>
-            </div>
-        </article>
-    </section>
-    
+            </article>
+            <article class="text">
+                <h1>Tiger Band meets John F Kennedy</h1>
+                    <a href="https://clemson.world/tiger-band-jfk/" class="boxWrapper"><img class="articleImg" src='/img/Kennedy.jpg'></a>
+                <p>Tiger Band had the honor of meeting and singing for President John F Kennedy at the White House in 1962.</p>
+            <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
+            </article>
+            <article class="text">
+                <h1>Tiger Band Tours</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg'>
+                <a class="richLink cta" href="https://www.google.com/forms/about/">Sign-up</a>
+            </article>
+        </div>
+    </div>
 </body>
     
 <!--- FOOTER --->
