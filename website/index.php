@@ -165,6 +165,7 @@
             <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
             <p>Submit your audition video today!</p>
             </article>
+            
             <article class="media">
                 <h1>Lee Greenwood performs with Tiger Band</h1>
                 <p>Tiger Band and Lee Greenwood perform God Bless the USA on Military Appreciation Day!</p>
@@ -174,6 +175,7 @@
                     </div>
                 </div>
             </article>
+            
             <article class="media">
                 <h1>We are Tiger Band</h1>
                 <p>What does it mean to be a member of Tiger Band?</p>
@@ -195,17 +197,18 @@
                     </div>
                 </div>
             </article>
+            
             <article class="text">
                 <h1>Tiger Band meets John F Kennedy</h1>
                     <a href="https://clemson.world/tiger-band-jfk/" class="boxWrapper"><img class="articleImg" src='/img/Kennedy.jpg'></a>
                 <p>Tiger Band had the honor of meeting and singing for President John F Kennedy at the White House in 1962.</p>
-            <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
+                <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
             </article>
+            
             <article class="text">
                 <h1>Tiger Band Tours</h1>
                 <p>What does it mean to be a member of Tiger Band?</p>
-                <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg'>
-                <a class="richLink cta" href="https://www.google.com/forms/about/">Sign-up</a>
+                <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
             </article>
         </div>
     </div>

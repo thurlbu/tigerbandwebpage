@@ -95,11 +95,23 @@
         </a>
     </div>
     
+    <div id="heading">
+        <h4>Tiger Band Tours</h4>
+    </div>
+    
+        <center>
+            <article class="text">
+                <h1>Tiger Band Tours</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
+            </article>
+        </center>
+    
     <!--- WHY JOIN --->
     
-    <div id="heading">
-        <h3>Why Join</h3>
-        <h4>Tiger Band?</h4>
+    <div id="headingOrange">
+        <h3 class="orangeText">Why Join</h3>
+        <h4 class="orangeText">Tiger Band?</h4>
     </div>
     
     <section id="content">
