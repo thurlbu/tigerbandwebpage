@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>	
+	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
+
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="/website/">Home</a>
     <a href="/this_season/">This Season</a>
@@ -32,24 +32,24 @@
     <a href="/about/">About</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
-</nav>  
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body>
     <!--- MAIN PHOTO --->
-    
+
     <div id="joinFullscrContainer">
         <div id="screenShade"></div>
     </div>
-    
+
     <div id="homepageTitle">
         <h2>Join</h2>
         <h1>Tiger Band</h1>
     </div>
-    
+
     <!--- AUDITION INFORMATION UI --->
-    
+
     <div id="headingOrange">
         <h4 class="orangeText">Audition Information</h4>
     </div>
@@ -61,7 +61,7 @@
                 </div>
             </div>
         </a>
-        
+
         <a href="http://drum.people.clemson.edu/auditions/" class="boxWrapper">
             <div id="inlineBox2" class="boxUIelement sq white">
                 <div class="textContainer">
@@ -69,7 +69,7 @@
                 </div>
             </div>
         </a>
-    
+
         <a href="guard/" class="boxWrapper">
             <div id="inlineBox3" class="boxUIelement sq orang">
                 <div class="textContainer">
@@ -77,7 +77,7 @@
                 </div>
             </div>
         </a>
-        
+
         <a href="dancers/" class="boxWrapper">
             <div id="inlineBox4" class="boxUIelement sq orang">
                 <div class="textContainer">
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </a>
-        
+
         <a href="twirlers/" class="boxWrapper">
             <div id="inlineBox5" class="boxUIelement sq orang">
                 <div class="textContainer">
@@ -94,26 +94,26 @@
             </div>
         </a>
     </div>
-    
+
     <div id="heading">
         <h4>Tiger Band Tours</h4>
     </div>
-    
-        <center>
-            <article class="text">
-                <h1>Tiger Band Tours</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
-                <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
-            </article>
-        </center>
-    
+
+    <section id="content" class="centered">
+        <article class="text">
+            <h1>Tiger Band Tours</h1>
+            <p>What does it mean to be a member of Tiger Band?</p>
+            <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
+        </article>
+    </section>
+
     <!--- WHY JOIN --->
-    
+
     <div id="headingOrange">
         <h3 class="orangeText">Why Join</h3>
         <h4 class="orangeText">Tiger Band?</h4>
     </div>
-    
+
     <section id="content">
         <article class="text">
             <h1>Sample Article</h1>
@@ -130,14 +130,14 @@
             </div>
         </article>
     </section>
-    
+
 <!--- FOOTER --->
 
 <?php
     readfile("../footer.html");
 ?>
 </body>
-    
+
 <script type="text/javascript">
     //Copyright Date
     var startYear = 2017;

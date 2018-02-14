@@ -1,5 +1,4 @@
 /***** GENERAL FORMATTING *****/
-
 html {
     height: 100%;
     font-family: 'Roboto', sans-serif;
@@ -162,20 +161,21 @@ a.richLink:hover {
 /***** NAVIGATION BAR ****/
 nav {
     background: white;
-    width: 100%;
+    width: 100vw;
     text-align: center;
     position: fixed;
-        top: 0;
+        top: -5rem;
         left: 0;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-orient: horizontal;
-	-webkit-box-direction: normal;
-	-ms-flex-flow: row nowrap;
-	flex-flow: row nowrap;
-	-ms-flex-pack: distribute;
-	justify-content: space-around;
+    display: -webkit-box;
+  	display: -ms-flexbox;
+  	display: flex;
+    padding-top: 5rem;
+  	-webkit-box-orient: horizontal;
+  	-webkit-box-direction: normal;
+  	-ms-flex-flow: row nowrap;
+  	flex-flow: row nowrap;
+  	-ms-flex-pack: distribute;
+  	justify-content: space-around;
     z-index: 9;
     -webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.2), 0 1px 3px rgba(0,0,0,0.2);
     box-shadow: 0 1px 3px rgba(0,0,0,0.2), 0 1px 3px rgba(0,0,0,0.2);
@@ -186,11 +186,11 @@ nav a {
     font-weight: 700;
     font-size: 12.5pt;
     padding: 0.75rem 0 0.5rem 0;
-	-webkit-box-flex: 1;
-	-ms-flex: 1 0 7.14%;
-	flex: 1 0 7.14%;
-	-webkit-transition: color 300ms ease;
-	transition: color 300ms ease;
+  	-webkit-box-flex: 1;
+  	-ms-flex: 1 0 7.14%;
+  	flex: 1 0 7.14%;
+  	-webkit-transition: color 300ms ease;
+  	transition: color 300ms ease;
 }
 nav a:hover, nav a.active {
     color: #F66733;
@@ -228,7 +228,7 @@ footer a:hover {
     -webkit-box-align: top;
     -ms-flex-align: top;
     align-items: top;
-    width: 100vw;
+    width: 98vw;
     padding: 1vw;
 }
 footer table {
@@ -287,12 +287,12 @@ body.stickyFooter {
     margin-top: -2.5rem;
     width: 100vw;
     height: 100vh;
+    overflow-x: hidden;
 }
 video#homeVideoBkg {
     position: absolute;
     top: 50%; left: 50%;
     min-width: 100%;
-    height: 110%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     z-index: -2;
@@ -300,9 +300,9 @@ video#homeVideoBkg {
 #screenShadeHome {
     width: 100vw;
     height: 100vh;
-    background: none;
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(75%, rgba(0,0,0, 0)), to(rgba(0,0,0, 0.7)));
-    background: linear-gradient(to bottom, rgba(0,0,0, 0) 75%, rgba(0,0,0, 0.7) 100%);
+    background: rgba(0,0,0, 0.5);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0,0,0, 0.3)), 75%, rgba(0,0,0, 0.3)), to(rgba(0,0,0, 0.8)));
+    background: linear-gradient(to bottom, rgba(0,0,0, 0.3) 0%, rgba(0,0,0, 0.3) 75%, rgba(0,0,0, 0.8) 100%);
     z-index: -1;
 }
 #screenShadeHome::after {
@@ -541,7 +541,7 @@ video#homeVideoBkg {
 }
 
 /***** HOMEPAGE ARTICLES *****/
-#Col2FlexContent.homepage {
+#content, #Col2FlexContent.homepage {
     display: flex;
     flex-flow: row wrap;
     width: 96.5vw;
@@ -551,6 +551,9 @@ video#homeVideoBkg {
     justify-content: space-between;
     padding-top: 0;
     align-items: flex-start;
+}
+#content.centered {
+  justify-content: center;
 }
 article {
     width: calc(50% - 4rem);
@@ -1353,8 +1356,8 @@ h5 {
 	body {
 		margin-top: 3rem;
 	}
-    ::-webkit-scrollbar, footer table:first-child, footer table:nth-child(2), footer table:nth-child(3), footer table:nth-child(4), footer #socMedContainer { 
-        display: none; 
+    ::-webkit-scrollbar, footer table:first-child, footer table:nth-child(2), footer table:nth-child(3), footer table:nth-child(4), footer #socMedContainer {
+        display: none;
     }
     footer table {
         width: 100vw;
@@ -1472,7 +1475,7 @@ h5 {
 	#menuButton {
 		font-size: 0;
 		text-indent: -9999px;
-		cursor: pointer;	
+		cursor: pointer;
 	}
 	#menuButton span {
 		display: block;
@@ -1636,7 +1639,7 @@ h5 {
 		width: 1.5rem; height: 1.5rem;
 	}
 	/***** ARTICLES *****/
-    #Col2FlexContent.homepage {
+    #content, #Col2FlexContent.homepage {
         width: 95.5vw;
         width: calc(100vw - 1rem);
         margin: 1rem auto;
@@ -1646,36 +1649,36 @@ h5 {
         margin: 0.5rem 0 ;
     }
     article.text p {
-		width: 100%;
-		padding: 0;
-        padding-top: 0.5rem;
-	}
+  		width: 100%;
+  		padding: 0;
+      padding-top: 0.5rem;
+	  }
     article.text h1, article.media h1 {
         margin: 0;
         font-weight: 400;
     }
-	article.text h1 {
-		font-size: 18pt;
-		color: #F66733;
-	}
-	article.text h2 {
-		font-size: 13pt;
-		color: #522D80;
-		font-style: italic;
-		margin: 0;
-	}
+  	article.text h1 {
+  		font-size: 18pt;
+  		color: #F66733;
+  	}
+  	article.text h2 {
+  		font-size: 13pt;
+  		color: #522D80;
+  		font-style: italic;
+  		margin: 0;
+  	}
     article.text p a {
         word-break: break-all;
     }
-	article.media h1 {
-		font-size: 18pt;
-		color: #522D80;
-	}
-	.articleImg {
-		width: 100%;
-		padding: 0;
-		margin: 0.5rem 0 0.5rem 0;
-	}
+  	article.media h1 {
+  		font-size: 18pt;
+  		color: #522D80;
+  	}
+  	.articleImg {
+  		width: 100%;
+  		padding: 0;
+  		margin: 0.5rem 0 0.5rem 0;
+  	}
     .expandButton {
         float: right;
         width: 4rem;
@@ -1749,7 +1752,7 @@ h5 {
 		margin: 1rem auto;
         justify-content: center;
 	}
-    
+
     /***** AUDITION PAGE *****/
     .deadlines .textContainer p{
         font-size: 3.25vw;
