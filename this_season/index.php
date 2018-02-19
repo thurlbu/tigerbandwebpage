@@ -210,13 +210,13 @@
     <section id="content">
             <article class="text">
                 <h1>Friday Night Lights</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                    <img class="articleImg" src='/img/Friday Night Lights.jpg'>
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
             </article>
             <article class="text">
                 <h1>Tiger Walk</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                    <img class="articleImg" src='/img/TigerWalk.jpg'>
                 <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley.</p>
                 <p>Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
             </article>
