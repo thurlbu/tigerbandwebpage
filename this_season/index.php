@@ -222,23 +222,23 @@
             </article>
         <article class="text">
             <h1>Amphitheater Concert</h1>
-                <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                <img class="articleImg" src='/img/90Minutes.jpg'>
             <p>90-minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
         </article>
             <article class="text">
                 <h1>Game Day Parade</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-pitt-2016-570.jpg'>
+                    <img class="articleImg" src='/img/ParadeHighFive.jpg'>
                 <p>60-minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley.</p>
                 <p>Join thousands of fans lining the streets of Clemson's campus to welcome Tiger Band into Death Valley.</p>
             </article>
                 <article class="text">
                 <h1>The Most Exciting 25 Seconds in College Football</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-usc-2016-443.jpg'>
+                    <img class="articleImg" src='/img/25Seconds.jpg'>
                 <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag. It is truly an experience you will never forget.</p>
             </article>
             <article class="text">
                 <h1>Post-Game</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                    <img class="articleImg" src='/img/PostGameDrums.jpg'>
                 <p>After gathering at the paw at every home game, stick around to enjoy a post-game concert from the talented Clemson University Drumline.</p>
             </article>
         </section>
