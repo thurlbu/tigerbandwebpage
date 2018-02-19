@@ -39,7 +39,7 @@
 <body>
     <div id="heading">
         <h3>This Season</h3>
-        <h4>2017</h4>
+        <h4>2018</h4>
     </div>
 
     <div id="Col2FlexContent">
