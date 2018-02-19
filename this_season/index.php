@@ -48,12 +48,12 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="/img/clemson-tiger-band-ncstate-2016-428.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-natty-2016-437.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-troy-2016-877.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-natty-2016-356.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-natty-2016-871.jpg">
+                <img class="slider" src="/img/Slider1.jpg">
+                <img class="slider" src="/img/Slider2.jpg">
+                <img class="slider" src="/img/Slider3.jpg">
+                <img class="slider" src="/img/Slider4.jpg">
+                <img class="slider" src="/img/Slider5.jpg">
+                <img class="slider" src="/img/Slider6.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
