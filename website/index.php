@@ -212,9 +212,10 @@
                 <p>Tiger Band had the honor of meeting and singing for President John F Kennedy at the White House in 1962.</p>
                 <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
             </article>
-            
+
                         <article class="media">
-                <h1>#TigerBandTour Vlog, Episode 1: The Sugar Bowl</h1>
+                <h1><p>#TigerBandTour Vlog</p>
+                    <p>Episode 1: The Sugar Bowl</p></h1>
                 <p>Relive our trip to New Orleans for the 2018 Sugar Bowl through the eyes of a few current Tiger Band students!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
