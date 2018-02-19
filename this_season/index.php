@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
-	
-<input type='checkbox' id='mobileMenu'>	
+
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>	
+	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
 
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="/website/">Home</a>
     <a href="/this_season/" class="active">This Season</a>
@@ -32,21 +32,21 @@
     <a href="/about/">About</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
-</nav> 
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body>
     <div id="heading">
         <h3>This Season</h3>
         <h4>2017</h4>
     </div>
-    
+
     <div id="Col2FlexContent">
         <div id="col1Flex">
-            
+
             <!--- PHOTO SLIDER --->
-            
+
             <div id="photoSlider">
                 <img class="slider" src="/img/clemson-tiger-band-ncstate-2016-428.jpg">
                 <img class="slider" src="/img/clemson-tiger-band-natty-2016-437.jpg">
@@ -63,11 +63,11 @@
                     <div class="dots" onclick="stopSlider(); currentDiv(6)"></div>
                 </div>
             </div>
-            
+
             <!--- FOOTBALL SCHEDULE --->
-            
+
             <article class="text schedule">
-                <h1>2017 Clemson Tigers Football Schedule</h1>
+                <h1>2018 Clemson Tigers Football Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -76,157 +76,160 @@
                         <th>Designation</th>
                     </tr>
                     <tr>
-                        <td>Sat, Sept 2</td>
+                        <td>Sept 1</td>
                         <td>VS</td>
-                        <td>Kent State Golden Flashes</td>
-                        <td>National Championship Celebration</td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Sept 9</td>
-                        <td>VS</td>
-                        <td>Auburn Tigers</td>
-                        <td>Solid Orange Day</td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Sept 16</td>
-                        <td>@</td>
-                        <td>Louisville Cardinals</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Sept 23</td>
-                        <td>VS</td>
-                        <td>Boston College Eagles</td>
-                        <td>Family Weekend / Hall of Fame Day</td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Sept 30</td>
-                        <td>@</td>
-                        <td>Virginia Tech Hokies</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Oct 7</td>
-                        <td>VS</td>
-                        <td>Wake Forest Demon Deacons</td>
-                        <td>Homecoming</td>
-                    </tr>
-                    <tr>
-                        <td>Fri, Oct 13</td>
-                        <td>@</td>
-                        <td>Syracuse Orange</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Oct 21</td>
-                        <td></td>
-                        <td>OFF</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Oct 28</td>
-                        <td>VS</td>
-                        <td>Georgia Tech Yellow Jackets</td>
+                        <td>Furman University Paladins</td>
                         <td>Football Reunion Day</td>
                     </tr>
                     <tr>
-                        <td>Sat, Nov 4</td>
+                        <td>Sept 8</td>
                         <td>@</td>
-                        <td>NC State Wolfpack</td>
+                        <td>Texas A&M Aggies</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Sat, Nov 11</td>
+                        <td>Sept 15</td>
                         <td>VS</td>
-                        <td>Florida State Seminoles</td>
+                        <td>Georgia Southern University Eagles</td>
+                        <td>Family Weekend</td>
+                    </tr>
+                    <tr>
+                        <td>Sept 22</td>
+                        <td>@</td>
+                        <td>Georgia Institute of Technology Yellowjackets</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Sept 29</td>
+                        <td>VS</td>
+                        <td>Syracuse University Orange</td>
+                        <td>Hall of Fame Day</td>
+                    </tr>
+                    <tr>
+                        <td>Oct 6</td>
+                        <td>@</td>
+                        <td>Wake Forest University Demon Deacons</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Oct 20</td>
+                        <td>VS</td>
+                        <td>North Carolina State University Wolfpack</td>
+                        <td>Homecoming</td>
+                    </tr>
+                    <tr>
+                        <td>Oct 27</td>
+                        <td>@</td>
+                        <td>Florida State University Seminoles</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 3</td>
+                        <td>VS</td>
+                        <td>University of Louisville Cardinals</td>
                         <td>IPTAY Day</td>
                     </tr>
                     <tr>
-                        <td>Sat, Nov 18</td>
-                        <td>VS</td>
-                        <td>The Citadel Bulldogs</td>
-                        <td>Senior Day / Military Appreciation Day / Purple Out</td>
-                    </tr>
-                    <tr>
-                        <td>Sat, Nov 25</td>
+                        <td>Nov 10</td>
                         <td>@</td>
-                        <td>South Carolina Gamecocks</td>
+                        <td>Boston College Eagles</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Sat, Dec 2</td>
-                        <td></td>
+                        <td>Nov 17</td>
+                        <td>VS</td>
+                        <td>Duke University Blue Devils</td>
+                        <td>Military Appreciation Day / Senior Day</td>
+                    </tr>
+                    <tr>
+                        <td>Nov 24</td>
+                        <td>VS</td>
+                        <td>University of South Carolina Gamecocks</td>
+                        <td>Palmetto Bowl</td>
+                    </tr>
+                    <tr>
+                        <td>Dec 1</td>
+                        <td>@</td>
                         <td>ACC Championship</td>
+                        <td>Charlotte, NC</td>
+                    </tr>
+                    <tr>
+                        <td>TBA</td>
+                        <td></td>
+                        <td>Bowl Game</td>
                         <td></td>
                     </tr>
                 </table>
             </article>
         </div>
-        
+
         <!--- INFORMATION ARTICLES --->
-        
+
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2017 Major Shows</h1>
-                <b>National Championship Celebration</b>
-                <p>A Theme from Rocky, Eye of the Tiger, The Phoenix, Theme from Jason Bourne, We Are the Champions</p>
-                <b>The Spy Spectacular</b>
-                <p>Theme from James Bond, Welcome to Cuba, Kingsman, Theme from Jason Bourne</p>
-                <b>Guardians of the Galaxy Mixtape</b>
-                <p>Hooked on a Feeling, Come and Get Your Love, I Want You back, Fox on the Run</p>
+                <h1>2018 Major Shows</h1>
+                <b>To Be Announced...</b>
+                <p></p>
+                <b>To Be Announced...</b>
+                <p></p>
+                <b>To Be Announced...</b>
+                <p></p>
                 <b>Military Appreciation Day</b>
             </article>
             <article class="text officers">
-                <h1>2017 Officers</h1>
-                <p><b>Commander: </b>CJ Rimsky</p>
+                <h1>2018 Officers</h1>
+                <p><b>Commander: </b>Trey Lockett</p>
                 <p><b>Vice-Commander: </b>Josh Rogers</p>
-                <p><b>Sergeant Major: </b>Jeremy Fedrigon</p>
-                <p><b>Drum Majors: </b>Trey Lockett, Alex Manno, &amp; Stephanie Linke</p>
+                <p><b>Sergeant Major: </b>Sam Verdonck</p>
+                <p><b>Drum Majors: </b>To Be Announced...</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos: </b>Rachel Davis &amp; Tivvi Pare</p>
-                <p><b>Clarinets: </b>Anna Chastain &amp; Jeremy Fedrigon</p>
-                <p><b>Alto Saxes: </b>Christian Bull &amp; Mickenzie Hamilton</p>
-                <p><b>Tenor Saxes: </b>Ethan Cook</p>
-                <p><b>Trumpets: </b>Alicia Cameron, Kris Kohm, &amp; Josh Koury</p>
-                <p><b>Mellophone: </b>Chris Haigh &amp; Matthew Hall</p>
-                <p><b>Trombone: </b>Josh Rogers &amp; Jessia Simpson</p>
-                <p><b>Baritone: </b>Alyssa Collado &amp; AJ Villanueva</p>
-                <p><b>Sousaphone: </b>Alex Raymond &amp; Camden O'Bryant</p>
-                <p><b>Drumline: </b>Jonathan Broyles &amp; Tyler Stoneman</p>
-                <p><b>Color Guard: </b>Hannah Barrett, Hayley Perryman, &amp; Bethany Burnette</p>
-                <p><b>Twirlers</b> Carson King</p>
-                <p><b>Dancers: </b>Darian Thomas</p>
-                <p><b>Head Band Manager: </b>Nathan Bailes</p>
+                <p><b>Piccolos: </b>To Be Announced...</p>
+                <p><b>Clarinets: </b>To Be Announced...</p>
+                <p><b>Alto Saxes: </b>To Be Announced...</p>
+                <p><b>Tenor Saxes: </b>To Be Announced...</p>
+                <p><b>Trumpets: </b>To Be Announced...</p>
+                <p><b>Mellophone: </b>To Be Announced...</p>
+                <p><b>Trombone: </b>To Be Announced...</p>
+                <p><b>Baritone: </b>To Be Announced...</p>
+                <p><b>Sousaphone: </b>To Be Announced...</p>
+                <p><b>Drumline: </b>To Be Announced...</p>
+                <p><b>Color Guard: </b>To Be Announced...</p>
+                <p><b>Twirlers</b>To Be Announced...</p>
+                <p><b>Dancers: </b>To Be Announced...</p>
+                <p><b>Head Band Manager: </b>To Be Announced...</p>
             </article>
         </div>
     </div>
-    
+
     <!--- FOOTBALL ACTIVITIES --->
-    
+
     <div id="headingOrange">
             <h4 class="orangeText">Football Activities</h4>
         </div>
-    
+
     <section id="content">
             <article class="text">
                 <h1>Friday Night Lights</h1>
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
-                <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity. Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
+                <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
+                <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
             </article>
             <article class="text">
                 <h1>Tiger Walk</h1>
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
-                <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley. Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
+                <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley.</p>
+                <p>Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
             </article>
         <article class="text">
             <h1>Amphitheater Concert</h1>
                 <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
-            <p>Ninety minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
+            <p>90-minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
         </article>
             <article class="text">
                 <h1>Game Day Parade</h1>
                     <img class="articleImg" src='/img/clemson-tiger-band-pitt-2016-570.jpg'>
-                <p>Sixty minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley. Join thousands of fans lining the streets of Clemson's campus to prepare for game day.</p>
+                <p>60-minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley.</p>
+                <p>Join thousands of fans lining the streets of Clemson's campus to welcome Tiger Band into Death Valley.</p>
             </article>
                 <article class="text">
                 <h1>The Most Exciting 25 Seconds in College Football</h1>
@@ -236,24 +239,24 @@
             <article class="text">
                 <h1>Post-Game</h1>
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
-                <p>After gathering at the paw at every home game, stick around to enjoy some music from the Clemson University Drumline.</p>
+                <p>After gathering at the paw at every home game, stick around to enjoy a post-game concert from the talented Clemson University Drumline.</p>
             </article>
         </section>
-    
+
 <!--- FOOTER --->
-    
+
 <?php
     readfile("../footer.html");
 ?>
 </body>
-    
-<script type="text/javascript"> 
+
+<script type="text/javascript">
     //JavaScript for Image Slider
     var slideIndex = 0;
     var doChange = true;
     carousel();
     showDivs(slideIndex);
-    
+
     function currentDiv(n) {
       showDivs(slideIndex = n);
     }
@@ -266,13 +269,13 @@
             var x = document.getElementsByClassName("slider");
             var dots = document.getElementsByClassName("dots");
             for (i = 0; i < x.length; i++) {
-              x[i].style.display = "none"; 
+              x[i].style.display = "none";
             }
             slideIndex++;
-            if (slideIndex > x.length) {slideIndex = 1} 
-            x[slideIndex-1].style.display = "block"; 
+            if (slideIndex > x.length) {slideIndex = 1}
+            x[slideIndex-1].style.display = "block";
             setTimeout(carousel, 2500); // Change image every 2.5 seconds
-            
+
             for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" dot-white", "");
             }
@@ -286,20 +289,20 @@
         var dots = document.getElementsByClassName("dots");
         if (n > x.length) {
             slideIndex = 1
-        }    
+        }
         if (n < 1) {
             slideIndex = x.length
         }
         for (i = 0; i < x.length; i++) {
-            x[i].style.display = "none";  
+            x[i].style.display = "none";
         }
         for (i = 0; i < dots.length; i++) {
             dots[i].className = dots[i].className.replace(" dot-white", "");
         }
-        x[slideIndex-1].style.display = "block";  
+        x[slideIndex-1].style.display = "block";
         dots[slideIndex-1].className += " dot-white";
     }
-    
+
     //Copyright Date
     var startYear = 2017;
     var currentYear = new Date().getFullYear();
