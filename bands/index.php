@@ -52,13 +52,11 @@
         </article>
         </a>
 
-<a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html">
         <article class="text">
-            <h1>Concert Band</h1>
-                <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html"><h1>Concert Band</h1>
+                <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'></a>
             <p>The Clemson University Concert Band is open to all University students and community members without audition. The band rehearses once a week during the spring semester and presents a popular concert in April.</p>
         </article>
-        </a>
 
         <article class="text">
             <h1>Jazz Ensemble</h1>
