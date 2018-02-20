@@ -51,12 +51,14 @@
             <p>Frequent campus concert and tour appearances have earned high national praise for this band. Previous tours have included performances at the 2012 London Olympics, Carnegie Hall, Lincoln Center, The SCMEA Conference in Columbia, SC, New Orleans' Jackson Square, and Walt Disney World.</p>
         </article>
         </a>
+
+<a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html">
         <article class="text">
             <h1>Concert Band</h1>
                 <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
             <p>The Clemson University Concert Band is open to all University students and community members without audition. The band rehearses once a week during the spring semester and presents a popular concert in April.</p>
-            <p>See <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html">here</a> for more information.</p>
         </article>
+        </a>
 
         <article class="text">
             <h1>Jazz Ensemble</h1>
