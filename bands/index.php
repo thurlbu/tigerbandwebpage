@@ -60,7 +60,8 @@
         <article class="text">
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazz.html"><h1>Jazz Ensemble</h1>
                 <img class="articleImg" src='/img/JazzEnsemble.jpg'></a>
-            <p>Clemson University's Jazz Ensemble, also know as "The Jungaleers," (MUSIC 3630) is a Big Band with standard instrumentation. The ensemble performs music of many different genres and has a personality and flair all its own. If you love to have fun playing music, consider joining us!</p>
+            <p>Clemson University's Jazz Ensemble, also know as "The Jungaleers," (MUSIC 3630) is a Big Band with standard instrumentation.</p>
+            <p>The ensemble performs music of many different genres and has a personality and flair all its own. If you love to have fun playing music, consider joining us!</p>
         </article>
 
         <article class="text">
