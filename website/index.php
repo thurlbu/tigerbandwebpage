@@ -214,8 +214,7 @@
             </article>
 
                         <article class="media">
-                <h1><p>#TigerBandTour Vlog</p>
-                    <p>Episode 1: The Sugar Bowl</p></h1>
+                <h1>#TigerBandTour Vlog | Episode 1: The Sugar Bowl</h1>
                 <p>Relive our trip to New Orleans for the 2018 Sugar Bowl through the eyes of a few current Tiger Band students!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">

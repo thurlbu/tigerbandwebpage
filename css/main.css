@@ -228,7 +228,7 @@ footer a:hover {
     -webkit-box-align: top;
     -ms-flex-align: top;
     align-items: top;
-    width: 98vw;
+    width: auto;
     padding: 1vw;
 }
 footer table {
@@ -769,10 +769,21 @@ td:first-child, td:nth-child(2) {
     background-size: cover;
     background-position: center;
 }
-#inlineBox3, #inlineBox4,  #inlineBox5 {
+#inlineBox3 {
     background-image: url(/img/clemson-tiger-band-syracuse-2016-462.jpg);
     background-size: cover;
     background-position: center;
+}
+#inlineBox4 {
+  background-image: url(/img/Dancers.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#inlineBox5 {
+  background-image: url(/img/Twirlers.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 /***** AUDITION PAGE *****/
