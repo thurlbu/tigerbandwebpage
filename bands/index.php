@@ -45,7 +45,7 @@
     <section id="content">
         <article class="text">
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/symphonic.html"><h1>Symphonic Band</h1>
-                <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'></a>
+                <img class="articleImg" src='/img/SymphonicBand.jpg'></a>
             <p>The Clemson University Symphonic Band is a select wind ensemble that performs contemporary and traditional concert band literature.</p>
             <p>Frequent campus concert and tour appearances have earned high national praise for this band. Previous tours have included performances at the 2012 London Olympics, Carnegie Hall, Lincoln Center, The SCMEA Conference in Columbia, SC, New Orleans' Jackson Square, and Walt Disney World.</p>
         </article>
