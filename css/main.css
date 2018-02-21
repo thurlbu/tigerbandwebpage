@@ -1389,6 +1389,7 @@ h5 {
 		position: fixed;
 			top: -35rem;
 			left: 0;
+    padding-top: 0;
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
@@ -1666,6 +1667,10 @@ h5 {
       width: 95.5vw;
       width: calc(100vw - 1rem);
       margin: 1rem auto;
+  }
+  #Col2FlexContent.homepage #col1Flex, #Col2FlexContent.homepage #col2Flex {
+    width: 100%;
+    margin-left: -0.5rem;
   }
 	#Col2FlexContent.homepage #col1Flex article, #Col2FlexContent.homepage #col2Flex article {
 		width: 97%;
