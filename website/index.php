@@ -42,7 +42,7 @@
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
         <video id="homeVideoBkg" autoplay loop muted>
-            <source src="/img/WebsiteVideo.mp4" type="video/mp4">
+            <source src="https://s3.us-east-2.amazonaws.com/s3-example-tiger-band-video/WebsiteVideo.mp4" type="video/mp4">
         </video>
     </div>
 
