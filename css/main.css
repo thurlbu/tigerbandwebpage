@@ -164,12 +164,13 @@ nav {
     width: 100vw;
     text-align: center;
     position: fixed;
-        top: -5rem;
+        top: 0;
         left: 0;
     display: -webkit-box;
   	display: -ms-flexbox;
   	display: flex;
-    padding-top: 5rem;
+    border-top: 3px solid white;
+    padding-top: 3px;
   	-webkit-box-orient: horizontal;
   	-webkit-box-direction: normal;
   	-ms-flex-flow: row nowrap;
@@ -191,6 +192,22 @@ nav a {
   	flex: 1 0 7.14%;
   	-webkit-transition: color 300ms ease;
   	transition: color 300ms ease;
+}
+nav::before {
+  content: "";
+  position: absolute;
+  height: 3px;
+  top: 3px;
+  width: 100vw;
+  background: #F66733;
+}
+nav::after {
+  content: "";
+  position: absolute;
+  top: -3px;
+  height: 3px;
+  width: 100vw;
+  background: #522D80;
 }
 nav a:hover, nav a.active {
     color: #F66733;
@@ -1389,7 +1406,7 @@ h5 {
 		position: fixed;
 			top: -35rem;
 			left: 0;
-    padding-top: 0;
+    padd
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
