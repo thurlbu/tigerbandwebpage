@@ -38,7 +38,6 @@
 
 <body>
     <!--- FULL SCREEN MAIN VIDEO --->
-
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
         <video id="homeVideoBkg" autoplay loop muted>
@@ -150,9 +149,9 @@
 
     <!--- ANNOUNCEMENTS/ARTICLES --->
 
-    <div id="headingOrange">
-        <h3 class="orangeText">Tiger Band</h3>
-        <h4 class="orangeText">Announcements</h4>
+    <div id="heading">
+        <h3>Tiger Band</h3>
+        <h4>Announcements</h4>
     </div>
 
     <div id="Col2FlexContent" class="homepage">

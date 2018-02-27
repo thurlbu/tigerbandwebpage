@@ -203,8 +203,8 @@
 
     <!--- FOOTBALL ACTIVITIES --->
 
-    <div id="headingOrange">
-            <h4 class="orangeText">Football Activities</h4>
+    <div id="heading">
+            <h4>Football Activities</h4>
         </div>
 
     <section id="content">

@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="/website/"><img id="tbMobileLogo" src="../img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-    
+
 <!--- NAVIGATION --->
-	
+
 <nav>
     <a href="../website/">Home</a>
     <a href="../this_season/">This Season</a>
@@ -32,21 +32,21 @@
     <a href="../about/">About</a>
     <a href="../members/">Members Only</a>
     <a href="../contact/" class="active">Contact</a>
-</nav>    
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body class="stickyFooter">
     <div class="stickyFooterContent">
-        <div id="headingOrange">
-            <h3 class="orangeText">Contact</h3>
-            <h4 class="orangeText">Tiger Band</h4>
+        <div id="heading">
+            <h3>Contact</h3>
+            <h4>Tiger Band</h4>
         </div>
 
         <div id="contactWrapper">
-            
+
             <!--- CONTACT FORM --->
-            
+
             <form action="http://www.clemson.edu/cgi-bin/formail.cgi" method="POST" id="contactForm">
                 <input type="hidden" name="recipient" value="lmaiden@clemson.edu">
                 <input type="hidden" name="subject" value="Tiger Band Website Form Results">
@@ -81,14 +81,14 @@
             </div>
         </div>
     </div>
-    
+
 <!--- FOOTER --->
-    
+
 <?php
     readfile("../footer.html");
 ?>
 </body>
-    
+
 <script type="text/javascript">
     //Copyright Date
     var startYear = 2017;

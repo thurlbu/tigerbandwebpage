@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
+
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="/website/">Home</a>
     <a href="/this_season/">This Season</a>
@@ -32,16 +32,16 @@
     <a href="/about/" class="active">About</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
-</nav>  
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body>
     <div id="heading">
         <h3>About</h3>
         <h4>Tiger Band</h4>
     </div>
-    
+
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
@@ -50,9 +50,9 @@
                 <p>Tiger Band is committed to outstanding, creative performances on and off the playing field through the dedication of its staff and members. It also provides its students the opportunity to develop life skills through training in teamwork and leadership.</p>
             </article>
         </div>
-        
+
         <!--- NAVIGATION BOXES --->
-        
+
         <div id="col2Flex">
             <div class="aboutLinks">
                 <a href="../join/" class="boxWrapper">
@@ -79,19 +79,19 @@
             </div>
         </div>
     </div>
-    
+
     <!--- STAFF --->
-    
-    <div id="headingOrange">
-        <h4 class="orangeText">Staff</h4>
+
+    <div id="heading">
+        <h4>Staff</h4>
     </div>
-    
+
     <div id="Col2FlexContent">
         <div id="col1Flex">
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Dr. Mark Spede</h1>
                 <h2>Director of Bands</h2>
                 <div class="staffBio">
@@ -101,11 +101,11 @@
                     <p>As a freelance arranger, Dr. Spede has written extensively for high school and college marching bands (over 200 arrangements). His wind band arrangements and transcriptions are published by Peer Music, Shirmer, Boosery and Hawkes, and Carl Fischer, including "D.C. Fanfare" by John Corigliano, "Red Cape Tango" by Michael Daugherty, "Wedding Dances from Bandanna" by Daron Hagen, "Acrostic Song" by David Del Tredici, and "Millennium Canons" by Kevin Puts. He served as Assistant Conductor of the Dallas Wind Symphony, where he also helped produce two of their recordings. His professional performing experience includes orchestra (principal percussion in the Gainesville Chamber Orchestra, Muncie Symphony Orchestra, Ann Arbor Symphony Orchestra, Flint Symphony Orchestra), jazz (performing with such artists as Randy Brecker, Ray Brown, Pete Christlieb, Dennis DiBlasio, Duffy Jackson, Dave Pell, Bobby Shew, Marvin Stamm, Bill Watrous, Ernie Watts, and Phil Wilson), as well as at Walt Disney World.</p>
             </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Ms. Lee Maiden</h1>
                 <h2>Administrative Assistant</h2>
                 <div class="staffBio">
@@ -113,11 +113,11 @@
                     <p>Since August 2016, Lee Maiden has been the Clemson Bands’ administrative assistant. She also worked from 2008-12 in the College of Engineering &amp; Science. Before returning to Clemson in 2016, Lee lived in Pennsylvania and worked for Visiting Angels, an organization that trains therapy dogs to visit retirement homes and hospice facilities. Lee and her husband Jim have made the Upstate their permanent home, loving the community, beauty, and nature of the area. Lee is the contact person for all questions relating to Tiger Band and all other Clemson Bands. She also manages the travel and budgets for all of the Clemson Bands.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Terry Kent</h1>
                 <h2>Color Guard Instructor</h2>
                 <div class="staffBio">
@@ -127,11 +127,11 @@
                     <p>Mr. Kent is the band director at Hillcrest Middle School in the School District of Greenville County. He has been the band director at Hillcrest Middle for over 27 years, and is a Graduate of Furman University.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Ms. Hazel Cartee</h1>
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
@@ -140,11 +140,11 @@
                     <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University. She has 2 daughters both of whom are also active in the Upstate Dance Company and Tiger Band.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Larry Sloan</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
@@ -155,11 +155,11 @@
                     <p>Larry is also very involved in his community and church. He has served on the Board of Directors at the Clemson Rotary Club and currently serves as an elder at Ft. Hill Presbyterian Church in Clemson. He as been married to his wife Cindy for over 40 years and has 2 sons and 4 grandchildren.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Christopher Sloan</h1>
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
@@ -167,26 +167,26 @@
                     <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com">ImagineStudiosSC.com</a></p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Jeff Norman</h1>
                 <h2>Visual Assistant</h2>
                 <div class="staffBio">
                     <p>Mr. Norman is a native of Alexandria, Louisiana. He received his under graduate degree in music education from Northeast Louisiana University (University of Louisiana) in Monroe, Louisiana. While attending NLU, Jeff was the drum major of the famed “Sound of Today” Marching Band and was also a part of the jazz band and wind ensemble and a member of KAPPA KAPPA PSI National Band Fraternity and PHI MU ALPHA SINFONIA professional musician Fraternity.</p>
-                    <p>Mr. Norman has served as a music educator in South Carolina since 1986.   Mr. Norman holds a master’s degree in music from Radford University in Radford, Va. with an emphasis on composing and conducting. After completing this degree, Mr. Norman took a position at Wren High and Wren Middle School where he was the director of the 7th and 8th Grade band program. He served as the marching band music arranger and program coordinator and was director of the concert band program.  He is a two-time recipient of the WYFF4 Golden Apple Teacher Award and a past teacher of the year at Greer. His marching arrangements have been played by high school bands in South Carolina, North Carolina, Florida, Georgia, Texas, and Louisiana and he has also written marching shows for the University of Michigan, University of Texas, and Baylor University Marching Bands.</p>  
+                    <p>Mr. Norman has served as a music educator in South Carolina since 1986.   Mr. Norman holds a master’s degree in music from Radford University in Radford, Va. with an emphasis on composing and conducting. After completing this degree, Mr. Norman took a position at Wren High and Wren Middle School where he was the director of the 7th and 8th Grade band program. He served as the marching band music arranger and program coordinator and was director of the concert band program.  He is a two-time recipient of the WYFF4 Golden Apple Teacher Award and a past teacher of the year at Greer. His marching arrangements have been played by high school bands in South Carolina, North Carolina, Florida, Georgia, Texas, and Louisiana and he has also written marching shows for the University of Michigan, University of Texas, and Baylor University Marching Bands.</p>
             		<p>Since 2006, Mr. Norman has served as the Director of Bands at Greer High School where he directs the marching and concert programs. He is a member of the South Carolina Band Director’s Association, South Carolina Music Educators Association, and Phi Beta Mu Professional Music Fraternity. Mr. Norman is also a very active clinician for both marching and symphonic band programs across the region. He resides in Mauldin with his wife Donna and their dog Wynton.</p>
                 </div>
             </article>
         </div>
-        
+
         <div id="col2Flex">
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Timothy Hurlburt</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
@@ -196,11 +196,11 @@
                     <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Arts degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Dr. Paul Buyer</h1>
                 <h2>Director of Percussion</h2>
                 <div class="staffBio">
@@ -210,11 +210,11 @@
                     <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Vic-Firth Drumsticks, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Mike Balter Mallets.  He serves as Second Vice President of the Percussive Arts Society and Career Development Editor for <i>Percussive Notes</i>, the official PAS journal.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Lance Curry</h1>
                 <h2>Drumline Instructor</h2>
                 <div class="staffBio">
@@ -224,11 +224,11 @@
                     <p>As an educator, Lance has taught percussion at various middle and high schools around South Carolina including D.W. Daniel High School, Summerville High School, Easley High School, Gettys Middle School, and T.L. Hanna High School. He was also on the staff of Carolina Force Indoor Percussion Ensemble and directed Trifecta Independent.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Dr. Tim Willis</h1>
                 <h2>Tiger Band Announcer</h2>
                 <div class="staffBio">
@@ -236,11 +236,11 @@
                     <p>After serving as the PA announcer in Death Valley in for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&amp;M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He currently serves as a chaplain at Tryon Estates Retirement Community in Columbus, NC. He is married to Lynda and they have two sons, John and David.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Randy Christ</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
@@ -251,11 +251,11 @@
                     <p>Now, as a member of the Tiger Band staff, Randy is often found interacting with the students while helping them mount GoPro cameras on their instruments prior to their performances. Besides filming the half time performances, he provides footage for special projects that are used for the promotional and recruiting efforts of Tiger Band. He finds it especially rewarding to work with the enthusiastic students on the Tiger Band Media Team.  Randy is thrilled to be back on the field in Death Valley, capturing images and telling the story of one of the best marching bands in the country.</p>
                 </div>
             </article>
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Ms. Tamara Bowen</h1>
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
@@ -264,15 +264,15 @@
             </article>
         </div>
     </div>
-    
+
 <!--- FOOTER --->
-    
+
 <?php
     readfile("../footer.html");
 ?>
 </body>
-    
-<script type="text/javascript"> 
+
+<script type="text/javascript">
     //JavaScript for Collapsible Articles
     function expand(n) {
         n.classList.toggle("clicked");
