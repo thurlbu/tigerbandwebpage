@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
+
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="/website/">Home</a>
     <a href="/this_season/">This Season</a>
@@ -32,16 +32,16 @@
     <a href="/about/">About</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
-</nav>  
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body>
     <div id="heading">
         <h3>Audition for</h3>
         <h4>Tiger Band Brass and Woodwinds</h4>
     </div>
-    
+
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
@@ -50,16 +50,16 @@
                 <p>The first round of drumline auditions will be via video submission due on June 1. Please see the <a href="http://drum.people.clemson.edu/">Clemson University Drumline website</a> for more details.</p>
             </article>
         </div>
-        
+
         <div id="col1Flex">
-            
+
             <!--- DEADLINE CALENDAR UI --->
-            
+
             <div class="deadlines">
                 <div class="month">
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
-                            <p>July</p> 
+                            <p>July</p>
                             <b>10</b>
                             <p>Returners</p>
                         </div>
@@ -90,18 +90,18 @@
                     </div>
                 </div>
             </div>
-            
+
         </div>
     </div>
-    
+
     <!--- AUDITION INFORMATION --->
-    
+
     <div>
-        <div id="headingOrange">
-            <h4 class="orangeText">Audition Information</h4>
+        <div id="heading">
+            <h4>Audition Information</h4>
         </div>
     </div>
-    
+
     <div id="Col2FlexContent">
         <div id="col1Flex">
             <article class="text fullWidth">
@@ -114,7 +114,7 @@
                     <li>Alma Mater (one time through)</li>
                 </ol>
                 <div id="audioContainer">
-                    <div class="auditionAudio">    
+                    <div class="auditionAudio">
                         <p>Tiger Rag:</p>
                         <audio src="/audio/TigerRag.mp3" controls></audio>
                     </div>
@@ -136,7 +136,7 @@
                 </div>
             </article>
         </div>
-        
+
         <div id="col2Flex">
             <article class="text fullWidth">
                 <h1>Submission</h1>
@@ -160,19 +160,19 @@
             </article>
         </div>
     </div>
-    
+
     <!--- SHEET MUSIC UI --->
-    
+
     <div id="music">
-        <div id="headingOrange">
-            <h4 class="orangeText">Sheet Music</h4>
+        <div id="heading">
+            <h4>Sheet Music</h4>
         </div>
-        
+
         <h4 class="purpleText expand" onclick="expand(this)">Tiger Rag</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
-        
+
         <div class="fileUIcontainer">
             <a href="/doc/TigerRag/TigerRag_Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
@@ -225,12 +225,12 @@
                 </div>
             </a>
         </div>
-        
+
         <h4 class="purpleText expand" onclick="expand(this)">Alma Mater</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
-        
+
         <div class="fileUIcontainer">
             <a href="/doc/AlmaMater/AlmaMater_Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
@@ -284,19 +284,19 @@
             </a>
         </div>
     </div>
-    
+
 <!--- FOOTER --->
 <?php
     readfile("../../footer.html");
 ?>
 </body>
-    
-<script> 
+
+<script>
     //JavaScript for Collapsible Articles
     function expand(n) {
         n.classList.toggle("clicked");
     };
-    
+
     //JavaScript for More Info Under Calendar Deadlines
     var active123 = [1,1,1,1,1,1,1];
     function moreInfo(x) {

@@ -50,8 +50,8 @@
 
     <!--- AUDITION INFORMATION UI --->
 
-    <div id="headingOrange">
-        <h4 class="orangeText">Audition Information</h4>
+    <div id="heading">
+        <h4>Audition Information</h4>
     </div>
     <div id="auditionBoxUI">
         <a href="/join/winds/" class="boxWrapper">
@@ -111,9 +111,9 @@
 
     <!--- WHY JOIN --->
 
-    <div id="headingOrange">
-        <h3 class="orangeText">Why Join</h3>
-        <h4 class="orangeText">Tiger Band?</h4>
+    <div id="heading">
+        <h3>Why Join</h3>
+        <h4>Tiger Band?</h4>
     </div>
 
     <section id="content">

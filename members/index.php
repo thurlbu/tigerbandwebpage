@@ -9,20 +9,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
+
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="/website/">Home</a>
     <a href="/this_season/">This Season</a>
@@ -32,14 +32,14 @@
     <a href="/about/">About</a>
     <a href="/members/" class="active">Members Only</a>
     <a href="/contact/">Contact</a>
-</nav>  
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body>
-    
+
     <!--- COVER/PASSWORD SCREEN --->
-    
+
     <div id="coverScreen">
         <div id="joinFullscrContainer">
             <div id="screenShade"></div>
@@ -48,21 +48,21 @@
         <div id="homepageTitle" class="members">
             <h2>Tiger Band</h2>
             <h1>Members Only</h1>
-        </div>    
+        </div>
 
         <div id="pwdFlex">
             <input type="password" name="password" placeholder="Password" id="password" onclick="pwdVerif()" class="" autofocus>
         </div>
     </div>
-    
+
     <!--- MEMBERS PAGE CONTENT --->
-        
+
     <div id="membersContent" class="hidden">
         <div id="heading">
             <h3>Members Only</h3>
             <h4>Tiger Band</h4>
         </div>
-    
+
         <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
@@ -72,50 +72,50 @@
             </article>
         </div>
         </div>
-    
+
     <div id="itineraries">
-        <div id="headingOrange">
-            <h4 class="orangeText">Itineraries &amp; Schedules</h4>
+        <div id="heading">
+            <h4>Itineraries &amp; Schedules</h4>
         </div>
         <div id="expandFiles1" class="fileUIcontainer">
             <p>There's nothing here yet.</p>
         </div>
     </div>
-        
+
     <div id="excuseLetters">
-        <div id="headingOrange">
-            <h4 class="orangeText">Excuse Letters</h4>
+        <div id="heading">
+            <h4>Excuse Letters</h4>
         </div>
         <div id="expandFiles2" class="fileUIcontainer">
             <p>There's nothing here yet.</p>
         </div>
     </div>
-        
+
     <div id="drill">
-        <div id="headingOrange">
-            <h4 class="orangeText">Coordinates</h4>
+        <div id="heading">
+            <h4>Coordinates</h4>
         </div>
         <div id="expandFiles3" class="fileUIcontainer">
             <p>There's nothing here yet.</p>
         </div>
     </div>
-        
+
     <!--- SHEET MUSIC UI --->
-   
+
     <div id="music">
-        <div id="headingOrange">
-            <h4 class="orangeText">Sheet Music</h4>
+        <div id="heading">
+            <h4>Sheet Music</h4>
         </div>
-        
+
         <!--- DROP DOWN HEADER --->
-        
+
         <h4 class="purpleText expand" onclick="expand(this)">Tiger Rag</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
-        
+
         <!--- FILE UI --->
-        
+
         <div class="fileUIcontainer">
             <a href="/doc/TigerRag/TigerRag_Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
@@ -168,16 +168,16 @@
                 </div>
             </a>
         </div>
-        
+
         <!--- DROP DOWN HEADER --->
-        
+
         <h4 class="purpleText expand" onclick="expand(this)">Alma Mater</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
-        
+
         <!--- FILE UI --->
-        
+
         <div class="fileUIcontainer">
             <a href="/doc/AlmaMater/AlmaMater_Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
@@ -230,16 +230,16 @@
                 </div>
             </a>
         </div>
-        
+
         <!--- DROP DOWN HEADER --->
-        
+
         <h4 class="purpleText expand" onclick="expand(this)">Orange Bowl</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
-        
+
         <!--- FILE UI --->
-        
+
         <div class="fileUIcontainer">
             <a href="/doc/OrangeBowl/OrangeBowl_Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
@@ -292,21 +292,21 @@
                 </div>
             </a>
         </div>
-    </div>  
-        
+    </div>
+
     <!--- FOOTER --->
-        
+
     <?php
         readfile("../footer.html");
     ?>
     </div>
 </body>
-    
+
 <script> //JavaScript for Members Only Entry
     var pwd = document.getElementById("password");
     var cover = document.getElementById("coverScreen");
     var content = document.getElementById("membersContent")
-    
+
     pwd.addEventListener("keydown", function (e) {
         if (e.keyCode === 13) {
             pwdVerif(e);
@@ -319,7 +319,7 @@
             setTimeout(hide, 125);
             window.scrollTo(0, 0);
             pwd.blur();
-        }  
+        }
         else {
             if (pwd.value != "") {
                 pwd.className += " shake";
@@ -334,7 +334,7 @@
     function removeShake() {
         pwd.className = "";
     };
-    
+
     //JavaScript for Collapsible Articles
     function expand(n) {
         n.classList.toggle("clicked");
