@@ -47,18 +47,19 @@
                 <h1>Kappa Kappa Psi (&Kappa;&Kappa;&Psi;)</h1>
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
                 <p>Kappa Kappa Psi is a national honorary service fraternity for college band members. We operate primarily as a student service and leadership recognition society whose chief aim is to assist the Director of Bands in developing the leadership and enthusiasm that is required of his/her band. Our goals are to provide the band not only with organized and concentrated service activities, but to give our membership valid and wholesome experiences in organization, leadership and social contacts. The honorary nature of membership is based on our premise that “it is an honor to be selected to serve” this band, its department of music, its sponsoring institution, and the cause of band music in the nation's colleges and universities.</p>
-                <p><a href="https://www.facebook.com/KappaKappaPsiClemson/">https://www.facebook.com/KappaKappaPsiClemson/</a></p>
-                <p><a href="https://sverdon.wixsite.com/kkykappabeta">https://sverdon.wixsite.com/kkykappabeta</a></p>
+                <p> <a class="richLink" href="https://www.facebook.com/KappaKappaPsiClemson/">&Kappa;&Kappa;&Psi; on Facebook</a>
+                    <a class="richLink" href="https://sverdon.wixsite.com/kkykappabeta">&Kappa;&Kappa;&Psi; Website</a></p>
             </article>
 
             <article class="text">
                 <h1>Clemson University Tiger Band Association (CUTBA)</h1>
                     <img class="articleImg" src='/img/CUTBA_Banner.jpg'>
                 <p>The Clemson University Tiger Band Association (CUTBA) was formed in 1977 following meetings with Tiger Band Director Dr. Bruce Cook, Tiger Band Alumni and a friend of Tiger Band. Our purpose is to support Tiger Band, Tiger Band Students, and other music programs at Clemson University, and provide funds for Tiger Band Scholarships. CUTBA is funded primarily through tax deductible contribution by Tiger Band Alumni, Parents, and Friends of Tiger Band.</p>
-                <p>Informational Brochure/Flyer: <a href="http://cutba.org/wp-content/uploads/2017/07/CUTBA_Flyer_2016.pdf">http://cutba.org/wp-content/uploads/2017/07/CUTBA_Flyer_2016.pdf</a><br>
-                Website: <a href="http://cutba.org/">http://cutba.org/</a> <br>
-                Facebook: <a href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks">https://www.facebook.com/groups/tbalumni/?ref=bookmarks</a> <br>
-                Instagram: <a href="https://www.instagram.com/cutba/">https://www.instagram.com/cutba/</a>
+                <p>
+                  <a class="richLink" href="http://cutba.org/wp-content/uploads/2017/07/CUTBA_Flyer_2016.pdf">Informational Brochure/Flyer</a>
+                  <a class="richLink" href="http://cutba.org/">CUTBA Website</a>
+                  <a class="richLink" href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks">Facebook</a>
+                  <a class="richLink" href="https://www.instagram.com/cutba/">Instagram</a>
                 </p>
             </article>
 
@@ -74,8 +75,8 @@
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
                 <p>Randy Christ, owner of Moving Images LLC, has proudly provided videography services to Tiger Band since 2010.</p>
                 <p>Moving Images LLC uses videography, photography, and other digital media technologies to create imaginative and compelling ways of expressing the ideas, and capturing the moments that are important to you. The experience and preparation methods that we have developed through years of shooting in "one-take" special event situations, allows you to relax and enjoy the experience of working with Moving Images. We are in this business because we love the special blend of artistry and technology that is required to produce a memorable image. We feel strongly that stories we are hired to tell are important, and we are passionate about doing what ever is necessary to tell the story in a way that reaches the viewer. Let us tell your story with moving images.</p>
-                <a href="http://www.MovingImagesPhotography.com">Moving Images Photography</a><br> <br>
-                <a href="http://www.MovingImagesVideography.com">Moving Images Videography</a>
+                <a class="richLink" href="http://www.MovingImagesPhotography.com">Moving Images Photography</a>
+                <a class="richLink" href="http://www.MovingImagesVideography.com">Moving Images Videography</a>
             </article>
         </div>
 
@@ -91,10 +92,12 @@
                     <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
                 <p>Established in 1994, the Brooks Center has been the hub for the performing arts in Clemson for more than two decades. This 87,000-square-foot facility serves as a professional roadhouse, hosting world-class professional dance, theatre, and musical performances throughout the academic year in its spacious, yet intimate, 979-seat proscenium auditorium. Its 100-seat blackbox theatre is home to exciting student theatre performances, and a small recital hall serves as a multi-purpose space for classes, gatherings, and student performances.</p>
                 <p>In addition to professional productions, the Brooks Center is also home to the Department of Performing Arts, offering a dynamic, hands-on undergraduate experience. Through conferences and professional engagements made possible by donors, our students add to their resumes and build connections that will jumpstart their careers when they graduate with a Bachelor of Arts in productions studies in performing arts.</p>
-                <p>Main Page: <a href="https://www.clemson.edu/centers-institutes/brooks/">https://www.clemson.edu/centers-institutes/brooks/</a><br>
-                Facebook: <a href="https://www.facebook.com/brookscentercu/">https://www.facebook.com/brookscentercu/</a><br>
-                Instagram: <a href="https://www.instagram.com/brookscentercu">https://www.instagram.com/brookscentercu</a><br>
-                Twitter: <a href="https://twitter.com/BrooksCenterCU">https://twitter.com/BrooksCenterCU</a></p>
+                <p>
+                  <a class="richLink" href="https://www.clemson.edu/centers-institutes/brooks/">Main Page</a>
+                  <a class="richLink" href="https://www.facebook.com/brookscentercu/">Facebook</a>
+                  <a class="richLink" href="https://www.instagram.com/brookscentercu">Instagram</a>
+                  <a class="richLink" href="https://twitter.com/BrooksCenterCU">Twitter</a>
+                </p>
             </article>
 
             <article class="text">
