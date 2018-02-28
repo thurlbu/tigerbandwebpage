@@ -13,6 +13,7 @@ body {
 }
 a {
     color: #522D80;
+    text-decoration: none;
 }
 #mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade {
 	display: none;
