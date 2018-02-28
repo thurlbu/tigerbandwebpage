@@ -609,6 +609,10 @@ article.text p, article.media p {
     padding: 0.5rem 0;
     margin: 0;
 }
+#col1Flex > a, #col2Flex > a {
+  text-decoration: none;
+  color: black;
+}
 .articleImg {
     width: 70%;
     float: right;
@@ -734,10 +738,10 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
-tr:nth-child(odd) {
+tr:nth-child(even) {
     background: rgba(246, 103, 51, 0.5);
 }
-tr:nth-child(13) {
+tr:nth-child(12) {
     background: rgba(82, 45, 128, 0.5);
 }
 th, td {
