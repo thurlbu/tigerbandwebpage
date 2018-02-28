@@ -116,22 +116,26 @@
         <h4>Tiger Band?</h4>
     </div>
 
-    <section id="content">
-        <article class="text">
-            <h1>Sample Article</h1>
-                <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
-        </article>
-        <article class="media">
-            <h1>Sample Media Segment</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor.</p>
-            <div class="iframeContainer">
-                <div class="iFrameAspectRatio">
-                    <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/sIAt07BUOoo" frameborder="0" allowfullscreen></iframe>
+    <div id="Col2FlexContent">
+        <div id="col1Flex">
+            <article class="text">
+                <h1>Sample Article</h1>
+                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim. Interdum et malesuada fames ac ante ipsum primis in faucibus. </p>
+            </article>
+        </div>
+        <div id="col2Flex">
+            <article class="media">
+                <h1>Sample Media Segment</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor.</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/sIAt07BUOoo" frameborder="0" allowfullscreen></iframe>
+                    </div>
                 </div>
-            </div>
-        </article>
-    </section>
+            </article>
+        </div>
+    </div>
 
 <!--- FOOTER --->
 

@@ -64,41 +64,41 @@
         </div>
 
         <div id="Col2FlexContent" class="about">
-        <div id="col1Flex">
-            <article class="text fullWidth">
-                <h1>A Note from the Directors</h1>
-                <p>As an ambassador of Clemson University, Tiger Band provides inspiring spirit and entertainment to the university community and beyond.</p>
-                <p>Tiger Band is committed to outstanding, creative performances on and off the playing field through the dedication of its staff and members. It also provides its students the opportunity to develop life skills through training in teamwork and leadership.</p>
-            </article>
-        </div>
+            <div id="col1Flex">
+                <article class="text fullWidth">
+                    <h1>A Note from the Directors</h1>
+                    <p>As an ambassador of Clemson University, Tiger Band provides inspiring spirit and entertainment to the university community and beyond.</p>
+                    <p>Tiger Band is committed to outstanding, creative performances on and off the playing field through the dedication of its staff and members. It also provides its students the opportunity to develop life skills through training in teamwork and leadership.</p>
+                </article>
+            </div>
         </div>
 
-    <div id="itineraries">
-        <div id="heading">
-            <h4>Itineraries &amp; Schedules</h4>
+        <div id="itineraries">
+            <div id="heading">
+                <h4>Itineraries &amp; Schedules</h4>
+            </div>
+            <div id="expandFiles1" class="fileUIcontainer">
+                <p>There's nothing here yet.</p>
+            </div>
         </div>
-        <div id="expandFiles1" class="fileUIcontainer">
-            <p>There's nothing here yet.</p>
-        </div>
-    </div>
 
-    <div id="excuseLetters">
-        <div id="heading">
-            <h4>Excuse Letters</h4>
+        <div id="excuseLetters">
+            <div id="heading">
+                <h4>Excuse Letters</h4>
+            </div>
+            <div id="expandFiles2" class="fileUIcontainer">
+                <p>There's nothing here yet.</p>
+            </div>
         </div>
-        <div id="expandFiles2" class="fileUIcontainer">
-            <p>There's nothing here yet.</p>
-        </div>
-    </div>
 
-    <div id="drill">
-        <div id="heading">
-            <h4>Coordinates</h4>
+        <div id="drill">
+            <div id="heading">
+                <h4>Coordinates</h4>
+            </div>
+            <div id="expandFiles3" class="fileUIcontainer">
+                <p>There's nothing here yet.</p>
+            </div>
         </div>
-        <div id="expandFiles3" class="fileUIcontainer">
-            <p>There's nothing here yet.</p>
-        </div>
-    </div>
 
     <!--- SHEET MUSIC UI --->
 

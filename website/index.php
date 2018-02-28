@@ -160,9 +160,9 @@
                 <h1>Join the 2018 Clemson University Tiger Band</h1>
                 <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/Basco.jpg'></a>
                 <p>Do you have what it takes to be a "Guardian of the Clemson Spirit?"</p>
-            <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
-            <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
-            <p>Submit your audition video today!</p>
+                <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
+                <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
+                <p>Submit your audition video today!</p>
             </article>
 
             <article class="media">
@@ -187,13 +187,13 @@
         </div>
 
         <div id="col2Flex">
-          <article class="text">
-              <h1>Tiger Band Tours</h1>
-              <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
-              <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
-              <p>Register for a free tour today!</p>
-              <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
-          </article>
+            <article class="text">
+                <h1>Tiger Band Tours</h1>
+                <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
+                <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
+                <p>Register for a free tour today!</p>
+                <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
+            </article>
 
             <article class="media">
                 <h1>Tiger Band at the 2018 Sugar Bowl</h1>
@@ -212,7 +212,7 @@
                 <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
             </article>
 
-                        <article class="media">
+            <article class="media">
                 <h1>#TigerBandTour Vlog | Episode 1: The Sugar Bowl</h1>
                 <p>Relive our trip to New Orleans for the 2018 Sugar Bowl through the eyes of a few current Tiger Band students!</p>
                 <div class="iframeContainer">
