@@ -64,7 +64,7 @@
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/pep.html">
               <article class="text">
                   <h1>Basketball Pep Band</h1>
-                  <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                  <img class="articleImg" src='/img/PepBand.jpg'>
                   <p>A vital element in promoting Tiger Spirit, the Tiger Pep Bands perform at men's and women's home basketball games and other University functions. The Pep Bands also travels to the Atlantic Coast Conference and NCAA basketball tournaments.</p>
               </article>
             </a>
@@ -72,7 +72,7 @@
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/steelband.html">
               <article class="text">
                   <h1>Percussion Ensemble &amp; Steel Band</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                    <img class="articleImg" src='/img/SteelBand.jpg'>
                   <p>The Steel Band includes 18 players and features 4 lead pans, 2 double seconds, 2 cellos, one bass, and engine room. The band performs a variety of musical styles including calypso, soca, pop, classical, and Latin.</p>
                   <p>The Gigging Steel Band, founded in 2003, is a select group of 6 players and is a professional ensemble available for hire. The Gigging Steel Band is active in the fall and spring semesters and performs on campus and in the community.</p>
                   <p>The Clemson Steel Band has recorded 3 CDs: Steelin' the Spotlight, One Small Step for Pan, and Pan Overboard.</p>
@@ -93,7 +93,7 @@
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazzcombo.html">
               <article class="text">
                   <h1>Jazz Combos</h1>
-                      <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                      <img class="articleImg" src='/img/Combo.jpg'>
                   <p>The Clemson Jazz Combo is a performance course designed to introduce students to small group literature from Be-Bop to the present.</p>
                   <p>Generally consisting of four to eight members, the ensemble emphasizes improvisation, group interaction, and includes solo transcription and analysis.</p>
                   <p>Special attention is given jazz theory and the application of scalar and modal concepts, harmonic function and substitution, rhythmic development, music reading skills and technical proficiency.</p>
@@ -103,7 +103,7 @@
             <a href="http://tband.people.clemson.edu/contact/">
               <article class="text">
                   <h1>Tiger Town Brass</h1>
-                      <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                      <img class="articleImg" src='/img/TTB.jpg'>
                   <p>Interested in adding some Clemson Spirit to your event?</p>
                   <p>Tiger Town Brass is made up of 10-members of Tiger Band and is available to hire to play your favorite Clemson songs at your event.</p>
                   <p>Tiger Town Brass also performs at select Clemson Volleyball matches and University events.</p>
