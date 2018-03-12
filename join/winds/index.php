@@ -45,9 +45,9 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2017 Tiger Band Brass and Woodwind Auditions</h1>
-                <p>All auditions for wind players for the 2017 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
-                <p>The first round of drumline auditions will be via video submission due on June 1. Please see the <a href="http://drum.people.clemson.edu/">Clemson University Drumline website</a> for more details.</p>
+                <h1 class="purpleText">2018 Tiger Band Brass and Woodwind Auditions</h1>
+                <p>All auditions for wind players for the 2018 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
+                <p>The first round of drumline auditions will be via video submission due on June 1. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
             </article>
         </div>
 
@@ -60,21 +60,21 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>10</b>
+                            <b>9</b>
                             <p>Returners</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>24</b>
+                            <b>23</b>
                             <p>New Members</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>31</b>
+                            <b>30</b>
                             <p>Results</p>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                         <p>First Year Members Video Audition Submission Deadline</p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Results will be emailed to everyone by July 31, 2017</p>
+                        <p>Results will be emailed to everyone by July 30, 2018</p>
                     </div>
                 </div>
             </div>
@@ -156,7 +156,7 @@
                     <li>How many semesters you’ve previously played in Clemson Private Lessons*</li>
                 </ol>
                 <p>*new members will omit previous ensemble information</p>
-                <p>You will receive a confirmation email within 2 days of your submission. All accepted Tiger Band members will report to campus on <u>August 16</u> to begin our 2017 preseason camp.</p>
+                <p>You will receive a confirmation email within 2 days of your submission. All accepted Tiger Band members will report to campus on <u>August 15</u> to begin our 2018 preseason camp.</p>
             </article>
         </div>
     </div>

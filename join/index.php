@@ -62,7 +62,7 @@
             </div>
         </a>
 
-        <a href="http://drum.people.clemson.edu/auditions/" class="boxWrapper">
+        <a href="http://tband.people.clemson.edu/drumline/auditions/" class="boxWrapper">
             <div id="inlineBox2" class="boxUIelement sq white">
                 <div class="textContainer">
                     <p>Percussion</p>
