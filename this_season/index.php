@@ -214,17 +214,21 @@
                     <img class="articleImg" src='/img/Friday Night Lights.jpg'>
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
-                <p>Our Friday Night Lights schedule will be announced early in the fall.  Keep an eye on Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
+                <p>Keep an eye on Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
+                <p>The full 2018 Friday Night Lights schedule will be announced right here early in the fall.</p>
             </article>
             <article class="text">
                 <h1>Amphitheater Concert</h1>
                     <img class="articleImg" src='/img/90Minutes.jpg'>
                 <p>90-minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
+                <p>What better way to prepare for a gameday in Clemson than to listen to Tiger Band in this beautiful setting with thousands of Clemson fans?</p>
             </article>
             <article class="text">
                 <h1>The Most Exciting 25 Seconds in College Football</h1>
                     <img class="articleImg" src='/img/25Seconds.jpg'>
-                <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag. It is truly an experience you will never forget.</p>
+                <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag.</p>
+                <p>In 1985, Brent Musburger dubbed our stadium entrance "the most exciting 25 seconds in college football" and anyone who has seen it is sure to agree.</p>
+                <p>It is truly an experience you will never forget.</p>
             </article>
         </div>
         <div id="col2Flex">
@@ -232,6 +236,7 @@
                 <h1>Tiger Walk</h1>
                     <img class="articleImg" src='/img/TigerWalk.jpg'>
                 <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley.</p>
+                <p>Get up close and personal with the team as they walk through the fans on their way to the stadium to prepare for the game.</p>
                 <p>Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
             </article>
             <article class="text">
@@ -239,11 +244,15 @@
                     <img class="articleImg" src='/img/ParadeHighFive.jpg'>
                 <p>60-minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley.</p>
                 <p>Join thousands of fans lining the streets of Clemson's campus to welcome Tiger Band into Death Valley.</p>
+                <p>Tiger Band will get you pumped up for gameday with their energy and passion and the sounds of Tiger Rag.</p>
+                <p>If you're lucky, you may even get a high five!</p>
             </article>
             <article class="text">
                 <h1>Post-Game</h1>
                     <img class="articleImg" src='/img/PostGameDrums.jpg'>
                 <p>After gathering at the paw at every home game, stick around to enjoy a post-game concert from the talented Clemson University Drumline.</p>
+                <p>You never know what you'll get from the CUD.  Upside-down or right-side-up, they're sure to entertain with their music and choreography.</p>
+                <p>One lucky fan even walks away with a special gift.  Come out and support the drumline at midfield after the game!</p>
             </article>
         </div>
     </div>
