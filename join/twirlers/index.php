@@ -45,11 +45,11 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2017 Tiger Twirlers Auditions</h1>
-                <p>Auditions for the 2017 Tiger Dancers and Twirlers will be held on Sunday, April 30 in room 112 of the Brooks Center.</p>
-                <p>We look forward to meeting and working with each of you! Being a member of the Tiger Twirlers is a life-changing experience that you will never forget. It is an incredible opportunity and we want you to be a part of it!</p>
-                <a href="../../doc/2017Twirler.pdf" class="richLink" target="_blank">Tiger Twirler Audition Information</a>
-                <p>If you have any questions concerning auditions for the Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@UpstateDance.com?subject=Tiger Twirlers Audition Question">Hazel@UpstateDance.com</a></p>
+                <h1 class="purpleText">2018 Tiger Twirlers Auditions</h1>
+                <p>Auditions for the 2018 Tiger Twirlers will be completed via video submission.</p>
+                <p>Please download the document below for details about the audition videos and the submission process.</p>
+                <a href="../../doc/TwirlerAudition.pdf" class="richLink" target="_blank">Tiger Twirler Audition Information</a>
+                <p>If you have any questions concerning auditions for the Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
             </article>
 
             <!--- DEADLINE CALENDAR UI --->
@@ -59,14 +59,14 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>April</p>
-                            <b>30</b>
-                            <p>Auditions</p>
+                            <b>28</b>
+                            <p>Deadline for Audition Video Submissions</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
-                        <p>Tiger Twirlers Auditions<br>
-                            Starting at 12:15pm<br>
-                            Room 112 (Band Room) Brooks Center</p>
+                      <p>Audition Videos and Application materials due by 11:59pm on April 28<br>
+                          Email links and information to <a href="mailto:tigerbandauditions@gmail.com">tigerbandauditions@gmail.com</a><br>
+                          Results will be communicated by May 15th</p>
                     </div>
                 </div>
             </div>
@@ -93,7 +93,7 @@
 
     <div id="itineraries">
         <div id="heading">
-            <h4>Audition Information</h4>
+            <h4>What is it like to be a Tiger Twirler?</h4>
         </div>
     </div>
 
@@ -107,16 +107,15 @@
             <article class="text fullWidth">
                 <h1>Eligibility</h1>
                 <p>Any full-time Clemson student with a minimum of 12 credit hours each semester and acumulative GPA of 2.5 or greater. Also, full-time students at Tri-County Technical College taking transfer courses with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater are eligible to audition for a position.</p>
-                <p>Students may take advantage of the opportunity to participate as a Tiger Twirler at Clemson as a transfer student for up to 2 years after their high school graduation date. After the 2 year transfer period, students must be full time students at Clemson University to participate as a Tiger Twirler.</p>
-                <p>Feature Twirler must be a full-time Clemson student.</p>
-                <p>Potential members must e-mail a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) to the e-mail on the application to verify current student status. </p>
+                <p>Students may take advantage of the opportunity to participate as a Tiger Dancer at Clemson as a transfer student for up to 2 years after their high school graduation date. After the 2 year transfer period, students must be full time students at Clemson University to participate as a Tiger Dancer.</p>
+                <p>Potential members must include a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) to the e-mail that includes a link to your audition video to verify current student status. </p>
             </article>
         </div>
 
         <div id="col2Flex">
             <article class="text fullWidth">
                 <h1>Schedule During the Season</h1>
-                <p>All members are expected to attend practice with Tiger Band on Monday, Wednesday, and Friday of each week from 4:00 - 6:00pm. Each member must also be available for a weekly sectional practice with their instructor Tuesdays 8:00 - 10:00pm.</p>
+                <p>All members are expected to attend practice with Tiger Band on Monday, Wednesday, and Friday of each week from 4:00 - 6:00pm. Each member must also be available for a weekly sectional practice with their instructor for a two-hour sectional at a time to be determined when the season begins.</p>
             </article>
 
             <article class="text fullWidth">
