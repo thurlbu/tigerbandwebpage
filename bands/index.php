@@ -49,15 +49,16 @@
                 <h1>Symphonic Band</h1>
                     <img class="articleImg" src='/img/SymphonicBand.jpg'>
                 <p>The Clemson University Symphonic Band is a select wind ensemble that performs contemporary and traditional concert band literature.</p>
-                <p>Frequent campus concert and tour appearances have earned high national praise for this band. Previous tours have included performances at the 2012 London Olympics, Carnegie Hall, Lincoln Center, The SCMEA Conference in Columbia, SC, New Orleans' Jackson Square, and Walt Disney World.</p>
+                <p>Frequent campus concerts and tour appearances have earned high national praise for this band. Previous tours have included performances at the 2012 London Olympics, Carnegie Hall, Lincoln Center, The SCMEA Conference in Columbia, SC, New Orleans' Jackson Square, and Walt Disney World.</p>
               </article>
             </a>
             <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazz.html">
               <article class="text">
-                  <h1>Jazz Ensemble</h1>
+                  <h1>Jazz Ensemble, "The Jungaleers"</h1>
                       <img class="articleImg" src='/img/JazzEnsemble.jpg'>
                   <p>Clemson University's Jazz Ensemble, also know as "The Jungaleers," (MUSIC 3630) is a Big Band with standard instrumentation.</p>
-                  <p>The ensemble performs music of many different genres and has a personality and flair all its own. If you love to have fun playing music, consider joining us!</p>
+                  <p>The ensemble performs music of many different genres and has a personality and flair all its own.</p>
+                  <p>The Jungaleers have a long and storied history on the Clemson University campus. Consider becoming a part of the tradition by auditioning for the jazz band this semester!</p>
               </article>
             </a>
 
@@ -65,7 +66,8 @@
               <article class="text">
                   <h1>Basketball Pep Band</h1>
                   <img class="articleImg" src='/img/PepBand.jpg'>
-                  <p>A vital element in promoting Tiger Spirit, the Tiger Pep Bands perform at men's and women's home basketball games and other University functions. The Pep Bands also travels to the Atlantic Coast Conference and NCAA basketball tournaments.</p>
+                  <p>A vital element in promoting Tiger Spirit, the Tiger Pep Bands perform at men's and women's home basketball games and other University functions. These students also earn a grant-in-aid stipend for their dedication.</p>
+                  <p>In addition to playing at home games, a smaller portion of the pep band also travels to post season tournaments. In recent years, Pep Band members have had the opportunity to travel to Greensboro, Kansas City, Buffalo, Washington DC, Brooklyn, Manhattan, San Diego, and Omaha.</p>
               </article>
             </a>
 
