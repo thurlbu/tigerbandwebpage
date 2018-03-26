@@ -45,11 +45,12 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2018 Tiger Twirlers Auditions</h1>
-                <p>Auditions for the 2018 Tiger Twirlers will be completed via video submission.</p>
-                <p>Please download the document below for details about the audition videos and the submission process.</p>
+                <h1 class="purpleText">2018 Tiger Twirlers and 2018 Feature Twirler Auditions</h1>
+                <p>Auditions for the 2018 Tiger Twirlers and the 2018 Feature Twirler position will be completed via video submission.</p>
+                <p>Please download the document(s) below for details about the audition videos and the submission process.</p>
                 <a href="../../doc/TwirlerAudition.pdf" class="richLink" target="_blank">Tiger Twirler Audition Information</a>
-                <p>If you have any questions concerning auditions for the Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
+                <a href="../../doc/FeatureTwirlerAudition.pdf" class="richLink" target="_blank">2018 Feature Twirler Audition Information</a>
+                <p>If you have any questions concerning auditions for the Twirlers or the Feature Twirler Position, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
             </article>
 
             <!--- DEADLINE CALENDAR UI --->
