@@ -47,7 +47,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">2018 Tiger Dancers Auditions</h1>
                 <p>All Auditions for the 2018 Tiger Dancers will be completed via video submission.</p>
-                <p>Please download the document below for details about the audition videos and the submission process</p>
+                <p>Please download the document below for details about the audition videos and the submission process.</p>
                 <a href="../../doc/DancerAudition.pdf" class="richLink" target="_blank">Tiger Dancer Audition Information</a>
                 <p>If you have any questions concerning auditions for the Dancers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Dancers Audition Question">Hazel@carolinasuperstars.com</a></p>
             </article>
@@ -96,7 +96,7 @@
 
     <div id="itineraries">
         <div id="heading">
-            <h4>Audition Information</h4>
+            <h4>What is it like to be a Tiger Dancer?</h4>
         </div>
     </div>
 
