@@ -56,7 +56,7 @@
                     <img class="articleImg" src='/img/BruceAlumni.jpg'>
                 <p>The Clemson University Tiger Band Association (CUTBA) was formed in 1977 following meetings with Tiger Band Director Dr. Bruce Cook, Tiger Band Alumni and a friend of Tiger Band.</p>
                 <p>Our purpose is to support Tiger Band, Tiger Band Students, and other music programs at Clemson University, and provide funds for Tiger Band Scholarships. CUTBA is funded primarily through tax deductible contribution by Tiger Band Alumni, Parents, and Friends of Tiger Band.</p>
-                  <a class="richLink" href="http://cutba.org/">CUTBA Website</a>
+                  <a class="richLink" href="/cutba/">CUTBA Website</a>
                   <a class="richLink" href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks">Facebook</a>
                   <a class="richLink" href="https://www.instagram.com/cutba/">Instagram</a>
 
@@ -85,6 +85,7 @@
                     <img class="articleImg" src='/img/PMA.png'>
                 <p>Phi Mu Alpha Sinfonia Fraternity of America is the world's largest and oldest secret national fraternal society in music. Recently installed in the fall of 2014, the Sigma Mu chapter is looking forward to providing the men of Clemson University with a brotherhood experience like no other.</p>
                 <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
+                <p> <a class="richLink" href="https://www.clemson.sinfonia.org">&Phi;&Mu;&Alpha; Website</a> </p>
             </article>
 
             <article class="text">
