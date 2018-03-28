@@ -214,7 +214,7 @@
                     <img class="articleImg" src='/img/Friday Night Lights.jpg'>
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
-                <p>Keep an eye on Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
+                <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
                 <p>The full 2018 Friday Night Lights schedule will be announced right here early in the fall.</p>
             </article>
             <article class="text">
