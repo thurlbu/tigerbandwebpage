@@ -83,7 +83,7 @@
         <div id="col2Flex">
             <article class="text">
                 <h1>Phi Mu Alpha (&Phi;&Mu;&Alpha;)</h1>
-                    <img class="articleImg" src='/img/PMA.png'>
+                    <img class="articleImg" src='/img/PMA.jpg'>
                 <p>Phi Mu Alpha Sinfonia Fraternity of America is the world's largest and oldest secret national fraternal society in music. Recently installed in the fall of 2014, the Sigma Mu chapter is looking forward to providing the men of Clemson University with a brotherhood experience like no other.</p>
                 <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
                 <p> <a class="richLink" href="https://www.clemson.sinfonia.org">&Phi;&Mu;&Alpha; Website</a> </p>
