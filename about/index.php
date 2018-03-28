@@ -150,11 +150,11 @@
                 <h1>Mr. Larry Sloan</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/LSloan.png">
+                    <img class="staffPortrait" src="/img/staff/Larry.jpeg">
                     <p>Mr. Larry Sloan has been the videographer for the Clemson University Tiger Band since the mid 1970's and has shot the band all over the United States and Japan.</p>
                     <p>After receiving his B.S. in Mechanical Engineering from Clemson University in 1974, he spent his professional career in the electrical field with Square D Company, Maddux Supply Company, and then his own company, Electrical Power Products. He retired in 2006 and in 2009 moved back to Clemson where he has become an active member in University development. He has served on the Clemson University Alumni Board of Directors, Clemson University Foundation Board of Directors, Fort Hill Clemson Club Board of Directors, the Clemson University Tiger Band Association (CUTBA) Board of Directors, and is a proud member of the Tiger Brotherhood. In 2010 he was awarded the Clemson University Distinguished Service Award, the highest honor awarded by the Clemson University Alumni Association.</p>
-                    <p>In 1977 Larry had an idea of an organization of Tiger Band alumni to raise scholarships for future Tiger Band students, to keep Tiger Band alumni informed about current Tiger Band activities and to enhance the Tiger Band experience for current Tiger Band members. This was the beginning of the <a href="http://www.cutba.org">Clemson University Tiger Band Assocation (CUTBA).</a></p>
-                    <p>Larry is also very involved in his community and church. He has served on the Board of Directors at the Clemson Rotary Club and currently serves as an elder at Ft. Hill Presbyterian Church in Clemson. He as been married to his wife Cindy for over 40 years and has 2 sons and 4 grandchildren.</p>
+                    <p>In 1977 Larry had an idea of an organization of Tiger Band alumni to raise scholarships for future Tiger Band students, to keep Tiger Band alumni informed about current Tiger Band activities and to enhance the Tiger Band experience for current Tiger Band members. This was the beginning of the Clemson University Tiger Band Assocation (CUTBA).</p>
+                    <p>Larry is also very involved in his community and church.  He has served on the Board of Directors at the Clemson Rotary Club and as an Elder at Ft. Hill Presbyterian Church.  He currently serves on the Board of Directors of Ripple of One, a 501C3 charitable organization.  He has been married to his wife Cindy for over 45 years and has 2 sons and 4 grandchildren.</p>
                 </div>
             </article>
 
@@ -206,9 +206,9 @@
                 <h1>Dr. Paul Buyer</h1>
                 <h2>Director of Percussion</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Buyer.png">
+                    <img class="staffPortrait" src="/img/staff/Paul.jpg">
                     <p>Paul Buyer is Director of Percussion, Director of Music, and Professor of Music at Clemson University.  He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
-                    <p>Featured in SUCCESS Magazine’s Achiever’s Series, Dr. Buyer is a sought-after keynote speaker and the author of <i>Working Toward Excellence: 8 Values for Achieving Uncommon Success in Work and Life</i> (Morgan James Publishing), <i>Marching Bands and Drumlines: Secrets of Success from the Best of the Best</i> (Meredith Music Publications), and co-author of <i>The Art of Vibraphone Playing: An Essential Method for Study and Performance</i> (Meredith Music Publications).  He is a contributing author to the second edition of Teaching Percussion by Gary Cook, and his articles have appeared in <i>American Music Teacher</i>, <i>Teaching Music</i>, <i>Jazz Education Network</i>, <i>Percussive Notes</i>, and <i>The PAS Educators’ Companion</i>.</p>
+                    <p>Featured in SUCCESS Magazine’s Achiever’s Series, Dr. Buyer is a sought-after keynote speaker and the author of <i>Working Toward Excellence: 8 Values for Achieving Uncommon Success in Work and Life</i> (Morgan James Publishing), <i>Marching Bands and Drumlines: Secrets of Success from the Best of the Best</i> (Meredith Music Publications), and co-author of <i>The Art of Vibraphone Playing: An Essential Method for Study and Performance</i> (Meredith Music Publications).  He is a contributing author to the second edition of <i>Teaching Percussion</i> by Gary Cook, and his articles have appeared in <i>American Music Teacher</i>, <i>Teaching Music</i>, <i>Jazz Education Network</i>, <i>Percussive Notes</i>, and <i>The PAS Educators’ Companion</i>.</p>
                     <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Vic-Firth Drumsticks, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Mike Balter Mallets.  He serves as Second Vice President of the Percussive Arts Society and Career Development Editor for <i>Percussive Notes</i>, the official PAS journal.</p>
                 </div>
             </article>
@@ -235,7 +235,8 @@
                 <h2>Tiger Band Announcer</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Willis.png">
-                    <p>After serving as the PA announcer in Death Valley in for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&amp;M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He currently serves as a chaplain at Tryon Estates Retirement Community in Columbus, NC. He is married to Lynda and they have two sons, John and David.</p>
+                    <p>After serving as the PA announcer in Death Valley for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He has also served as an Intentional Interim pastor, Life Coach, Conflict Consultant and Chaplain at a retirement community.  He recently retired at the end of 2017 after 43 years of ministry.  He is married to Lynda and they have two sons, John (deceased) and David.</p>
+
                 </div>
             </article>
 
@@ -261,6 +262,7 @@
                 <h1>Ms. Tamara Bowen</h1>
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Tamara.jpg">
                     <p>Tamara Bowen is the associate Tiger Band photographer. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
