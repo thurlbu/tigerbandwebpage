@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="http://www.cutba.org" class="boxWrapper">
+                <a href="/cutba/" class="boxWrapper">
                     <div id="aboutBox2" class="boxUIelement sq purp">
                         <div class="textContainer">
                             <p>Alumni</p>
@@ -110,7 +110,8 @@
                 <h2>Administrative Assistant</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Maiden.png">
-                    <p>Since August 2016, Lee Maiden has been the Clemson Bands’ administrative assistant. She also worked from 2008-12 in the College of Engineering &amp; Science. Before returning to Clemson in 2016, Lee lived in Pennsylvania and worked for Visiting Angels, an organization that trains therapy dogs to visit retirement homes and hospice facilities. Lee and her husband Jim have made the Upstate their permanent home, loving the community, beauty, and nature of the area. Lee is the contact person for all questions relating to Tiger Band and all other Clemson Bands. She also manages the travel and budgets for all of the Clemson Bands.</p>
+                    <p>Lee Maiden has been Clemson Bands’ administrative assistant since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
+                    <p>Prior to Clemson, Lee spent 30 years as executive assistant at LNP Engineering Plastics Inc., a multinational company, and throughout her career, worked closely with British and Japanese nationals, and employees in the U.S., Malaysia, South America, and The Netherlands.</p>
                 </div>
             </article>
 
@@ -121,6 +122,7 @@
                 <h1>Mr. Terry Kent</h1>
                 <h2>Color Guard Instructor</h2>
                 <div class="staffBio">
+                    <img class="staffPortrait" src="/img/staff/TerryKent.jpg">
                     <p>Mr. Terry Kent has been the instructor for the Clemson Tiger Guard and Winter Guard since 2010. The Tiger Guard performs at all home football games and travels with the full band to away games. The Winterguard competes in the local colorguard circuit, CWEA, and also at WGI events. Mr. Kent is one of the founding members of the CIPA color guard circuit and is a member of the CIPA Hall of Fame.</p>
                     <p>Mr. Kent has worked for Marching Auxiliaries for 25 years as summer camp staff, traveling, and teaching weekly camps for rifles, flags, majorettes, drum majors and dancers. There, he served as an instructor, division head, and clinic director. While on staff with Marching Auxiliaries, Mr. Kent was on the half time staff for the Citrus, Capital One, Bluebonnet, Alamo, Outback, and Peach Bowls. Duties included instruction of the cast members, choreography design, and game day productions.</p>
                     <p>Mr. Kent has performed with Infiniti winter guard 1990-91, Corps Vets all-age drum corps 2002-04, 2007, 2009-2010, and Alliance all-age drum corps 2005-06. He was color guard caption head of Corps Vets (2003-04) and Alliance (2005-06). Mr. Kent has placed second in both rifle and flag solo at DCA finals and choreographed the first-place Guard Ensemble in 2004, 2005 and 2009. He was on the staff for Infiniti winter guard (1992-2001) where they were WGI Independent A World Champions in 2001.</p>
