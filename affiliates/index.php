@@ -72,7 +72,7 @@
 
             <article class="text">
                 <h1>Moving Images, LLC.</h1>
-                    <img class="articleImg" src='/img/clemson-tiger-band-louisville-2016-345.jpg'>
+                    <img class="articleImg" src='/img/MovingImages.jpg'>
                 <p>Randy Christ, owner of Moving Images LLC, has proudly provided videography services to Tiger Band since 2010.</p>
                 <p>Moving Images LLC uses videography, photography, and other digital media technologies to create imaginative and compelling ways of expressing the ideas, and capturing the moments that are important to you. The experience and preparation methods that we have developed through years of shooting in "one-take" special event situations, allows you to relax and enjoy the experience of working with Moving Images. We are in this business because we love the special blend of artistry and technology that is required to produce a memorable image. We feel strongly that stories we are hired to tell are important, and we are passionate about doing what ever is necessary to tell the story in a way that reaches the viewer. Let us tell your story with moving images.</p>
                 <a class="richLink" href="http://www.MovingImagesPhotography.com">Moving Images Photography</a>
