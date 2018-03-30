@@ -178,9 +178,9 @@
             </article>
             <article class="text officers">
                 <h1>2018 Officers</h1>
-                <p><b>Commander: </b>Trey Lockett</p>
-                <p><b>Vice-Commander: </b>Josh Rogers</p>
-                <p><b>Sergeant Major: </b>Sam Verdonck</p>
+                <p><b>Commander: Trey Lockett</b></p>
+                <p><b>Vice-Commander: Josh Rogers</b></p>
+                <p><b>Sergeant Major: Sam Verdonck</b></p>
                 <p><b>Drum Majors: </b>To Be Announced...</p>
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos: </b>To Be Announced...</p>
