@@ -137,6 +137,7 @@
                 <h1>Ms. Hazel Cartee</h1>
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Hazel.jpg">
                     <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is co-owner of Upstate Dance with over 600 students in dance and twirling in the upstate of South Carolina.</p>
                     <p>Because of her love for children, Hazel has devoted most of her life to teaching and helping young people develop a positive self-image. Her students have come from all over the southeastern United States and have held state, regional, and national titles in twirling.</p>
                     <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University. She has 2 daughters both of whom are also active in the Upstate Dance Company and Tiger Band.</p>
@@ -177,6 +178,7 @@
                 <h1>Mr. Jeff Norman</h1>
                 <h2>Visual Assistant</h2>
                 <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Jeff.jpg">
                     <p>Mr. Norman is a native of Alexandria, Louisiana. He received his under graduate degree in music education from Northeast Louisiana University (University of Louisiana) in Monroe, Louisiana. While attending NLU, Jeff was the drum major of the famed “Sound of Today” Marching Band and was also a part of the jazz band and wind ensemble and a member of KAPPA KAPPA PSI National Band Fraternity and PHI MU ALPHA SINFONIA professional musician Fraternity.</p>
                     <p>Mr. Norman has served as a music educator in South Carolina since 1986.   Mr. Norman holds a master’s degree in music from Radford University in Radford, Va. with an emphasis on composing and conducting. After completing this degree, Mr. Norman took a position at Wren High and Wren Middle School where he was the director of the 7th and 8th Grade band program. He served as the marching band music arranger and program coordinator and was director of the concert band program.  He is a two-time recipient of the WYFF4 Golden Apple Teacher Award and a past teacher of the year at Greer. His marching arrangements have been played by high school bands in South Carolina, North Carolina, Florida, Georgia, Texas, and Louisiana and he has also written marching shows for the University of Michigan, University of Texas, and Baylor University Marching Bands.</p>
             		<p>Since 2006, Mr. Norman has served as the Director of Bands at Greer High School where he directs the marching and concert programs. He is a member of the South Carolina Band Director’s Association, South Carolina Music Educators Association, and Phi Beta Mu Professional Music Fraternity. Mr. Norman is also a very active clinician for both marching and symphonic band programs across the region. He resides in Mauldin with his wife Donna and their dog Wynton.</p>
@@ -220,6 +222,7 @@
                 <h1>Mr. Lance Curry</h1>
                 <h2>Drumline Instructor</h2>
                 <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Lance.jpg">
                     <p>Mr. Lance Curry is the instructor for the Clemson University Drumline. He has been working with the drumline in different capacities since 2010.</p>
                     <p>Lance received his B.A. in Secondary Education - Mathematics from Clemson University and a M.Ed. in Instructional Technology from the University of Georgia. After graduating from Clemson he taught at nearby Easley High School for eight years. He is now employed by the Greenville County School District as an Instructional Technology Facilitator.</p>
                     <p>While at Clemson Lance was a member of the Clemson University Concert Band, Symphonic Band, Percussion Ensemble, Steel Band, and Clemson University Drumline. He was also a member of the inaugral Clemson University Gigging Steel Band, playing lead and contributing to their first CD, Steelin' the Spotlight. Lance's marching experience also includes the Tampa Bay Thunder Drum and Bugle Corps, Carolina Crown Drum and Bugle Corps, and Epiphany Independent Indoor.</p>
@@ -247,6 +250,7 @@
                 <h1>Mr. Randy Christ</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Randy.jpeg">
                     <p>Mr. Randy Christ has been the "on-field" videographer for Tiger Band since 2010. He is a 1978 graduate of Clemson University where he earned a B.S. in Mechanical Engineering. He marched with Tiger Band for four years as a tenor sax player. Randy was employed by Michelin for over 38 years working in technical fields as a programmer, a system manager, a high performance test driver, and finally as a certified information systems security professional.</p>
                     <p>Currently, Randy is the owner of Moving Images LLC, a supplier of professional videography and photography services.  He enjoys using digital technologies to capture the special moments that tell people’s stories.</p>
                     <p>Randy was already deeply involved in photography when he purchased his first video camera in 1987 just before the birth of his first child. This is when he discovered how powerful and meaningful story telling with video could be. When his children joined the high school marching band, Randy saw an opportunity to record and tell the story of their marching band experience through videography. For six years he documented each marching competition season from a band member's perspective. Around that time, Dr. Bruce Cook, a former Tiger Band Director, created a video compilation from archived film featuring old Tiger Band half time shows. This reinforced in Randy’s mind the importance of having that recorded history.  It was a logical progression from there to Randy shooting video for Tiger Band, and later starting his photo / video business.</p>
