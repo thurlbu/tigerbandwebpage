@@ -28,8 +28,8 @@
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/" class="active">Bands</a>
-    <a href="/affiliates/">Affiliates</a>
-    <a href="/about/">About</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/">Staff</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
 </nav>

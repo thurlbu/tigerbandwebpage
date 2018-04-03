@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Stafforganizations<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -28,8 +28,8 @@
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
-    <a href="/affiliates/">Affiliates</a>
-    <a href="/about/">About</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/">Staff</a>
     <a href="/members/" class="active">Members Only</a>
     <a href="/contact/">Contact</a>
 </nav>
@@ -93,7 +93,7 @@
 
         <div id="drill">
             <div id="heading">
-                <h4>Coordinates</h4>
+                <h4>Media</h4>
             </div>
             <div id="expandFiles3" class="fileUIcontainer">
                 <p>There's nothing here yet.</p>

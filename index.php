@@ -28,8 +28,8 @@
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
-    <a href="/affiliates/">Affiliates</a>
-    <a href="/about/">About</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/">Staff</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
 </nav>
@@ -41,7 +41,7 @@
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
         <video id="homeVideoBkg" autoplay loop muted>
-            <source src="https://s3.amazonaws.com/tiger-band-website/WebPageVideoLarge.mp4" type="video/mp4">
+            <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
         </video>
     </div>
 

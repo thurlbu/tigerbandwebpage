@@ -745,6 +745,12 @@ tr:nth-child(even) {
 tr:nth-child(12) {
     background: rgba(82, 45, 128, 0.5);
 }
+tr:nth-child(13) {
+    background: rgba(246, 103, 51, 0.5);
+}
+tr:nth-child(14) {
+    background: white;
+}
 th, td {
     padding: 0.5rem;
 }
