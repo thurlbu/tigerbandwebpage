@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
+	<a href="/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
@@ -24,7 +24,7 @@
 <!--- NAVIGATION --->
 
 <nav class="homepage">
-    <a href="/website/" class="active">Home</a>
+    <a href="/" class="active">Home</a>
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
@@ -57,7 +57,7 @@
     <!--- BOX UI --->
 
     <div id="boxUI">
-        <a href="http://www.tigerbandmedia.com/">
+        <a href="http://www.tigerbandmedia.com/" target="_blank">
             <div class="boxWrapper">
                 <div id="box1" class="boxUIelement rect orange homepage">
                 </div>
@@ -72,7 +72,7 @@
                 </div>
             </div>
         </a>
-        <a href="https://www.youtube.com/user/clemsontigerband">
+        <a href="https://www.youtube.com/user/clemsontigerband" target="_blank">
             <div class="boxWrapper">
                 <div id="box3" class="boxUIelement sq white homepage">
                     <div class="textContainer hide">
@@ -100,22 +100,22 @@
                 <div id="socMedContainer">
                     <p>Tiger Band Social Media</p>
                     <div id="icons">
-                        <a href="https://twitter.com/cutigerband">
+                        <a href="https://twitter.com/cutigerband" target="_blank">
 							<div id="twitter" class="socialBorder">
 								<img class="socialIcon" src="/img/logos/twitter.png" alt="Twitter">
 							</div>
 						</a>
-                        <a href="https://www.instagram.com/cutigerband/">
+                        <a href="https://www.instagram.com/cutigerband/" target="_blank">
 							<div id="instagram" class="socialBorder">
 								<img class="socialIcon" src="/img/logos/instagram.png" alt="Instagram">
 							</div>
 						</a>
-                        <a href="https://www.facebook.com/cutigerband">
+                        <a href="https://www.facebook.com/cutigerband" target="_blank">
 							<div id="facebook" class="socialBorder">
 								<img class="socialIcon" src="/img/logos/facebook.png" alt="Facebook">
 							</div>
 						</a>
-                        <a href="https://www.snapchat.com/add/cutigerband">
+                        <a href="https://www.snapchat.com/add/cutigerband" target="_blank">
 							<div id="snapchat" class="socialBorder">
 								<img class="socialIcon" src="/img/logos/snapchat.png" alt="Snapchat">
 							</div>
@@ -229,7 +229,7 @@
 <!--- FOOTER --->
 
 <?php
-    readfile("../footer.html");
+    readfile("footer.html");
 ?>
 
 <script type="text/javascript">

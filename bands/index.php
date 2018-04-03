@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
+	<a href="/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
@@ -24,7 +24,7 @@
 <!--- NAVIGATION --->
 
 <nav>
-    <a href="/website/">Home</a>
+    <a href="/">Home</a>
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/" class="active">Bands</a>
