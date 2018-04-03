@@ -101,25 +101,25 @@
                     <p>Tiger Band Social Media</p>
                     <div id="icons">
                         <a href="https://twitter.com/cutigerband" target="_blank">
-							<div id="twitter" class="socialBorder">
-								<img class="socialIcon" src="/img/logos/twitter.png" alt="Twitter">
-							</div>
-						</a>
-                        <a href="https://www.instagram.com/cutigerband/" target="_blank">
-							<div id="instagram" class="socialBorder">
-								<img class="socialIcon" src="/img/logos/instagram.png" alt="Instagram">
-							</div>
-						</a>
-                        <a href="https://www.facebook.com/cutigerband" target="_blank">
-							<div id="facebook" class="socialBorder">
-								<img class="socialIcon" src="/img/logos/facebook.png" alt="Facebook">
-							</div>
-						</a>
-                        <a href="https://www.snapchat.com/add/cutigerband" target="_blank">
-							<div id="snapchat" class="socialBorder">
-								<img class="socialIcon" src="/img/logos/snapchat.png" alt="Snapchat">
-							</div>
-						</a>
+            							<div id="twitter" class="socialBorder">
+            								<img class="socialIcon" src="/img/logos/twitter.png" alt="Twitter">
+            							</div>
+            						</a>
+                                    <a href="https://www.instagram.com/cutigerband/" target="_blank">
+            							<div id="instagram" class="socialBorder">
+            								<img class="socialIcon" src="/img/logos/instagram.png" alt="Instagram">
+            							</div>
+            						</a>
+                                    <a href="https://www.facebook.com/cutigerband" target="_blank">
+            							<div id="facebook" class="socialBorder">
+            								<img class="socialIcon" src="/img/logos/facebook.png" alt="Facebook">
+            							</div>
+            						</a>
+                                    <a href="https://www.snapchat.com/add/cutigerband" target="_blank">
+            							<div id="snapchat" class="socialBorder">
+            								<img class="socialIcon" src="/img/logos/snapchat.png" alt="Snapchat">
+            							</div>
+            						</a>
                     </div>
                 </div>
             </div>

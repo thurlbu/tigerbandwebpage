@@ -56,9 +56,10 @@
                     <img class="articleImg" src='/img/BruceAlumni.jpg'>
                 <p>The Clemson University Tiger Band Association (CUTBA) was formed in 1977 following meetings with Tiger Band Director Dr. Bruce Cook, Tiger Band Alumni and a friend of Tiger Band.</p>
                 <p>Our purpose is to support Tiger Band, Tiger Band Students, and other music programs at Clemson University, and provide funds for Tiger Band Scholarships. CUTBA is funded primarily through tax deductible contribution by Tiger Band Alumni, Parents, and Friends of Tiger Band.</p>
-                  <a class="richLink" href="/cutba/">CUTBA Website</a>
-                  <a class="richLink" href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">Facebook</a>
-                  <a class="richLink" href="https://www.instagram.com/cutba/" target="_blank">Instagram</a>
+
+                <a class="richLink" href="/cutba/">CUTBA Website</a>
+                <a class="richLink" href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">Facebook</a>
+                <a class="richLink" href="https://www.instagram.com/cutba/" target="_blank">Instagram</a>
 
             </article>
 
