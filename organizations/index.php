@@ -63,7 +63,7 @@
                                 <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
-                        <a href=href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">
+                        <a href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
                             </div>
