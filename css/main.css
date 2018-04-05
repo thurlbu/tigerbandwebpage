@@ -533,6 +533,12 @@ video#homeVideoBkg {
     cursor: pointer;
     position: relative;
 }
+#webLink, #twitter, #facebook, #instagram, #snapchat {
+  background: #F66733;
+}
+#webLink:hover {
+    background: #86898C;
+}
 #twitter:hover {
     background: #1da1f2;
 }
@@ -560,6 +566,28 @@ video#homeVideoBkg {
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+#socMedContainer.organizations {
+  padding: 1rem 0;
+  position: relative;
+    top: 0;
+    left: 0;
+  transform: none;
+  width: 100%;
+  clear: both;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+#socMedContainer.organizations #icons {
+    width: 50%;
+}
+
 
 /***** HOMEPAGE ARTICLES *****/
 #content, #Col2FlexContent.homepage {

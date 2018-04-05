@@ -56,11 +56,25 @@
                     <img class="articleImg" src='/img/BruceAlumni.jpg'>
                 <p>The Clemson University Tiger Band Association (CUTBA) was formed in 1977 following meetings with Tiger Band Director Dr. Bruce Cook, Tiger Band Alumni and a friend of Tiger Band.</p>
                 <p>Our purpose is to support Tiger Band, Tiger Band Students, and other music programs at Clemson University, and provide funds for Tiger Band Scholarships. CUTBA is funded primarily through tax deductible contribution by Tiger Band Alumni, Parents, and Friends of Tiger Band.</p>
-
-                <a class="richLink" href="/cutba/">CUTBA Website</a>
-                <a class="richLink" href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">Facebook</a>
-                <a class="richLink" href="https://www.instagram.com/cutba/" target="_blank">Instagram</a>
-
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="/cutba/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                        <a href=href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/cutba/" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </article>
 
             <article class="text">
@@ -95,12 +109,30 @@
                     <img class="articleImg" src='/img/Brooks.jpg'>
                 <p>Established in 1994, the Brooks Center has been the hub for the performing arts in Clemson for more than two decades. This 87,000-square-foot facility serves as a professional roadhouse, hosting world-class professional dance, theatre, and musical performances throughout the academic year in its spacious, yet intimate, 979-seat proscenium auditorium. Its 100-seat blackbox theatre is home to exciting student theatre performances, and a small recital hall serves as a multi-purpose space for classes, gatherings, and student performances.</p>
                 <p>In addition to professional productions, the Brooks Center is also home to the Department of Performing Arts, offering a dynamic, hands-on undergraduate experience. Through conferences and professional engagements made possible by donors, our students add to their resumes and build connections that will jumpstart their careers when they graduate with a Bachelor of Arts in productions studies in performing arts.</p>
-                <p>
-                  <a class="richLink" href="https://www.clemson.edu/centers-institutes/brooks/" target="_blank">Main Page</a>
-                  <a class="richLink" href="https://www.facebook.com/brookscentercu/" target="_blank">Facebook</a>
-                  <a class="richLink" href="https://www.instagram.com/brookscentercu" target="_blank">Instagram</a>
-                  <a class="richLink" href="https://twitter.com/BrooksCenterCU" target="_blank">Twitter</a>
-                </p>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="https://www.clemson.edu/centers-institutes/brooks/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                        <a href="https://www.facebook.com/brookscentercu/" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/brookscentercu" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                        <a href="https://twitter.com/BrooksCenterCU" target="_blank">
+                            <div id="twitter" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/twitter.png">
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </article>
 
             <article class="text">
@@ -108,9 +140,25 @@
                     <img class="articleImg" src='/img/ImagineStudiosBanner.png'>
                 <p>Your student is an amazing individual! His or her time in school is a time of growth and self-discovery…a time where interests and talents are discovered and cultivated. Imagine! Studios is an award-winning full service photography studio, where we find joy in the diversity of today’s students and the variety of personalities, interests, and activities that they bring. Our goal is not only to provide the best products and services for your student and family, but to also form new friendships and to encourage the student’s ongoing development as he or she continues through this formative stage of life. We specialize in student photography of all ages (K-12 through college) and we LOVE high school seniors, as we get to join in on their graduation celebration! In addition to amazing student photography, Imagine! Studios also offers photographic services for weddings and engagements, family and group portraiture, headshots, special concerts and events, and much more!</p>
                 <p>At Imagine! Studios, providing you with amazing photos and products is not enough. We want to provide you with an amazing EXPERIENCE from your first phone call to the delivery of your products and beyond. Contact us today to set up your consultation. Let’s see how we can use our unique skills to tell your student’s amazing story. Be sure to visit our website at www.ImagineStudiosSC.com as well as our Facebook and Instagram pages, and give us a like while you’re there!</p>
-                <a class="richLink" href="http://www.imaginestudiossc.com" target="_blank">Imagine Studios! Website</a>
-                <a class="richLink" href="https://www.facebook.com/ImagineStudiosSC" target="_blank">Facebook</a>
-                <a class="richLink" href="https://www.instagram.com/imaginestudiossc/" target="_blank">Instagram</a>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="http://www.imaginestudiossc.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                        <a href="https://www.facebook.com/ImagineStudiosSC" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/imaginestudiossc/" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </article>
         </div>
     </div>
