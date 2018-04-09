@@ -50,10 +50,9 @@
                 <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
                 <p>Details about the content of the video audition and a video tutorial can be found below.</p>
                 <p>All audition videos must be submitted by <b>April 28</b> to receive full consideration.</p>
-                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the on-line application and make sure to provide a link to your video in the appropriate box.</p>
+                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
                 <p>Results will be sent out by May 10.</p>
                 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
-                <a href="../../doc/2017TigerGuardAuditions.pdf" class="richLink" target="_blank">Tiger Guard Audition Information</a>
                 <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
             </article>
 
