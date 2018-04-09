@@ -130,7 +130,7 @@
         <div id="col2Flex">
             <article class="media">
                 <h1>Tiger Band travels all over the country</h1>
-                <p>One of the biggest perks of being a member of Tiger Band is being able to travel. Students have had the opportunity to travel all over the country at no cost.</p>
+                <p>One of the biggest perks of being a member of Tiger Band is being able to travel. Students have had the opportunity to travel all over the country at no cost. Don't miss out on these unforgettable experiences!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
                         <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/opYafN6oono" frameborder="0" allowfullscreen></iframe>
