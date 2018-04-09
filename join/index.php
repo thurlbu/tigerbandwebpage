@@ -122,19 +122,15 @@
             <article class="media">
                 <h1>Are you worried about the Time Commitment?</h1>
                 <p>Who better to ask about the time commitment involved with Tiger Band than people who are actually in Tiger Band? Hear from Tiger Band students about how they manage their time, school, and other commitments.</p>
-                <p>You'll learn that Tiger Band really doesn't take up as much time as most people think and that there are tangible academic advantages to being a member of the largest, most diverse, and academically successful student organization on the Clemson campus.</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
                         <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/M6AO6dTb4PQ" frameborder="0" allowfullscreen></iframe>
             </article>
         </div>
-        <div id="Col2FlexContent">
             <div id="col1Flex">
                 <article class="media">
                     <h1>Join a family within the larger Clemson community</h1>
                     <p>If the idea of coming to a campus with 26,000 students makes you nervous, Tiger Band can help! You'll be able to move into your dorm a week early, have access to campus before more students get here, and you'll meet 350 friendly, welcoming people with common interests.</p>
-                    <p>You'll be accepted as a member of the Tiger Band family from day one and have access to upperclassmen that can help you navigate this new landscape.</p>
-                    <div class="iframeContainer">
                         <div class="iFrameAspectRatio">
                             <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/ROM5CTPXVcI" frameborder="0" allowfullscreen></iframe>
                 </article>
@@ -143,7 +139,7 @@
             <article class="media">
                 <h1>Tiger Band travels all over the country</h1>
                 <p>One of the biggest perks of being a member of Tiger Band is being able to travel. Students have had the opportunity to travel all over the country at no cost.</p>
-                <p>From Boston to Miami, New Orleans to Phoenix, opportunities to travel playoff games and national championships are very special. As a member of Tiger Band, you'll earn these unforgettable experiences!</p>
+                <p>From Boston to Miami, New Orleans to Phoenix, opportunities to travel to away games, playoff games, and national championships are very special. As a member of Tiger Band, you'll earn these unforgettable experiences!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
                         <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/opYafN6oono" frameborder="0" allowfullscreen></iframe>
