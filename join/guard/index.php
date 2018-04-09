@@ -149,14 +149,14 @@
             <article class="text fullWidth">
                 <h1>Auditions</h1>
                 <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
-                <p> The movement section will consist of:<br>
+                <p> The <b>MOVEMENT SECTION</b> will consist of:<br>
               <ul>
                 <li>8 to 12 steps of jazz runs</li>
                 <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
                 <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
               </ul>
             </p>
-                <p> The flag section will consist of:<br>
+                <p> The <b>FLAG SECTION</b> will consist of:<br>
               <ul>
                 <li>16 counts of drop spins</li>
                 <li>16 counts of cones</li>
@@ -166,8 +166,8 @@
                 <li>Explanations of these maneuvers with examples and expectations are provided in the tutorial video</li>
               </ul>
             </p>
-                <p>Please watch the video to learn the required 32 counts of choreography for the 2018 Audition</p>
-                <p>The <b>optional</b> rifle section will consist of:<br>
+                <p>Please watch the video to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2018 Audition</p>
+                <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
               <ul>
                 <li>8 counts of right hand spins with a single out</li>
                 <li>8 counts of left hand spins with a single out</li>
