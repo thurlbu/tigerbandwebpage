@@ -168,8 +168,8 @@
             </article>
 
             <article class="text">
-                <h1>Imagine! Studios, LLC.</h1>
-                    <img class="articleImg" src='/img/ImagineStudiosBanner.png'>
+                <h1>Imagine! Studios</h1>
+                    <img class="articleImg" src='/img/ImagineStudiosPic.png'>
                 <p>Your student is an amazing individual! His or her time in school is a time of growth and self-discovery…a time where interests and talents are discovered and cultivated. Imagine! Studios is an award-winning full service photography studio, where we find joy in the diversity of today’s students and the variety of personalities, interests, and activities that they bring. Our goal is not only to provide the best products and services for your student and family, but to also form new friendships and to encourage the student’s ongoing development as he or she continues through this formative stage of life. We specialize in student photography of all ages (K-12 through college) and we LOVE high school seniors, as we get to join in on their graduation celebration! In addition to amazing student photography, Imagine! Studios also offers photographic services for weddings and engagements, family and group portraiture, headshots, special concerts and events, and much more!</p>
                 <p>At Imagine! Studios, providing you with amazing photos and products is not enough. We want to provide you with an amazing EXPERIENCE from your first phone call to the delivery of your products and beyond. Contact us today to set up your consultation. Let’s see how we can use our unique skills to tell your student’s amazing story. Be sure to visit our website at www.ImagineStudiosSC.com as well as our Facebook and Instagram pages, and give us a like while you’re there!</p>
                 <div id="socMedContainer" class="organizations">
