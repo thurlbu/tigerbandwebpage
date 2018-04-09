@@ -168,7 +168,7 @@
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
             		<img class="staffPortrait" src="/img/staff/CSloan.png">
-                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com">ImagineStudiosSC.com</a></p>
+                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com">ImagineStudiosSC.com</a></p>
                 </div>
             </article>
 
@@ -268,7 +268,7 @@
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Tamara.jpg">
-                    <p>Tamara Bowen is the associate Tiger Band photographer. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
+                    <p>Tamara Bowen is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
         </div>
