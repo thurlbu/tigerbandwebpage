@@ -150,24 +150,30 @@
                 <h1>Auditions</h1>
                 <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
                 <p> The movement section will consist of:<br>
-                8 to 12 steps of jazz runs<br>
-                at least 2 Chasse and 2 Saute maneuvers in combination<br>
-                Explanations of these maneuvers with examples are provided in the tutorial video</p>
+              <ul>
+                <li>8 to 12 steps of jazz runs</li>
+                <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
+                <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
+              </ul>
                 <p> The flag section will consist of:<br>
-                16 counts of drop spins<br>
-                16 counts of cones<br>
-                4 cone tosses<br>
-                4 45 tosses<br>
-                4 tosses from the flag<br>
+              <ul>
+                <li>16 counts of drop spins</li>
+                <li>16 counts of cones</li>
+                <li>4 cone tosses</li>
+                <li>4 45 tosses</li>
+                <li>4 tosses from the flag</li>
+              </ul>  
                 Explanations of these maneuvers with examples and expectations are provided in the tutorial video</p>
                 <p>Please watch the video to learn the required 32 counts of choreography for the 2018 Audition</p>
                 <p>The <b>optional</b> rifle section will consist of:<br>
-                8 counts of right hand spins with a single out<br>
-                8 counts of left hand spins with a single out<br>
-                4 double tosses<br>
-                4 triple tosses<br>
-                4 quad tosses<br>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+              <ul>
+                <li>8 counts of right hand spins with a single out</li>
+                <li>8 counts of left hand spins with a single out</li>
+                <li>4 double tosses</li>
+                <li>4 triple tosses</li>
+                <li>4 quad tosses</li>
+              </ul>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
