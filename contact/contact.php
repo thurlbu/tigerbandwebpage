@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="../img/logos/TigerBandMobileLogo.png" width="120"></a>
+  <!--- <a href="../">---><a href="../website/"><img id="tbMobileLogo" src="../img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
@@ -24,12 +24,14 @@
 <!--- NAVIGATION --->
 
 <nav>
+    <!--- <a href="../">Home</a> --->
     <a href="../website/">Home</a>
+    <a href="../">Home</a>
     <a href="../this_season/">This Season</a>
     <a href="../join/">Join</a>
     <a href="/bands/">Bands</a>
-    <a href="../affiliates/">Affiliates</a>
-    <a href="../about/">About</a>
+    <a href="../organizations/">Organizations</a>
+    <a href="../staff/">Staff</a>
     <a href="../members/">Members Only</a>
     <a href="../contact/" class="active">Contact</a>
 </nav>
@@ -46,7 +48,7 @@
         <center>
             <h4>Thank you for your message!</h4>
             <br>
-            <h3><a href="../website/">Return to the homepage</a></h3>
+            <h3><a href="/">Return to the homepage</a></h3>
         </center>
     </div>
 

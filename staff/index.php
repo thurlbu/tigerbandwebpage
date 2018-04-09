@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>About | Tiger Band</title>
+    <title>Staff | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name=viewport content="width=device-width, initial-scale=1">
@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
+	<!--- <a href="/">---><a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
@@ -24,12 +24,13 @@
 <!--- NAVIGATION --->
 
 <nav>
+    <!--- <a href="/">Home</a> --->
     <a href="/website/">Home</a>
     <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
-    <a href="/affiliates/">Affiliates</a>
-    <a href="/about/" class="active">About</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/" class="active">Staff</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
 </nav>
@@ -38,7 +39,7 @@
 
 <body>
     <div id="heading">
-        <h3>About</h3>
+        <h3>Staff</h3>
         <h4>Tiger Band</h4>
     </div>
 
@@ -69,10 +70,10 @@
                         </div>
                     </div>
                 </a>
-                <a href="/affiliates/" class="boxWrapper">
+                <a href="/organizations/" class="boxWrapper">
                     <div id="box5"class="boxUIelement sq white">
                         <div class="textContainer">
-                            <p>Affiliates</p>
+                            <p>Organizations</p>
                         </div>
                     </div>
                 </a>

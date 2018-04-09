@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
+	<!--- <a href="/">---><a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
@@ -24,12 +24,13 @@
 <!--- NAVIGATION --->
 
 <nav>
+    <!--- <a href="/">Home</a> --->
     <a href="/website/">Home</a>
     <a href="/this_season/" class="active">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
-    <a href="/affiliates/">Affiliates</a>
-    <a href="/about/">About</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/">Staff</a>
     <a href="/members/">Members Only</a>
     <a href="/contact/">Contact</a>
 </nav>
@@ -96,7 +97,7 @@
                     <tr>
                         <td>Sept 22</td>
                         <td>@</td>
-                        <td>Georgia Institute of Technology Yellowjackets</td>
+                        <td>Georgia Institute of Technology Yellow Jackets</td>
                         <td></td>
                     </tr>
                     <tr>
@@ -153,12 +154,6 @@
                         <td>ACC Championship</td>
                         <td>Charlotte, NC</td>
                     </tr>
-                    <tr>
-                        <td>TBA</td>
-                        <td></td>
-                        <td>Bowl Game</td>
-                        <td></td>
-                    </tr>
                 </table>
             </article>
         </div>
@@ -194,7 +189,7 @@
                 <p><b>Sousaphone: </b>To Be Announced...</p>
                 <p><b>Drumline: </b>To Be Announced...</p>
                 <p><b>Color Guard: </b>To Be Announced...</p>
-                <p><b>Twirlers</b>To Be Announced...</p>
+                <p><b>Twirlers: </b>To Be Announced...</p>
                 <p><b>Dancers: </b>To Be Announced...</p>
                 <p><b>Head Band Manager: </b>To Be Announced...</p>
             </article>

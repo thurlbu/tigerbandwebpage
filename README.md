@@ -2,4 +2,4 @@
 
 Clemson University Tiger Band Website
 
-Main index.php located in /website/
+Main index.php located in /
