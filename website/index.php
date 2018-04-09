@@ -139,7 +139,7 @@
             </div>
         </a>
 
-        <a href="http://www.clemsontigerbandgear.com/" target="_blank" class="boxWrapper">
+        <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true" target="_blank" class="boxWrapper">
             <div id="box9" class="boxUIelement sq purp homepage">
                 <div class="textContainer hide">
                     <p>Get the Gear</p>
@@ -192,8 +192,7 @@
                 <h1>Tiger Band Tours</h1>
                 <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
                 <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
-                <p>Register for a free tour today!</p>
-                <a class="richLink cta" href="https://www.google.com/forms/about/" target="_blank">Sign-up</a>
+                <p>Tour dates and a link to registration will be coming soon!</p>
             </article>
 
             <article class="media">

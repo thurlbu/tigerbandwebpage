@@ -49,6 +49,15 @@
                     <img class="articleImg" src='/img/KKP.jpg'>
                 <p>Kappa Kappa Psi is a national honorary service fraternity for college band members. We operate primarily as a student service and leadership recognition society whose chief aim is to assist the Director of Bands in developing the leadership and enthusiasm that is required of his/her band. Our goals are to provide the band not only with organized and concentrated service activities, but to give our membership valid and wholesome experiences in organization, leadership and social contacts. The honorary nature of membership is based on our premise that “it is an honor to be selected to serve” this band, its department of music, its sponsoring institution, and the cause of band music in the nation's colleges and universities.</p>
                 <p> <a class="richLink" href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">&Kappa;&Kappa;&Psi; on Facebook</a> </p>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
             </article>
 
