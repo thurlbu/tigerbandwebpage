@@ -139,7 +139,6 @@
                             <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/ROM5CTPXVcI" frameborder="0" allowfullscreen></iframe>
                 </article>
             </div>
-        <div id="Col2FlexContent">
         <div id="col2Flex">
             <article class="media">
                 <h1>Tiger Band travels all over the country</h1>
