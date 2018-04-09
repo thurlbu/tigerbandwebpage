@@ -155,6 +155,7 @@
                 <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
                 <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
               </ul>
+            </p>
                 <p> The flag section will consist of:<br>
               <ul>
                 <li>16 counts of drop spins</li>
@@ -162,8 +163,9 @@
                 <li>4 cone tosses</li>
                 <li>4 45 tosses</li>
                 <li>4 tosses from the flag</li>
-              </ul>  
-                Explanations of these maneuvers with examples and expectations are provided in the tutorial video</p>
+                <li>Explanations of these maneuvers with examples and expectations are provided in the tutorial video</li>
+              </ul>
+            </p>
                 <p>Please watch the video to learn the required 32 counts of choreography for the 2018 Audition</p>
                 <p>The <b>optional</b> rifle section will consist of:<br>
               <ul>
@@ -173,6 +175,7 @@
                 <li>4 triple tosses</li>
                 <li>4 quad tosses</li>
               </ul>
+            </p>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
