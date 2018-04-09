@@ -108,34 +108,68 @@
 
     <div id="Col2FlexContent">
         <div id="col1Flex">
-            <article class="text fullWidth">
-                <h1>General Information</h1>
-                <p>The Tiger Guard is full members of the Clemson University Tiger Band and perform whenever and wherever the full band performs. As a member, you will perform live for over 750,000 each year and be seen by over 25 million more during nationally televised events.</p>
-            </article>
+          <article class="text fullWidth">
+              <h1>Audition Videos</h1>
+              <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
+              <p> The <b>MOVEMENT SECTION</b> will consist of:<br>
+            <ul>
+              <li>8 to 12 steps of jazz runs</li>
+              <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
+              <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
+            </ul>
+          </p>
+              <p> The <b>FLAG SECTION</b> will consist of:<br>
+            <ul>
+              <li>16 counts of drop spins</li>
+              <li>16 counts of cones</li>
+              <li>4 cone tosses</li>
+              <li>4 45 tosses</li>
+              <li>4 tosses from the flag</li>
+              <li>Explanations of these maneuvers with examples and expectations are provided in the tutorial video</li>
+            </ul>
+          </p>
+              <p>Please watch the video to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2018 Audition</p>
+              <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
+            <ul>
+              <li>8 counts of right hand spins with a single out</li>
+              <li>8 counts of left hand spins with a single out</li>
+              <li>4 double tosses</li>
+              <li>4 triple tosses</li>
+              <li>4 quad tosses</li>
+            </ul>
+          </p>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-            <article class="text fullWidth">
-                <h1>Eligibility Requirements</h1>
-                <ul>
-                    <li>Full time Clemson student</li>
-                    <li>Full time Tri County Technical College student</li>
-                    <li>Bridge student</li>
-                    <li>Exceptions can be made for full time students at other institutions (there is a process to be eligible for this option)</li>
-                </ul>
-            </article>
+          </article>
 
-            <article class="text fullWidth">
-                <h1>Weekly Schedule</h1>
-                <ul>
-                    <li>As	a	member,	you	will	earn	2	credit	hours	for	your	participation	in	the	fall	semester.	Grading	is	based	mainly	on	attendance.</li>
-                    <li>Full	band	rehearsal	4:00pm	– 6:00pm	Mondays,	Wednesdays	and	Fridays.</li>
-                    <li>Sectional	Rehearsal	6:00pm	– 8:00pm	Mondays	if	needed.</li>
-                    <li>Game	day	Rehearsal times	depend on	game time.</li>
-                    <li>All	Full	Band	performances</li>
-                </ul>
-            </article>
         </div>
 
         <div id="col2Flex">
+          <article class="text fullWidth">
+              <h1>General Information</h1>
+              <p>The Tiger Guard is full members of the Clemson University Tiger Band and perform whenever and wherever the full band performs. As a member, you will perform live for over 750,000 each year and be seen by over 25 million more during nationally televised events.</p>
+          </article>
+
+          <article class="text fullWidth">
+              <h1>Eligibility Requirements</h1>
+              <ul>
+                  <li>Full time Clemson student</li>
+                  <li>Full time Tri County Technical College student</li>
+                  <li>Bridge student</li>
+                  <li>Exceptions can be made for full time students at other institutions (there is a process to be eligible for this option)</li>
+              </ul>
+          </article>
+
+          <article class="text fullWidth">
+              <h1>Weekly Schedule</h1>
+              <ul>
+                  <li>As	a	member,	you	will	earn	2	credit	hours	for	your	participation	in	the	fall	semester.	Grading	is	based	mainly	on	attendance.</li>
+                  <li>Full	band	rehearsal	4:00pm	– 6:00pm	Mondays,	Wednesdays	and	Fridays.</li>
+                  <li>Sectional	Rehearsal	6:00pm	– 8:00pm	Mondays	if	needed.</li>
+                  <li>Game	day	Rehearsal times	depend on	game time.</li>
+                  <li>All	Full	Band	performances</li>
+              </ul>
+          </article>
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
                 <p>The	Guard	members	acquire	a	warm	–up	jacket	for	cooler	performances	and	shoes.	Extra	cost	could	be	gloves,	a	guard	member	t-shirt	and	items	similar	to	this	as	a	section.	Approximate	cost	for	shoes	and	warm-up	is	about	$100.00.</p>
@@ -146,42 +180,7 @@
                 <p>Tiger	guard	members	are	a	positive	role	model	and	represent	Clemson	University	and	Tiger	Band at	all	times	with	good	character	and	a	positive	image.</p>
                 <p>Each	member	agrees	to	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.	Any	tattoos	must	be	completely	concealed	while	in	uniform	and	any	piercings	(other	than	1	hole	in	each	ear)	will	be	removed	for	every	performance.</p>
             </article>
-            <article class="text fullWidth">
-                <h1>Auditions</h1>
-                <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
-                <p> The <b>MOVEMENT SECTION</b> will consist of:<br>
-              <ul>
-                <li>8 to 12 steps of jazz runs</li>
-                <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
-                <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
-              </ul>
-            </p>
-                <p> The <b>FLAG SECTION</b> will consist of:<br>
-              <ul>
-                <li>16 counts of drop spins</li>
-                <li>16 counts of cones</li>
-                <li>4 cone tosses</li>
-                <li>4 45 tosses</li>
-                <li>4 tosses from the flag</li>
-                <li>Explanations of these maneuvers with examples and expectations are provided in the tutorial video</li>
-              </ul>
-            </p>
-                <p>Please watch the video to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2018 Audition</p>
-                <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
-              <ul>
-                <li>8 counts of right hand spins with a single out</li>
-                <li>8 counts of left hand spins with a single out</li>
-                <li>4 double tosses</li>
-                <li>4 triple tosses</li>
-                <li>4 quad tosses</li>
-              </ul>
-            </p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-
-
-            </article>
         </div>
     </div>
 
