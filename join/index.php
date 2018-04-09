@@ -106,7 +106,7 @@
             <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
             <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
             <p>Tour dates and a link to registration will be coming soon!</p>
-            
+
         </article>
     </section>
 
@@ -139,9 +139,10 @@
                             <iframe class="ytVideo" width="560" height="315" src="https://www.youtube.com/embed/ROM5CTPXVcI" frameborder="0" allowfullscreen></iframe>
                 </article>
             </div>
+        <div id="Col2FlexContent">
         <div id="col2Flex">
             <article class="media">
-                <h1>Did you know that Tiger Band travels all over the country?</h1>
+                <h1>Tiger Band travels all over the country</h1>
                 <p>One of the biggest perks of being a member of Tiger Band is being able to travel. Students have had the opportunity to travel all over the country at no cost.</p>
                 <p>From Boston to Miami, New Orleans to Phoenix, opportunities to travel playoff games and national championships are very special. As a member of Tiger Band, you'll earn these unforgettable experiences!</p>
                 <div class="iframeContainer">
