@@ -48,7 +48,6 @@
                 <h1>Kappa Kappa Psi (&Kappa;&Kappa;&Psi;)</h1>
                     <img class="articleImg" src='/img/KKP.jpg'>
                 <p>Kappa Kappa Psi is a national honorary service fraternity for college band members. We operate primarily as a student service and leadership recognition society whose chief aim is to assist the Director of Bands in developing the leadership and enthusiasm that is required of his/her band. Our goals are to provide the band not only with organized and concentrated service activities, but to give our membership valid and wholesome experiences in organization, leadership and social contacts. The honorary nature of membership is based on our premise that “it is an honor to be selected to serve” this band, its department of music, its sponsoring institution, and the cause of band music in the nation's colleges and universities.</p>
-                <p> <a class="richLink" href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">&Kappa;&Kappa;&Psi; on Facebook</a> </p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
                         <a href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">
@@ -92,7 +91,15 @@
                     <img class="articleImg" src='/img/TigerBandMediaBanner.png'>
                 <p>TigerBandMedia.com is the official source for all Tiger Band photos and photographic products! Gameday photos as well as individual and group shots from rehearsals, outside performances, and special events can all be found at TigerBandMedia.com! All photos on the website are available for purchase, with a wide variety of products to choose from. From digital files and photographic prints to large wall décor in your choice of materials, sizes, and finishes, there’s something for every taste and every budget!</p>
                 <p>TigerBandMedia.com is owned and maintained by Imagine Studios, an award-winning full service photography studio specializing in student photography of all ages (K-12 through college). Imagine! Studios also offers photographic services for weddings and engagements, family and group portraiture, headshots, special concerts and events, and much more! Visit the Imagine! Studios website at www.ImagineStudiosSC.com, and be sure to check out the studio’s social media pages on Facebook and Instagram!</p>
-                <p> <a class="richLink" href="https://www.tigerbandmedia.com/" target="_blank">Tiger Band Photos</a> </p>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="https://www.tigerbandmedia.com/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                      </div>
+                    </div>
             </article>
 
             <article class="text">
@@ -100,8 +107,15 @@
                     <img class="articleImg" src='/img/MovingImages.jpg'>
                 <p>Randy Christ, owner of Moving Images LLC, has proudly provided videography services to Tiger Band since 2010.</p>
                 <p>Moving Images LLC uses videography, photography, and other digital media technologies to create imaginative and compelling ways of expressing the ideas, and capturing the moments that are important to you. The experience and preparation methods that we have developed through years of shooting in "one-take" special event situations, allows you to relax and enjoy the experience of working with Moving Images. We are in this business because we love the special blend of artistry and technology that is required to produce a memorable image. We feel strongly that stories we are hired to tell are important, and we are passionate about doing what ever is necessary to tell the story in a way that reaches the viewer. Let us tell your story with moving images.</p>
-                <a class="richLink" href="http://www.MovingImagesPhotography.com" target="_blank">Moving Images Photography</a>
-                <a class="richLink" href="http://www.MovingImagesVideography.com" target="_blank">Moving Images Videography</a>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="http://www.MovingImagesPhotography.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                      </div>
+                    </div>
             </article>
         </div>
 
@@ -111,7 +125,15 @@
                     <img class="articleImg" src='/img/PMA.jpg'>
                 <p>Phi Mu Alpha Sinfonia Fraternity of America is the world's largest and oldest secret national fraternal society in music. Recently installed in the fall of 2014, the Sigma Mu chapter is looking forward to providing the men of Clemson University with a brotherhood experience like no other.</p>
                 <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
-                <p> <a class="richLink" href="https://www.clemson.sinfonia.org" target="_blank">&Phi;&Mu;&Alpha; Website</a> </p>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="https://www.clemson.sinfonia.org" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                      </div>
+                    </div>
             </article>
 
             <article class="text">
