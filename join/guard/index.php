@@ -46,11 +46,13 @@ Staff<!DOCTYPE html>
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2017 Tiger Guard Auditions</h1>
-                <p>Auditions for the 2017 Tiger Guard will be held on Sunday, April 23 from 1:00pm - 4:00pm at Jervey Gym on the Clemson University Campus.</p>
-                <p>We hope you will consider auditioning to join us for the 2017 season! Tiger Guard is an awesome opportunity and we want you to be a part of it.</p>
-                <p>Please complete and submit this form BEFORE coming to the audition on April 23.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeydhUE96kgC8A3Znb2F1ytfmof3cnKlFLddnP3eiLn2RFbjg/viewform" class="richLink cta">Tiger Guard Application</a>
+                <h1 class="purpleText">2018 Tiger Guard Auditions</h1>
+                <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
+                <p>Details about the content of the video audition and a video tutorial can be found below.</p>
+                <p>All audition videos must be submitted by <b>April 28</b> to receive full consideration.</p>
+                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the on-line application and make sure to provide a link to your video in the appropriate box.</p>
+                <p>Results will be sent out by May 10.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
                 <a href="../../doc/2017TigerGuardAuditions.pdf" class="richLink" target="_blank">Tiger Guard Audition Information</a>
                 <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
             </article>
@@ -62,14 +64,14 @@ Staff<!DOCTYPE html>
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>April</p>
-                            <b>30</b>
-                            <p>Auditions</p>
+                            <b>28</b>
+                            <p>Audition Submission Deadline</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
-                        <p>Tiger Guard Auditions<br>
-                            1:00pm - 4:00pm<br>
-                            Jervey Gym on the Clemson University Campus</p>
+                        <p>Tiger Guard Audition Deadline<br>
+                            Submit online application with link to video
+                            Audition results will be sent on May 10</p>
                     </div>
                 </div>
             </div>
@@ -127,7 +129,7 @@ Staff<!DOCTYPE html>
                     <li>As	a	member,	you	will	earn	2	credit	hours	for	your	participation	in	the	fall	semester.	Grading	is	based	mainly	on	attendance.</li>
                     <li>Full	band	rehearsal	4:00pm	– 6:00pm	Mondays,	Wednesdays	and	Fridays.</li>
                     <li>Sectional	Rehearsal	6:00pm	– 8:00pm	Mondays	if	needed.</li>
-                    <li>Game	day	Rehearsals			times	depend	on	game	time.</li>
+                    <li>Game	day	Rehearsal times	depend on	game time.</li>
                     <li>All	Full	Band	performances</li>
                 </ul>
             </article>
@@ -143,6 +145,33 @@ Staff<!DOCTYPE html>
                 <h1>Appearance</h1>
                 <p>Tiger	guard	members	are	a	positive	role	model	and	represent	Clemson	University	and	Tiger	Band at	all	times	with	good	character	and	a	positive	image.</p>
                 <p>Each	member	agrees	to	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.	Any	tattoos	must	be	completely	concealed	while	in	uniform	and	any	piercings	(other	than	1	hole	in	each	ear)	will	be	removed	for	every	performance.</p>
+            </article>
+            <article class="text fullWidth">
+                <h1>Auditions</h1>
+                <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
+                <p> The movement section will consist of:<br>
+                8 to 12 steps of jazz runs<br>
+                at least 2 Chasse and 2 Saute maneuvers in combination<br>
+                Explanations of these maneuvers with examples are provided in the tutorial video</p>
+                <p> The flag section will consist of:<br>
+                16 counts of drop spins<br>
+                16 counts of cones<br>
+                4 cone tosses<br>
+                4 45 tosses<br>
+                4 tosses from the flag<br>
+                Explanations of these maneuvers with examples and expectations are provided in the tutorial video</p>
+                <p>Please watch the video to learn the required 32 counts of choreography for the 2018 Audition</p>
+                <p>The <b>optional</b> rifle section will consist of:<br>
+                8 counts of right hand spins with a single out<br>
+                8 counts of left hand spins with a single out<br>
+                4 double tosses<br>
+                4 triple tosses<br>
+                4 quad tosses<br>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+
+
+
+
             </article>
         </div>
     </div>
