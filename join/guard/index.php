@@ -70,7 +70,7 @@
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Tiger Guard Audition Deadline<br>
-                            Submit online application with link to video
+                            Submit online application with link to video<br>
                             Audition results will be sent on May 10</p>
                     </div>
                 </div>
