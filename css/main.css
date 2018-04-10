@@ -1721,6 +1721,9 @@ h5 {
 	.socialIcon {
 		width: 1.5rem; height: 1.5rem;
 	}
+  #socMedContainer.organizations #icons a {
+    padding: 0 0.75rem;
+  }
 	/***** ARTICLES *****/
   #content, #Col2FlexContent.homepage {
       width: 95.5vw;
@@ -1893,22 +1896,22 @@ h5 {
 	.members h2 {
 		margin: 1rem;
 	}
-    #music .expandButton img {
-        float: right;
-        margin-right: 5rem;
-        margin-top: -4.75rem;
-    }
-    .fileUIfile {
-        height: 8rem; width: 8rem;
-    }
-    .fileUIfile span {
-        height: 2rem;
-        font-size: 16pt;
-        line-height: 2rem;
-    }
-    .fileUIfile img {
-        width: 4rem; height: 4rem;
-    }
+  #music .expandButton img {
+    float: right;
+    margin-right: 7.5vw;
+    margin-top: -4.6rem;
+  }
+  .fileUIfile {
+    height: 8rem; width: 8rem;
+  }
+  .fileUIfile span {
+    height: 2rem;
+    font-size: 16pt;
+    line-height: 2rem;
+  }
+  .fileUIfile img {
+    width: 4rem; height: 4rem;
+  }
 	/***** CONTACT *****/
 	#contactWrapper {
 		width: 90vw;
@@ -1974,7 +1977,7 @@ h5 {
 		font-size: 11pt;
 		text-align: center;
 	}
-    #music .expandButton img {
-        margin-right: 0;
-    }
+  #music .expandButton img {
+      margin-right: 5vw;
+  }
 }
