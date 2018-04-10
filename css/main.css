@@ -579,13 +579,17 @@ video#homeVideoBkg {
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-around;
+  justify-content: center;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
 }
 #socMedContainer.organizations #icons {
     width: 50%;
+    justify-content: center;
+}
+#socMedContainer.organizations #icons a {
+  padding: 0 1.5rem;
 }
 
 
@@ -1954,9 +1958,9 @@ h5 {
 	#socMedContainer.contact .socialIcon {
 		width: 1.5rem; height: 1.5rem;
 	}
-    #contactForm input[type="submit"], #contactForm input[type="reset"] {
-        width: 40vw;
-    }
+  #contactForm input[type="submit"], #contactForm input[type="reset"] {
+      width: 40vw;
+  }
 }
 /**** SCREEN SIZES BELOW 375PX *****/
 @media (max-width: 375px) {

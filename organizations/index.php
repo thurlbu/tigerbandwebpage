@@ -50,6 +50,11 @@
                 <p>Kappa Kappa Psi is a national honorary service fraternity for college band members. We operate primarily as a student service and leadership recognition society whose chief aim is to assist the Director of Bands in developing the leadership and enthusiasm that is required of his/her band. Our goals are to provide the band not only with organized and concentrated service activities, but to give our membership valid and wholesome experiences in organization, leadership and social contacts. The honorary nature of membership is based on our premise that “it is an honor to be selected to serve” this band, its department of music, its sponsoring institution, and the cause of band music in the nation's colleges and universities.</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
+                        <a href="https://www.instagram.com/kkpsi_clemson/" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
                         <a href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
@@ -98,6 +103,16 @@
                                 <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
+                        <a href="https://www.facebook.com/ImagineStudiosSC/" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/imaginestudiossc/" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
                       </div>
                     </div>
             </article>
@@ -114,8 +129,13 @@
                                 <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
-                      </div>
+                        <a href="http://www.MovingImagesVideography.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
                     </div>
+                </div>
             </article>
         </div>
 
@@ -125,6 +145,7 @@
                     <img class="articleImg" src='/img/PMA.jpg'>
                 <p>Phi Mu Alpha Sinfonia Fraternity of America is the world's largest and oldest secret national fraternal society in music. Recently installed in the fall of 2014, the Sigma Mu chapter is looking forward to providing the men of Clemson University with a brotherhood experience like no other.</p>
                 <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
+                <!--- LINK DOESN'T WORK
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
                         <a href="https://www.clemson.sinfonia.org" target="_blank">
@@ -132,8 +153,8 @@
                                 <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
-                      </div>
                     </div>
+                </div> --->
             </article>
 
             <article class="text">
@@ -198,7 +219,7 @@
 <!--- FOOTER --->
 
 <?php
-    readfile("../footer.html");
+    readfile("/footer.html");
 ?>
 </body>
 

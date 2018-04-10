@@ -173,25 +173,27 @@
             </article>
             <article class="text officers">
                 <h1>2018 Officers</h1>
-                <p><b>Commander: Trey Lockett</b></p>
-                <p><b>Vice-Commander: Josh Rogers</b></p>
-                <p><b>Sergeant Major: Sam Verdonck</b></p>
+                <p><b>Commander:</b> Trey Lockett</p>
+                <p><b>Vice-Commander:</b> Josh Rogers</p>
+                <p><b>Sergeant Major:</b> Sam Verdonck</p>
                 <p><b>Drum Majors: </b>To Be Announced...</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos: </b>To Be Announced...</p>
-                <p><b>Clarinets: </b>To Be Announced...</p>
-                <p><b>Alto Saxes: </b>To Be Announced...</p>
-                <p><b>Tenor Saxes: </b>To Be Announced...</p>
-                <p><b>Trumpets: </b>To Be Announced...</p>
-                <p><b>Mellophone: </b>To Be Announced...</p>
-                <p><b>Trombone: </b>To Be Announced...</p>
-                <p><b>Baritone: </b>To Be Announced...</p>
-                <p><b>Sousaphone: </b>To Be Announced...</p>
-                <p><b>Drumline: </b>To Be Announced...</p>
-                <p><b>Color Guard: </b>To Be Announced...</p>
-                <p><b>Twirlers: </b>To Be Announced...</p>
-                <p><b>Dancers: </b>To Be Announced...</p>
-                <p><b>Head Band Manager: </b>To Be Announced...</p>
+                <p><b>Piccolos:</b> Tivvi Pare &amp; David Coulter</p>
+                <p><b>Clarinets:</b> Jason Gonzales &amp; Reanna Jeanes</p>
+                <p><b>Alto Saxes:</b> Caleb Kelley &amp; Michael Rodriguez</p>
+                <p><b>Tenor Saxes:</b> Taliyah Smith</p>
+                <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Josh Koury</p>
+                <p><b>Mellophone:</b> Chris Haigh &amp; Sarah Razavi</p>
+                <p><b>Trombone:</b> Josh Rogers &amp; Jack Morgan</p>
+                <p><b>Baritone:</b> Alyssa Collado &amp; Chandler Miller</p>
+                <p><b>Sousaphone:</b> Graham Jackson &amp; Robert Gradel</p>
+                <p><b>Drumline:</b> Tyler Stoneman &amp; Jared Friedl</p>
+                <p><b>Color Guard:</b> To Be Announced...</p>
+                <p><b>Twirlers:</b> To Be Announced...</p>
+                <p><b>Dancers:</b> To Be Announced...</p>
+                <p><b>Head Band Manager:</b> Nathan Bailes</p>
+                <p><b>Instrument Manager:</b> Alicia Cameron</p>
+                <p><b>Uniform Manager:</b> Sam Regi &amp; Dillon Waters</p>
             </article>
         </div>
     </div>
@@ -255,7 +257,7 @@
 <!--- FOOTER --->
 
 <?php
-    readfile("../footer.html");
+    readfile("/footer.html");
 ?>
 </body>
 
