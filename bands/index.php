@@ -45,7 +45,7 @@
 
     <div id="Col2FlexContent">
         <div id="col1Flex">
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/symphonic.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/symphonic.html" target="_blank">
               <article class="text">
                 <h1>Symphonic Band</h1>
                     <img class="articleImg" src='/img/SymphonicBand.jpg'>
@@ -53,7 +53,7 @@
                 <p>Frequent campus concerts and tour appearances have earned high national praise for this band. Previous tours have included performances at the 2012 London Olympics, Carnegie Hall, Lincoln Center, The SCMEA Conference in Columbia, SC, New Orleans' Jackson Square, and Walt Disney World.</p>
               </article>
             </a>
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazz.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazz.html" target="_blank">
               <article class="text">
                   <h1>Jazz Ensemble, "The Jungaleers"</h1>
                       <img class="articleImg" src='/img/JazzEnsemble.jpg'>
@@ -63,7 +63,7 @@
               </article>
             </a>
 
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/pep.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/pep.html" target="_blank">
               <article class="text">
                   <h1>Basketball Pep Band</h1>
                   <img class="articleImg" src='/img/PepBand.jpg'>
@@ -72,7 +72,7 @@
               </article>
             </a>
 
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/steelband.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/steelband.html" target="_blank">
               <article class="text">
                   <h1>Percussion Ensemble &amp; Steel Band</h1>
                     <img class="articleImg" src='/img/SteelBand.jpg'>
@@ -85,7 +85,7 @@
         </div>
 
         <div id="col2Flex">
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/concert.html" target="_blank">
               <article class="text">
                   <h1>Concert Band</h1>
                       <img class="articleImg" src='/img/ConcertBand.jpg'>
@@ -93,7 +93,7 @@
               </article>
             </a>
 
-            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazzcombo.html">
+            <a href="http://www.clemson.edu/caah/departments/performing-arts/ensembles/Music/Instrumental/Band/jazzcombo.html" target="_blank">
               <article class="text">
                   <h1>Jazz Combos</h1>
                       <img class="articleImg" src='/img/Combo.jpg'>
