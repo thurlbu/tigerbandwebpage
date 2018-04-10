@@ -806,8 +806,8 @@ td:first-child, td:nth-child(2) {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-    -ms-flex-flow: wrap row;
-    flex-flow: wrap row;
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
     width: 80vw;
     margin: auto;
     margin-top: 2rem;
@@ -1832,12 +1832,17 @@ h5 {
 	}
 	/***** JOIN *****/
 	#auditionBoxUI {
-		display: flex;
-		flex-flow: wrap row;
-        width: 90%;
-		margin: 1rem auto;
-        justify-content: center;
+		  display: flex;
+		  flex-flow: row wrap;
+      width: 90%;
+		  margin: 1rem auto;
+      justify-content: center;
 	}
+  #auditionBoxUI .boxUIelement, #auditionBoxUI .boxWrapper{
+    height: 25vh;
+    min-width: 33vw;
+    flex-grow: 1;
+  }
 
     /***** AUDITION PAGE *****/
     .deadlines .textContainer p{
@@ -1861,10 +1866,10 @@ h5 {
     }
 
 	/***** ABOUT *****/
-    .aboutLinks {
-        margin: 0.5rem 0 1rem 0;
-    }
-    .aboutLinks .boxUIelement {
+  .aboutLinks {
+    margin: 0.5rem 0 1rem 0;
+  }
+  .aboutLinks .boxUIelement {
 		width: 30vw;
 		height: 30vw;
 	}
@@ -1873,8 +1878,8 @@ h5 {
 	}
 	img.staffPortrait {
 		width: 10rem;
-		margin: 3.25rem -0.5rem 1.5rem 0;
-		padding: 0.75rem;
+		margin: 0.5rem 0 0.5rem 0;
+		padding: 0.5rem;
 	}
 	/**** MEMBERS ONLY *****/
 	input[name="password"] {

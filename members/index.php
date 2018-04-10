@@ -298,7 +298,7 @@
     <!--- FOOTER --->
 
     <?php
-        readfile("/footer.html");
+        readfile("../footer.html");
     ?>
     </div>
 </body>
