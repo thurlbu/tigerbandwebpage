@@ -113,7 +113,7 @@
               </article>
             </a>
 
-            <a href="http://tband.people.clemson.edu/drumline/">
+            <a href="http://tband.people.clemson.edu/drumline/" target="_blank">
               <article class="text">
                   <h1>Clemson University Drumline (CUD)</h1>
                       <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg'>
