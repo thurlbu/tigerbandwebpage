@@ -47,7 +47,7 @@
         <div id="col1Flex">
             <article class="text fullWidth">
                 <h1 class="purpleText">2018 Tiger Guard Auditions</h1>
-                <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
+                <p>All auditions for the Clemson University Tiger Fall Guard will be completed via online video submission.</p>
                 <p>Details about the content of the video audition and a video tutorial can be found below.</p>
                 <p>All audition videos must be submitted by <b>April 28</b> to receive full consideration.</p>
                 <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
@@ -177,7 +177,7 @@
             <article class="text fullWidth">
                 <h1>Appearance</h1>
                 <p>Tiger	guard	members	are	a	positive	role	model	and	represent	Clemson	University	and	Tiger	Band at	all	times	with	good	character	and	a	positive	image.</p>
-                <p>Each	member	agrees	to	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.	Any	tattoos	must	be	completely	concealed	while	in	uniform	and	any	piercings	(other	than	1	hole	in	each	ear)	will	be	removed	for	every	performance.</p>
+                <p>Each	member	agrees	to remain	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.	Any	tattoos	must	be	completely	concealed	while	in	uniform	and	any	piercings	(other	than	1	hole	in	each	ear)	will	be	removed	for	every	performance.</p>
             </article>
 
         </div>
