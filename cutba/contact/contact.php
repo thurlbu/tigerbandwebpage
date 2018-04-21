@@ -9,19 +9,19 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-    
+
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="../"><img id="tbMobileLogo" src="../img/logos/CUTBA%20Mobile%20Header.svg" height="30"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
-<!--- NAVIGATION --->    
+
+<!--- NAVIGATION --->
 
 <nav>
     <a href="../">Home</a>
@@ -33,10 +33,10 @@
     <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=1973&SINGLESTORE=true" class="mobileNav" target="_blank">Homecoming Sign-up</a>
     <a href="http://cutba.org/CUTBAbrickReservationForm.pdf" class="mobileNav" target="_blank">Buy a Brick</a>
-</nav>   
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body class="stickyFooter">
     <div class="stickyFooterContent">
         <div id="heading">
@@ -51,9 +51,9 @@
         </center>
     </div>
 </body>
-        
+
 <!--- FOOTER --->
-    
+
 <footer>
     <div id="footerColsLayout">
         <table>
@@ -61,14 +61,14 @@
                 <td>INFORMATION</td>
             </tr>
             <tr>
-                <td><a href="about/">About</a></td>
+                <td><a href="../about/">About</a></td>
             </tr>
             <tr>
-                <td><a href="music/">Music</a></td>
+                <td><a href="../music/">Music</a></td>
             </tr>
 
             <tr>
-                <td><a href="contact/">Contact</a></td>
+                <td><a href="../contact/">Contact</a></td>
             </tr>
         </table>
          <table>
@@ -87,7 +87,7 @@
         </table>
         <table>
             <td>
-                <a href="http://www.cutba.org/"><img id="footerLogo" src="../img/logos/CUTBA.png"></a>
+                <a href="/cutba/"><img id="footerLogo" src="../img/logos/CUTBA.png"></a>
             </td>
         </table>
         <table>
@@ -118,12 +118,12 @@
                 <td> </td>
             </tr>
             <tr>
-                <td><a href="contact/">Contact CUTBA</a></td>
+                <td><a href="../contact/">Contact CUTBA</a></td>
             </tr>
         </table>
     </div>
 </footer>
-    
+
 <script type="text/javascript">
     //Copyright Date
     var startYear = 2017;
