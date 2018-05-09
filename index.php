@@ -165,6 +165,16 @@
                 <p>Submit your audition video today!</p>
             </article>
 
+            <article class="text">
+                <h1>2018 Move-in Dates</h1>
+                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
+                <p>One perk about being a member of the 2018 Clemson University Tiger Band is the fact that you get to move in early!</p>
+                <p>All percussionists who earn a call-back audition will move in on AUGUST 13.</p>
+                <p>All section leaders and staff will move in on AUGUST 14.</p>
+                <p>All other wind players, dancers, twirlers, and colorguard members will move in on AUGUST 15.</p>
+                <p>Submit your audition video today!</p>
+            </article>
+
             <article class="media">
                 <h1>Lee Greenwood performs with Tiger Band</h1>
                 <p>Tiger Band and Lee Greenwood perform God Bless the USA on Military Appreciation Day!</p>
