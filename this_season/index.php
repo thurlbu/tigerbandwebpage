@@ -187,9 +187,9 @@
                 <p><b>Baritone:</b> Alyssa Collado &amp; Chandler Miller</p>
                 <p><b>Sousaphone:</b> Graham Jackson &amp; Robert Gradel</p>
                 <p><b>Drumline:</b> Tyler Stoneman &amp; Jared Friedl</p>
-                <p><b>Color Guard:</b>Hannah Barrett, Lexi Morgan, &amp; Hayley Perryman</p>
-                <p><b>Twirlers:</b>Ashley Swaney</p>
-                <p><b>Dancers:</b>Catharine Demaret &amp; Elizabeth Rola</p>
+                <p><b>Color Guard:</b> Hannah Barrett, Lexi Morgan, &amp; Hayley Perryman</p>
+                <p><b>Twirlers:</b> Ashley Swaney</p>
+                <p><b>Dancers:</b> Catharine Demaret &amp; Elizabeth Rola</p>
                 <p><b>Head Band Manager:</b> Nathan Bailes</p>
                 <p><b>Instrument Manager:</b> Alicia Cameron</p>
                 <p><b>Uniform Manager:</b> Sam Regi &amp; Dillon Waters</p>
