@@ -15,7 +15,7 @@
 <input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
-	<a href="/">><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
+	<a href="/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
