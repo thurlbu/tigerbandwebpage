@@ -215,18 +215,18 @@
             </article>
 
             <article class="text">
-                <h1>Tiger Band meets John F Kennedy</h1>
-                    <a href="https://clemson.world/tiger-band-jfk/" class="boxWrapper"><img class="articleImg" src='/img/Kennedy.jpg'></a>
-                <p>Tiger Band had the honor of meeting and singing for President John F Kennedy at the White House in 1962.</p>
-                <p>Read about this meeting in the <a href="https://clemson.world/tiger-band-jfk/">wonderful article</a> in the Clemson World Magazine written by former director of Tiger Band, John Butler.</p>
+                <h1>Welcome Marilla Riggs!</h1>
+                    <a href="http://tband.people.clemson.edu/staff/" class="boxWrapper"><img class="articleImg" src='/img/staff/Marilla.jpg'></a>
+                <p>Please help is in welcoming Mrs. Marilla Riggs to the 2018 Tiger Band Staff! Marilla will be coaching the Tiger Band Dancers this upcoming season and we are very excited to welcome her to the team.</p>
+                <p>Read more about Marilla on our <a href="http://tband.people.clemson.edu/staff/">staff page.</a></p>
             </article>
 
             <article class="media">
-                <h1>#TigerBandTour Vlog | Episode 1: The Sugar Bowl</h1>
-                <p>Relive our trip to New Orleans for the 2018 Sugar Bowl through the eyes of a few current Tiger Band students!</p>
+                <h1>#TigerBandTour Vlog | Episode 2: The ACC Basketball Tournament</h1>
+                <p>Relive our trip to Brooklyn for the 2018 ACC Basketball Tournament through the eyes of a few current Tiger Band students!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/CbF_BlUeyWQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/x6M18mzgtj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
