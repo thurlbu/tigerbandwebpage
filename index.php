@@ -218,6 +218,7 @@
                 <h1>Welcome Marilla Riggs!</h1>
                     <a href="http://tband.people.clemson.edu/staff/" class="boxWrapper"><img class="articleImg" src='/img/staff/Marilla.jpg'></a>
                 <p>Please help is in welcoming Mrs. Marilla Riggs to the 2018 Tiger Band Staff! Marilla will be coaching the Tiger Band Dancers this upcoming season and we are very excited to welcome her to the team.</p>
+                <p>Marilla was trained in dance at the Shenandoah Conservatory and currently teaches dance at the Carolina Superstars Studio owned by Tiger Band Twirling Instructor, Hazel Cartee.</p>
                 <p>Read more about Marilla on our <a href="http://tband.people.clemson.edu/staff/">staff page.</a></p>
             </article>
 
