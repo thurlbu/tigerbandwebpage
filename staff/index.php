@@ -234,6 +234,20 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
+                <h1>Mrs. Marilla Riggs</h1>
+                <h2>Dancer Instructor</h2>
+                <div class="staffBio">
+                  <img class="staffPortrait" src="/img/staff/Marilla.jpg">
+                    <p>Marilla Riggs is an East Tennessee native currently residing in Anderson, SC with her husband and daughter. She began dancing at the age of three, and by the time she graduated high school, she was trained in Vaganova ballet technique, pointe, jazz, tap, modern, and musical theatre styles. Marilla continued her dance education and graduated, with honors, earning a Bachelor of Fine Arts in Dance from Shenandoah Conservatory in 2014.</p>
+                    <p>At Shenandoah, Marilla performed as a featured dancer for several mainstage concerts, choreographed solos and group pieces for herself and her peers, and performed in many student and faculty concerts. Post graduation, she worked as the Administrative and Production Assistant, as well as an apprentice, for Christopher K. Morgan & Artists, a contemporary dance company based outside of Washington DC. She has teaching credits in Tennessee, Virginia, Maryland, and South Carolina and currently teaches at Carolina Superstars Baton & Dance, owned by Tiger Band twirling coach, Hazel Cartee.</p>
+                    <p>Although her life is mostly dedicated to being a stay-at-home mom with her young daughter, Marilla has a passion for sharing dance through teaching and performance.</p>
+                </div>
+            </article>
+
+            <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
                 <h1>Dr. Tim Willis</h1>
                 <h2>Tiger Band Announcer</h2>
                 <div class="staffBio">
