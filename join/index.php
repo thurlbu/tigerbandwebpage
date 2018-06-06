@@ -149,12 +149,11 @@
             </div>
             <div id="col2Flex">
                 <article class="media">
-                  <h1>Preseason Camp</h1>
-                  <p>Curious about Tiger Band's preseason camp? Learn what it's like to come to campus to prepare for an upcoming season from current Tiger Band members.</p>
+                  <h1>Tiger Band Auditions</h1>
+                  <p>Don't stress about your Tiger Band audition. With our video auditions, you have plenty of time to put your best foot forward. Hear from current Tiger Band members about what it's like to go through the process.</p>
                       <div class="iframeContainer">
                       <div class="iFrameAspectRatio">
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/P1HyGJ_0150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+                          <iframe width="560" height="315" src="https://www.youtube.com/embed/CZuo9wG0DLE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
                     </div>
                 </article>
@@ -170,11 +169,11 @@
             </div>
             <div id="col2Flex">
                 <article class="media">
-                    <h1>Tiger Band Auditions</h1>
-                    <p>Don't stress about your Tiger Band audition. With our video auditions, you have plenty of time to put your best foot forward. Hear from current Tiger Band members about what it's like to go through the process.</p>
-                        <div class="iframeContainer">
-                        <div class="iFrameAspectRatio">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/CZuo9wG0DLE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  <h1>Preseason Camp</h1>
+                  <p>Curious about Tiger Band's preseason camp? Learn what it's like to come to campus to prepare for an upcoming season from current Tiger Band members.</p>
+                      <div class="iframeContainer">
+                      <div class="iFrameAspectRatio">
+                          <iframe width="560" height="315" src="https://www.youtube.com/embed/P1HyGJ_0150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
                     </div>
                 </article>
