@@ -119,7 +119,7 @@
     <div id="Col2FlexContent">
         <div id="col1Flex">
             <article class="media">
-                <h1>Are you worried about the Time Commitment?</h1>
+                <h1>Worried about the Time Commitment?</h1>
                 <p>Who better to ask about the time commitment involved with Tiger Band than people who are actually in Tiger Band? Hear from Tiger Band students about how they manage their time, school, and other commitments.</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
