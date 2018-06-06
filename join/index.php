@@ -143,8 +143,7 @@
                     <p>If the idea of coming to a campus with 26,000 students makes you nervous, Tiger Band can help! You'll be able to move into your dorm a week early, have access to campus before more students get here, and you'll meet 350 friendly, welcoming people with common interests.</p>
                         <div class="iFrameAspectRatio">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/7XA7r894um8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                          </div>
-                      </div>
+                      
                 </article>
             </div>
             <div id="col2Flex">
