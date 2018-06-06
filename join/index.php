@@ -141,6 +141,7 @@
                 <article class="media">
                     <h1>Join a family within the larger Clemson community</h1>
                     <p>If the idea of coming to a campus with 26,000 students makes you nervous, Tiger Band can help! You'll be able to move into your dorm a week early, have access to campus before more students get here, and you'll meet 350 friendly, welcoming people with common interests.</p>
+                        <div class="iframeContainer">
                         <div class="iFrameAspectRatio">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/7XA7r894um8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -150,6 +151,7 @@
                 <article class="media">
                   <h1>Preseason Camp</h1>
                   <p>Curious about Tiger Band's preseason camp? Learn what it's like to come to campus to prepare for an upcoming season from current Tiger Band members.</p>
+                      <div class="iframeContainer">
                       <div class="iFrameAspectRatio">
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/P1HyGJ_0150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -161,7 +163,7 @@
                 <article class="media">
                   <h1>Motivation to succeed</h1>
                   <p>Without weekly competitions, what motivates Tiger Band members to perform at such a high level? Hear from current Tiger Band members about what makes them tick.</p>
-
+                      <div class="iframeContainer">
                       <div class="iFrameAspectRatio">
                           <iframe width="560" height="315" src="https://www.youtube.com/embed/Yus7AVArAzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                 </article>
@@ -170,7 +172,7 @@
                 <article class="media">
                     <h1>Tiger Band Auditions</h1>
                     <p>Don't stress about your Tiger Band audition. With our video auditions, you have plenty of time to put your best foot forward. Hear from current Tiger Band members about what it's like to go through the process.</p>
-                    
+                        <div class="iframeContainer">
                         <div class="iFrameAspectRatio">
                             <iframe width="560" height="315" src="https://www.youtube.com/embed/CZuo9wG0DLE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
