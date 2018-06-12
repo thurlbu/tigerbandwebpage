@@ -234,7 +234,7 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mrs. Marilla Riggs</h1>
+                <h1>Ms. Marilla Riggs</h1>
                 <h2>Dancer Instructor</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Marilla.jpg">
