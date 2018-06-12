@@ -197,6 +197,14 @@
         </div>
 
         <div id="col2Flex">
+          <article class="text">
+              <h1>Symphonic Band European Tour</h1>
+                  <a href="http://tband.people.clemson.edu/doc/EuropeBrochure.pdf" class="boxWrapper"><img class="articleImg" src='/img/EuropeanTour.jpg'></a>
+              <p>In case you needed another reason to get involved with the Clemson Bands...</p>
+              <p>The Clemson University Symphonic Band will be touring Europe - Vienna, Salzburg, and Prague - during Spring Break 2019!!</p>
+              <p>Click this article for more details and contact Dr. Spede with any questions.</p>
+          </article>
+
             <article class="text">
                 <h1>Tiger Band Tours</h1>
                 <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
@@ -217,7 +225,7 @@
             <article class="text">
                 <h1>Welcome Marilla Riggs!</h1>
                     <a href="http://tband.people.clemson.edu/staff/" class="boxWrapper"><img class="articleImg" src='/img/staff/Marilla.jpg'></a>
-                <p>Please help is in welcoming Mrs. Marilla Riggs to the 2018 Tiger Band Staff! Marilla will be coaching the Tiger Band Dancers this upcoming season and we are very excited to welcome her to the team.</p>
+                <p>Please help is in welcoming Ms. Marilla Riggs to the 2018 Tiger Band Staff! Marilla will be coaching the Tiger Band Dancers this upcoming season and we are very excited to welcome her to the team.</p>
                 <p>Marilla was trained in dance at the Shenandoah Conservatory and currently teaches dance at the Carolina Superstars Studio owned by Tiger Band Twirling Instructor, Hazel Cartee.</p>
                 <p>Read more about Marilla on our <a href="http://tband.people.clemson.edu/staff/">staff page.</a></p>
             </article>
