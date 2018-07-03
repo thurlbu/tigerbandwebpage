@@ -103,7 +103,7 @@
                         <td>Sept 29</td>
                         <td>VS</td>
                         <td>Syracuse University Orange</td>
-                        <td>Hall of Fame Day</td>
+                        <td>PARENTS DAY</td>
                     </tr>
                     <tr>
                         <td>Oct 6</td>
@@ -162,11 +162,11 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2018 Major Shows</h1>
-                <b>To Be Announced...</b>
+                <b>The Avengers</b>
                 <p></p>
-                <b>To Be Announced...</b>
+                <b>The Greatest Showman</b>
                 <p></p>
-                <b>To Be Announced...</b>
+                <b>The Music of Queen</b>
                 <p></p>
                 <b>Military Appreciation Day</b>
             </article>
