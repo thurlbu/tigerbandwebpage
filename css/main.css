@@ -38,7 +38,7 @@ a.richLink {
     width: 45%;
     -webkit-transition: none 150ms ease;
     transition: none 150ms ease;
-    overflow-wrap: normal;
+    word-break: keep-all;
     -webkit-transition-property: -webkit-box-shadow, -webkit-transform;
     transition-property: -webkit-box-shadow, -webkit-transform;
     transition-property: box-shadow, transform;
