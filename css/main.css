@@ -33,11 +33,12 @@ a.richLink {
     -webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.2);
     box-shadow: 0 2px 4px rgba(0,0,0,0.2), 0 2px 4px rgba(0,0,0,0.2);
     padding: 1rem;
-    margin: 1rem auto 1rem auto;
+    margin: 1rem auto;
     display: block;
     width: 45%;
     -webkit-transition: none 150ms ease;
     transition: none 150ms ease;
+    word-break: keep-all;
     -webkit-transition-property: -webkit-box-shadow, -webkit-transform;
     transition-property: -webkit-box-shadow, -webkit-transform;
     transition-property: box-shadow, transform;
