@@ -1973,7 +1973,14 @@ h5 {
 }
 /**** SCREEN SIZES BELOW 375PX *****/
 @media (max-width: 375px) {
-	th, td {
+  #homepageTitle h2 {
+		font-size: 20pt;
+    line-height: 20pt;
+	}
+	#homepageTitle h1 {
+		font-size: 36pt;
+	}
+  th, td {
 		padding: 0.15rem;
 		font-size: 11pt;
 		text-align: center;
