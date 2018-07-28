@@ -3,14 +3,14 @@
 <head>
     <meta charset="utf-8">
     <title>Clemson University Tiger Band</title>
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
 
-<!--- HEADER --->
+<!-- HEADER -->
 
 <input type='checkbox' id='mobileMenu'>
 
@@ -21,7 +21,7 @@
 
 <label id='mobileScreenShade' for='mobileMenu'></label>
 
-<!--- NAVIGATION --->
+<!-- NAVIGATION-->
 
 <nav class="homepage">
     <a href="/" class="active">Home</a>
@@ -34,10 +34,10 @@
     <a href="/contact/">Contact</a>
 </nav>
 
-<!--- PAGE CONTENT --->
+<!-- PAGE CONTENT-->
 
 <body>
-    <!--- FULL SCREEN MAIN VIDEO --->
+    <!-- FULL SCREEN MAIN VIDEO-->
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
         <video id="homeVideoBkg" autoplay loop muted>
@@ -54,7 +54,7 @@
     <img id="tbHomeLogo" src="/img/logos/TigerBandWhite.png">
     <img id="clemsonLogo" src="/img/logos/clemsonPaw.svg" width="75">
 
-    <!--- BOX UI --->
+    <!-- BOX UI-->
 
     <div id="boxUI">
         <a href="http://www.tigerbandmedia.com/" target="_blank">
@@ -147,7 +147,7 @@
         </a>
     </div>
 
-    <!--- ANNOUNCEMENTS/ARTICLES --->
+    <!-- ANNOUNCEMENTS/ARTICLES-->
 
     <div id="heading">
         <h3>Tiger Band</h3>
@@ -244,7 +244,7 @@
     </div>
 </body>
 
-<!--- FOOTER --->
+<!-- FOOTER-->
 
 <?php
     readfile("footer.html");

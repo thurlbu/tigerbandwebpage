@@ -1,0 +1,35 @@
+{
+  "name": "tigerbandwebpage",
+  "version": "1.0.0",
+  "description": "This is the home for the Clemson University Tiger Band page",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GusTheBusNG/tigerbandwebpage.git"
+  },
+  "keywords": [
+    "tiger",
+    "band",
+    "clemson",
+    "music"
+  ],
+  "author": "Tiger Band",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GusTheBusNG/tigerbandwebpage/issues"
+  },
+  "homepage": "https://github.com/GusTheBusNG/tigerbandwebpage#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp-connect-php": "^1.0.3"
+  }
+}
