@@ -3,13 +3,13 @@ const browserSync = require('browser-sync');
 const connect = require('gulp-connect-php');
 
 const uglify = require('gulp-uglify');
-const cssnano = require('gulp-cssnano');
 const imagemin = require('gulp-imagemin');
 const cache = require('gulp-cache');
 const del = require('del');
 const runSequence = require('run-sequence');
 const gulpIf = require('gulp-if');
-var useref = require('gulp-useref');
+const useref = require('gulp-useref');
+const cleanCSS = require('gulp-clean-css');
 
 gulp.task('default', function (callback) {
   runSequence(['connect-sync'],
@@ -19,7 +19,7 @@ gulp.task('default', function (callback) {
 
 gulp.task('build', function (callback) {
   runSequence('clean:prod',
-    ['minify', 'images'],
+    ['move-html-php-to-prod', 'minify-css', 'images'],
     callback
   );
 });
@@ -37,11 +37,8 @@ gulp.task('connect-sync', function () {
   });
 });
 
-gulp.task('minify', function () {
+gulp.task('move-html-php-to-prod', function () {
   return gulp.src(['**/*.php', '**/*.html'])
-    .pipe(useref())
-    .pipe(gulpIf('**/*.js', uglify()))
-    .pipe(gulpIf('**/*.css', cssnano()))
     .pipe(gulp.dest('prod/'));
 });
 
@@ -51,6 +48,12 @@ gulp.task('images', function () {
       interlaced: true
     })))
     .pipe(gulp.dest('prod/img'));
+});
+
+gulp.task('minify-css', () => {
+  return gulp.src('**/*.css')
+    .pipe(cleanCSS({ compatibility: 'ie8' }))
+    .pipe(gulp.dest('prod'));
 });
 
 gulp.task('clean:prod', function () {
