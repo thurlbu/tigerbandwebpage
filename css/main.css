@@ -172,14 +172,6 @@ a.richLink:hover {
     transform: translate(-50%, -50%, 0); /* enable hardware acceleration */
   }
 }
-@keyframes openShade {
-  0% {
-    background: linear-gradient(to bottom, rgba(0,0,0, 0.5) 80%, rgba(0,0,0, 0.8) 100%), rgba(0,0,0, 0.5);
-  }
-  100% {
-    background: radial-gradient(transparent 10%, rgba(0,0,0, 0.8) 60%), rgba(0,0,0, 0.10);
-  }
-}
 
 /***** NAVIGATION BAR ****/
 nav {
@@ -803,14 +795,11 @@ td:first-child, td:nth-child(2) {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  will-change: height, width;
-  animation: joinAnimation 1s ease-out 750ms forwards, fadeIn 300ms ease-in-out;
+  will-change: height;
+  animation: joinAnimation 1s ease-out 800ms forwards, fadeIn 500ms ease-in-out;
 }
 .join h1 {
   margin-top: 0;
-}
-#screenShade.animate {
-  animation: openShade 1s ease-out 750ms forwards;
 }
 #auditionBoxUI {
     display: -webkit-box;
