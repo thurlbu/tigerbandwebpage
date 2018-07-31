@@ -162,6 +162,24 @@ a.richLink:hover {
         opacity: 1;
     }
 }
+@keyframes joinAnimation {
+  0% {
+    height: 30%;
+    transform: translate(-50%, -50%, 0); /* enable hardware acceleration */
+  }
+  100% {
+    height: 75%;
+    transform: translate(-50%, -50%, 0); /* enable hardware acceleration */
+  }
+}
+@keyframes openShade {
+  0% {
+    background: linear-gradient(to bottom, rgba(0,0,0, 0.5) 80%, rgba(0,0,0, 0.8) 100%), rgba(0,0,0, 0.5);
+  }
+  100% {
+    background: radial-gradient(transparent 10%, rgba(0,0,0, 0.8) 60%), rgba(0,0,0, 0.10);
+  }
+}
 
 /***** NAVIGATION BAR ****/
 nav {
@@ -326,7 +344,7 @@ video#homeVideoBkg {
     background: linear-gradient(to bottom, rgba(0,0,0, 0.5) 80%, rgba(0,0,0, 0.8) 100%);
     z-index: -1;
 }
-#homepageTitle {
+.fullpageTitle {
     text-align: center;
     position: absolute;
         top: 50%; left: 50%;
@@ -338,21 +356,26 @@ video#homeVideoBkg {
     border-top: 3px solid #F66733;
     border-bottom: 3px solid #F66733;
 }
-#homepageTitle h2 {
+.fullpageTitle,
+.tbHomeLogo,
+.clemsonLogo {
+  animation: fadeIn 500ms ease-in-out;
+}
+.fullpageTitle h2 {
     font-size: 55pt;
     font-weight: 400;
 }
-#homepageTitle h1 {
+.fullpageTitle h1 {
     font-size: 95pt;
     font-weight: 700;
 }
-#tbHomeLogo {
+.tbHomeLogo {
     position: absolute;
         left: 0.5vw;
         bottom: 1vh;
     width: 12rem;
 }
-#clemsonLogo {
+.clemsonLogo {
     position: absolute;
         right: 1vw;
         bottom: 2vh;
@@ -529,7 +552,6 @@ video#homeVideoBkg {
 }
 #instagram:hover {
     background: #e1306c;
-    background: linear-gradient(to top right, #FCAF45, #F56040, #E1306C, #C13584);
     background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
 }
 #snapchat:hover {
@@ -574,7 +596,6 @@ video#homeVideoBkg {
 #socMedContainer.organizations #icons a {
   padding: 0 1.5rem;
 }
-
 
 /***** HOMEPAGE ARTICLES *****/
 #content, #Col2FlexContent.homepage {
@@ -654,12 +675,6 @@ article.media h1 {
         left: 0; top: 0;
     height: 100%;
     width: 100%;
-}
-article:hover {
-    -webkit-box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 5px 10px rgba(0,0,0,0.25);
-    box-shadow: 0 5px 10px rgba(0,0,0,0.25), 0 5px 10px rgba(0,0,0,0.25);
-    -webkit-transform: translateY(-1px);
-    transform: translateY(-1px);
 }
 
 /***** OTHER PAGE HEADING FORMATTING *****/
@@ -782,6 +797,20 @@ td:first-child, td:nth-child(2) {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.fullpageTitle.join {
+  height: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  will-change: height, width;
+  animation: joinAnimation 1s ease-out 750ms forwards, fadeIn 300ms ease-in-out;
+}
+.join h1 {
+  margin-top: 0;
+}
+#screenShade.animate {
+  animation: openShade 1s ease-out 750ms forwards;
 }
 #auditionBoxUI {
     display: -webkit-box;
@@ -1307,13 +1336,13 @@ h5 {
         margin: auto
     }
     /***** HOMEPAGE *****/
-	#homepageTitle {
+	.fullpageTitle {
 		width: 75%;
 	}
-	#homepageTitle h2 {
+	.fullpageTitle h2 {
 		font-size: 40pt;
 	}
-	#homepageTitle h1 {
+	.fullpageTitle h1 {
 		font-size: 65pt;
 	}
 	/***** NAVIGATION BAR ****/
@@ -1421,6 +1450,14 @@ h5 {
   }
   #footerColsLayout {
       padding: 1vw;
+  }
+  @keyframes openShade {
+    0% {
+      background: linear-gradient(to bottom, rgba(0,0,0, 0.5) 80%, rgba(0,0,0, 0.8) 100%), rgba(0,0,0, 0.5);
+    }
+    100% {
+      background: radial-gradient(transparent 10%, rgba(0,0,0, 0.8) 90%), rgba(0,0,0, 0.15);
+    }
   }
 	/***** MOBILE MENU *****/
 	nav {
@@ -1606,22 +1643,22 @@ h5 {
       background: linear-gradient(to bottom, rgba(0,0,0, 0) 0%, rgba(0,0,0, 0.25) 75%, rgba(0,0,0, 0.8) 100%);
       z-index: -1;
   }
-  #homepageTitle {
+  .fullpageTitle {
 	width: 80%;
 	}
-	#homepageTitle h2 {
+	.fullpageTitle h2 {
 		font-size: 25pt;
 	}
-	#homepageTitle h1 {
+	.fullpageTitle h1 {
 		font-size: 40pt;
 	}
-	#tbHomeLogo {
+	.tbHomeLogo {
 		position: absolute;
 			left: 1vh;
 			bottom: 1vh;
 		width: 6rem;
 	}
-	#clemsonLogo {
+	.clemsonLogo {
 		position: absolute;
 			right: 1vh;
 			bottom: 1vh;
@@ -1829,26 +1866,26 @@ h5 {
     flex-grow: 1;
   }
 
-    /***** AUDITION PAGE *****/
-    .deadlines .textContainer p{
-        font-size: 3.25vw;
-    }
-    .deadlines .textContainer b{
-        font-size: 10vw;
-        line-height: 3vw;
-    }
-    .deadlines {
-        width: 98%;
-        width: calc(100% - 1rem);
-        margin: 1rem auto;
-    }
-    .deadlines .sq {
-        width: 33vw;
-        height: 33vw;
-        -webkit-box-flex: 1;
-        -ms-flex: 1;
-        flex: 1;
-    }
+  /***** AUDITION PAGE *****/
+  .deadlines .textContainer p{
+      font-size: 3.25vw;
+  }
+  .deadlines .textContainer b{
+      font-size: 10vw;
+      line-height: 3vw;
+  }
+  .deadlines {
+      width: 98%;
+      width: calc(100% - 1rem);
+      margin: 1rem auto;
+  }
+  .deadlines .sq {
+      width: 33vw;
+      height: 33vw;
+      -webkit-box-flex: 1;
+      -ms-flex: 1;
+      flex: 1;
+  }
 
 	/***** ABOUT *****/
   .aboutLinks {
@@ -1954,11 +1991,11 @@ h5 {
 }
 /**** SCREEN SIZES BELOW 375PX *****/
 @media (max-width: 375px) {
-  #homepageTitle h2 {
+  .fullpageTitle h2 {
 		font-size: 20pt;
     line-height: 20pt;
 	}
-	#homepageTitle h1 {
+	.fullpageTitle h1 {
 		font-size: 36pt;
 	}
   th, td {

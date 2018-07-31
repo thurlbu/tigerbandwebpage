@@ -40,10 +40,10 @@
     <!--- MAIN PHOTO --->
 
     <div class="joinFullscrContainer">
-        <div id="screenShade"></div>
+        <div id="screenShade" class="animate"></div>
     </div>
 
-    <div id="homepageTitle" class="joinAnimation">
+    <div class="fullpageTitle join">
         <h2>Join</h2>
         <h1>Tiger Band</h1>
     </div>

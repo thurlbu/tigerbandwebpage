@@ -41,11 +41,11 @@
     <!--- COVER/PASSWORD SCREEN --->
 
     <div id="coverScreen">
-        <div id="joinFullscrContainer">
+        <div class="joinFullscrContainer">
             <div id="screenShade"></div>
         </div>
 
-        <div id="homepageTitle" class="members">
+        <div class="fullpageTitle members">
             <h2>Tiger Band</h2>
             <h1>Members Only</h1>
         </div>
