@@ -1440,14 +1440,6 @@ h5 {
   #footerColsLayout {
       padding: 1vw;
   }
-  @keyframes openShade {
-    0% {
-      background: linear-gradient(to bottom, rgba(0,0,0, 0.5) 80%, rgba(0,0,0, 0.8) 100%), rgba(0,0,0, 0.5);
-    }
-    100% {
-      background: radial-gradient(transparent 10%, rgba(0,0,0, 0.8) 90%), rgba(0,0,0, 0.15);
-    }
-  }
 	/***** MOBILE MENU *****/
 	nav {
 		background: rgba(0, 0, 0, 0);
