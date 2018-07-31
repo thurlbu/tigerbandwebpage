@@ -39,11 +39,11 @@
 <body>
     <!--- MAIN PHOTO --->
 
-    <div id="joinFullscrContainer">
+    <div class="joinFullscrContainer">
         <div id="screenShade"></div>
     </div>
 
-    <div id="homepageTitle">
+    <div id="homepageTitle" class="joinAnimation">
         <h2>Join</h2>
         <h1>Tiger Band</h1>
     </div>

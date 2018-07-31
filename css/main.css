@@ -15,7 +15,10 @@ a {
     color: #522D80;
     text-decoration: none;
 }
-#mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade {
+#mobileHeader,
+#menuButton,
+#mobileMenu,
+#mobileScreenShade {
 	display: none;
 }
 .hide {
@@ -44,7 +47,7 @@ a.richLink {
     transition-property: box-shadow, transform;
     transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform;
 }
-a.richLink.cta {
+.cta {
     color: white;
     background: #522D80;
 }
@@ -162,18 +165,13 @@ a.richLink:hover {
 
 /***** NAVIGATION BAR ****/
 nav {
-    /*background: white;*/
     background: #181818;
     width: 100vw;
     text-align: center;
     position: fixed;
         top: 0;
         left: 0;
-    display: -webkit-box;
-  	display: -ms-flexbox;
   	display: flex;
-    /*border-top: 3px solid white;
-    padding-top: 3px; */
   	-webkit-box-orient: horizontal;
   	-webkit-box-direction: normal;
   	-ms-flex-flow: row nowrap;
@@ -185,7 +183,6 @@ nav {
     box-shadow: 0 1px 3px rgba(0,0,0,0.2), 0 1px 3px rgba(0,0,0,0.2);
 }
 nav a {
-    /*color: #86898C;*/
     color: #D3D3D3;
     text-decoration: none;
     font-weight: 700;
@@ -197,22 +194,6 @@ nav a {
   	-webkit-transition: color 300ms ease;
   	transition: color 300ms ease;
 }
-/*nav::before {
-  content: "";
-  position: absolute;
-  height: 3px;
-  top: 3px;
-  width: 100vw;
-  background: #F66733;
-}
-nav::after {
-  content: "";
-  position: absolute;
-  top: -3px;
-  height: 3px;
-  width: 100vw;
-  background: #522D80;
-}*/
 nav a:hover, nav a.active {
     color: white;
 }
@@ -246,9 +227,9 @@ footer a:hover {
     -webkit-box-direction: normal;
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
-    -webkit-box-align: top;
-    -ms-flex-align: top;
-    align-items: top;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: start;
     width: 98vw;
     padding: 1vw;
 }
@@ -261,11 +242,11 @@ footer table {
 footer table tr:first-child td{
     font-weight: 400;
 }
-footer table:first-child td, footer table:nth-child(2) td{
+footer table:first-child td, footer table:nth-child(2) td {
     text-align: left;
     padding: 0.25rem;
 }
-footer table:nth-child(4) td, footer table:last-child td{
+footer table:nth-child(4) td, footer table:last-child td {
     text-align: right;
     padding: 0.25rem;
 }
@@ -548,7 +529,8 @@ video#homeVideoBkg {
 }
 #instagram:hover {
     background: #e1306c;
-    /*background: linear-gradient(to top right, yellow, red, purple);*/
+    background: linear-gradient(to top right, #FCAF45, #F56040, #E1306C, #C13584);
+    background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
 }
 #snapchat:hover {
     background: #FFFc00;
@@ -792,7 +774,7 @@ td:first-child, td:nth-child(2) {
 }
 
 /***** JOIN PAGE ******/
-#joinFullscrContainer {
+.joinFullscrContainer {
     margin-top: -2.5rem;
     width: 100vw;
     height: 100vh;
@@ -1448,7 +1430,6 @@ h5 {
 		position: fixed;
 			top: -35rem;
 			left: 0;
-    padd
 		display: -webkit-box;
 		display: -ms-flexbox;
 		display: flex;
