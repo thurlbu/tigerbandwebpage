@@ -45,14 +45,14 @@
         </video>
     </div>
 
-    <div id="homepageTitle">
+    <div class="fullpageTitle">
         <h2>Clemson University</h2>
         <h1>Tiger Band</h1>
     </div>
 
 
-    <img id="tbHomeLogo" src="/img/logos/TigerBandWhite.png">
-    <img id="clemsonLogo" src="/img/logos/clemsonPaw.svg" width="75">
+    <img class="tbHomeLogo" src="/img/logos/TigerBandWhite.png">
+    <img class="clemsonLogo" src="/img/logos/clemsonPaw.svg" width="75">
 
     <!-- BOX UI-->
 
