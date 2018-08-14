@@ -1165,6 +1165,7 @@ h4.expand + .expandButton img {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
     margin-top: 1rem;
 }
 .fileUIcontainer p{
