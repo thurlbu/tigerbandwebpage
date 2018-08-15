@@ -2,13 +2,10 @@ const gulp = require('gulp');
 const browserSync = require('browser-sync');
 const connect = require('gulp-connect-php');
 
-const uglify = require('gulp-uglify');
 const imagemin = require('gulp-imagemin');
 const cache = require('gulp-cache');
 const del = require('del');
 const runSequence = require('run-sequence');
-const gulpIf = require('gulp-if');
-const useref = require('gulp-useref');
 const cleanCSS = require('gulp-clean-css');
 
 gulp.task('default', function (callback) {
