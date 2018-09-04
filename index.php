@@ -161,7 +161,7 @@
               <p>One of the great Tiger Band Traditions is when we learn to sing the Alma Mater for the first time.  There's truly somthing in these hills...</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
@@ -171,7 +171,7 @@
               <p>We're ready for the Power Rangers on the D-Line to lead our team for another exciting season!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=BMXxjykhBaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/BMXxjykhBaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
