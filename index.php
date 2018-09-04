@@ -186,15 +186,7 @@
                 </div>
             </article>
 
-            <article class="media">
-                <h1>We are Tiger Band</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+
         </div>
 
         <div id="col2Flex">
@@ -223,7 +215,15 @@
                 </div>
             </article>
 
-
+            <article class="media">
+                <h1>We are Tiger Band</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </article>
 
         </div>
     </div>
