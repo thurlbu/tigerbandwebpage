@@ -156,24 +156,25 @@
 
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
-            <article class="text">
-                <h1>Join the 2018 Clemson University Tiger Band</h1>
-                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/Basco.jpg'></a>
-                <p>Do you have what it takes to be a "Guardian of the Clemson Spirit?"</p>
-                <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
-                <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
-                <p>Submit your audition video today!</p>
-            </article>
+          <article class="media">
+              <h1>Clemson University Alma Mater</h1>
+              <p>One of the great Tiger Band Traditions is when we learn to sing the Alma Mater for the first time.  There's truly somthing in these hills...</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
 
-            <article class="text">
-                <h1>2018 Move-in Dates</h1>
-                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
-                <p>One perk about being a member of the 2018 Clemson University Tiger Band is the fact that you get to move in early!</p>
-                <p>All percussionists who earn a call-back audition will move in on AUGUST 13.</p>
-                <p>All section leaders and staff will move in on AUGUST 14.</p>
-                <p>All other wind players, dancers, twirlers, and colorguard members will move in on AUGUST 15.</p>
-                <p>Submit your audition video today!</p>
-            </article>
+          <article class="media">
+              <h1>Go Go Power Rangers</h1>
+              <p>We're ready for the Power Rangers on the D-Line to lead our team for another exciting season!</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/BMXxjykhBaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
 
             <article class="media">
                 <h1>Lee Greenwood performs with Tiger Band</h1>
@@ -185,15 +186,7 @@
                 </div>
             </article>
 
-            <article class="media">
-                <h1>We are Tiger Band</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+
         </div>
 
         <div id="col2Flex">
@@ -222,20 +215,12 @@
                 </div>
             </article>
 
-            <article class="text">
-                <h1>Welcome Marilla Riggs!</h1>
-                    <a href="http://tband.people.clemson.edu/staff/" class="boxWrapper"><img class="articleImg" src='/img/staff/Marilla.jpg'></a>
-                <p>Please help is in welcoming Ms. Marilla Riggs to the 2018 Tiger Band Staff! Marilla will be coaching the Tiger Band Dancers this upcoming season and we are very excited to welcome her to the team.</p>
-                <p>Marilla was trained in dance at the Shenandoah Conservatory and currently teaches dance at the Carolina Superstars Studio owned by Tiger Band Twirling Instructor, Hazel Cartee.</p>
-                <p>Read more about Marilla on our <a href="http://tband.people.clemson.edu/staff/">staff page.</a></p>
-            </article>
-
             <article class="media">
-                <h1>#TigerBandTour Vlog | Episode 2: The ACC Basketball Tournament</h1>
-                <p>Relive our trip to Brooklyn for the 2018 ACC Basketball Tournament through the eyes of a few current Tiger Band students!</p>
+                <h1>We are Tiger Band</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/x6M18mzgtj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
