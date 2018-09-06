@@ -78,12 +78,7 @@
                 <h4>Itineraries &amp; Schedules</h4>
             </div>
             <div id="expandFiles1" class="fileUIcontainer">
-              <div class="fileUIcontainer">
-                  <a href="/doc/Itineraries/TexasAMItinerary.pdf" target="_blank">
-                      <div class="fileUIfile">
-                          <span>Texas A&amp;M</span>
-                      </div>
-                  </a>
+                <p>There's nothing here yet.</p>
             </div>
         </div>
 
@@ -92,12 +87,7 @@
                 <h4>Excuse Letters</h4>
             </div>
             <div id="expandFiles2" class="fileUIcontainer">
-              <div class="fileUIcontainer">
-                  <a href="/doc/ExcuseLetters/TexasAM.pdf" target="_blank">
-                      <div class="fileUIfile">
-                          <span>Texas A&amp;M</span>
-                      </div>
-                  </a>
+                <p>There's nothing here yet.</p>
             </div>
         </div>
 
