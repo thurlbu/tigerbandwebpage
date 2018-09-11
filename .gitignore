@@ -1,6 +1,8 @@
 
 .DS_Store
-join/.DS_Store
-join/winds/.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
 node_modules
 prod
+.vscode
