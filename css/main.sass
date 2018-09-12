@@ -1,5 +1,7 @@
 /***** COLORS *****/
-
+$clemson-orange: #F66733
+$clemson-purple: #522D80
+$innovation-gray: #86898C
 
 /***** GENERAL FORMATTING ****/
 html
@@ -15,7 +17,7 @@ body
   margin-top: 3.5rem
 
 a
-  color: #522D80
+  color: $clemson-purple
   text-decoration: none
 
 #mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade, .hide
@@ -26,7 +28,7 @@ a
 
 a.richLink
   text-decoration: none
-  color: #522D80
+  color: $clemson-purple
   background: white
   font-size: 16pt
   text-align: center
@@ -43,7 +45,7 @@ a.richLink
 
 .cta
   color: white
-  background: #522D80
+  background: $clemson-purple
 
 a.richLink:hover
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25)
@@ -179,24 +181,22 @@ nav
     &:active
       background: #383838
     &.active
-      border-bottom: 3px solid #F66733
+      border-bottom: 3px solid $clemson-orange
       transition: border-bottom 300ms ease
 
 /***** FOOTER *****/
 
 footer
-  background: #F66733
+  background: $clemson-orange
   margin-top: auto
   a
     text-decoration: none
     color: white
     transition: color 300ms ease
     &:hover
-      color: #522D80
+      color: $clemson-purple
 
 #footerColsLayout
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   flex-flow: row nowrap
   align-items: start
@@ -299,8 +299,8 @@ video#homeVideoBkg
   width: 60%
   color: white
   line-height: 1.5rem
-  border-top: 3px solid #F66733
-  border-bottom: 3px solid #F66733
+  border-top: 3px solid $clemson-orange
+  border-bottom: 3px solid $clemson-orange
   animation: fadeIn 500ms ease-in-out
 
 .tbHomeLogo, .clemsonLogo
@@ -330,8 +330,6 @@ video#homeVideoBkg
 /** STYLING **/
 
 #boxUI
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   flex-wrap: wrap
   width: 100vw
@@ -356,10 +354,10 @@ video#homeVideoBkg
   width: 25vw
 
 .purp
-  background: #522D80
+  background: $clemson-purple
 
 .orange
-  background: #F66733
+  background: $clemson-orange
 
 .white
   background: white
@@ -388,7 +386,7 @@ video#homeVideoBkg
   background: url(/img/clemson-tiger-band-pitt-2016-713.jpg) (center / cover)
 
 #box7
-  background: #522D80 url(/img/logos/CUTBA.svg) (center / 60%) no-repeat
+  background: $clemson-purple url(/img/logos/CUTBA.svg) (center / 60%) no-repeat
 
 #box8
   background: url(/img/clemson-tiger-band-syracuse-2016-1054.jpg) (center / cover)
@@ -399,8 +397,6 @@ video#homeVideoBkg
 /** TEXT **/
 
 .textContainer
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   flex-flow: row wrap
   align-items: center
@@ -442,8 +438,6 @@ video#homeVideoBkg
     margin-bottom: 0.5rem
 
 #icons
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   justify-content: space-between
   align-items: center
@@ -458,10 +452,10 @@ video#homeVideoBkg
   position: relative
 
 #webLink, #twitter, #facebook, #instagram, #snapchat
-  background: #F66733
+  background: $clemson-orange
 
 #webLink:hover
-  background: #86898C
+  background: $innovation-gray
 
 #twitter:hover
   background: #1da1f2
@@ -495,8 +489,6 @@ video#homeVideoBkg
   transform: none
   width: 100%
   clear: both
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   justify-content: center
   align-items: center
@@ -539,11 +531,11 @@ article
   &.text
     h1
       font-size: 24pt
-      color: #F66733
+      color: $clemson-orange
     h2
       font-size: 14pt
       font-weight: 400
-      color: #522D80
+      color: $clemson-purple
       font-style: italic
       margin: 0
     p
@@ -564,7 +556,7 @@ article
 
 article.media h1
   font-size: 24pt
-  color: #522D80
+  color: $clemson-purple
 
 .iframeContainer
   width: 75%
@@ -588,23 +580,23 @@ article.media h1
 h3
   font-weight: 400
   font-size: 28pt
-  color: #F66733
+  color: $clemson-orange
   margin: 0
 
 h4
   font-weight: 700
   font-size: 36pt
-  color: #F66733
+  color: $clemson-orange
   margin: 0
 
 .orangeText
-  color: #F66733
+  color: $clemson-orange
 
 .purpleText
-  color: #522D80
+  color: $clemson-purple
 
 #heading
-  border-bottom: 3px solid #F66733
+  border-bottom: 3px solid $clemson-orange
   margin: 1rem 1.5rem
 
 /***** THIS SEASON PAGE *****/
@@ -662,10 +654,10 @@ img.slider
 article
   &.shows p
     padding-left: 2.5rem
-    color: #86898C
+    color: $innovation-gray
   &.officers
     p
-      color: #86898C
+      color: $innovation-gray
     b
       color: black
 
@@ -716,8 +708,6 @@ td
   margin-top: 0
 
 #auditionBoxUI
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   flex-flow: row wrap
   width: 80vw
@@ -760,8 +750,6 @@ td
   align-self: flex-start
 
 .deadlines
-  display: -webkit-box
-  display: -ms-flexbox
   display: flex
   flex-flow: row nowrap
   justify-content: center
@@ -784,14 +772,12 @@ td
 
 .boxUIelement.clicked .textContainer
   p, b
-    color: #F66733
+    color: $clemson-orange
 
 .month
   .textContainer
     p, b
-      color: #522D80
-  display: -webkit-box
-  display: -ms-flexbox
+      color: $clemson-purple
   display: flex
   flex-flow: row wrap
   &.num1, &.num3
@@ -811,7 +797,7 @@ td
   &:hover
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 4px 8px rgba(0, 0, 0, 0.2)
     p, b
-      color: #F66733
+      color: $clemson-orange
   &.clicked
     z-index: 2
 
@@ -827,7 +813,7 @@ td
   transition-property: height, transform
   transition-property: height, transform, -webkit-transform
   p
-    color: #F66733
+    color: $clemson-orange
     margin: 1rem
   &.clicked
     height: auto
@@ -845,7 +831,7 @@ td
 
 article
   &.text h1.purpleText
-    color: #522D80
+    color: $clemson-purple
   &.fullWidth p
     width: 100%
   &.expand
@@ -891,8 +877,6 @@ article.expand
   margin: 1rem
   align-content: center
   .boxUIelement
-    -webkit-box-flex: 1
-    -ms-flex-positive: 1
     flex-grow: 1
     width: 15vw
     height: 15vw
@@ -922,7 +906,7 @@ input[name="password"]
   width: 25rem
   background: none
   color: white
-  border: 2px solid #F66733
+  border: 2px solid $clemson-orange
   padding: 0.75rem
   text-align: center
   font-size: 24pt
@@ -1072,33 +1056,33 @@ h4.expand
     transition-property: background, border, color
   input
     &[type="text"], &[type="email"]
-      border-bottom: 2px solid #86898C
+      border-bottom: 2px solid $innovation-gray
   textarea
     height: 10rem
     max-height: 20rem
     max-width: 98%
     max-width: calc(100% - 1rem)
-    border: 2px solid #86898C
+    border: 2px solid $innovation-gray
     padding: 0.5rem
   input:focus, textarea:focus
     outline: none
   input
     &[type="text"]:focus, &[type="email"]:focus
-      border-bottom: 2px solid #F66733
+      border-bottom: 2px solid $clemson-orange
   textarea:focus
-    border: 2px solid #F66733
+    border: 2px solid $clemson-orange
   input
     &[type="submit"], &[type="reset"]
       width: 12vw
       margin: 0 auto
-      border: 2px solid #F66733
-      color: #F66733
+      border: 2px solid $clemson-orange
+      color: $clemson-orange
       cursor: pointer
       padding: 0.5rem
     &[type="submit"]:hover, &[type="reset"]:hover
-      background: #F66733
+      background: $clemson-orange
       color: white
-      border: 2px solid #F66733
+      border: 2px solid $clemson-orange
 
 #contactAddress
   width: 50%
@@ -1124,7 +1108,7 @@ h5
   position: relative
   left: 50%
   transform: translateX(-50%)
-  background: #F66733
+  background: $clemson-orange
   padding: 1rem
   width: 95%
   #icons
@@ -1256,14 +1240,14 @@ h5
       flex-basis: 100%
       transition: 300ms ease
       transition-property: color, background
-      border-bottom: 1px solid #86898C
+      border-bottom: 1px solid $innovation-gray
       &:hover
-        background: #F66733
+        background: $clemson-orange
         color: white
       &.active
-        background: #F66733
+        background: $clemson-orange
         color: white
-        border-bottom: 1px solid #86898C
+        border-bottom: 1px solid $innovation-gray
   #mobileHeader
     width: 100vw
     height: 2.5rem
@@ -1273,8 +1257,6 @@ h5
     left: 0
     background: white
     z-index: 20
-    display: -webkit-box
-    display: -ms-flexbox
     display: flex
     justify-content: center
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2)
@@ -1329,7 +1311,7 @@ h5
       left: 1rem
       right: 1rem
       height: 2.5px
-      background: #86898C
+      background: $innovation-gray
       transition: 300ms ease
       transition-property: background, -webkit-transform
       transition-property: background, transform
@@ -1340,7 +1322,7 @@ h5
         left: 0
         width: 100%
         height: 2.5px
-        background-color: #86898C
+        background-color: $innovation-gray
         content: ""
         transition: 300ms ease
         transition-property: background, -webkit-transform
@@ -1351,19 +1333,19 @@ h5
       &::after
         bottom: -8px
     &:hover span
-      background: #F66733
+      background: $clemson-orange
       &::before, &::after
-        background: #F66733
+        background: $clemson-orange
   #mobileMenu:checked ~ #mobileHeader #menuButton span
     background: none
     &::before
       top: 0
       transform: rotate(45deg)
-      background: #F66733
+      background: $clemson-orange
     &::after
       bottom: 0
       transform: rotate(-45deg)
-      background: #F66733
+      background: $clemson-orange
   /***** HOMEPAGE *****/
   #homeFullscrContainer
     background: url(/img/MobileBackground.jpg)
@@ -1431,7 +1413,6 @@ h5
     height: 50vw
     flex-grow: 1
     position: relative
-    transition: -webkit-transform 300ms ease
     transition: transform 300ms ease
     transition: transform 300ms ease, -webkit-transform 300ms ease
   .rect
@@ -1486,17 +1467,17 @@ h5
     &.text
       h1
         font-size: 18pt
-        color: #F66733
+        color: $clemson-orange
       h2
         font-size: 13pt
-        color: #522D80
+        color: $clemson-purple
         font-style: italic
         margin: 0
       p a
         word-break: break-all
     &.media h1
       font-size: 18pt
-      color: #522D80
+      color: $clemson-purple
   .articleImg
     width: 100%
     padding: 0
@@ -1516,9 +1497,9 @@ h5
   h4
     font-size: 28pt
   .orangeText
-    color: #F66733
+    color: $clemson-orange
   #heading
-    border-bottom: 3px solid #F66733
+    border-bottom: 3px solid $clemson-orange
     margin: 1rem 1rem
   /***** THIS SEASON *****/
   #Col2FlexContent
