@@ -1,0 +1,1653 @@
+/***** COLORS *****/
+$clemson-orange: #F66733
+$clemson-purple: #522D80
+$innovation-gray: #86898C
+
+/***** GENERAL FORMATTING ****/
+html
+  height: 100%
+  font-family: 'Roboto', sans-serif
+  background: #FAFAFA
+  overflow-x: hidden
+
+body
+  margin: 0
+  min-height: 95.5%
+  min-height: calc(100% - 3.5rem)
+  margin-top: 3.5rem
+
+a
+  color: $clemson-purple
+  text-decoration: none
+
+#mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade, .hide
+  display: none
+
+.show
+  display: block
+
+a.richLink
+  text-decoration: none
+  color: $clemson-purple
+  background: white
+  font-size: 16pt
+  text-align: center
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  padding: 1rem
+  margin: 1rem auto
+  display: block
+  width: 45%
+  transition: none 150ms ease
+  word-break: keep-all
+  transition-property: -webkit-box-shadow, -webkit-transform
+  transition-property: box-shadow, transform
+  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
+
+.cta
+  color: white
+  background: $clemson-purple
+
+a.richLink:hover
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25)
+  transform: translateY(-1px)
+
+*
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+/***** ANIMATION KEYFRAMES ****/
+@-webkit-keyframes bounceDown
+  0%, 50%, 100%
+    transform: translateY(0)
+
+  25%, 75%
+    transform: translateY(0.5rem)
+
+
+@keyframes bounceDown
+  0%, 50%, 100%
+    transform: translateY(0)
+
+  25%, 75%
+    transform: translateY(0.5rem)
+
+
+@-webkit-keyframes bounceUp
+  0%, 50%, 100%
+    transform: translateY(0)
+
+  25%, 75%
+    transform: translateY(-0.5rem)
+
+
+@keyframes bounceUp
+  0%, 50%, 100%
+    transform: translateY(0)
+
+  25%, 75%
+    transform: translateY(-0.5rem)
+
+
+@-webkit-keyframes fadeOut
+  from
+    opacity: 1
+
+  to
+    opacity: 0
+
+
+@keyframes fadeOut
+  from
+    opacity: 1
+
+  to
+    opacity: 0
+
+
+@-webkit-keyframes shake
+  0%, 100%
+    transform: translate(0, 0)
+
+  10%, 30%, 50%, 70%, 90%
+    transform: translate(-7px, 0)
+
+  20%, 40%, 60%, 80%
+    transform: translate(7px, 0)
+
+
+@keyframes shake
+  0%, 100%
+    transform: translate(0, 0)
+
+  10%, 30%, 50%, 70%, 90%
+    transform: translate(-7px, 0)
+
+  20%, 40%, 60%, 80%
+    transform: translate(7px, 0)
+
+
+@-webkit-keyframes fadeIn
+  0%
+    opacity: 0
+
+  100%
+    opacity: 1
+
+
+@keyframes fadeIn
+  0%
+    opacity: 0
+
+  100%
+    opacity: 1
+
+
+@keyframes joinAnimation
+  0%
+    height: 30%
+    transform: translate(-50%, -50%, 0)
+    /* enable hardware acceleration
+
+  100%
+    height: 75%
+    transform: translate(-50%, -50%, 0)
+    /* enable hardware acceleration
+
+
+/***** NAVIGATION BAR ***/
+
+nav
+  background: #181818
+  width: 100vw
+  text-align: center
+  position: fixed
+  top: 0
+  left: 0
+  display: flex
+  flex-flow: row nowrap
+  justify-content: space-around
+  z-index: 9
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2)
+  a
+    color: #D3D3D3
+    text-decoration: none
+    font-weight: 700
+    font-size: 12.5pt
+    padding: 0.75rem 0 0.5rem 0
+    flex: 1 0 7.14%
+    transition: color 300ms ease
+    &:hover, &.active
+      color: white
+    &:active
+      background: #383838
+    &.active
+      border-bottom: 3px solid $clemson-orange
+      transition: border-bottom 300ms ease
+
+/***** FOOTER *****/
+
+footer
+  background: $clemson-orange
+  margin-top: auto
+  a
+    text-decoration: none
+    color: white
+    transition: color 300ms ease
+    &:hover
+      color: $clemson-purple
+
+#footerColsLayout
+  display: flex
+  flex-flow: row nowrap
+  align-items: start
+  width: 98vw
+  padding: 1vw
+
+footer
+  table
+    width: 19.5vw
+    color: white
+    font-size: 11pt
+    font-weight: 400
+    tr:first-child td
+      font-weight: 400
+    &:first-child td, &:nth-child(2) td
+      text-align: left
+      padding: 0.25rem
+    &:nth-child(4) td, &:last-child td
+      text-align: right
+      padding: 0.25rem
+  #footerLogo
+    align-self: center
+    width: 50%
+    max-width: 20rem
+    display: block
+    margin: auto
+
+hr
+  width: 98vw
+  background: white
+  margin: auto
+
+footer #socMedContainer
+  width: 35%
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+  padding: 0.5rem
+  .socialBorder
+    width: 3.5rem
+    height: 3.5rem
+
+body.stickyFooter
+  display: flex
+  flex-direction: column
+
+.stickyFooterContent
+  flex: 1 0 auto
+
+/***** HOMEPAGE *****/
+/***** FULLSCREEN HOMEPAGE IMAGE/VIDEO & TITLE *****/
+
+#homeFullscrContainer
+  position: relative
+  margin-top: -2.5rem
+  width: 100vw
+  height: 100vh
+  overflow: hidden
+
+video#homeVideoBkg
+  position: absolute
+  top: 50%
+  left: 50%
+  min-height: 100%
+  transform: translate(-50%, -50%)
+  z-index: -2
+
+#screenShadeHome
+  width: 100vw
+  height: 100vh
+  background: rgba(0, 0, 0, 0.5)
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0.3)), 75%, rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.8)))
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.8) 100%)
+  z-index: -1
+  &::after
+    content: ""
+    display: block
+    position: absolute
+    left: 0
+    top: 0
+    width: 100vw
+    height: 100vh
+    background: black
+    z-index: -2
+
+#screenShade
+  width: 100vw
+  height: 100vh
+  background: rgba(0, 0, 0, 0.5)
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(80%, rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.8)))
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 80%, rgba(0, 0, 0, 0.8) 100%)
+  z-index: -1
+
+.fullpageTitle
+  text-align: center
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  width: 60%
+  color: white
+  line-height: 1.5rem
+  border-top: 3px solid $clemson-orange
+  border-bottom: 3px solid $clemson-orange
+  animation: fadeIn 500ms ease-in-out
+
+.tbHomeLogo, .clemsonLogo
+  animation: fadeIn 500ms ease-in-out
+
+.fullpageTitle
+  h2
+    font-size: 55pt
+    font-weight: 400
+  h1
+    font-size: 95pt
+    font-weight: 700
+
+.tbHomeLogo
+  position: absolute
+  left: 0.5vw
+  bottom: 1vh
+  width: 12rem
+
+.clemsonLogo
+  position: absolute
+  right: 1vw
+  bottom: 2vh
+  width: 6rem
+
+/*****BOX UI*****/
+/** STYLING **/
+
+#boxUI
+  display: flex
+  flex-wrap: wrap
+  width: 100vw
+  a
+    text-decoration: none
+
+#auditionBoxUI a, #rgBoxUI a, .aboutLinks a
+  text-decoration: none
+
+.boxUIelement
+  height: 33vh
+  flex-grow: 1
+  position: relative
+  transition: -webkit-transform 300ms ease
+  transition: transform 300ms ease
+  transition: transform 300ms ease, -webkit-transform 300ms ease
+
+.rect
+  width: 50vw
+
+.sq
+  width: 25vw
+
+.purp
+  background: $clemson-purple
+
+.orange
+  background: $clemson-orange
+
+.white
+  background: white
+
+.boxWrapper
+  overflow: hidden
+  position: relative
+  &:hover .boxUIelement
+    transform: scale(1.1)
+
+/** PHOTOS **/
+
+#box1
+  background: url(/img/logos/tigerbandmedia.png) (center / 80%) no-repeat, url(/img/TigerBandMediaBackground.jpg)
+
+#box2
+  background: url(/img/clemson-tiger-band-syracuse-2016-526.jpg) (center / cover)
+
+#box3
+  background: white url(/img/logos/YouTube.png) (center / 50%) no-repeat
+
+#box4
+  background: url(/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg) (center / cover)
+
+#box5
+  background: url(/img/clemson-tiger-band-pitt-2016-713.jpg) (center / cover)
+
+#box7
+  background: $clemson-purple url(/img/logos/CUTBA.svg) (center / 60%) no-repeat
+
+#box8
+  background: url(/img/clemson-tiger-band-syracuse-2016-1054.jpg) (center / cover)
+
+#box9
+  background: url(/img/clemson-tiger-band-syracuse-2016-189.jpg) (center / cover)
+
+/** TEXT **/
+
+.textContainer
+  display: flex
+  flex-flow: row wrap
+  align-items: center
+  justify-content: center
+  background: rgba(0, 0, 0, 0.4)
+  width: 100%
+  height: 100%
+  transition: background 300ms ease
+  &:hover
+    background: rgba(0, 0, 0, 0.6)
+  &.hide:hover
+    background: rgba(0, 0, 0, 0.6)
+    p
+      opacity: 1
+  p
+    font-size: 24pt
+    text-align: center
+    color: white
+    width: 100%
+    padding: 0
+    margin: 0
+    transition: opacity 300ms ease
+  &.hide
+    background: none
+    p
+      opacity: 0
+
+/** SOCIAL MEDIA **/
+
+#socMedContainer
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+  p
+    color: white
+    text-align: center
+    font-size: 24pt
+    margin-bottom: 0.5rem
+
+#icons
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+.socialBorder
+  border: 1px solid white
+  width: 4rem
+  height: 4rem
+  border-radius: 50%
+  transition: background-color 300ms ease
+  cursor: pointer
+  position: relative
+
+#webLink, #twitter, #facebook, #instagram, #snapchat
+  background: $clemson-orange
+
+#webLink:hover
+  background: $innovation-gray
+
+#twitter:hover
+  background: #1da1f2
+
+#facebook:hover
+  background: #3b5998
+
+#instagram:hover
+  background: #e1306c
+  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%)
+
+#snapchat:hover
+  background: #FFFc00
+  img
+    filter: drop-shadow(0 0 0.5px black)
+
+.socialIcon
+  width: 2rem
+  height: 2rem
+  flex-wrap: wrap
+  position: absolute
+  left: 50%
+  top: 50%
+  transform: translate(-50%, -50%)
+
+#socMedContainer.organizations
+  padding: 1rem 0
+  position: relative
+  top: 0
+  left: 0
+  transform: none
+  width: 100%
+  clear: both
+  display: flex
+  justify-content: center
+  align-items: center
+  #icons
+    width: 50%
+    justify-content: center
+    a
+      padding: 0 1.5rem
+
+/***** HOMEPAGE ARTICLES *****/
+
+#content, #Col2FlexContent.homepage
+  display: flex
+  flex-flow: row wrap
+  width: 96.5vw
+  width: calc(100vw - 4rem)
+  margin: auto
+  margin-bottom: 1.5rem
+  justify-content: space-between
+  padding-top: 0
+  align-items: flex-start
+
+#content.centered
+  justify-content: center
+
+article
+  width: calc(50% - 4rem)
+  margin: 1.5rem 0 0 0
+  padding: 1.5rem
+  background: white
+  overflow: auto
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  transition: none 150ms ease
+  transition-property: -webkit-box-shadow, -webkit-transform
+  transition-property: box-shadow, transform
+  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
+  &.text h1, &.media h1
+    margin: 0
+    font-weight: 400
+  &.text
+    h1
+      font-size: 24pt
+      color: $clemson-orange
+    h2
+      font-size: 14pt
+      font-weight: 400
+      color: $clemson-purple
+      font-style: italic
+      margin: 0
+    p
+      padding: 0.5rem 0
+      margin: 0
+  &.media p
+    padding: 0.5rem 0
+    margin: 0
+
+#col1Flex > a, #col2Flex > a
+  text-decoration: none
+  color: black
+
+.articleImg
+  width: 70%
+  float: right
+  padding: 0.5rem
+
+article.media h1
+  font-size: 24pt
+  color: $clemson-purple
+
+.iframeContainer
+  width: 75%
+  margin: auto
+
+.iFrameAspectRatio
+  position: relative
+  padding-bottom: 56.25%
+  width: 100%
+  margin: auto
+  height: 0
+  iframe
+    position: absolute
+    left: 0
+    top: 0
+    height: 100%
+    width: 100%
+
+/***** OTHER PAGE HEADING FORMATTING *****/
+
+h3
+  font-weight: 400
+  font-size: 28pt
+  color: $clemson-orange
+  margin: 0
+
+h4
+  font-weight: 700
+  font-size: 36pt
+  color: $clemson-orange
+  margin: 0
+
+.orangeText
+  color: $clemson-orange
+
+.purpleText
+  color: $clemson-purple
+
+#heading
+  border-bottom: 3px solid $clemson-orange
+  margin: 1rem 1.5rem
+
+/***** THIS SEASON PAGE *****/
+
+#Col2FlexContent
+  display: flex
+  flex-flow: row wrap
+  width: 96.5vw
+  width: calc(100vw - 4rem)
+  margin: auto
+  margin-bottom: 1.5rem
+  justify-content: space-between
+  padding-top: 0
+  align-items: flex-start
+
+#col1Flex, #col2Flex
+  width: calc(50% - 1rem)
+  margin: 0
+  padding: 0
+
+#col1Flex article, #col2Flex article
+  width: 96%
+  width: calc(100% - 2rem)
+
+#photoSlider
+  width: 101.75%
+  margin: 2rem 0
+  .controls
+    width: 50%
+    margin: auto
+    margin-top: -2.5rem
+    text-align: center
+
+img.slider
+  display: none
+  width: 100%
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+
+.dots
+  display: inline-block
+  height: 1rem
+  width: 1rem
+  border: 1px solid white
+  border-radius: 50%
+  transition: background 300ms ease
+  cursor: pointer
+  &:hover
+    background: white
+
+.dot-white
+  background: white
+
+/** ARTICLE FORMATTING **/
+
+article
+  &.shows p
+    padding-left: 2.5rem
+    color: $innovation-gray
+  &.officers
+    p
+      color: $innovation-gray
+    b
+      color: black
+
+/** FOOTBALL CALENDAR FORMATTING **/
+
+table
+  width: 100%
+  border-collapse: collapse
+
+tr
+  &:nth-child(even)
+    background: rgba(246, 103, 51, 0.5)
+  &:nth-child(12)
+    background: rgba(82, 45, 128, 0.5)
+  &:nth-child(13)
+    background: rgba(246, 103, 51, 0.5)
+  &:nth-child(14)
+    background: white
+
+th
+  padding: 0.5rem
+
+td
+  padding: 0.5rem
+  &:first-child, &:nth-child(2)
+    text-align: center
+
+/***** JOIN PAGE ******/
+
+.joinFullscrContainer
+  margin-top: -2.5rem
+  width: 100vw
+  height: 100vh
+  background-image: url(/img/clemson-tiger-band-syracuse-2016-1054.jpg)
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.fullpageTitle.join
+  height: 30%
+  display: flex
+  flex-direction: column
+  justify-content: space-between
+  will-change: height
+  animation: joinAnimation 1s ease-out 800ms forwards, fadeIn 500ms ease-in-out
+
+.join h1
+  margin-top: 0
+
+#auditionBoxUI
+  display: flex
+  flex-flow: row wrap
+  width: 80vw
+  margin: auto
+  margin-top: 2rem
+  margin-bottom: 2rem
+  .sq, .boxWrapper
+    width: auto
+    height: 25vh
+    flex: 1
+
+#inlineBox1
+  background-image: url(/img/clemson-tiger-band-ncstate-2016-428.jpg)
+  background-size: cover
+  background-position: center
+
+#inlineBox2
+  background-image: url(/img/clemson-tiger-band-ncstate-2016-162.jpg)
+  background-size: cover
+  background-position: center
+
+#inlineBox3
+  background-image: url(/img/clemson-tiger-band-syracuse-2016-462.jpg)
+  background-size: cover
+  background-position: center
+
+#inlineBox4
+  background-image: url(/img/Dancers.jpg)
+  background-size: cover
+  background-position: center
+
+#inlineBox5
+  background-image: url(/img/Twirlers.jpg)
+  background-size: cover
+  background-position: center
+
+/***** AUDITION PAGE *****/
+
+.about #col1Flex
+  align-self: flex-start
+
+.deadlines
+  display: flex
+  flex-flow: row nowrap
+  justify-content: center
+  width: 98%
+  width: calc(100% - 2.5rem)
+  height: 100%
+  margin: 1.25rem
+  .textContainer
+    background: white
+    user-select: none
+    p
+      width: 100%
+      font-size: 1.75vw
+      transition: color 300ms ease
+    b
+      color: white
+      font-size: 6.5vw
+      line-height: 3.5vw
+      transition: color 300ms ease
+
+.boxUIelement.clicked .textContainer
+  p, b
+    color: $clemson-orange
+
+.month
+  .textContainer
+    p, b
+      color: $clemson-purple
+  display: flex
+  flex-flow: row wrap
+  &.num1, &.num3
+    width: 26vw
+  &.num2
+    width: 39vw
+
+.deadlines .sq
+  width: 12.5vw
+  height: 12.5vw
+  background: none
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  position: relative
+  z-index: 3
+  cursor: pointer
+  transition: box-shadow 300ms ease
+  &:hover
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 4px 8px rgba(0, 0, 0, 0.2)
+    p, b
+      color: $clemson-orange
+  &.clicked
+    z-index: 2
+
+.deadlinesInfo
+  width: 100%
+  background: white
+  height: 0
+  transform: scaleY(0)
+  transform-origin: top
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  transition: none 150ms ease
+  transition-property: height, -webkit-transform
+  transition-property: height, transform
+  transition-property: height, transform, -webkit-transform
+  p
+    color: $clemson-orange
+    margin: 1rem
+  &.clicked
+    height: auto
+    background: white
+    transform: scaleY(1)
+    z-index: 2
+
+#audioContainer
+  display: flex
+  flex-flow: row wrap
+
+.auditionAudio
+  width: 50%
+  text-align: center
+
+article
+  &.text h1.purpleText
+    color: $clemson-purple
+  &.fullWidth p
+    width: 100%
+  &.expand
+    cursor: pointer
+    position: relative
+    &.clicked .staffBio
+      display: block
+      overflow: auto
+      height: 100%
+    .staffBio
+      display: none
+    &.clicked .expandButton img
+      transform: rotateX(180deg)
+
+/***** ABOUT PAGE *****/
+
+.expandButton
+  position: absolute
+  right: 0.25rem
+  pointer-events: none
+  user-select: none
+  img
+    float: right
+    margin-top: -0.5rem
+    transition: 300ms all ease-in-out
+
+article.expand
+  .expandButton img
+    margin-top: -0.5rem
+  &:hover .expandButton
+    animation: bounceDown 500ms ease
+  &.clicked:hover .expandButton
+    animation: bounceUp 500ms ease
+
+#Col2FlexContent.about
+  align-items: center
+
+.aboutLinks
+  display: flex
+  flex-flow: row nowrap
+  width: 90%
+  width: calc(100% - 2rem)
+  margin: 1rem
+  align-content: center
+  .boxUIelement
+    flex-grow: 1
+    width: 15vw
+    height: 15vw
+  p
+    font-size: 20pt
+
+#aboutBox2
+  background-image: url(/img/logos/CUTBA.svg)
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: center
+
+img.staffPortrait
+  width: 15rem
+  float: right
+  margin: 0
+  padding: 1rem
+  border-radius: 50%
+  shape-outside: circle()
+
+.aboutLinks
+  text-align: center
+
+/***** MEMBERS ONLY PAGE *****/
+
+input[name="password"]
+  width: 25rem
+  background: none
+  color: white
+  border: 2px solid $clemson-orange
+  padding: 0.75rem
+  text-align: center
+  font-size: 24pt
+  font-weight: 400
+  transition: background 300ms ease
+  &:focus
+    outline: none
+    background: rgba(0, 0, 0, 0.35)
+
+#pwdFlex
+  position: absolute
+  left: 50%
+  top: 80vh
+  transform: translateX(-50%)
+
+.fadeOut
+  animation: fadeOut 150ms ease
+
+.shake
+  animation: shake 700ms ease
+
+#membersContent
+  animation: fadeIn 300ms ease
+
+.hidden
+  display: none
+
+#music
+  margin-bottom: 1.5rem
+
+#membersContent h4, #music h4
+  padding-top: 2.5rem
+  margin-top: -2.5rem
+
+#membersContent h4.purpleText, #music h4.purpleText
+  margin-left: 1.5rem
+  margin-right: 1.5rem
+  margin-top: 1rem
+  padding-top: 0
+  background: white
+  padding: 1rem
+  font-size: 26pt
+  font-weight: 400
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  transition: none 150ms ease
+  transition-property: -webkit-box-shadow, -webkit-transform
+  transition-property: box-shadow, transform
+  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
+
+#membersContent h4.purpleText:hover, #music h4.purpleText:hover
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25)
+  transform: translateY(-1px)
+
+h4.expand, .expandButton
+  cursor: pointer
+
+h4.expand
+  + .expandButton + .fileUIcontainer
+    display: none
+  &.clicked + .expandButton
+    + .fileUIcontainer
+      display: flex
+    img
+      transform: rotateX(180deg)
+  &:hover + .expandButton
+    animation: bounceDown 500ms ease
+  &.clicked:hover + .expandButton
+    animation: bounceUp 500ms ease
+  + .expandButton img
+    float: right
+    margin-top: -4.6rem
+    margin-right: 5rem
+    transition: 300ms all ease-in-out
+
+.fileUIcontainer
+  width: 100%
+  height: auto
+  background: dimgray
+  flex-flow: row nowrap
+  overflow-x: scroll
+  margin-top: 1rem
+  p
+    text-align: center
+    color: darkgray
+    font-size: 14pt
+    height: 12rem
+    line-height: 12rem
+
+.fileUIfile
+  position: relative
+  margin: 1rem
+  background: white
+  height: 12rem
+  width: 12rem
+  background: white url('../img/logos/clemsonPaw.svg') 50% (25% / 50%) no-repeat
+  span
+    position: absolute
+    bottom: 0
+    left: 0
+    background: lightgray
+    height: 3rem
+    width: 100%
+    font-size: 16pt
+    text-align: center
+    line-height: 3rem
+
+.fileUIcontainer a
+  color: black
+
+.fileUIfile img
+  position: absolute
+  top: 25%
+  left: 50%
+  transform: translate(-50%, -25%)
+  width: 8rem
+  height: 8rem
+
+/***** CONTACT PAGE *****/
+
+#contactWrapper
+  display: flex
+  flex-flow: wrap row
+  align-items: center
+  width: 92.5vw
+  width: calc(100% - 5rem)
+  margin: 2rem 0
+  padding: 1rem
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+
+#contactForm
+  display: flex
+  flex-flow: column nowrap
+  align-items: center
+  width: 47.5%
+  width: calc(50% - 2rem)
+  padding: 1rem
+  input, textarea
+    width: 100%
+    font-size: 14pt
+    border: none
+    padding: 0
+    margin-bottom: 1.5rem
+    background: none
+    transition: none 300ms ease-in-out
+    transition-property: background, border, color
+  input
+    &[type="text"], &[type="email"]
+      border-bottom: 2px solid $innovation-gray
+  textarea
+    height: 10rem
+    max-height: 20rem
+    max-width: 98%
+    max-width: calc(100% - 1rem)
+    border: 2px solid $innovation-gray
+    padding: 0.5rem
+  input:focus, textarea:focus
+    outline: none
+  input
+    &[type="text"]:focus, &[type="email"]:focus
+      border-bottom: 2px solid $clemson-orange
+  textarea:focus
+    border: 2px solid $clemson-orange
+  input
+    &[type="submit"], &[type="reset"]
+      width: 12vw
+      margin: 0 auto
+      border: 2px solid $clemson-orange
+      color: $clemson-orange
+      cursor: pointer
+      padding: 0.5rem
+    &[type="submit"]:hover, &[type="reset"]:hover
+      background: $clemson-orange
+      color: white
+      border: 2px solid $clemson-orange
+
+#contactAddress
+  width: 50%
+
+#contactTBlogo
+  display: block
+  width: 40%
+  margin: auto
+
+#contactInfo
+  text-align: center
+  margin-top: 1rem
+
+h5
+  font-size: 24pt
+  margin: 0.75rem
+
+#contactInfo p
+  margin: 0
+  font-size: 16pt
+
+#socMedContainer.contact
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+  background: $clemson-orange
+  padding: 1rem
+  width: 95%
+  #icons
+    flex-flow: row wrap
+    width: 30rem
+    margin: auto
+    div
+      margin: 0.5rem
+  &.submit
+    position: absolute
+    top: 85vh
+
+/**** SCREEN SIZES BELOW 1455PX *****/
+@media (max-width: 1455px)
+  .iframeContainer
+    width: 100%
+    margin: auto
+  /***** HOMEPAGE *****/
+  .fullpageTitle
+    width: 75%
+    h2
+      font-size: 40pt
+    h1
+      font-size: 65pt
+  /***** NAVIGATION BAR *****/
+  nav a
+    font-size: 11.5pt
+    -ms-flex-preferred-size: auto
+    flex-basis: auto
+    &.active
+      border-bottom-width: 4px
+  /***** BOX UI ******/
+  .textContainer p
+    font-size: 18pt
+  .boxWrapper:hover .boxUIelement
+    transform: scale(1.07)
+  #socMedContainer p
+    font-size: 18pt
+  .socialBorder
+    border: 2px solid white
+    width: 3rem
+    height: 3rem
+  .socialIcon
+    width: 1.5rem
+    height: 1.5rem
+    flex-wrap: wrap
+    position: absolute
+    left: 50%
+    top: 50%
+    transform: translate(-50%, -50%)
+  /***** AUDITION PAGE *****/
+  .auditionAudio
+    width: 100%
+    text-align: center
+  .deadlines .textContainer
+    p
+      font-size: 2vw
+    b
+      font-size: 7vw
+      line-height: 3.5vw
+  /***** ABOUT PAGE ******/
+  .aboutLinks
+    margin: 0
+    width: 100%
+    p
+      font-size: 16pt
+  img.staffPortrait
+    width: 35%
+  /***** MEMBERS ONLY PAGE *****/
+  #music .expandButton img
+    margin-left: 20rem
+  .fileUIfile
+    height: 10rem
+    width: 10rem
+    span
+      height: 2.5rem
+      font-size: 16pt
+      line-height: 2.5rem
+    img
+      width: 5rem
+      height: 5rem
+  /***** CONTACT PAGE *****/
+  #contactInfo
+    h5
+      font-size: 20pt
+    p
+      font-size: 14pt
+  #contactForm input
+    &[type="submit"], &[type="reset"]
+      width: 20vw
+
+/**** MOBILE VERSION *****/
+/**** SCREEN SIZES BELOW 800PX *****/
+@media (max-width: 800px)
+  body
+    margin-top: 3rem
+  \::-webkit-scrollbar
+    display: none
+  footer
+    table
+      &:first-child, &:nth-child(2), &:nth-child(3), &:nth-child(4)
+        display: none
+    #socMedContainer
+      display: none
+    table
+      font-size: 10pt
+      width: 100%
+      &:last-child td
+        text-align: center
+  #footerColsLayout
+    padding: 1vw
+  /***** MOBILE MENU *****/
+  nav
+    background: rgba(0, 0, 0, 0)
+    width: 100vw
+    text-align: center
+    position: fixed
+    top: -35rem
+    left: 0
+    display: flex
+    flex-flow: row wrap
+    align-content: flex-start
+    transition: all 300ms ease
+    a
+      background: white
+      color: #181818
+      text-align: left
+      padding: 0.75rem 0 0.75rem 2rem
+      flex-basis: 100%
+      transition: 300ms ease
+      transition-property: color, background
+      border-bottom: 1px solid $innovation-gray
+      &:hover
+        background: $clemson-orange
+        color: white
+      &.active
+        background: $clemson-orange
+        color: white
+        border-bottom: 1px solid $innovation-gray
+  #mobileHeader
+    width: 100vw
+    height: 2.5rem
+    margin: 0
+    position: fixed
+    top: 0
+    left: 0
+    background: white
+    z-index: 20
+    display: flex
+    justify-content: center
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2)
+    align-items: center
+  #mobileScreenShade
+    width: 100vw
+    height: 100vh
+    background: rgba(0, 0, 0, 0.5)
+    position: fixed
+    top: 0
+    left: 0
+    z-index: 9
+    display: none
+    transition: all 300ms ease
+  #mobileMenu:checked ~
+    nav
+      top: 2.5rem
+    #mobileScreenShade
+      display: block
+  #menuButton, #mobileScreenShade
+    cursor: pointer
+  input[type="checkbox"]
+    position: absolute
+    left: 0
+    top: 0
+    height: 3rem
+    width: 5.5em
+    margin: 0
+    opacity: 0
+    z-index: 99
+    cursor: pointer
+  #menuButton
+    display: block
+    position: absolute
+    right: 0
+    width: 4rem
+    height: inherit
+  #tbMobileLogo
+    display: block
+    margin: 0.1rem
+    width: 12rem
+  /** MENU BUTTON **/
+  #menuButton
+    font-size: 0
+    text-indent: -9999px
+    cursor: pointer
+    span
+      display: block
+      position: absolute
+      top: 50%
+      transform: translateY(-50%)
+      left: 1rem
+      right: 1rem
+      height: 2.5px
+      background: $innovation-gray
+      transition: 300ms ease
+      transition-property: background, -webkit-transform
+      transition-property: background, transform
+      transition-property: background, transform, -webkit-transform
+      &::before, &::after
+        position: absolute
+        display: block
+        left: 0
+        width: 100%
+        height: 2.5px
+        background-color: $innovation-gray
+        content: ""
+        transition: 300ms ease
+        transition-property: background, -webkit-transform
+        transition-property: background, transform
+        transition-property: background, transform, -webkit-transform
+      &::before
+        top: -8px
+      &::after
+        bottom: -8px
+    &:hover span
+      background: $clemson-orange
+      &::before, &::after
+        background: $clemson-orange
+  #mobileMenu:checked ~ #mobileHeader #menuButton span
+    background: none
+    &::before
+      top: 0
+      transform: rotate(45deg)
+      background: $clemson-orange
+    &::after
+      bottom: 0
+      transform: rotate(-45deg)
+      background: $clemson-orange
+  /***** HOMEPAGE *****/
+  #homeFullscrContainer
+    background: url(/img/MobileBackground.jpg)
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+  video#homeVideoBkg
+    display: none
+  #screenShadeHome
+    width: 100vw
+    height: 100vh
+    background: rgba(0, 0, 0, 0.25)
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0)), 75%, rgba(0, 0, 0, 0.25)), to(rgba(0, 0, 0, 0.8)))
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.8) 100%)
+    z-index: -1
+  .fullpageTitle
+    width: 80%
+    h2
+      font-size: 25pt
+    h1
+      font-size: 40pt
+  .tbHomeLogo
+    position: absolute
+    left: 1vh
+    bottom: 1vh
+    width: 6rem
+  .clemsonLogo
+    position: absolute
+    right: 1vh
+    bottom: 1vh
+    width: 3rem
+  #boxUI a:nth-child(8)
+    order: 1
+  .boxUIelement.homepage
+    &::after
+      width: 100%
+      height: 2rem
+      position: absolute
+      bottom: 0
+      left: 0
+      background: rgba(0, 0, 0, 0.5)
+      color: white
+      text-align: center
+      line-height: 2rem
+      font-size: 14pt
+      transition: opacity 300ms ease
+    &:hover::after
+      opacity: 0
+  #box2::after
+    content: "Drumline"
+  #box3::after
+    content: "YouTube"
+  #box4::after
+    content: "Newsletter"
+  #box5::after
+    content: "Donate"
+  #box7::after
+    content: "CUTBA"
+  #box8::after
+    content: "Join"
+  #box9::after
+    content: "Tiger Band Gear"
+  /***** BOX UI *****/
+  .boxUIelement
+    height: 50vw
+    flex-grow: 1
+    position: relative
+    transition: transform 300ms ease
+    transition: transform 300ms ease, -webkit-transform 300ms ease
+  .rect
+    width: 100vw
+  .sq
+    width: 50vw
+  .textContainer p
+    font-size: 14pt
+  .boxWrapper:hover .boxUIelement
+    transform: scale(1.05)
+  #socMedContainer p
+    font-size: 14pt
+  .socialBorder
+    border: 1px solid white
+    width: 3rem
+    height: 3rem
+    margin: 0.5rem
+  .socialIcon
+    width: 1.5rem
+    height: 1.5rem
+  #socMedContainer.organizations #icons a
+    padding: 0 0.75rem
+  /***** ARTICLES *****/
+  #content
+    width: 95.5vw
+    width: calc(100vw - 1rem)
+    margin: 1rem auto
+  #Col2FlexContent.homepage
+    width: 95.5vw
+    width: calc(100vw - 1rem)
+    margin: 1rem auto
+    #col1Flex, #col2Flex
+      width: 100%
+      margin-left: -0.5rem
+    #col1Flex article, #col2Flex article
+      width: 97%
+      width: calc(100% - 4rem)
+  article
+    width: 100%
+    margin: 0.5rem 0
+    &.text
+      p
+        width: 100%
+        padding: 0
+        padding-top: 0.5rem
+      h1
+        margin: 0
+        font-weight: 400
+    &.media h1
+      margin: 0
+      font-weight: 400
+    &.text
+      h1
+        font-size: 18pt
+        color: $clemson-orange
+      h2
+        font-size: 13pt
+        color: $clemson-purple
+        font-style: italic
+        margin: 0
+      p a
+        word-break: break-all
+    &.media h1
+      font-size: 18pt
+      color: $clemson-purple
+  .articleImg
+    width: 100%
+    padding: 0
+    margin: 0.5rem 0 0.5rem 0
+  .expandButton
+    float: right
+    width: 4rem
+    span
+      &:first-child, &:nth-child(2)
+        height: 0.1rem
+        width: 4rem
+        background: black
+        display: block
+  /***** OTHER PAGE HEADING FORMATTING *****/
+  h3
+    font-size: 20pt
+  h4
+    font-size: 28pt
+  .orangeText
+    color: $clemson-orange
+  #heading
+    border-bottom: 3px solid $clemson-orange
+    margin: 1rem 1rem
+  /***** THIS SEASON *****/
+  #Col2FlexContent
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+    margin: 0
+  #col1Flex, #col2Flex
+    width: 100%
+  .dots
+    height: 1.25rem
+    width: 1.25rem
+  article.shows p
+    padding-left: 1.5rem
+  #col1Flex article, #col2Flex article
+    margin: 1rem 0
+    width: 100%
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+  table
+    margin: 0
+    padding: 0
+  th
+    padding: 0.25rem
+  td
+    padding: 0.25rem
+    &:first-child, &:nth-child(2)
+      text-align: center
+  /***** JOIN *****/
+  #auditionBoxUI
+    display: flex
+    flex-flow: row wrap
+    width: 90%
+    margin: 1rem auto
+    justify-content: center
+    .boxUIelement, .boxWrapper
+      height: 25vh
+      min-width: 33vw
+      flex-grow: 1
+  /***** AUDITION PAGE *****/
+  .deadlines
+    .textContainer
+      p
+        font-size: 3.25vw
+      b
+        font-size: 10vw
+        line-height: 3vw
+    width: 98%
+    width: calc(100% - 1rem)
+    margin: 1rem auto
+    .sq
+      width: 33vw
+      height: 33vw
+      flex: 1
+  /***** ABOUT *****/
+  .aboutLinks
+    margin: 0.5rem 0 1rem 0
+    .boxUIelement
+      width: 30vw
+      height: 30vw
+    p
+      font-size: 14pt
+  img.staffPortrait
+    width: 10rem
+    margin: 0.5rem 0 0.5rem 0
+    padding: 0.5rem
+  /**** MEMBERS ONLY *****/
+  input[name="password"]
+    width: 75%
+    font-size: 18pt
+  .members
+    h1
+      line-height: normal
+      margin: 1rem
+    h2
+      margin: 1rem
+  #music .expandButton img
+    float: right
+    margin-right: 7.5vw
+    margin-top: -4.6rem
+  .fileUIfile
+    height: 8rem
+    width: 8rem
+    span
+      height: 2rem
+      font-size: 16pt
+      line-height: 2rem
+    img
+      width: 4rem
+      height: 4rem
+  /***** CONTACT *****/
+  #contactWrapper
+    width: 90vw
+    margin: 0
+  #contactForm
+    width: 100%
+    order: 2
+    input
+      font-size: 12pt
+  textarea
+    font-size: 12pt
+  #contactForm
+    input
+      width: 97.25%
+    textarea
+      width: 97.25%
+      height: 10rem
+      max-height: 30rem
+  #contactAddress
+    width: 90vw
+    order: 1
+  #contactTBlogo
+    display: none
+  #contactInfo
+    text-align: center
+    margin: 1rem
+  h5
+    font-size: 16pt
+    margin: 0.5rem
+  #contactInfo p
+    font-size: 14pt
+  #socMedContainer.contact
+    padding: 1.5rem
+    width: 100%
+    #icons
+      width: 80vw
+    .socialBorder
+      width: 3rem
+      height: 3rem
+    .socialIcon
+      width: 1.5rem
+      height: 1.5rem
+  #contactForm input
+    &[type="submit"], &[type="reset"]
+      width: 40vw
+
+/**** SCREEN SIZES BELOW 375PX *****/
+@media (max-width: 375px)
+  .fullpageTitle
+    h2
+      font-size: 20pt
+      line-height: 20pt
+    h1
+      font-size: 36pt
+  th, td
+    padding: 0.15rem
+    font-size: 11pt
+    text-align: center
+  #music .expandButton img
+    margin-right: 5vw
