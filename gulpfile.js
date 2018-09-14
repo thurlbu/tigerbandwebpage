@@ -7,11 +7,11 @@ const cache = require('gulp-cache');
 const del = require('del');
 const runSequence = require('run-sequence');
 const cleanCSS = require('gulp-clean-css');
+const sass = require('gulp-sass');
+const concat = require('gulp-concat');
 
 gulp.task('default', function (callback) {
-  runSequence(['connect-sync'],
-    callback
-  );
+  runSequence(['sass', 'css', 'watch'], callback);
 });
 
 gulp.task('build', function (callback) {
@@ -21,17 +21,43 @@ gulp.task('build', function (callback) {
   );
 });
 
-gulp.task('connect-sync', function () {
-  const mainFiles = ['**/*.php', '**/*.html', '**/*.js', '**/*.css'];
+gulp.task('watch', ['browserSync'], function () {
+  const mainFiles = ['**/*.php', '**/*.html', '**/*.js'];
+
+  gulp.watch('scss/*.scss', ['sass']);
+  gulp.watch('css/*.css', ['css']);
+
+  mainFiles.forEach(function (file) {
+    gulp.watch(file, browserSync.reload);
+  });
+});
+
+gulp.task('browserSync', function () {
   connect.server({}, function () {
     browserSync({
       proxy: '127.0.0.1:8000'
     });
   });
+});
 
-  gulp.watch(mainFiles).on('change', function () {
-    browserSync.reload();
-  });
+gulp.task('sass', function () {
+  return gulp.src('scss/*.scss')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./css'))
+    .pipe(browserSync.reload({
+      stream: true
+    }))
+});
+
+gulp.task('css', function () {
+  del.sync('css/main.css')
+  return gulp.src('css/*.css')
+    .pipe(cleanCSS({ compatibility: 'ie8' }))
+    .pipe(concat('main.css'))
+    .pipe(gulp.dest('css'))
+    .pipe(browserSync.reload({
+      stream: true
+    }))
 });
 
 gulp.task('move-html-php-to-prod', function () {
@@ -48,7 +74,7 @@ gulp.task('images', function () {
 });
 
 gulp.task('minify-css', () => {
-  return gulp.src('**/*.css')
+  return gulp.src('css/main.css')
     .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(gulp.dest('prod'));
 });
