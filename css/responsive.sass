@@ -1,0 +1,530 @@
+/**** SCREEN SIZES BELOW 1455PX *****/
+@media (max-width: 1455px)
+  .iframeContainer
+    width: 100%
+    margin: auto
+  /***** HOMEPAGE *****/
+  .fullpageTitle
+    width: 75%
+    h2
+      font-size: 40pt
+    h1
+      font-size: 65pt
+  /***** NAVIGATION BAR *****/
+  nav a
+    font-size: 11.5pt
+    -ms-flex-preferred-size: auto
+    flex-basis: auto
+    &.active
+      border-bottom-width: 4px
+  /***** BOX UI ******/
+  .textContainer p
+    font-size: 18pt
+  .boxWrapper:hover .boxUIelement
+    transform: scale(1.07)
+  #socMedContainer p
+    font-size: 18pt
+  .socialBorder
+    border: 2px solid white
+    width: 3rem
+    height: 3rem
+  .socialIcon
+    width: 1.5rem
+    height: 1.5rem
+    flex-wrap: wrap
+    position: absolute
+    left: 50%
+    top: 50%
+    transform: translate(-50%, -50%)
+  /***** AUDITION PAGE *****/
+  .auditionAudio
+    width: 100%
+    text-align: center
+  .deadlines .textContainer
+    p
+      font-size: 2vw
+    b
+      font-size: 7vw
+      line-height: 3.5vw
+  /***** ABOUT PAGE ******/
+  .aboutLinks
+    margin: 0
+    width: 100%
+    p
+      font-size: 16pt
+  img.staffPortrait
+    width: 35%
+  /***** MEMBERS ONLY PAGE *****/
+  #music .expandButton img
+    margin-left: 20rem
+  .fileUIfile
+    height: 10rem
+    width: 10rem
+    span
+      height: 2.5rem
+      font-size: 16pt
+      line-height: 2.5rem
+    img
+      width: 5rem
+      height: 5rem
+  /***** CONTACT PAGE *****/
+  #contactInfo
+    h5
+      font-size: 20pt
+    p
+      font-size: 14pt
+  #contactForm input
+    &[type="submit"], &[type="reset"]
+      width: 20vw
+
+/**** MOBILE VERSION *****/
+/**** SCREEN SIZES BELOW 800PX *****/
+@media (max-width: 800px)
+  body
+    margin-top: 3rem
+  \::-webkit-scrollbar
+    display: none
+  footer
+    table
+      &:first-child, &:nth-child(2), &:nth-child(3), &:nth-child(4)
+        display: none
+    #socMedContainer
+      display: none
+    table
+      font-size: 10pt
+      width: 100%
+      &:last-child td
+        text-align: center
+  #footerColsLayout
+    padding: 1vw
+  /***** MOBILE MENU *****/
+  nav
+    background: rgba(0, 0, 0, 0)
+    width: 100vw
+    text-align: center
+    position: fixed
+    top: -35rem
+    left: 0
+    display: flex
+    flex-flow: row wrap
+    align-content: flex-start
+    transition: all 300ms ease
+    a
+      background: white
+      color: #181818
+      text-align: left
+      padding: 0.75rem 0 0.75rem 2rem
+      flex-basis: 100%
+      transition: 300ms ease
+      transition-property: color, background
+      border-bottom: 1px solid $innovation-gray
+      &:hover
+        background: $clemson-orange
+        color: white
+      &.active
+        background: $clemson-orange
+        color: white
+        border-bottom: 1px solid $innovation-gray
+  #mobileHeader
+    width: 100vw
+    height: 2.5rem
+    margin: 0
+    position: fixed
+    top: 0
+    left: 0
+    background: white
+    z-index: 20
+    display: flex
+    justify-content: center
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2), 0 1px 3px rgba(0, 0, 0, 0.2)
+    align-items: center
+  #mobileScreenShade
+    width: 100vw
+    height: 100vh
+    background: rgba(0, 0, 0, 0.5)
+    position: fixed
+    top: 0
+    left: 0
+    z-index: 9
+    display: none
+    transition: all 300ms ease
+  #mobileMenu:checked ~
+    nav
+      top: 2.5rem
+    #mobileScreenShade
+      display: block
+  #menuButton, #mobileScreenShade
+    cursor: pointer
+  input[type="checkbox"]
+    position: absolute
+    left: 0
+    top: 0
+    height: 3rem
+    width: 5.5em
+    margin: 0
+    opacity: 0
+    z-index: 99
+    cursor: pointer
+  #menuButton
+    display: block
+    position: absolute
+    right: 0
+    width: 4rem
+    height: inherit
+  #tbMobileLogo
+    display: block
+    margin: 0.1rem
+    width: 12rem
+  /** MENU BUTTON **/
+  #menuButton
+    font-size: 0
+    text-indent: -9999px
+    cursor: pointer
+    span
+      display: block
+      position: absolute
+      top: 50%
+      transform: translateY(-50%)
+      left: 1rem
+      right: 1rem
+      height: 2.5px
+      background: $innovation-gray
+      transition: 300ms ease
+      transition-property: background, -webkit-transform
+      transition-property: background, transform
+      transition-property: background, transform, -webkit-transform
+      &::before, &::after
+        position: absolute
+        display: block
+        left: 0
+        width: 100%
+        height: 2.5px
+        background-color: $innovation-gray
+        content: ""
+        transition: 300ms ease
+        transition-property: background, -webkit-transform
+        transition-property: background, transform
+        transition-property: background, transform, -webkit-transform
+      &::before
+        top: -8px
+      &::after
+        bottom: -8px
+    &:hover span
+      background: $clemson-orange
+      &::before, &::after
+        background: $clemson-orange
+  #mobileMenu:checked ~ #mobileHeader #menuButton span
+    background: none
+    &::before
+      top: 0
+      transform: rotate(45deg)
+      background: $clemson-orange
+    &::after
+      bottom: 0
+      transform: rotate(-45deg)
+      background: $clemson-orange
+  /***** HOMEPAGE *****/
+  #homeFullscrContainer
+    background: url(/img/MobileBackground.jpg)
+    background-size: cover
+    background-position: center
+    background-repeat: no-repeat
+  video#homeVideoBkg
+    display: none
+  #screenShadeHome
+    width: 100vw
+    height: 100vh
+    background: rgba(0, 0, 0, 0.25)
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0)), 75%, rgba(0, 0, 0, 0.25)), to(rgba(0, 0, 0, 0.8)))
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.8) 100%)
+    z-index: -1
+  .fullpageTitle
+    width: 80%
+    h2
+      font-size: 25pt
+    h1
+      font-size: 40pt
+  .tbHomeLogo
+    position: absolute
+    left: 1vh
+    bottom: 1vh
+    width: 6rem
+  .clemsonLogo
+    position: absolute
+    right: 1vh
+    bottom: 1vh
+    width: 3rem
+  #boxUI a:nth-child(8)
+    order: 1
+  .boxUIelement.homepage
+    &::after
+      width: 100%
+      height: 2rem
+      position: absolute
+      bottom: 0
+      left: 0
+      background: rgba(0, 0, 0, 0.5)
+      color: white
+      text-align: center
+      line-height: 2rem
+      font-size: 14pt
+      transition: opacity 300ms ease
+    &:hover::after
+      opacity: 0
+  #box2::after
+    content: "Drumline"
+  #box3::after
+    content: "YouTube"
+  #box4::after
+    content: "Newsletter"
+  #box5::after
+    content: "Donate"
+  #box7::after
+    content: "CUTBA"
+  #box8::after
+    content: "Join"
+  #box9::after
+    content: "Tiger Band Gear"
+  /***** BOX UI *****/
+  .boxUIelement
+    height: 50vw
+    flex-grow: 1
+    position: relative
+    transition: transform 300ms ease
+    transition: transform 300ms ease, -webkit-transform 300ms ease
+  .rect
+    width: 100vw
+  .sq
+    width: 50vw
+  .textContainer p
+    font-size: 14pt
+  .boxWrapper:hover .boxUIelement
+    transform: scale(1.05)
+  #socMedContainer p
+    font-size: 14pt
+  .socialBorder
+    border: 1px solid white
+    width: 3rem
+    height: 3rem
+    margin: 0.5rem
+  .socialIcon
+    width: 1.5rem
+    height: 1.5rem
+  #socMedContainer.organizations #icons a
+    padding: 0 0.75rem
+  /***** ARTICLES *****/
+  #content
+    width: 95.5vw
+    width: calc(100vw - 1rem)
+    margin: 1rem auto
+  #Col2FlexContent.homepage
+    width: 95.5vw
+    width: calc(100vw - 1rem)
+    margin: 1rem auto
+    #col1Flex, #col2Flex
+      width: 100%
+      margin-left: -0.5rem
+    #col1Flex article, #col2Flex article
+      width: 97%
+      width: calc(100% - 4rem)
+  article
+    width: 100%
+    margin: 0.5rem 0
+    &.text
+      p
+        width: 100%
+        padding: 0
+        padding-top: 0.5rem
+      h1
+        margin: 0
+        font-weight: 400
+    &.media h1
+      margin: 0
+      font-weight: 400
+    &.text
+      h1
+        font-size: 18pt
+        color: $clemson-orange
+      h2
+        font-size: 13pt
+        color: $clemson-purple
+        font-style: italic
+        margin: 0
+      p a
+        word-break: break-all
+    &.media h1
+      font-size: 18pt
+      color: $clemson-purple
+  .articleImg
+    width: 100%
+    padding: 0
+    margin: 0.5rem 0 0.5rem 0
+  .expandButton
+    float: right
+    width: 4rem
+    span
+      &:first-child, &:nth-child(2)
+        height: 0.1rem
+        width: 4rem
+        background: black
+        display: block
+  /***** OTHER PAGE HEADING FORMATTING *****/
+  h3
+    font-size: 20pt
+  h4
+    font-size: 28pt
+  .orangeText
+    color: $clemson-orange
+  #heading
+    border-bottom: 3px solid $clemson-orange
+    margin: 1rem 1rem
+  /***** THIS SEASON *****/
+  #Col2FlexContent
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+    margin: 0
+  #col1Flex, #col2Flex
+    width: 100%
+  .dots
+    height: 1.25rem
+    width: 1.25rem
+  article.shows p
+    padding-left: 1.5rem
+  #col1Flex article, #col2Flex article
+    margin: 1rem 0
+    width: 100%
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+  table
+    margin: 0
+    padding: 0
+  th
+    padding: 0.25rem
+  td
+    padding: 0.25rem
+    &:first-child, &:nth-child(2)
+      text-align: center
+  /***** JOIN *****/
+  #auditionBoxUI
+    display: flex
+    flex-flow: row wrap
+    width: 90%
+    margin: 1rem auto
+    justify-content: center
+    .boxUIelement, .boxWrapper
+      height: 25vh
+      min-width: 33vw
+      flex-grow: 1
+  /***** AUDITION PAGE *****/
+  .deadlines
+    .textContainer
+      p
+        font-size: 3.25vw
+      b
+        font-size: 10vw
+        line-height: 3vw
+    width: 98%
+    width: calc(100% - 1rem)
+    margin: 1rem auto
+    .sq
+      width: 33vw
+      height: 33vw
+      flex: 1
+  /***** ABOUT *****/
+  .aboutLinks
+    margin: 0.5rem 0 1rem 0
+    .boxUIelement
+      width: 30vw
+      height: 30vw
+    p
+      font-size: 14pt
+  img.staffPortrait
+    width: 10rem
+    margin: 0.5rem 0 0.5rem 0
+    padding: 0.5rem
+  /**** MEMBERS ONLY *****/
+  input[name="password"]
+    width: 75%
+    font-size: 18pt
+  .members
+    h1
+      line-height: normal
+      margin: 1rem
+    h2
+      margin: 1rem
+  #music .expandButton img
+    float: right
+    margin-right: 7.5vw
+    margin-top: -4.6rem
+  .fileUIfile
+    height: 8rem
+    width: 8rem
+    span
+      height: 2rem
+      font-size: 16pt
+      line-height: 2rem
+    img
+      width: 4rem
+      height: 4rem
+  /***** CONTACT *****/
+  #contactWrapper
+    width: 90vw
+    margin: 0
+  #contactForm
+    width: 100%
+    order: 2
+    input
+      font-size: 12pt
+  textarea
+    font-size: 12pt
+  #contactForm
+    input
+      width: 97.25%
+    textarea
+      width: 97.25%
+      height: 10rem
+      max-height: 30rem
+  #contactAddress
+    width: 90vw
+    order: 1
+  #contactTBlogo
+    display: none
+  #contactInfo
+    text-align: center
+    margin: 1rem
+  h5
+    font-size: 16pt
+    margin: 0.5rem
+  #contactInfo p
+    font-size: 14pt
+  #socMedContainer.contact
+    padding: 1.5rem
+    width: 100%
+    #icons
+      width: 80vw
+    .socialBorder
+      width: 3rem
+      height: 3rem
+    .socialIcon
+      width: 1.5rem
+      height: 1.5rem
+  #contactForm input
+    &[type="submit"], &[type="reset"]
+      width: 40vw
+
+/**** SCREEN SIZES BELOW 375PX *****/
+@media (max-width: 375px)
+  .fullpageTitle
+    h2
+      font-size: 20pt
+      line-height: 20pt
+    h1
+      font-size: 36pt
+  th, td
+    padding: 0.15rem
+    font-size: 11pt
+    text-align: center
+  #music .expandButton img
+    margin-right: 5vw

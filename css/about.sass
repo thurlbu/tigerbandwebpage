@@ -1,0 +1,52 @@
+/***** ABOUT PAGE *****/
+.expandButton
+  position: absolute
+  right: 0.25rem
+  pointer-events: none
+  user-select: none
+  img
+    float: right
+    margin-top: -0.5rem
+    transition: 300ms all ease-in-out
+
+article.expand
+  .expandButton img
+    margin-top: -0.5rem
+  &:hover .expandButton
+    animation: bounceDown 500ms ease
+  &.clicked:hover .expandButton
+    animation: bounceUp 500ms ease
+
+#Col2FlexContent.about
+  align-items: center
+
+.aboutLinks
+  display: flex
+  flex-flow: row nowrap
+  width: 90%
+  width: calc(100% - 2rem)
+  margin: 1rem
+  align-content: center
+  .boxUIelement
+    flex-grow: 1
+    width: 15vw
+    height: 15vw
+  p
+    font-size: 20pt
+
+#aboutBox2
+  background-image: url(/img/logos/CUTBA.svg)
+  background-size: contain
+  background-repeat: no-repeat
+  background-position: center
+
+img.staffPortrait
+  width: 15rem
+  float: right
+  margin: 0
+  padding: 1rem
+  border-radius: 50%
+  shape-outside: circle()
+
+.aboutLinks
+  text-align: center
