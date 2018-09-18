@@ -50,25 +50,47 @@ a.richLink:hover
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
-  /***** OTHER PAGE HEADING FORMATTING *****/
-  h3
-    font-weight: 400
-    font-size: 28pt
-    color: $clemson-orange
-    margin: 0
+/***** OTHER PAGE HEADING FORMATTING *****/
+h3
+  font-weight: 400
+  font-size: 28pt
+  color: $clemson-orange
+  margin: 0
 
-  h4
-    font-weight: 700
-    font-size: 36pt
-    color: $clemson-orange
-    margin: 0
+h4
+  font-weight: 700
+  font-size: 36pt
+  color: $clemson-orange
+  margin: 0
 
-  .orangeText
-    color: $clemson-orange
+.orangeText
+  color: $clemson-orange
 
-  .purpleText
-    color: $clemson-purple
+.purpleText
+  color: $clemson-purple
 
-  #heading
-    border-bottom: 3px solid $clemson-orange
-    margin: 1rem 1.5rem
+#heading
+  border-bottom: 3px solid $clemson-orange
+  margin: 1rem 1.5rem
+
+/***** DOUBLE COLUMN ARTICLE LAYOUT *****/
+
+#Col2FlexContent
+  display: flex
+  flex-flow: row wrap
+  width: 96.5vw
+  width: calc(100vw - 4rem)
+  margin: auto
+  margin-bottom: 1.5rem
+  justify-content: space-between
+  padding-top: 0
+  align-items: flex-start
+
+#col1Flex, #col2Flex
+  width: calc(50% - 1rem)
+  margin: 0
+  padding: 0
+
+#col1Flex article, #col2Flex article
+  width: 96%
+  width: calc(100% - 2rem)
