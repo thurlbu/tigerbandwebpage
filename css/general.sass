@@ -1,0 +1,74 @@
+/***** GENERAL FORMATTING ****/
+html
+  height: 100%
+  font-family: 'Roboto', sans-serif
+  background: #FAFAFA
+  overflow-x: hidden
+
+body
+  margin: 0
+  min-height: 95.5%
+  min-height: calc(100% - 3.5rem)
+  margin-top: 3.5rem
+
+a
+  color: $clemson-purple
+  text-decoration: none
+
+#mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade, .hide
+  display: none
+
+.show
+  display: block
+
+a.richLink
+  text-decoration: none
+  color: $clemson-purple
+  background: white
+  font-size: 16pt
+  text-align: center
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+  padding: 1rem
+  margin: 1rem auto
+  display: block
+  width: 45%
+  transition: none 150ms ease
+  word-break: keep-all
+  transition-property: -webkit-box-shadow, -webkit-transform
+  transition-property: box-shadow, transform
+  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
+
+.cta
+  color: white
+  background: $clemson-purple
+
+a.richLink:hover
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25)
+  transform: translateY(-1px)
+
+*
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+
+  /***** OTHER PAGE HEADING FORMATTING *****/
+  h3
+    font-weight: 400
+    font-size: 28pt
+    color: $clemson-orange
+    margin: 0
+
+  h4
+    font-weight: 700
+    font-size: 36pt
+    color: $clemson-orange
+    margin: 0
+
+  .orangeText
+    color: $clemson-orange
+
+  .purpleText
+    color: $clemson-purple
+
+  #heading
+    border-bottom: 3px solid $clemson-orange
+    margin: 1rem 1.5rem
