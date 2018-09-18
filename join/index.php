@@ -50,7 +50,7 @@
 
     <!--- AUDITION INFORMATION UI --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>Audition Information</h4>
     </div>
     <div id="auditionBoxUI">
@@ -95,7 +95,7 @@
         </a>
     </div>
 
-    <div id="heading">
+    <div class="heading">
         <h4>Tiger Band Tours</h4>
     </div>
 
@@ -111,7 +111,7 @@
 
     <!--- WHY JOIN --->
 
-    <div id="heading">
+    <div class="heading">
         <h3>Why Join</h3>
         <h4>Tiger Band?</h4>
     </div>

@@ -38,7 +38,7 @@
 
 <body class="stickyFooter">
     <div class="stickyFooterContent">
-        <div id="heading">
+        <div class="heading">
             <h3>Contact</h3>
             <h4>Tiger Band</h4>
         </div>

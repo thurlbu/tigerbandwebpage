@@ -37,7 +37,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>Audition for</h3>
         <h4>Tiger Dancers</h4>
     </div>
@@ -95,7 +95,7 @@
     <!--- AUDITION INFORMATION --->
 
     <div id="itineraries">
-        <div id="heading">
+        <div class="heading">
             <h4>What is it like to be a Tiger Dancer?</h4>
         </div>
     </div>

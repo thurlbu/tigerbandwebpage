@@ -40,7 +40,7 @@
 
 <body class="stickyFooter">
     <div class="stickyFooterContent">
-        <div id="heading">
+        <div class="heading">
             <h3>Contact</h3>
             <h4>Clemson University Tiger Band Association</h4>
         </div>

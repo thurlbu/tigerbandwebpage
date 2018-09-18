@@ -149,7 +149,7 @@
 
     <!-- ANNOUNCEMENTS/ARTICLES-->
 
-    <div id="heading">
+    <div class="heading">
         <h3>Tiger Band</h3>
         <h4>Announcements</h4>
     </div>

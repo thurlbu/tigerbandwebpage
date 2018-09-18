@@ -37,7 +37,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>Audition for</h3>
         <h4>Tiger Guard</h4>
     </div>
@@ -99,7 +99,7 @@
     <!--- AUDITION INFORMATION --->
 
     <div id="itineraries">
-        <div id="heading">
+        <div class="heading">
             <h4>Audition Information</h4>
         </div>
     </div>

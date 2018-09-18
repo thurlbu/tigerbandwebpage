@@ -37,7 +37,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>This Season</h3>
         <h4>2018</h4>
     </div>
@@ -199,7 +199,7 @@
 
     <!--- FOOTBALL ACTIVITIES --->
 
-    <div id="heading">
+    <div class="heading">
             <h4>Football Activities</h4>
         </div>
 

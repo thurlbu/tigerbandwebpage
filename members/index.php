@@ -58,7 +58,7 @@
     <!--- MEMBERS PAGE CONTENT --->
 
     <div id="membersContent" class="hidden">
-        <div id="heading">
+        <div class="heading">
             <h3>Members Only</h3>
             <h4>Tiger Band</h4>
         </div>
@@ -74,7 +74,7 @@
         </div>
 
         <div id="itineraries">
-            <div id="heading">
+            <div class="heading">
                 <h4>Itineraries &amp; Schedules</h4>
             </div>
             <div id="expandFiles1" class="fileUIcontainer">
@@ -83,7 +83,7 @@
         </div>
 
         <div id="excuseLetters">
-            <div id="heading">
+            <div class="heading">
                 <h4>Excuse Letters</h4>
             </div>
             <div id="expandFiles2" class="fileUIcontainer">
@@ -92,7 +92,7 @@
         </div>
 
         <div id="drill">
-            <div id="heading">
+            <div class="heading">
                 <h4>Media</h4>
             </div>
             <div id="expandFiles3" class="fileUIcontainer">
@@ -103,7 +103,7 @@
     <!--- SHEET MUSIC UI --->
 
     <div id="music">
-        <div id="heading">
+        <div class="heading">
             <h4>Sheet Music</h4>
         </div>
 

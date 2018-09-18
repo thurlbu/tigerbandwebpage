@@ -37,7 +37,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>Audition for</h3>
         <h4>Tiger Band Brass and Woodwinds</h4>
     </div>
@@ -99,7 +99,7 @@
     <!--- AUDITION INFORMATION --->
 
     <div>
-        <div id="heading">
+        <div class="heading">
             <h4>Audition Information</h4>
         </div>
     </div>
@@ -154,7 +154,7 @@
     <!--- SHEET MUSIC UI --->
 
     <div id="music">
-        <div id="heading">
+        <div class="heading">
             <h4>Sheet Music</h4>
         </div>
 

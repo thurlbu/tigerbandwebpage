@@ -37,7 +37,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>Staff</h3>
         <h4>Tiger Band</h4>
     </div>
@@ -82,7 +82,7 @@
 
     <!--- STAFF --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>Staff</h4>
     </div>
 
