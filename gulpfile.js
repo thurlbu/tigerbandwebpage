@@ -24,7 +24,7 @@ gulp.task('build', function (callback) {
 gulp.task('watch', ['browserSync'], function () {
   const mainFiles = ['**/*.php', '**/*.html', '**/*.js'];
 
-  gulp.watch('scss/*.scss', ['sass']);
+  gulp.watch('css/*.sass', ['sass']);
   gulp.watch('css/*.css', ['css']);
 
   mainFiles.forEach(function (file) {
@@ -41,7 +41,7 @@ gulp.task('browserSync', function () {
 });
 
 gulp.task('sass', function () {
-  return gulp.src('scss/*.scss')
+  return gulp.src('./css/*.sass')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./css'))
     .pipe(browserSync.reload({

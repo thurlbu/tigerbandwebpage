@@ -6,3 +6,4 @@
 node_modules
 prod
 .vscode
+css/*.css
