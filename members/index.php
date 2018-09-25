@@ -2,11 +2,11 @@
 session_start();
 
 if(isset($_POST['submit_pass']) && $_POST['pass']) {
-  $pass=$_POST['pass'];
-  if($pass=="123") {
-    $_SESSION['password']=$pass;
+  $pass = $_POST['pass'];
+  if($pass == "hurly") {
+    $_SESSION['password'] = $pass;
   } else {
-    $error="Incorrect Pssword";
+    $error="Incorrect Password";
   }
 }
 
@@ -54,7 +54,7 @@ if(isset($_POST['page_logout'])) {
 
 <body>
   <?php
-    if($_SESSION['password']=="123") {
+    if($_SESSION['password'] == "hurly") {
       include("./secure.php");
     } else {
   ?>
@@ -68,14 +68,14 @@ if(isset($_POST['page_logout'])) {
       <h1>Members Only</h1>
     </div>
 
-    <div id="pwdFlex">
+    <div class="pwdFlex">
       <form method="post" action="" id="login_form">
-        <input type="password" name="pass" placeholder="*******">
-        <input type="submit" name="submit_pass" value="DO SUBMIT">
+        <input type="password" name="pass" placeholder="Password" autofocus>
+        <input type="submit" name="submit_pass" value="" class="hide">
       </form>
     </div>
   </div>
-  <?php	
+  <?php
   }
   ?>
   </body>
