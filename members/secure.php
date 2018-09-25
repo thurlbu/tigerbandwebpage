@@ -22,7 +22,7 @@
 </nav>
 
     <div id="membersContent">
-        <div class="heading">
+        <div id="heading">
             <h3>Members Only</h3>
             <h4>Tiger Band</h4>
         </div>
@@ -38,7 +38,7 @@
         </div>
 
         <div id="itineraries">
-            <div class="heading">
+            <div id="heading">
                 <h4>Itineraries &amp; Schedules</h4>
             </div>
             <div id="expandFiles1" class="fileUIcontainer">
@@ -47,7 +47,7 @@
         </div>
 
         <div id="excuseLetters">
-            <div class="heading">
+            <div id="heading">
                 <h4>Excuse Letters</h4>
             </div>
             <div id="expandFiles2" class="fileUIcontainer">
@@ -56,7 +56,7 @@
         </div>
 
         <div id="drill">
-            <div class="heading">
+            <div id="heading">
                 <h4>Media</h4>
             </div>
             <div id="expandFiles3" class="fileUIcontainer">
@@ -67,7 +67,7 @@
     <!--- SHEET MUSIC UI --->
 
     <div id="music">
-        <div class="heading">
+        <div id="heading">
             <h4>Sheet Music</h4>
         </div>
 
