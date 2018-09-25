@@ -1,3 +1,19 @@
+<?php
+session_start();
+
+if(isset($_POST['submit_pass']) && $_POST['pass']) {
+  $pass=$_POST['pass'];
+  if($pass=="123") {
+    $_SESSION['password']=$pass;
+  } else {
+    $error="Incorrect Pssword";
+  }
+}
+
+if(isset($_POST['page_logout'])) {
+  unset($_SESSION['password']);
+}
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -37,55 +53,30 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <!--- COVER/PASSWORD SCREEN --->
-    <?php
-      $password = md5($_POST['password']);
+  <?php
+    if($_SESSION['password']=="123") {
+      include("./secure.php");
+    } else {
+  ?>
+  <div id="coverScreen">
+    <div class="joinFullscrContainer">
+      <div id="screenShade"></div>
+    </div>
 
-      if($password == md5("hurly")) {
-        include("/members/secure.php");
-      } else {
-        if(isset($_POST)) {?>
+    <div class="fullpageTitle members">
+      <h2>Tiger Band</h2>
+      <h1>Members Only</h1>
+    </div>
 
-          <div id="coverScreen">
-            <div class="joinFullscrContainer">
-              <div id="screenShade"></div>
-            </div>
-
-            <div class="fullpageTitle members">
-              <h2>Tiger Band</h2>
-              <h1>Members Only</h1>
-            </div>
-
-            <div id="pwdFlex">
-              <form method="POST" action="/members/secure.php">
-                <input type="password" name="password" placeholder="Password" id="password" class="" autofocus>
-                <input type="submit" name="submit" value="Go"></input>
-              </form>
-            </div>
-          </div>
-
-        <?}
-      }
-    ?>    
-</body>
-
-<script> //JavaScript for Members Only Entry
-    function removeShake() {
-        pwd.className = "";
-    };
-
-    //JavaScript for Collapsible Articles
-    function expand(n) {
-        n.classList.toggle("clicked");
-    };
-    //Copyright Date
-    var startYear = 2017;
-    var currentYear = new Date().getFullYear();
-    if (startYear == currentYear) {
-        document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear;
-    }
-    else {
-        document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear + " - " + currentYear;
-    }
-</script>
+    <div id="pwdFlex">
+      <form method="post" action="" id="login_form">
+        <input type="password" name="pass" placeholder="*******">
+        <input type="submit" name="submit_pass" value="DO SUBMIT">
+      </form>
+    </div>
+  </div>
+  <?php	
+  }
+  ?>
+  </body>
 </html>
