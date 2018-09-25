@@ -264,3 +264,23 @@
         readfile("../footer.html");
     ?>
     </div>
+
+    <script> //JavaScript for Members Only Entry
+        function removeShake() {
+            pwd.className = "";
+        };
+
+        //JavaScript for Collapsible Articles
+        function expand(n) {
+            n.classList.toggle("clicked");
+        };
+        //Copyright Date
+        var startYear = 2017;
+        var currentYear = new Date().getFullYear();
+        if (startYear == currentYear) {
+            document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear;
+        }
+        else {
+            document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear + " - " + currentYear;
+        }
+    </script>
