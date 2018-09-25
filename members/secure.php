@@ -7,6 +7,20 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
+
+<!--- NAVIGATION --->
+
+<nav>
+    <a href="/">Home</a>
+    <a href="/this_season/">This Season</a>
+    <a href="/join/">Join</a>
+    <a href="/bands/">Bands</a>
+    <a href="/organizations/">Organizations</a>
+    <a href="/staff/">Staff</a>
+    <a href="/members/" class="active">Members Only</a>
+    <a href="/contact/">Contact</a>
+</nav>
+
     <div id="membersContent">
         <div class="heading">
             <h3>Members Only</h3>
@@ -250,4 +264,3 @@
         readfile("../footer.html");
     ?>
     </div>
-
