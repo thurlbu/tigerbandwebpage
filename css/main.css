@@ -1049,7 +1049,7 @@ img.staffPortrait {
 }
 
 /***** MEMBERS ONLY PAGE *****/
-input[name="password"] {
+input[name="pass"] {
     width: 25rem;
     background: none;
     color: white;
@@ -1060,7 +1060,7 @@ input[name="password"] {
     font-weight: 400;
     transition: background 300ms ease;
 }
-input[name="password"]:focus {
+input[name="pass"]:focus {
     outline: none;
     background: rgba(0, 0, 0, 0.35);
 }
