@@ -175,7 +175,7 @@
                 <p><b>Commander:</b> Trey Lockett</p>
                 <p><b>Vice-Commander:</b> Josh Rogers</p>
                 <p><b>Sergeant Major:</b> Sam Verdonck</p>
-                <p><b>Drum Majors: </b>To Be Announced...</p>
+                <p><b>Drum Majors: </b>Trey Lockett, Stephanie Linke, Zach Jordan</p>
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos:</b> Tivvi Pare &amp; David Coulter</p>
                 <p><b>Clarinets:</b> Jason Gonzales &amp; Reanna Jeanes</p>

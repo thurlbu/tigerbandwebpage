@@ -162,16 +162,6 @@ a.richLink:hover {
         opacity: 1;
     }
 }
-@keyframes joinAnimation {
-  0% {
-    height: 30%;
-    transform: translate(-50%, -50%, 0); /* enable hardware acceleration */
-  }
-  100% {
-    height: 75%;
-    transform: translate(-50%, -50%, 0); /* enable hardware acceleration */
-  }
-}
 
 /***** NAVIGATION BAR ****/
 nav {
@@ -795,8 +785,6 @@ td:first-child, td:nth-child(2) {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  will-change: height;
-  animation: joinAnimation 1s ease-out 800ms forwards, fadeIn 500ms ease-in-out;
 }
 .join h1 {
   margin-top: 0;
@@ -1061,7 +1049,7 @@ img.staffPortrait {
 }
 
 /***** MEMBERS ONLY PAGE *****/
-input[name="password"] {
+input[name="pass"] {
     width: 25rem;
     background: none;
     color: white;
@@ -1072,11 +1060,11 @@ input[name="password"] {
     font-weight: 400;
     transition: background 300ms ease;
 }
-input[name="password"]:focus {
+input[name="pass"]:focus {
     outline: none;
     background: rgba(0, 0, 0, 0.35);
 }
-#pwdFlex {
+.pwdFlex {
     position: absolute;
         left: 50%;
         top: 80vh;
@@ -1165,6 +1153,7 @@ h4.expand + .expandButton img {
     -ms-flex-flow: row nowrap;
     flex-flow: row nowrap;
     overflow-x: scroll;
+    -webkit-overflow-scrolling: touch;
     margin-top: 1rem;
 }
 .fileUIcontainer p{

@@ -38,20 +38,28 @@
         </div>
 
         <div id="itineraries">
-            <div class="heading">
+            <div id="heading">
                 <h4>Itineraries &amp; Schedules</h4>
             </div>
             <div id="expandFiles1" class="fileUIcontainer">
-                <p>There's nothing here yet.</p>
+              <a href="/doc/Itineraries/TexasAMItinerary.pdf" target="_blank">
+                  <div class="fileUIfile">
+                      <span>Texas A&amp;M</span>
+                  </div>
+              </a>
             </div>
         </div>
 
         <div id="excuseLetters">
-            <div class="heading">
+            <div id="heading">
                 <h4>Excuse Letters</h4>
             </div>
             <div id="expandFiles2" class="fileUIcontainer">
-                <p>There's nothing here yet.</p>
+              <a href="/doc/ExcuseLetters/TexasAM.pdf" target="_blank">
+                  <div class="fileUIfile">
+                      <span>Texas A&amp;M</span>
+                  </div>
+              </a>
             </div>
         </div>
 
@@ -265,11 +273,7 @@
     ?>
     </div>
 
-    <script> //JavaScript for Members Only Entry
-        function removeShake() {
-            pwd.className = "";
-        };
-
+    <script>
         //JavaScript for Collapsible Articles
         function expand(n) {
             n.classList.toggle("clicked");
