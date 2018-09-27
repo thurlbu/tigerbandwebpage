@@ -1,0 +1,126 @@
+/***** COLORS *****/
+/***** MEMBERS ONLY PAGE *****/
+input[name="pass"] {
+  width: 25rem;
+  background: none;
+  color: white;
+  border: 2px solid #F66733;
+  padding: 0.75rem;
+  text-align: center;
+  font-size: 24pt;
+  font-weight: 400;
+  transition: background 300ms ease; }
+  input[name="pass"]:focus {
+    outline: none;
+    background: rgba(0, 0, 0, 0.35); }
+
+.pwdFlex {
+  position: absolute;
+  left: 50%;
+  top: 80vh;
+  transform: translateX(-50%); }
+
+.fadeOut {
+  animation: fadeOut 150ms ease; }
+
+.shake {
+  animation: shake 700ms ease; }
+
+#membersContent {
+  animation: fadeIn 300ms ease; }
+
+.hidden {
+  display: none; }
+
+#music {
+  margin-bottom: 1.5rem; }
+
+#membersContent h4, #music h4 {
+  padding-top: 2.5rem;
+  margin-top: -2.5rem; }
+
+#membersContent h4.purpleText, #music h4.purpleText {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  margin-top: 1rem;
+  padding-top: 0;
+  background: white;
+  padding: 1rem;
+  font-size: 26pt;
+  font-weight: 400;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: none 150ms ease;
+  transition-property: -webkit-box-shadow, -webkit-transform;
+  transition-property: box-shadow, transform;
+  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform; }
+
+#membersContent h4.purpleText:hover, #music h4.purpleText:hover {
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25);
+  transform: translateY(-1px); }
+
+h4.expand, .expandButton {
+  cursor: pointer; }
+
+h4.expand + .expandButton + .fileUIcontainer {
+  display: none; }
+
+h4.expand.clicked + .expandButton + .fileUIcontainer {
+  display: flex; }
+
+h4.expand.clicked + .expandButton img {
+  transform: rotateX(180deg); }
+
+h4.expand:hover + .expandButton {
+  animation: bounceDown 500ms ease; }
+
+h4.expand.clicked:hover + .expandButton {
+  animation: bounceUp 500ms ease; }
+
+h4.expand + .expandButton img {
+  float: right;
+  margin-top: -4.6rem;
+  margin-right: 5rem;
+  transition: 300ms all ease-in-out; }
+
+.fileUIcontainer {
+  width: 100%;
+  height: auto;
+  background: dimgray;
+  flex-flow: row nowrap;
+  overflow-x: scroll;
+  margin-top: 1rem; }
+  .fileUIcontainer p {
+    text-align: center;
+    color: darkgray;
+    font-size: 14pt;
+    height: 12rem;
+    line-height: 12rem; }
+
+.fileUIfile {
+  position: relative;
+  margin: 1rem;
+  background: white;
+  height: 12rem;
+  width: 12rem;
+  background: white url("../img/logos/clemsonPaw.svg") 50% 25%/50% no-repeat; }
+  .fileUIfile span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: lightgray;
+    height: 3rem;
+    width: 100%;
+    font-size: 16pt;
+    text-align: center;
+    line-height: 3rem; }
+
+.fileUIcontainer a {
+  color: black; }
+
+.fileUIfile img {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -25%);
+  width: 8rem;
+  height: 8rem; }
