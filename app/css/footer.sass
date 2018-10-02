@@ -1,0 +1,62 @@
+@import "variables"
+
+/***** FOOTER *****/
+footer
+  background: $clemson-orange
+  margin-top: auto
+  a
+    text-decoration: none
+    color: white
+    transition: color 300ms ease
+    &:hover
+      color: $clemson-purple
+
+#footerColsLayout
+  display: flex
+  flex-flow: row nowrap
+  align-items: start
+  width: 98vw
+  padding: 1vw
+
+footer
+  table
+    width: 19.5vw
+    color: white
+    font-size: 11pt
+    font-weight: 400
+    tr:first-child td
+      font-weight: 400
+    &:first-child td, &:nth-child(2) td
+      text-align: left
+      padding: 0.25rem
+    &:nth-child(4) td, &:last-child td
+      text-align: right
+      padding: 0.25rem
+  #footerLogo
+    align-self: center
+    width: 50%
+    max-width: 20rem
+    display: block
+    margin: auto
+
+hr
+  width: 98vw
+  background: white
+  margin: auto
+
+footer #socMedContainer
+  width: 35%
+  position: relative
+  left: 50%
+  transform: translateX(-50%)
+  padding: 0.5rem
+  .socialBorder
+    width: 3.5rem
+    height: 3.5rem
+
+body.stickyFooter
+  display: flex
+  flex-direction: column
+
+.stickyFooterContent
+  flex: 1 0 auto

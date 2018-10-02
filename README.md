@@ -2,4 +2,9 @@
 
 Clemson University Tiger Band Website
 
-Main index.php located in /
+To develop: 
+
+  Run `gulp`
+  Edit files inside the app folder
+  Run `gulp build`
+  Everything that goes on the server is in the prod folder

@@ -1,0 +1,64 @@
+@import "variables"
+
+/***** THIS SEASON PAGE *****/
+#photoSlider
+  width: 101.75%
+  margin: 2rem 0
+  .controls
+    width: 50%
+    margin: auto
+    margin-top: -2.5rem
+    text-align: center
+
+img.slider
+  display: none
+  width: 100%
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
+
+.dots
+  display: inline-block
+  height: 1rem
+  width: 1rem
+  border: 1px solid white
+  border-radius: 50%
+  transition: background 300ms ease
+  cursor: pointer
+  &:hover
+    background: white
+
+.dot-white
+  background: white
+
+/** ARTICLE FORMATTING **/
+article
+  &.shows p
+    padding-left: 2.5rem
+    color: $innovation-gray
+  &.officers
+    p
+      color: $innovation-gray
+    b
+      color: black
+
+/** FOOTBALL CALENDAR FORMATTING **/
+table
+  width: 100%
+  border-collapse: collapse
+
+tr
+  &:nth-child(even)
+    background: rgba(246, 103, 51, 0.5)
+  &:nth-child(12)
+    background: rgba(82, 45, 128, 0.5)
+  &:nth-child(13)
+    background: rgba(246, 103, 51, 0.5)
+  &:nth-child(14)
+    background: white
+
+th
+  padding: 0.5rem
+
+td
+  padding: 0.5rem
+  &:first-child, &:nth-child(2)
+    text-align: center
