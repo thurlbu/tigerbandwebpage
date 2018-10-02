@@ -62,7 +62,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="/cutba/" class="boxWrapper">
+                <a href="/cutba/" class="boxWrapper" target="_blank">
                     <div id="aboutBox2" class="boxUIelement sq purp">
                         <div class="textContainer">
                             <p>Alumni</p>
@@ -167,7 +167,7 @@
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
             		<img class="staffPortrait" src="/img/staff/CSloan.png">
-                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com">ImagineStudiosSC.com</a></p>
+                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
                 </div>
             </article>
 

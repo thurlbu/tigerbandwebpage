@@ -63,7 +63,7 @@
                 </div>
             </div>
         </a>
-        <a href="/drumline/">
+        <a href="/drumline/" target="_blank">
             <div class="boxWrapper">
                 <div id="box2" class="boxUIelement sq purp homepage">
                     <div class="textContainer hide">
@@ -123,7 +123,7 @@
                     </div>
                 </div>
             </div>
-        <a href="/cutba/" class="boxWrapper">
+        <a href="/cutba/" class="boxWrapper" target="_blank">
             <div id="box7" class="boxUIelement sq purp homepage">
                 <div class="textContainer hide">
                     <p>Clemson University<br/>Tiger Band<br/>Association</p>
