@@ -78,10 +78,8 @@ video#homeVideoBkg
   display: flex
   flex-wrap: wrap
   width: 100vw
-  a
-    text-decoration: none
 
-#auditionBoxUI a, #rgBoxUI a, .aboutLinks a
+#boxUI a, #auditionBoxUI a, #rgBoxUI a, .aboutLinks a, .homepageNav a
   text-decoration: none
 
 .boxUIelement
@@ -270,6 +268,10 @@ article
   transition-property: -webkit-box-shadow, -webkit-transform
   transition-property: box-shadow, transform
   transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
+  &.fullWidth p
+    width: 100%
+  img.fullSize
+    width: 75%
   &.text h1, &.media h1
     margin: 0
     font-weight: 400
@@ -286,6 +288,8 @@ article
     p
       padding: 0.5rem 0
       margin: 0
+  &.media h1
+    color: $clemson-purple
   &.media p
     padding: 0.5rem 0
     margin: 0
@@ -298,10 +302,6 @@ article
   width: 70%
   float: right
   padding: 0.5rem
-
-article.media h1
-  font-size: 24pt
-  color: $clemson-purple
 
 .iframeContainer
   width: 75%

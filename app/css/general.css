@@ -4,22 +4,24 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-h1 {
-  font-size: 95pt;
+h1, strong {
   font-weight: 700; }
 
-h2 {
-  font-size: 55pt;
+h2, h3, h4 {
   font-weight: 400; }
+
+h1 {
+  font-size: 95pt; }
+
+h2 {
+  font-size: 55pt; }
 
 h3 {
   font-size: 28pt;
-  font-weight: 400;
   color: #F66733;
   margin: 0; }
 
 h4 {
-  font-weight: 700;
   font-size: 36pt;
   color: #F66733;
   margin: 0; }
