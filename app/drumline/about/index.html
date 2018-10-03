@@ -17,25 +17,25 @@
     <meta name="theme-color" content="#522d80">
 </head>
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
 <div id="mobileHeader">
 	<a href="/drumline/"><img id="tbMobileLogo" src="../img/logos/Drumline%20Mobile%20Header.svg" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
+
 <label id='mobileScreenShade' for='mobileMenu'></label>
-	
+
 <nav>
     <a href="../">Home</a>
     <a href="../about" class="active">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/">Music</a>
     <a href="../contact/">Contact</a>
-</nav>    
-    
+</nav>
+
 <body>
-    <div id="heading">
+    <div class="heading">
         <h4>About CUD</h4>
     </div>
 
@@ -50,7 +50,7 @@
                 <p>The Clemson Drumline is sponsored by Yamaha Marching Percussion, Sabian Cymbals, Remo Drumheads, and Vic Firth Drumsticks. We greatly value the relationships we have with all of our sponsors.</p>
             </article>
         </div>
-        
+
         <div id="col2Flex">
             <article class="text fullWidth">
                 <h1 class="purpleText">Clemson University Drumline</h1>
@@ -58,7 +58,7 @@
             </article>
         </div>
     </div>
-    
+
     <div class="sponsors">
         <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
             <img src="../img/logos/yamaha.svg" width="250">
@@ -73,17 +73,17 @@
             <img src="../img/logos/vic-firth.svg" width="150">
         </a>
     </div>
-    
-    <div id="heading">
+
+    <div class="heading">
         <h4>Staff</h4>
     </div>
-    
+
     <div id="Col2FlexContent">
         <div id="col1Flex">
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Dr. Paul Buyer</h1>
                 <h2 class="purpleText">Director of Percussion</h2>
                 <div class="staffBio">
@@ -96,7 +96,7 @@
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Tyler Stoneman</h1>
                 <h2 class="purpleText">2018 Section Leader</h2>
                 <div class="staffBio">
@@ -112,7 +112,7 @@
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Mr. Lance Curry</h1>
                 <h2 class="purpleText">Drumline Instructor</h2>
                 <div class="staffBio">
@@ -126,21 +126,21 @@
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
-                </div> 
+                </div>
                 <h1>Jared Friedl</h1>
                 <h2 class="purpleText">2018 Assistant Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/Friedl.jpg" class="staffPortrait">
                     <p>Jared Friedl is the Assistant Section Leader for the 2018 Clemson University Drumline. He was born and raised in Wake Forest, North Carolina, but especially enjoys quiet evenings in the mountains away from the hustle and bustle.  Jared is a senior Physics major with a minor in Philosophy, and hopes to pursue graduate studies in particle physics. </p>
 		    <p>This is Jared’s fourth year in CUD. Jared has participated in many of Clemson’s other ensembles including concert band, steel band, gigging steel band, percussion ensemble, and jazz ensemble. He is also an active member of Clemson’s chapter of Kappa Kappa Psi, National Honorary Band Fraternity. Jared has played quads since his freshman year of high school and still manages to complain about the back pain.</p>
-		    <p>Jared enjoys reading books, drumming, arranging, sleeping, eating, and having a beard. He listens to rap, jazz, funk, and electronic music almost nonstop and has a special place in his heart for Will Ferrell’s lesser known gems such as A Night at the Roxbury and Everything Must Go.</p> 
+		    <p>Jared enjoys reading books, drumming, arranging, sleeping, eating, and having a beard. He listens to rap, jazz, funk, and electronic music almost nonstop and has a special place in his heart for Will Ferrell’s lesser known gems such as A Night at the Roxbury and Everything Must Go.</p>
                 </div>
             </article>
         </div>
     </div>
-    
 
-    
+
+
 </body>
 
 <footer>
@@ -221,7 +221,7 @@
             </tr>
         </table>
     </div>
-    <div id="line"></div>
+    <hr>
     <div id="socMedContainer">
         <div id="icons">
             <a href="https://twitter.com/clemsondrumline">
@@ -247,10 +247,10 @@
         </div>
     </div>
 </footer>
-    
+
 </html>
 
-<script type="text/javascript"> 
+<script type="text/javascript">
     //JavaScript for Collapsible Articles
     function expand(n) {
         n.classList.toggle("clicked");

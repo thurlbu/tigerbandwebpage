@@ -16,32 +16,32 @@
     <meta name="theme-color" content="#522d80">
 </head>
 
-<input type='checkbox' id='mobileMenu'>	
+<input type='checkbox' id='mobileMenu'>
 
-<!--- HEADER --->    
+<!--- HEADER --->
 
 <div id="mobileHeader">
 	<a href="/drumline/"><img id="tbMobileLogo" src="../img/logos/Drumline%20Mobile%20Header.svg" width="120"></a>
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
-	
-<label id='mobileScreenShade' for='mobileMenu'></label>  
-    
+
+<label id='mobileScreenShade' for='mobileMenu'></label>
+
 <!--- NAVIGATION --->
-    
+
 <nav>
     <a href="../">Home</a>
     <a href="../about">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/">Music</a>
     <a href="../contact/" class="active">Contact</a>
-</nav>    
-    
+</nav>
+
 <!--- PAGE CONTENT --->
-    
+
 <body class="stickyFooter">
     <div class="stickyFooterContent">
-        <div id="heading">
+        <div class="heading">
             <h3>Contact</h3>
             <h4>Clemson University Drumline</h4>
         </div>
@@ -52,9 +52,9 @@
             <h3><a href="/drumline/">Return to the homepage</a></h3>
         </center>
     </div>
-    
+
 <!--- FOOTER --->
-    
+
     <footer>
         <div id="footerColsLayout">
             <table>
@@ -136,7 +136,7 @@
                 </tr>
             </table>
         </div>
-        <div id="line"></div>
+        <hr>
         <div id="socMedContainer">
             <div id="icons">
                 <a href="https://twitter.com/clemsondrumline" target="_blank">
@@ -163,7 +163,7 @@
         </div>
     </footer>
 </body>
-    
+
 <script type="text/javascript">
     //Copyright Date
     var startYear = 2017;

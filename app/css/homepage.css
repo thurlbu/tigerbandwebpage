@@ -76,10 +76,8 @@ video#homeVideoBkg {
   display: flex;
   flex-wrap: wrap;
   width: 100vw; }
-  #boxUI a {
-    text-decoration: none; }
 
-#auditionBoxUI a, #rgBoxUI a, .aboutLinks a {
+#boxUI a, #auditionBoxUI a, #rgBoxUI a, .aboutLinks a, .homepageNav a {
   text-decoration: none; }
 
 .boxUIelement {
@@ -264,6 +262,10 @@ article {
   transition-property: -webkit-box-shadow, -webkit-transform;
   transition-property: box-shadow, transform;
   transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform; }
+  article.fullWidth p {
+    width: 100%; }
+  article img.fullSize {
+    width: 75%; }
   article.text h1, article.media h1 {
     margin: 0;
     font-weight: 400; }
@@ -279,6 +281,8 @@ article {
   article.text p {
     padding: 0.5rem 0;
     margin: 0; }
+  article.media h1 {
+    color: #522D80; }
   article.media p {
     padding: 0.5rem 0;
     margin: 0; }
@@ -291,10 +295,6 @@ article {
   width: 70%;
   float: right;
   padding: 0.5rem; }
-
-article.media h1 {
-  font-size: 24pt;
-  color: #522D80; }
 
 .iframeContainer {
   width: 75%;
