@@ -269,16 +269,16 @@ article {
   article.text h1, article.media h1 {
     margin: 0;
     font-weight: 400; }
-  article.text h1 {
+  article.text h1, article.media h1 {
     font-size: 24pt;
     color: #F66733; }
-  article.text h2 {
+  article.text h2, article.media h2 {
     font-size: 14pt;
     font-weight: 400;
     color: #522D80;
     font-style: italic;
     margin: 0; }
-  article.text p {
+  article.text p, article.media p {
     padding: 0.5rem 0;
     margin: 0; }
   article.media h1 {
