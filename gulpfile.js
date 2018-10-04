@@ -80,8 +80,8 @@ gulp.task('move-html-php-to-prod', function () {
 });
 
 gulp.task('images', function () {
-  return gulp.src(['./app/img/*.+(png|jpg|jpeg|gif|svg)',
-    './app/img/(logos|staff)/*.+(png|jpg|jpeg|gif|svg)'])
+  return gulp.src(['./app/img/*',
+    './app/img/**/*'])
     .pipe(cache(imagemin({
       interlaced: true
     })))
@@ -111,7 +111,7 @@ gulp.task('move-docs', function () {
 // Doing drumline stuff
 
 gulp.task('drumline', function () {
-  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-images']);
+  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-images', 'drumline-move-extra']);
 });
 
 gulp.task('drumline-sass', function () {
@@ -139,8 +139,8 @@ gulp.task('drumline-css-prod', function () {
 });
 
 gulp.task('drumline-images', function () {
-  return gulp.src(['./app/drumline/img/*.+(png|jpg|jpeg|gif|svg)',
-    './app/drumline/img/(logos|staff)/*.+(png|jpg|jpeg|gif|svg)'])
+  return gulp.src(['./app/drumline/img/*',
+    './app/drumline/img/**/*'])
     .pipe(cache(imagemin({
       interlaced: true
     })))
@@ -188,8 +188,8 @@ gulp.task('cutba-css-prod', function () {
 });
 
 gulp.task('cutba-images', function () {
-  return gulp.src(['./app/cutba/img/*.+(png|jpg|jpeg|gif|svg)',
-    './app/cutba/img/(logos|staff)/*.+(png|jpg|jpeg|gif|svg)'])
+  return gulp.src(['./app/cutba/img/*',
+    './app/cutba/img/**/*'])
     .pipe(cache(imagemin({
       interlaced: true
     })))
