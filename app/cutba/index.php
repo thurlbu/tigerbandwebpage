@@ -202,78 +202,11 @@
     </div>
 </body>
 
-<!--- FOOTER --->
+<!-- FOOTER-->
 
-<footer>
-    <div id="footerColsLayout">
-        <table>
-            <tr>
-                <td>INFORMATION</td>
-            </tr>
-            <tr>
-                <td><a href="about/">About</a></td>
-            </tr>
-            <tr>
-                <td><a href="music/">Music</a></td>
-            </tr>
-
-            <tr>
-                <td><a href="contact/">Contact</a></td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <td>CONTRIBUTE TO TIGER BAND</td>
-            </tr>
-            <tr>
-                <td><a href="https://qnet.e-quantum2k.com/~prtspecialty/Custom/32245/RETAIL/cgi-bin/nph-your-catalog.cgi"
-                        target="_blank">CUTBA Store</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://cualumni.clemson.edu/give/cutba" target="_blank">Donate</a></td>
-            </tr>
-            <tr>
-                <td><a href="http://cutba.org/CUTBAbrickReservationForm.pdf" target="_blank">Buy a Brick</a></td>
-            </tr>
-        </table>
-        <table>
-            <td>
-                <a href="/cutba/"><img id="footerLogo" src="img/logos/CUTBA.png"></a>
-            </td>
-        </table>
-        <table>
-            <tr>
-                <td>DEVELOPERS</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.linkedin.com/in/alyssa-collado" target="_blank">Alyssa Collado</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://www.linkedin.com/in/nicholas-gustafson/" target="_blank">Nicholas Gustafson</a></td>
-            </tr>
-            <tr>
-                <td><a href="http://adampatyk.io" target="_blank">Adam Patyk</a></td>
-            </tr>
-        </table>
-        <table>
-            <tr>
-                <td>COPYRIGHT &copy; 2017</td>
-            </tr>
-            <tr>
-                <td>Clemson University</td>
-            </tr>
-            <tr>
-                <td>Tiger Band Association</td>
-            </tr>
-            <tr>
-                <td> </td>
-            </tr>
-            <tr>
-                <td><a href="contact/">Contact CUTBA</a></td>
-            </tr>
-        </table>
-    </div>
-</footer>
+<?php
+    readfile("footer.html");
+?>
 
 </html>
 
