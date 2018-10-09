@@ -115,6 +115,7 @@ gulp.task('drumline', function () {
 });
 
 gulp.task('drumline-sass', function () {
+  del.sync('./app/drumline/css/drumline.css');
   return gulp.src('./app/drumline/css/*.sass')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./app/drumline/css'))
@@ -124,6 +125,7 @@ gulp.task('drumline-sass', function () {
 });
 
 gulp.task('drumline-css-app', function () {
+  del.sync('./app/drumline/css/main.css');
   return gulp.src(['./app/css/main.css', './app/drumline/css/*.css'])
     .pipe(concat('main.css'))
     .pipe(gulp.dest('./app/drumline/css'))
@@ -164,6 +166,7 @@ gulp.task('cutba', function (callback) {
 });
 
 gulp.task('cutba-sass', function () {
+  del.sync('./app/cutba/css/cutba.css');
   return gulp.src('./app/cutba/css/*.sass')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./app/cutba/css'))
@@ -173,6 +176,7 @@ gulp.task('cutba-sass', function () {
 });
 
 gulp.task('cutba-css-app', function () {
+  del.sync('./app/cutba/css/main.css');
   return gulp.src(['./app/css/main.css', './app/cutba/css/*.css'])
     .pipe(concat('main.css'))
     .pipe(gulp.dest('./app/cutba/css'))
