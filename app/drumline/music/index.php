@@ -41,7 +41,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h4>Music</h4>
     </div>
 

@@ -31,7 +31,7 @@
 
 <nav>
     <a href="../">Home</a>
-    <a href="../about">About</a>
+    <a href="../about/">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/">Music</a>
     <a href="../contact/" class="active">Contact</a>
@@ -41,7 +41,7 @@
 
 <body class="stickyFooter">
     <div class="stickyFooterContent">
-        <div id="heading">
+        <div class="heading">
             <h3>Contact</h3>
             <h4>Clemson University Drumline</h4>
         </div>

@@ -19,9 +19,9 @@ h8 {
 #homepageTitle {
   text-align: center;
   position: absolute;
-    position-top: 30%;
-    position-left: 50%;
-    position-transform: translate(-50%, -30%);
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -30%);
   width: 60%;
   color: white;
   line-height: 1.5rem;
@@ -42,12 +42,15 @@ h8 {
   .homepageNav .boxUIelement {
     flex-grow: 1; }
   .homepageNav .rect {
-    width: 32.5vw;
+    width: 32.6vw;
     height: 27.5vh; }
   .homepageNav p {
     font-size: 24pt; }
-  .homepageNav a:first-child .boxWrapper, .homepageNav a:last-child .boxWrapper {
+  .homepageNav a:first-child .boxWrapper, .homepageNav a:nth-child(2) .boxWrapper {
     margin-right: 1vw; }
+
+.clemsonLogo {
+  bottom: 30vh; }
 
 #homepageNav1 {
   background-image: url(../img/clemson-tiger-band-syracuse-2016-433.jpg);
@@ -119,7 +122,7 @@ article p + img, article h1 + img {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2); }
   .processItem:nth-child(odd) .date {
     background: #F66733; }
-  .processItemnth-child(even) .date {
+  .processItem:nth-child(even) .date {
     background: #522D80; }
 
 .date {
@@ -183,6 +186,16 @@ table.music {
   transition-property: -webkit-box-shadow, -webkit-transform;
   transition-property: box-shadow, transfor;
   transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform; }
+  table.music tr:nth-child(even) {
+    background: white; }
+  table.music tr:nth-child(odd) {
+    background: rgba(82, 45, 128, 0.5); }
+  table.music tr:nth-child(12) {
+    background: white; }
+  table.music tr:nth-child(13) {
+    background: white; }
+  table.music tr:nth-child(14) {
+    background: white; }
   table.music th {
     font-size: 18pt;
     font-weight: 400;

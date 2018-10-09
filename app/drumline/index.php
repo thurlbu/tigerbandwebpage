@@ -33,10 +33,10 @@
 
 <nav>
     <a href="/drumline/" class="active">Home</a>
-    <a href="about/">About</a>
-    <a href="auditions/">Auditions</a>
-    <a href="music/">Music</a>
-    <a href="contact/">Contact</a>
+    <a href="/drumline/about/">About</a>
+    <a href="/drumline/auditions/">Auditions</a>
+    <a href="/drumline/music/">Music</a>
+    <a href="/drumline/contact/">Contact</a>
 </nav>
 
 <!--- PAGE CONTENT --->

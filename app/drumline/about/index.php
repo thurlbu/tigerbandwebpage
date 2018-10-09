@@ -28,7 +28,7 @@
 
 <nav>
     <a href="../">Home</a>
-    <a href="../about" class="active">About</a>
+    <a href="../about/" class="active">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/">Music</a>
     <a href="../contact/">Contact</a>
