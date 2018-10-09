@@ -87,11 +87,11 @@
             </div>
         </div>
     </div>
-    
+
 <!-- FOOTER-->
 
 <?php
-    readfile("footer.html");
+    readfile("../footer.html");
 ?>
 
 </body>
