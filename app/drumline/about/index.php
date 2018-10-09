@@ -143,110 +143,12 @@
 
 </body>
 
-<footer>
-    <div id="footerColsLayout">
-        <table>
-            <tr>
-                <td>NAVIGATION</td>
-            </tr>
-            <tr>
-                <td><a href="../auditions/">Auditions</a></td>
-            </tr>
-            <tr>
-                <td><a href="../music/">Music</a></td>
-            </tr>
+<!-- FOOTER-->
 
-            <tr>
-                <td><a href="../contact/">Contact</a></td>
-            </tr>
-        </table>
-         <table>
-            <tr>
-                <td>AUDITION FOR TIGER BAND</td>
-            </tr>
-            <tr>
-                <td><a href="/join/winds/">Winds</a></td>
-            </tr>
-            <tr>
-                <td><a href="http://drum.people.clemson.edu/auditions/">Drumline</a></td>
-            </tr>
-            <tr>
-                <td><a href="/join/guard/">Color Guard</a></td>
-            </tr>
-            <tr>
-                <td><a href="/join/dancers/">Dancers</a></td>
-            </tr>
-            <tr>
-                <td><a href="/join/twirlers/">Twirlers</a></td>
-            </tr>
-        </table>
-        <table>
-            <td>
-                <a href="/drumline/"><img id="footerLogo" src="../img/logos/TigerBandFull.png"></a>
-            </td>
-        </table>
-        <table>
-            <tr>
-                <td>DEVELOPERS</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.linkedin.com/in/alyssa-collado" target="_blank">Alyssa Collado</a></td>
-            </tr>
-            <tr>
-                <td><a href="https://www.linkedin.com/in/nicholas-gustafson/" target="_blank">Nicholas Gustafson</a></td>
-            </tr>
-            <tr>
-                <td><a href="http://adampatyk.io" target="_blank">Adam Patyk</a></td>
-            </tr>
-        </table>
-         <table>
-            <tr>
-                <td id="copyright">
-                    <noscript>
-                        COPYRIGHT &copy; 2017
-                    </noscript>
-                </td>
-            </tr>
-            <tr>
-                <td>Clemson University</td>
-            </tr>
-            <tr>
-                <td>Tiger Band</td>
-            </tr>
-            <tr>
-                <td> </td>
-            </tr>
-            <tr>
-                <td><a href="../contact/">Contact CUD</a></td>
-            </tr>
-        </table>
-    </div>
-    <hr>
-    <div id="socMedContainer">
-        <div id="icons">
-            <a href="https://twitter.com/clemsondrumline">
-                <div id="twitter" class="socialBorder">
-                    <img class="socialIcon" src="../img/logos/twitter.png">
-                </div>
-            </a>
-            <a href="https://www.instagram.com/clemson_drumline/">
-                <div id="instagram" class="socialBorder">
-                    <img class="socialIcon" src="../img/logos/instagram.png">
-                </div>
-            </a>
-            <a href="https://www.facebook.com/ClemsonDrumline">
-                <div id="facebook" class="socialBorder">
-                    <img class="socialIcon" src="../img/logos/facebook.png">
-                </div>
-            </a>
-            <a href="https://www.snapchat.com/add/cutigerband">
-                <div id="snapchat" class="socialBorder">
-                    <img class="socialIcon" src="../img/logos/snapchat.png">
-                </div>
-            </a>
-        </div>
-    </div>
-</footer>
+<?php
+    readfile("footer.html");
+?>
+
 
 </html>
 
