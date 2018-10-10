@@ -4,10 +4,10 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
 
-h1, strong {
+h1, h4, strong {
   font-weight: 700; }
 
-h2, h3, h4 {
+h2, h3 {
   font-weight: 400; }
 
 h1 {

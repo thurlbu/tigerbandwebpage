@@ -102,6 +102,108 @@ article p + img, article h1 + img {
         width: 15vw; }
 
 /***** AUDITIONS *****/
+.deadlines {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 98%;
+  width: calc(100% - 2.5rem);
+  height: 100%;
+  margin: 1.25rem; }
+  .deadlines .textContainer {
+    background: white;
+    user-select: none; }
+    .deadlines .textContainer p {
+      width: 100%;
+      font-size: 1.35vw;
+      -webkit-transition: color 300ms ease;
+      transition: color 300ms ease; }
+    .deadlines .textContainer b {
+      color: white;
+      font-size: 7vw;
+      line-height: 3.5vw;
+      -webkit-transition: color 300ms ease;
+      transition: color 300ms ease; }
+
+.boxUIelement.clicked .textContainer p, .boxUIelement.clicked .textContainer b {
+  color: #522D80; }
+
+.month {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap; }
+  .month .textContainer p, .month .textContainer b {
+    color: #F66733; }
+  .month.num1, .month.num3 {
+    width: 26vw; }
+  .month.num2 {
+    width: 39vw; }
+
+.deadlines .sq {
+  width: 12.5vw;
+  height: 12.5vw;
+  background: none;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+  z-index: 3;
+  cursor: pointer;
+  transition: box-shadow 300ms ease; }
+  .deadlines .sq:hover {
+    -webkit-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 4px 8px rgba(0, 0, 0, 0.2); }
+    .deadlines .sq:hover p, .deadlines .sq:hover b {
+      color: #522D80; }
+  .deadlines .sq.clicked {
+    z-index: 2; }
+
+.deadlinesInfo {
+  width: 100%;
+  background: white;
+  height: 0;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: top;
+  transform-origin: top;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
+  -webkit-transition: none 150ms ease;
+  transition: none 150ms ease;
+  -webkit-transition-property: height, -webkit-transform;
+  transition-property: height, -webkit-transform;
+  transition-property: height, transform;
+  transition-property: height, transform, -webkit-transform; }
+  .deadlinesInfo p {
+    color: #522D80;
+    margin: 1rem; }
+  .deadlinesInfo.clicked {
+    height: auto;
+    background: white;
+    -webkit-transform: scaleY(1);
+    transform: scaleY(1);
+    z-index: 2; }
+
+.auditionLinks {
+  width: 95.5vw;
+  height: 100%;
+  margin-left: -1.25rem; }
+  .auditionLinks .sq {
+    width: 47.75vw;
+    height: 12rem; }
+  .auditionLinks p {
+    font-size: 18pt; }
+
 #Col2FlexContent.auditions {
   align-items: flex-start; }
 

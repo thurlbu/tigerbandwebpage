@@ -66,6 +66,9 @@
         <a href="http://remo.com/" target="_blank">
             <img src="../img/logos/remo.svg" width="250">
         </a>
+        <a href="https://www.swaggtagz.com/" target="_blank">
+            <img src="../img/logos/swaggtagz.svg" width="350">
+        </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg" width="150">
         </a>
