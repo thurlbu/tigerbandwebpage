@@ -38,7 +38,7 @@
         </div>
 
         <div id="itineraries">
-            <div id="heading">
+            <div class="heading">
                 <h4>Itineraries &amp; Schedules</h4>
             </div>
             <div id="expandFiles1" class="fileUIcontainer">
@@ -51,7 +51,7 @@
         </div>
 
         <div id="excuseLetters">
-            <div id="heading">
+            <div class="heading">
                 <h4>Excuse Letters</h4>
             </div>
             <div id="expandFiles2" class="fileUIcontainer">
