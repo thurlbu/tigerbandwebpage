@@ -126,7 +126,7 @@
 
     <!--- ARTICLES --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>Articles</h4>
     </div>
     <div id="Col2FlexContent" class="homepage">

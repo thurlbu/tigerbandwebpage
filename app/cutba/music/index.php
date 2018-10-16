@@ -39,7 +39,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h4>Music</h4>
     </div>
 
@@ -99,7 +99,7 @@
 
     <!--- SHEET MUSIC UI --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>Tiger Rag</h4>
     </div>
 
@@ -156,7 +156,7 @@
             </a>
     </div>
 
-    <div id="heading">
+    <div class="heading">
         <h4>Orange Bowl March</h4>
     </div>
     <div id="expandFiles1" class="fileUIcontainer showFlex">
@@ -212,7 +212,7 @@
             </a>
     </div>
 
-    <div id="heading">
+    <div class="heading">
         <h4>Alma Mater</h4>
     </div>
        <div id="expandFiles1" class="fileUIcontainer showFlex">
@@ -270,7 +270,7 @@
 
     <!--- DRUM CADENCES --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>Drum Cadences</h4>
     </div>
 

@@ -39,7 +39,7 @@
 <!--- PAGE CONTENT --->
 
 <body>
-    <div id="heading">
+    <div class="heading">
         <h3>About</h3>
         <h4>CUTBA</h4>
     </div>
@@ -127,7 +127,7 @@
 
     <!--- TIMELINE UI --->
 
-    <div id="heading">
+    <div class="heading">
         <h4>History of CUTBA</h4>
     </div>
 
@@ -297,7 +297,7 @@
 
     <!--- CUTBA OFFICERS --->
 
-    <div id="heading">
+    <div class="heading">
         <h4 class="purpleText">CUTBA Officers</h4>
     </div>
 
@@ -360,7 +360,7 @@
 
     <!--- CUTBA REGIONAL REPS -->
 
-    <div id="heading">
+    <div class="heading">
         <h4 class="purpleText">CUTBA Regional Representatives</h4>
     </div>
 
