@@ -146,6 +146,16 @@
                 <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
+                        <a href="https://www.facebook.com/clemsonpma/" target="_blank">
+                            <div id="facebook" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/clemsonpma/?hl=en" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
                         <a href="http://clemson.sinfonia.org" target="_blank">
                             <div id="webLink" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/webLink.png">
