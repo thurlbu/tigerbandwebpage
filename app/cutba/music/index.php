@@ -72,7 +72,7 @@
             </article>
             <center>
                 <br>
-                <img src="../img/logos/CUTBA.png" width="35%"></center>
+                <img src="/cutba/img/logos/CUTBA.png" width="35%"></center>
         </div>
 
         <div id="col2Flex">
