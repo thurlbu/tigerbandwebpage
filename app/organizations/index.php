@@ -49,14 +49,14 @@
                 <p>Kappa Kappa Psi is a national honorary service fraternity for college band members. We operate primarily as a student service and leadership recognition society whose chief aim is to assist the Director of Bands in developing the leadership and enthusiasm that is required of his/her band. Our goals are to provide the band not only with organized and concentrated service activities, but to give our membership valid and wholesome experiences in organization, leadership and social contacts. The honorary nature of membership is based on our premise that “it is an honor to be selected to serve” this band, its department of music, its sponsoring institution, and the cause of band music in the nation's colleges and universities.</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
-                        <a href="https://www.instagram.com/kkpsi_clemson/" target="_blank">
-                            <div id="instagram" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/instagram.png">
-                            </div>
-                        </a>
                         <a href="https://www.facebook.com/KappaKappaPsiClemson/" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
+                            </div>
+                        </a>
+                        <a href="https://www.instagram.com/kkpsi_clemson/" target="_blank">
+                            <div id="instagram" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/instagram.png">
                             </div>
                         </a>
                     </div>
@@ -71,11 +71,6 @@
                 <p>Our purpose is to support Tiger Band, Tiger Band Students, and other music programs at Clemson University, and provide funds for Tiger Band Scholarships. CUTBA is funded primarily through tax deductible contribution by Tiger Band Alumni, Parents, and Friends of Tiger Band.</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
-                        <a href="/cutba/" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
                         <a href="https://www.facebook.com/groups/tbalumni/?ref=bookmarks" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
@@ -84,6 +79,11 @@
                         <a href="https://www.instagram.com/cutba/" target="_blank">
                             <div id="instagram" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                        <a href="/cutba/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
                     </div>
@@ -97,11 +97,6 @@
                 <p>TigerBandMedia.com is owned and maintained by Imagine Studios, an award-winning full service photography studio specializing in student photography of all ages (K-12 through college). Imagine! Studios also offers photographic services for weddings and engagements, family and group portraiture, headshots, special concerts and events, and much more! Visit the Imagine! Studios website at www.ImagineStudiosSC.com, and be sure to check out the studio’s social media pages on Facebook and Instagram!</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
-                        <a href="https://www.tigerbandmedia.com/" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
                         <a href="https://www.facebook.com/ImagineStudiosSC/" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
@@ -110,6 +105,11 @@
                         <a href="https://www.instagram.com/imaginestudiossc/" target="_blank">
                             <div id="instagram" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                        <a href="https://www.tigerbandmedia.com/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
                       </div>
@@ -172,11 +172,6 @@
                 <p>In addition to professional productions, the Brooks Center is also home to the Department of Performing Arts, offering a dynamic, hands-on undergraduate experience. Through conferences and professional engagements made possible by donors, our students add to their resumes and build connections that will jumpstart their careers when they graduate with a Bachelor of Arts in productions studies in performing arts.</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
-                        <a href="https://www.clemson.edu/centers-institutes/brooks/" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
                         <a href="https://www.facebook.com/brookscentercu/" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
@@ -192,6 +187,11 @@
                                 <img class="socialIcon" src="/img/logos/twitter.png">
                             </div>
                         </a>
+                        <a href="https://www.clemson.edu/centers-institutes/brooks/" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
                     </div>
                 </div>
             </article>
@@ -203,11 +203,6 @@
                 <p>At Imagine! Studios, providing you with amazing photos and products is not enough. We want to provide you with an amazing EXPERIENCE from your first phone call to the delivery of your products and beyond. Contact us today to set up your consultation. Let’s see how we can use our unique skills to tell your student’s amazing story. Be sure to visit our website at www.ImagineStudiosSC.com as well as our Facebook and Instagram pages, and give us a like while you’re there!</p>
                 <div id="socMedContainer" class="organizations">
                     <div id="icons">
-                        <a href="http://www.imaginestudiossc.com" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
                         <a href="https://www.facebook.com/ImagineStudiosSC" target="_blank">
                             <div id="facebook" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/facebook.png">
@@ -216,6 +211,11 @@
                         <a href="https://www.instagram.com/imaginestudiossc/" target="_blank">
                             <div id="instagram" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/instagram.png">
+                            </div>
+                        </a>
+                        <a href="http://www.imaginestudiossc.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
                         </a>
                     </div>

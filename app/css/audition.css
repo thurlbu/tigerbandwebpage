@@ -32,6 +32,8 @@
   flex-flow: row wrap; }
   .month .textContainer p, .month .textContainer b {
     color: #522D80; }
+  .month .textContainer:hover {
+    background: white; }
   .month.num1, .month.num3 {
     width: 26vw; }
   .month.num2 {

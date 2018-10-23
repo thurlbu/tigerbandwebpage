@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
     <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Vic Firth, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
-    <meta name="copyright" content="2009-2017 Clemson University Drumline">
+    <meta name="copyright" content="2009-2018 Clemson University Drumline">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -31,7 +31,7 @@
 <!--- NAVIGATION --->
 
 <nav>
-    <a href="../../">Home</a>
+    <a href="/drumline/">Home</a>
     <a href="../../about/">About</a>
     <a href="../../auditions/" class="active">Auditions</a>
     <a href="../../music/">Music</a>

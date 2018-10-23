@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
     <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Vic Firth, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
-    <meta name="copyright" content="2009-2017 Clemson University Drumline">
+    <meta name="copyright" content="2009-2018 Clemson University Drumline">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -31,8 +31,8 @@
 <!--- NAVIGATION --->
 
 <nav>
-    <a href="../">Home</a>
-    <a href="../about">About</a>
+    <a href="/drumline/">Home</a>
+    <a href="../about/">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/" class="active">Music</a>
     <a href="../contact/">Contact</a>
@@ -60,10 +60,6 @@
         </div>
 
         <div id="col2Flex">
-          <article class="text fullWidth">
-              <h1 class="purpleText"><b>1st ROUND VIDEO AUDITION MUSICAL REQUIREMENTS</b></h1>
-              <a href="https://docs.google.com/document/d/1Okp__K2LMh1i7LlnYH1yi1Yi24QMDZQs22gzKJV-IIE" class="richLink" target="_blank">Video Audition Requirements<br>for Each Section</a>
-          </article>
             <table class="music">
                 <col width="30%">
                 <col width="10%">

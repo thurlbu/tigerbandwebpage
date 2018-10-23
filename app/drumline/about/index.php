@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
     <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Vic Firth, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
-    <meta name="copyright" content="2009-2017 Clemson University Drumline">
+    <meta name="copyright" content="2009-2018 Clemson University Drumline">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -27,7 +27,7 @@
 <label id='mobileScreenShade' for='mobileMenu'></label>
 
 <nav>
-    <a href="../">Home</a>
+    <a href="/drumline/">Home</a>
     <a href="../about/" class="active">About</a>
     <a href="../auditions/">Auditions</a>
     <a href="../music/">Music</a>
@@ -47,7 +47,7 @@
             </article>
             <article class="text fullWidth">
                 <h1 class="purpleText">Sponsors</h1>
-                <p>The Clemson Drumline is sponsored by Yamaha Marching Percussion, Sabian Cymbals, Remo Drumheads, and Vic Firth Drumsticks. We greatly value the relationships we have with all of our sponsors.</p>
+                <p>The Clemson Drumline is sponsored by Remo Drumheads, Sabian Cymbals, Swagg Tagz Drum Wraps, Vic Firth Drumsticks, and Yamaha Marching Percussion. We greatly value the relationships we have with all of our sponsors.</p>
             </article>
         </div>
 
@@ -60,20 +60,20 @@
     </div>
 
     <div class="sponsors">
-        <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
-            <img src="../img/logos/yamaha.svg" width="250">
-        </a>
         <a href="http://remo.com/" target="_blank">
             <img src="../img/logos/remo.svg" width="250">
-        </a>
-        <a href="https://www.swaggtagz.com/" target="_blank">
-            <img src="../img/logos/swaggtagz.svg" width="350">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg" width="150">
         </a>
+        <a href="https://www.swaggtagz.com/" target="_blank">
+            <img src="../img/logos/swaggtagz.svg" width="350">
+        </a>
         <a href="http://vicfirth.com/" target="_blank">
             <img src="../img/logos/vic-firth.svg" width="150">
+        </a>
+        <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
+            <img src="../img/logos/yamaha.svg" width="250">
         </a>
     </div>
 
