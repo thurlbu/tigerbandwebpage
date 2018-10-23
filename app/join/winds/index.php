@@ -24,7 +24,7 @@
 <!--- NAVIGATION --->
 
 <nav>
-    <a href="/drumline/">Home</a>
+    <a href="/">Home</a>
     <a href="/this_season/">This Season</a>
     <a href="/join/" class="active">Join</a>
     <a href="/bands/">Bands</a>
