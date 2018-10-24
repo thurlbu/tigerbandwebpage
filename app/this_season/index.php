@@ -179,7 +179,7 @@
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos:</b> Tivvi Pare &amp; David Coulter</p>
                 <p><b>Clarinets:</b> Jason Gonzales &amp; Reanna Jeanes</p>
-                <p><b>Alto Saxes:</b> Caleb Kelley &amp; Michael Rodriguez</p>
+                <p><b>Alto Saxes:</b> Caleb Kelley &amp; Sam Regi</p>
                 <p><b>Tenor Saxes:</b> Taliyah Smith</p>
                 <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Josh Koury</p>
                 <p><b>Mellophone:</b> Chris Haigh &amp; Sarah Razavi</p>
