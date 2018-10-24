@@ -157,30 +157,28 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
             <article class="text">
-                <h1>Join the 2018 Clemson University Tiger Band</h1>
-                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/Basco.jpg'></a>
-                <p>Do you have what it takes to be a "Guardian of the Clemson Spirit?"</p>
-                <p>For information on audition materials, deadlines, and answers to your questions about what it's like to be a member of the "Band that Shakes the Southland," check out our <a href="/join/">join page.</a></p>
-                <p>The only thing missing from Tiger Band's 2018 season is YOU!</p>
-                <p>Submit your audition video today!</p>
+                <h1>Join the 2019 Clemson University Tiger Band</h1>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
+                <p>Sign up today to receive information about what it takes to be a member of Tiger Band and get exclusive information and early registration to events BEFORE they're released to the public!</p>
+                <p>For audition information visit our <a href="/join/">join page!</a></p>
+
             </article>
 
             <article class="text">
-                <h1>2018 Move-in Dates</h1>
-                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
-                <p>One perk about being a member of the 2018 Clemson University Tiger Band is the fact that you get to move in early!</p>
-                <p>All percussionists who earn a call-back audition will move in on AUGUST 13.</p>
-                <p>All section leaders and staff will move in on AUGUST 14.</p>
-                <p>All other wind players, dancers, twirlers, and colorguard members will move in on AUGUST 15.</p>
-                <p>Submit your audition video today!</p>
+                <h1>Tiger Band Experience</h1>
+                <img class="articleImg" src='/img/TigerBandExperience.png'>
+                <p>Bring your whole marching band to Clemson's campus for a personalized Clemson experience. Students will have the opportunity to observe a Tiger Band rehearsal, enjoy an exhibition performance, perform their show and receive comments from the Tiger Band staff (optional), have pizza for dinner, and tour campus!</p>
+                <p>Contact the Tiger Band office at 864.656.3380 to schedule your band's Tiger Band Experience this season!</p>
             </article>
 
             <article class="media">
-                <h1>Lee Greenwood performs with Tiger Band</h1>
-                <p>Tiger Band and Lee Greenwood perform God Bless the USA on Military Appreciation Day!</p>
+                <h1>Tiger Band Vlog - Week 4</h1>
+                <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
+                <p>In week 4 you get to meet "Mike from Mountain Music," Tony Stapleton - CUTBA President, and follow Tiger Band to Tigerwalk!</p>
+                <p>Watch a new episode every Sunday afternoon throughout the season!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IH2GsIbeoDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/WZl_rjropmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
@@ -213,21 +211,21 @@
             </article>
 
             <article class="media">
-                <h1>Tiger Band at the 2018 Sugar Bowl</h1>
-                <p>Tiger Band performs "The Spy who Saved Me" at the 2018 Sugar Bowl.</p>
+                <h1>Tiger Band Performs the Avengers</h1>
+                <p>Check out Tiger Band's performance of their first show of the 2018 season. The Music from the Avengers!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/oMHpLtQUejM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/C-vJCUiwNOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
 
             <article class="media">
-                <h1>#TigerBandTour Vlog | Episode 2: The ACC Basketball Tournament</h1>
-                <p>Relive our trip to Brooklyn for the 2018 ACC Basketball Tournament through the eyes of a few current Tiger Band students!</p>
+                <h1>Clemson University Alma Mater</h1>
+                <p>Traditions are important to Tiger Band. Enjoy Tiger Band singing the Clemson University Alma Mater led by Drum Major, Trey Lockett during our 2018 Preseason Camp.</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/x6M18mzgtj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
