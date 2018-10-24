@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
     <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Vic Firth, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
-    <meta name="copyright" content="2009-2017 Clemson University Drumline">
+    <meta name="copyright" content="2009-2018 Clemson University Drumline">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -31,7 +31,7 @@
 <!--- NAVIGATION --->
 
 <nav>
-    <a href="../">Home</a>
+    <a href="/drumline/">Home</a>
     <a href="../about/">About</a>
     <a href="../auditions/" class="active">Auditions</a>
     <a href="../music/">Music</a>
@@ -142,7 +142,7 @@
                 <p>Students interested in auditioning for the Clemson University Drumline should contact the Clemson Band Office at (864)656-3380. For more information, contact Dr. Paul Buyer at (864)656-3857 or <a href="mailto:pbuyer@clemson.edu">pbuyer@clemson.edu.</a></p>
                 <p>Auditions will be held in the Brooks and Bellamy Theaters in the Brooks Center for the Performing Arts. Snare/quad results will be posted by 12:30 PM. Bass results will be posted at 3:40 and cymbal results will be posted no later than 5:45 PM.</p>
                 <p>All students who will be living on campus and earn a callback audition will move into their dorms on Monday August 13th.  They will pick up their keys from the front desk of their dorm.</p>
-                <a href="video/" class="richLink cta">Video Audition Information</a>
+                <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">
                     <a href="https://docs.google.com/document/d/1r2P30e5fj0bkUe800gs9fjL0Ut_yr4eZKvlEZrGmqWw/edit?usp=sharing" class="richLink" target="_blank">Welcome Letter</a>
@@ -156,8 +156,8 @@
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
                 <div class="linkWrapper">
-                    <a href="http://tband.people.clemson.edu/drumline/auditions/" class="richLink" target="_blank">2018 Audition Schedule Coming Soon</a>
-                    <a href="http://tband.people.clemson.edu/drumline/auditions/" class="richLink" target="_blank">2018 Full Preseason Schedule Coming Soon</a>
+                    <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank">2018 Audition Schedule</a>
+                    <a href="2018 Detailed CUD Schedule.pdf" class="richLink" target="_blank">2018 Full Preseason Schedule</a>
                 </div>
             </article>
         </div>
@@ -249,22 +249,19 @@
                     <a href="https://docs.google.com/document/d/1NUsNK8ojJ9HUMhJF1uHkof-qPFbd4pgOF6Sh3er-tUM" target="_blank" class="richLink">Cymbal Manual</a>
                 </div>
             </article>
-            <article class="text fullWidth">
-                <h1>Mark Time Exercise</h1>
-                <p>The animation below demonstrates how we get back and forth between our two main foot positions in the context of an 8-count exercise preceded by an 8-count tap-off. The color red indicates a foot being placed down on the displayed count, and the color black indicates a stationary foot. Please note exactly when the toes come together and exactly when they come back apart.</p>
-                <img src="../img/MarkTimeExercise.gif">
-            </article>
+
         </div>
 
         <div id="col2Flex">
             <article class="text fullWidth">
-                <h1>How to Tie a Cymbal Knot</h1>
-                <img src="../img/CymbalKnot.png" class="fullSize">
-            </article>
-            <article class="text fullWidth">
                 <h1>Cymbal Notation Legend</h1>
                 <p>The Cymbal Notation Legend is vital to understanding the cymbal notation we utilize in Tiger Band. Keep this legend at hand until you get the hang of reading the Tiger Band cymbal parts.</p>
                 <a href="../doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank" class="richLink">Cymbal Notation Legend</a>
+            </article>
+            <article class="text fullWidth">
+                <h1>Mark Time Exercise</h1>
+                <p>The animation below demonstrates how we get back and forth between our two main foot positions in the context of an 8-count exercise preceded by an 8-count tap-off. The color red indicates a foot being placed down on the displayed count, and the color black indicates a stationary foot. Please note exactly when the toes come together and exactly when they come back apart.</p>
+                <img src="../img/MarkTimeExercise.gif">
             </article>
         </div>
     </div>

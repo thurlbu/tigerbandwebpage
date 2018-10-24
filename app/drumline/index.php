@@ -122,6 +122,18 @@
         </div>
 
         <div id="col2Flex">
+            <article class="text">
+              <h1 class="orangeText">Audition Excerpt</h1>
+              <p>The Audition Excerpt has been posted here: <a href="music">Audition Excerpt</a></p>
+                      <p>Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 13.</p>
+              <p>If you have any questions about the audition music requirements you can send an email to <a href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
+            </article>
+
+            <article class="text">
+              <h1 class="orangeText">Call Back Audition Materials</h1>
+              <p>The Call Back audition materials and information have been updated and posted here: <a href="auditions">Call Back Audition Information</a></p>
+                      <p>If you have any questions about the audition music requirements you can send an email to <a href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
+            </article>
 
             <article class="media">
                 <h1 class="orangeText">The day is not over when the clock hits 0:00</h1>

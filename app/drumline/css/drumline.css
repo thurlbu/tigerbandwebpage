@@ -288,10 +288,12 @@ table.music {
   transition-property: -webkit-box-shadow, -webkit-transform;
   transition-property: box-shadow, transfor;
   transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform; }
+  table.music a {
+    color: #F66733; }
   table.music tr:nth-child(even) {
     background: white; }
   table.music tr:nth-child(odd) {
-    background: rgba(82, 45, 128, 0.5); }
+    background: white; }
   table.music tr:nth-child(12) {
     background: white; }
   table.music tr:nth-child(13) {
