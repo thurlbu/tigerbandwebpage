@@ -172,13 +172,13 @@
             </article>
 
             <article class="media">
-                <h1>Tiger Band Vlog - Week 4</h1>
+                <h1>Tiger Band Vlog - Week 5</h1>
                 <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
-                <p>In week 4 you get to meet "Mike from Mountain Music," Tony Stapleton - CUTBA President, and follow Tiger Band to Tigerwalk!</p>
+                <p>In week 5 you get to travel with Tiger Band to Georgia Tech!</p>
                 <p>Watch a new episode every Sunday afternoon throughout the season!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/WZl_rjropmI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/r_9kGILYDbc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
@@ -196,11 +196,13 @@
 
         <div id="col2Flex">
           <article class="text">
-              <h1>Symphonic Band European Tour</h1>
-                  <a href="http://tband.people.clemson.edu/doc/EuropeBrochure.pdf" class="boxWrapper"><img class="articleImg" src='/img/EuropeanTour.jpg'></a>
-              <p>In case you needed another reason to get involved with the Clemson Bands...</p>
-              <p>The Clemson University Symphonic Band will be touring Europe - Vienna, Salzburg, and Prague - during Spring Break 2019!!</p>
-              <p>Click this article for more details and contact Dr. Spede with any questions.</p>
+              <h1>2018 High School Senior Day</h1>
+                  <a href="https://docs.google.com/forms/d/1MmIJsA8HyjGUSrNJrS4-Sdh_x5GrlO9FbtqPbXJUBJM/edit" class="boxWrapper"><img class="articleImg" src='/img/HSSD.jpg'></a>
+              <p>On November 17, Tiger Band will welcome around 75 lucky high school seniors to campus for Tiger Band High School Senior Day!</p>
+              <p>Students selected to participate will rehearse with Tiger Band in the morning, perform at the 90-minutes-before-kick-off concert, march in the parade, and perform on the field and in the stands with Tiger Band!</p>
+              <p>It's an awesome way to learn what it's really like to be a member of Tiger Band!</p>
+              <p>Click on the picture to complete a registration request.  Space is limited!  Participants will be selected on a first-come, first-served basis.</p>
+              <p>Go Tigers!!</p>
           </article>
 
             <article class="text">
@@ -211,7 +213,7 @@
             </article>
 
             <article class="media">
-                <h1>Tiger Band Performs the Avengers</h1>
+                <h1>Tiger Band Performs The Avengers</h1>
                 <p>Check out Tiger Band's performance of their first show of the 2018 season. The Music from the Avengers!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
