@@ -99,24 +99,28 @@
         <h4>Announcements</h4>
     </div>
 
-    <section id="content" class="centered">
-        <article class="text">
-            <h1>Tiger Band Tours</h1>
-            <img class="articleImg" src='/img/Gaffney.jpg'>
-            <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
-            <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
-            <p>Tour dates and a link to registration will be coming soon!</p>
+    <div id="Col2FlexContent">
+        <div id="col1Flex">
+            <article class="text">
+                <h1>Tiger Band Tours</h1>
+                <img class="articleImg" src='/img/Gaffney.jpg'>
+                <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
+                <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
+                <p>Tour dates and a link to registration will be coming soon!</p>
+            </article>
+        </div>
 
-        </article>
-
-        <article class="text">
-          <h1>Sign Up Today</h1>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper"><img class="articleImg" src='/img/CuseAmp.jpg'></a>
-          <p>CLICK ON THE PICTURE to register with Tiger Band and receive information about what it takes to be a member of Tiger Band.</p>
-          <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
-
-        </article>
-    </section>
+        <div id="col1Flex">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper" target="_blank">
+                <article class="text">
+                    <h1>Sign Up Today</h1>
+                    <img class="articleImg" src='/img/CuseAmp.jpg'>
+                    <p>Click here to register with Tiger Band and receive information about what it takes to be a member of Tiger Band.</p>
+                    <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
+                </article>
+            </a>
+        </div>
+    </div>
 
     <!--- WHY JOIN --->
 
