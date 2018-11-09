@@ -196,30 +196,30 @@
             </table>
         </div>
         <div id="col2Flex">
+          <table class="music">
+              <col width="75%">
+              <col width="25%">
+              <tr>
+              <th colspan="2">High School Senior Day Music</th>
+              </tr>
+              <tr>
+              <td>Armed Forces Medley</td>
+              <td><a href="../doc/AF_Drumline.pdf" target="_blank">pdf</a></td>
+              </tr><tr>
+              <td>Stars and Stripes Forever</td>
+              <td><a href="../doc/SS_Drumline.pdf" target="_blank">pdf</a></td>
+              </tr>
+              <tr>
+              <td>Tiger Rag</td>
+              <td><a href="../doc/TR_Drumline.pdf" target="_blank">pdf</a></td>
+              </tr>
+          </table>
+
             <table class="music">
                 <col width="30%">
                 <col width="10%">
                 <col width="30%">
                 <col width="30%">
-                <tr>
-                    <th colspan="4">High School Senior Day Music</th>
-                </tr>
-                <tr>
-                <td>Tiger Rag</td>
-                <td><a href="../doc/TR_Drumline.pdf" target="_blank">Tiger Rag - Snare, Tenor, Bass, Cymbals</a>
-                </td>
-                </tr>
-                <tr>
-                <td>Armed Forces Salute</td>
-                <td><a href="../doc/AF_Drumline.pdf" target="_blank">Armed Forces Salute - Snare, Tenor, Bass, Cymbals</a>
-                </td>
-                </tr>
-                <tr>
-                <td>Star And Stripes Forever</td>
-                <td><a href="../doc/SS_Drumline.pdf" target="_blank">Stars and Stripes - Snare, Tenor, Bass, Cymbals</a> 
-                </td>
-                </tr>
-
 
                 <tr>
                     <th colspan="4">Cadences</th>
