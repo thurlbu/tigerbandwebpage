@@ -202,6 +202,26 @@
                 <col width="30%">
                 <col width="30%">
                 <tr>
+                    <th colspan="4">High School Senior Day Music</th>
+                </tr>
+                <tr>
+                <td>Tiger Rag</td>
+                <td><a href="../doc/TR_Drumline.pdf" target="_blank">Tiger Rag - Snare, Tenor, Bass, Cymbals</a>
+                </td>
+                </tr>
+                <tr>
+                <td>Armed Forces Salute</td>
+                <td><a href="../doc/AF_Drumline.pdf" target="_blank">Armed Forces Salute - Snare, Tenor, Bass, Cymbals</a>
+                </td>
+                </tr>
+                <tr>
+                <td>Star And Stripes Forever</td>
+                <td><a href="../doc/SS_Drumline.pdf" target="_blank">Stars and Stripes - Snare, Tenor, Bass, Cymbals</a> 
+                </td>
+                </tr>
+
+
+                <tr>
                     <th colspan="4">Cadences</th>
                 </tr>
                 <tr>
