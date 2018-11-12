@@ -176,13 +176,13 @@
             </article>
 
             <article class="media">
-                <h1>Tiger Band Vlog - Week 6</h1>
+                <h1>Tiger Band Vlog - Week 7</h1>
                 <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
-                <p>In week 6 you get to follow Tiger Band through Gameday as the Tigers take on Syracuse!</p>
+                <p>In week 7 you get to follow Tiger Band through Gameday as we travel to Wake Forest!</p>
                 <p>Watch a new episode every Sunday afternoon throughout the season!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/4x1831css7w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/nXtEwVsrv2g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
