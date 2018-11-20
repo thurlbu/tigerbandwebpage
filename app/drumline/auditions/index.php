@@ -93,7 +93,7 @@
             </div>
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced<br>
-                    Those selected must report to CALL BACK auditions on Monday, August 13</p>
+                    Those selected must report to CALL BACK auditions on Monday, August 10</p>
             </div>
         </div>
         <div class="month num3">
