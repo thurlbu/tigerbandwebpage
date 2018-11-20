@@ -52,7 +52,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Sheet Music</h1>
                 <p>Welcome to the CUD Music Page! Below you will find Audition and Warm Up Exercises, Supplemental Material, Pregame Music, and Cadences.</p>
-		<p>All audition music for the 2018 season will be updated on this site on May 1st.</p>
+		<p>All audition music for the 2019 season will be updated on this site on December 15th.</p>
                 <p>For an explanation of the Cymbal notation, please refer to the <a href="../doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank">2010 Cymbal Notation Legend</a>.</p>
                 <p><strong>Note:</strong> some of the older arrangements (such as Pregame Music) use a different system - email a staff member if you have any questions.</p>
 
@@ -69,10 +69,10 @@
                     <th colspan="4">Callback Audition Excerpt</th>
                 </tr>
                 <tr>
-                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 14th.</td>
+                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 10th.</td>
                 </tr>
                 <tr>
-                    <td>2018 Callback Excerpt</td>
+                    <td>2019 Callback Excerpt</td>
                     <td>Coming in July</td>
                     <td>Score |
                     S |
@@ -196,24 +196,6 @@
             </table>
         </div>
         <div id="col2Flex">
-          <table class="music">
-              <col width="75%">
-              <col width="25%">
-              <tr>
-              <th colspan="2">High School Senior Day Music</th>
-              </tr>
-              <tr>
-              <td>Armed Forces Medley</td>
-              <td><a href="../doc/AF_Drumline.pdf" target="_blank">pdf</a></td>
-              </tr><tr>
-              <td>Stars and Stripes Forever</td>
-              <td><a href="../doc/SS_Drumline.pdf" target="_blank">pdf</a></td>
-              </tr>
-              <tr>
-              <td>Tiger Rag</td>
-              <td><a href="../doc/TR_Drumline.pdf" target="_blank">pdf</a></td>
-              </tr>
-          </table>
 
             <table class="music">
                 <col width="30%">
