@@ -30,7 +30,7 @@
     <a href="/bands/" class="active">Bands</a>
     <a href="/organizations/">Organizations</a>
     <a href="/staff/">Staff</a>
-    <a href="/members/">Members Only</a>
+    <a href="/sections/">Sections</a>
     <a href="/contact/">Contact</a>
 </nav>
 
@@ -40,7 +40,6 @@
     <div class="heading">
         <h4>University Bands</h4>
     </div>
-
 
     <div id="Col2FlexContent">
         <div id="col1Flex">

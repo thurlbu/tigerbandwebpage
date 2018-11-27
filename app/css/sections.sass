@@ -1,47 +1,130 @@
 @import "variables"
+$description-font-size: 18pt
 
-.sections
-  margin-top: -1rem
+/* SECTION LANDING PAGE */
 
 .boxWrapper.title
   &:hover .boxUIelement
     transform: none
   .textContainer
-    background: $matte-black
+    background: $clemson-orange
     p
       font-size: 36pt
       font-weight: 700
     &:hover
-      background: $matte-black
+      background: $clemson-orange
 
 .sections a
-  &:nth-child(1) .section
+  #piccolos .section
     background: url(/img/piccolos.jpg) (center / cover) no-repeat
-  &:nth-child(3) .section
+  #clarinets .section
     background: url(/img/clarinets.jpg) (center / cover) no-repeat
-  &:nth-child(4) .section
+  #altos .section
     background: url(/img/clemson-tiger-band-natty-2016-356.jpg) (center / cover) no-repeat
-  &:nth-child(5) .section
+  #tenors .section
     background: url(/img/clemson-tiger-band-pitt-2016-570.jpg) (center / cover) no-repeat
-  &:nth-child(6) .section
+  #trumpets .section
     background: url(/img/trumpets.jpg) (top / cover) no-repeat
-  &:nth-child(7) .section
+  #mellophones .section
     background: url(/img/mellophones.jpg) (center / cover) no-repeat
-  &:nth-child(8) .section
+  #baritones .section
     background: url(/img/baritones.jpg) (center / cover) no-repeat
-  &:nth-child(9) .section
+  #trombones .section
     background: url(/img/trombones.jpg) (center / cover) no-repeat
-  &:nth-child(10) .section
+  #sousaphones .section
     background: url(/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg) (center / cover) no-repeat
-  &:nth-child(11) .section
+  #managers .section
     background: url(/img/logos/clemsonPaw.svg) (center / 50%) no-repeat
-  &:nth-child(12) .section
+  #drum-majors .section
     background: url(/img/trey.jpg) (center / cover) no-repeat
-  &:nth-child(13) .section
+  #twirlers .section
       background: url(/img/clemson-tiger-band-auburn-2017-298.jpg) (center / cover) no-repeat
-  &:nth-child(14) .section
+  #dancers .section
     background: url(/img/clemson-tiger-band-bc-2017-468.jpg) (center / cover) no-repeat
-  &:nth-child(15) .section
+  #guard .section
     background: url(/img/clemson-tiger-band-bc-2017-178.jpg) (center / cover) no-repeat
-  &:nth-child(16) .section
+  #drumline .section
     background: url(/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg) (center / cover) no-repeat
+
+/* SECTION PAGES */
+.section-heading
+  height: 70vh
+  height: calc(75vh - 4.5rem)
+  display: flex
+  justify-content: center
+  position: relative
+  overflow: hidden
+  h1
+    margin-top: auto
+    width: 95%
+    color: white
+    text-shadow: 5px 5px 25px rgba(0, 0, 0, 1)
+  img
+    position: absolute
+    left: 50%
+    top: 50%
+    transform: translate(-50%, -50%)
+    width: 100%
+    z-index: -9
+
+.section-quote
+  height: 25vh
+  padding: 1rem 2.5%
+  background: black
+  p
+    color: white
+    font-size: $description-font-size
+    &:last-child
+      text-align: right
+
+.section-pages.heading
+  margin-bottom: 2.5rem
+
+.section-leaders-content
+  display: flex
+  justify-content: space-around
+  align-items: center
+  width: 100vw
+  .section-leader
+    width: 20%
+    .section-leader-photo
+      width: 100%
+      border-radius: 50%
+      shape-outside: circle()
+    p
+      text-align: center
+      font-size: $description-font-size
+    h3
+      text-align: center
+      padding: 0
+
+.section-traditions
+  display: flex
+  flex-flow: row wrap
+  .tradition-tile
+    display: flex
+    justify-content: center
+    align-items: center
+    width: 50%
+    height: 60vh
+    overflow: hidden
+    .tradition-text
+      padding: 2rem
+      align-self: flex-start
+      font-size: $description-font-size
+
+.media-container
+  position: relative
+  width: 100vw
+  height: 100vh
+  overflow: hidden
+  margin: 0
+  *
+    position: absolute
+    top: 50%
+    left: 50%
+    min-height: 100%
+    transform: translate(-50%, -50%)
+    z-index: -2
+  img
+    width: 100%

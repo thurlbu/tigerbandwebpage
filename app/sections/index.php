@@ -23,12 +23,12 @@
 
 <nav>
     <a href="/">Home</a>
-    <a href="/this_season/" class="active">This Season</a>
+    <a href="/this_season/">This Season</a>
     <a href="/join/">Join</a>
     <a href="/bands/">Bands</a>
     <a href="/organizations/">Organizations</a>
     <a href="/staff/">Staff</a>
-    <a href="/members/">Members Only</a>
+    <a href="/sections/" class="active">Sections</a>
     <a href="/contact/">Contact</a>
 </nav>
 
@@ -37,8 +37,35 @@
 <!-- BOX UI-->
 
 <div id="boxUI" class="sections">
+    <a href="alto-saxes/">
+        <div id="altos" class="boxWrapper">
+          <div class="boxUIelement sq section">
+              <div class="textContainer hide">
+                  <p>Alto<br/>Saxophones</p>
+              </div>
+          </div>
+        </div>
+    </a>
+    <a href="tenor-saxes/">
+      <div id="tenors" class="boxWrapper">
+        <div class="boxUIelement sq section">
+            <div class="textContainer hide">
+                <p>Tenor<br/>Saxophones</p>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a href="trumpets/">
+      <div id="trumpets" class="boxWrapper">
+        <div class="boxUIelement rect section">
+            <div class="textContainer hide">
+                <p>Trumpets</p>
+            </div>
+        </div>
+      </div>
+    </a>
     <a href="piccolos/">
-        <div class="boxWrapper">
+        <div id="piccolos" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
                     <p>Piccolos</p>
@@ -54,7 +81,7 @@
         </div>
     </div>
     <a href="clarinets/">
-        <div class="boxWrapper">
+        <div id="clarinets" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
                     <p>Clarinets</p>
@@ -62,57 +89,44 @@
             </div>
         </div>
     </a>
-    <a href="alto-saxes/">
-        <div class="boxUIelement sq section">
-            <div class="textContainer hide">
-                <p>Alto<br/>Saxophones</p>
-            </div>
-        </div>
-    </a>
-    <a href="tenor-saxes/">
-        <div class="boxUIelement sq section">
-            <div class="textContainer hide">
-                <p>Tenor<br/>Saxophones</p>
-            </div>
-        </div>
-    </a>
-    <a href="trumpets/">
-        <div class="boxUIelement rect section">
-            <div class="textContainer hide">
-                <p>Trumpets</p>
-            </div>
-        </div>
-    </a>
     <a href="mellophones/">
+      <div id="mellophones" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Mellophones</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="baritones/">
+      <div id="baritones" class="boxWrapper">
         <div class="boxUIelement rect section">
             <div class="textContainer hide">
                 <p>Baritones</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="trombones/">
+      <div id="trombones" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Trombones</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="sousaphones/">
+      <div id="sousaphones" class="boxWrapper">
         <div class="boxUIelement rect section">
             <div class="textContainer hide">
                 <p>Sousaphones</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="managers/">
-        <div class="boxWrapper">
+        <div id="managers" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
                     <p>Managers</p>
@@ -121,14 +135,16 @@
         </div>
     </a>
     <a href="drum-majors/">
+      <div id="drum-majors" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Drum Majors</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="twirlers/">
-        <div class="boxWrapper">
+        <div id="twirlers" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
                     <p>Twirlers</p>
@@ -137,7 +153,7 @@
         </div>
     </a>
     <a href="dancers/">
-      <div class="boxWrapper">
+      <div id="dancers" class="boxWrapper">
           <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Dancers</p>
@@ -146,18 +162,22 @@
       </div>
     </a>
     <a href="color-guard/">
+      <div id="guard" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Color Guard</p>
             </div>
         </div>
+      </div>
     </a>
     <a href="/drumline/" target="_blank">
+      <div id="drumline" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
                 <p>Drumline</p>
             </div>
         </div>
+      </div>
     </a>
 </div>
 

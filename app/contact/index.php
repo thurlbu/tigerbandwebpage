@@ -30,7 +30,7 @@
     <a href="/bands/">Bands</a>
     <a href="../organizations/">Organizations</a>
     <a href="../staff/">Staff</a>
-    <a href="../members/">Members Only</a>
+    <a href="../sections/">Sections</a>
     <a href="../contact/" class="active">Contact</a>
 </nav>
 
