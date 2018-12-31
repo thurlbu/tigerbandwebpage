@@ -37,6 +37,13 @@
 <!-- BOX UI-->
 
 <div id="boxUI" class="sections">
+    <div class="boxWrapper title mobile-box">
+        <div class="boxUIelement rect homepage">
+          <div class="textContainer">
+              <p>Tiger Band<br/>Sections</p>
+          </div>
+        </div>
+    </div>
     <a href="alto-saxes/">
         <div id="altos" class="boxWrapper">
           <div class="boxUIelement sq section">
@@ -73,7 +80,7 @@
             </div>
         </div>
     </a>
-    <div class="boxWrapper title">
+    <div class="boxWrapper title main-box">
         <div class="boxUIelement rect homepage">
           <div class="textContainer">
               <p>Tiger Band<br/>Sections</p>
@@ -107,7 +114,7 @@
         </div>
       </div>
     </a>
-    <a href="trombones/">
+    <a class="main-box" href="trombones/">
       <div id="trombones" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
@@ -121,6 +128,15 @@
         <div class="boxUIelement rect section">
             <div class="textContainer hide">
                 <p>Sousaphones</p>
+            </div>
+        </div>
+      </div>
+    </a>
+    <a class="mobile-box" href="trombones/">
+      <div id="trombones" class="boxWrapper">
+        <div class="boxUIelement sq section">
+            <div class="textContainer hide">
+                <p>Trombones</p>
             </div>
         </div>
       </div>
