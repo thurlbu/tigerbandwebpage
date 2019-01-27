@@ -16,7 +16,7 @@ gulp.task('default', function (callback) {
 
 gulp.task('build', function (callback) {
   runSequence('clean:prod', 'sass', 'css',
-    ['move-html-php-to-prod', 'minify-css', 'images', 'drumline', 'cutba', 'move-docs'],
+    ['move-html-php-to-prod', 'minify-css', 'images', 'drumline', 'cutba', 'move-docs', 'move-audio'],
     callback
   );
 });
@@ -105,7 +105,12 @@ gulp.task('cache:clear', function (callback) {
 gulp.task('move-docs', function () {
   return gulp.src(['./app/doc/*', './app/doc/**/*'])
     .pipe(gulp.dest('./prod/doc'));
-})
+});
+
+gulp.task('move-audio', function () {
+  return gulp.src('./app/audio/*.mp3')
+    .pipe(gulp.dest('./prod/audio'));
+});
 
 
 // Doing drumline stuff
