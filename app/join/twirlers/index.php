@@ -44,49 +44,105 @@
 
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
+          <!--- DEADLINE CALENDAR UI --->
+
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
+                      <div class="textContainer">
+                          <p>February</p>
+                          <b>28</b>
+                          <p>Deadline for Feature Twirler Video Submissions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info1">
+                    <p>Audition Videos and Application materials due by 11:59pm on February 28<br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBgGJmn1Qsk5Ioa4dsWJmuT42-z_ImRX_VFgG7fZykSZeiPA/viewform?usp=sf_link">Submit video via online application</a><br>
+                        Results will be communicated by March 5th</p>
+                  </div>
+              </div>
+          </div>
+
             <article class="text fullWidth">
-                <h1 class="purpleText">2018 Tiger Twirlers and 2018 Feature Twirler Auditions</h1>
-                <p>Auditions for the 2018 Tiger Twirlers and the 2018 Feature Twirler position will be completed via video submission.</p>
-                <p>Please download the document(s) below for details about the audition videos and the submission process.</p>
-                <a href="../../doc/TwirlerAudition.pdf" class="richLink" target="_blank">Tiger Twirler Audition Information</a>
-                <a href="../../doc/FeatureTwirlerAudition.pdf" class="richLink" target="_blank">2018 Feature Twirler Audition Information</a>
-                <p>If you have any questions concerning auditions for the Twirlers or the Feature Twirler Position, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
+                <h1 class="purpleText">2019 Feature Twirler Auditions</h1>
+                <p>Auditions for the 2019 Feature Twirler position will be completed via video submission. The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
+                <p>Videos for the Feature Twirler Position are due by <b>February 28, 2019</b> and results will be communicated by <b>March 5th, 2019</b>.</p>
+                <p>Your video must include performances with 1, 2, and 3 batons on a football field. The video can include performances with a marching band but is not required.</p>
+                <p>You may wear whatever you like but only videos shot outdoors will receive full consideration.</p>
+                <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdBgGJmn1Qsk5Ioa4dsWJmuT42-z_ImRX_VFgG7fZykSZeiPA/viewform?usp=sf_link">2019 FEATURE TWIRLER APPLICATION</a></p>
+                <p>If you have any questions concerning auditions for the Feature Twirler Position, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Feature Twirler Audition Question">Hazel@carolinasuperstars.com</a></p>
             </article>
-
-            <!--- DEADLINE CALENDAR UI --->
-
-            <div class="deadlines">
-                <div class="month">
-                    <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
-                        <div class="textContainer">
-                            <p>April</p>
-                            <b>28</b>
-                            <p>Deadline for Audition Video Submissions</p>
-                        </div>
-                    </div>
-                    <div class="deadlinesInfo" id="info1">
-                      <p>Audition Videos and Application materials due by 11:59pm on April 28<br>
-                          Email links and information to <a href="mailto:tigerbandauditions@gmail.com">tigerbandauditions@gmail.com</a><br>
-                          Results will be communicated by May 15th</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="col2Flex">
 
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="/img/clemson-tiger-band-bc-2017-236.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-kentstate-2017-342.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-auburn-2017-298.jpg">
+                <img class="slider" src="/img/FeatureNatty.jpg">
+                <img class="slider" src="/img/Twirler1.jpg">
+                <img class="slider" src="/img/TwirlerSection.jpg">
+                <img class="slider" src="/img/Twirler2.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
                 </div>
             </div>
+            
+        </div>
+
+        <div id="col2Flex">
+
+          <!--- DEADLINE CALENDAR UI --->
+
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                      <div class="textContainer">
+                          <p>April</p>
+                          <b>26</b>
+                          <p>Deadline for Audition Video Submissions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info2">
+                    <p>Audition Videos and Application materials due by 11:59pm on April 26th<br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMMgzeNqhFyjZLpyCIhMvaOHJpkBUlmT8e8Yu9jZd19dta9w/viewform?usp=sf_link">Submit video via online application</a><br>
+                        Results will be communicated by May 3rd</p>
+                  </div>
+              </div>
+          </div>
+
+          <article class="text fullWidth">
+              <h1 class="purpleText">2019 Tiger Twirler Auditions</h1>
+              <p>Auditions for the 2019 Tiger Twirlers will be completed via video submission.</p>
+              <p>Videos for the Feature Twirler Position are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <p>Your audition video must include:</p>
+              <ol>
+                  <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
+                  <li>Right Split</li>
+                  <li>Left Split</li>
+                  <li>3-Spin</li>
+                  <li>Toss Illusion</li>
+              </ol>
+
+              <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMMgzeNqhFyjZLpyCIhMvaOHJpkBUlmT8e8Yu9jZd19dta9w/viewform?usp=sf_link">2019 TIGER TWIRLER APPLICATION</a></p>
+              <p>Please watch the video below for routines and explanations of the skills.</p>
+              <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSwLtyVq2pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Tiger Rag:</p>
+                      <audio src="/audio/TigerRag.mp3" controls></audio>
+                  </div>
+                  <div class="auditionAudio">
+                      <p>Eye of the Tiger:</p>
+                      <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
+                  </div>
+              </div>
+              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
+          </article>
+
+
         </div>
     </div>
 

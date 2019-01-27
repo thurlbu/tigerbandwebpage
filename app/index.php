@@ -164,21 +164,24 @@
 
             </article>
 
-            <article class="text">
-                <h1>Tiger Band Experience</h1>
-                <img class="articleImg" src='/img/TigerBandExperience.png'>
-                <p>Bring your whole marching band to Clemson's campus for a personalized Clemson experience. Students will have the opportunity to observe a Tiger Band rehearsal, enjoy an exhibition performance, perform their show and receive comments from the Tiger Band staff (optional), have pizza for dinner, and tour campus!</p>
-                <p>Contact the Tiger Band office at 864.656.3380 to schedule your band's Tiger Band Experience this season!</p>
+            <article class="media">
+                <h1>Tiger Band Performs The Greatest Showman</h1>
+                <p>Check out Tiger Band's performance of their final show of the 2018 season. The Greatest Showman!</p>
+                <p>A special thanks to the Russian Bar Trio for helping us out!</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/LEvXFGXPBAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
             </article>
 
             <article class="media">
-                <h1>Tiger Band Vlog - Week 5</h1>
+                <h1>Tiger Band Vlog - National Championship</h1>
                 <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
-                <p>In week 5 you get to travel with Tiger Band to Georgia Tech!</p>
-                <p>Watch a new episode every Sunday afternoon throughout the season!</p>
+                <p>Spoiler Alert - THE TIGERS ARE THE CHAMPIONS! Check out Tiger Band's trip to Santa Clara for the National Championship Game!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/r_9kGILYDbc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/MqgK6uoquuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
@@ -196,13 +199,11 @@
 
         <div id="col2Flex">
           <article class="text">
-              <h1>2018 High School Senior Day</h1>
-                  <a href="https://docs.google.com/forms/d/1MmIJsA8HyjGUSrNJrS4-Sdh_x5GrlO9FbtqPbXJUBJM/edit" class="boxWrapper"><img class="articleImg" src='/img/HSSD.jpg'></a>
-              <p>On November 17, Tiger Band will welcome around 75 lucky high school seniors to campus for Tiger Band High School Senior Day!</p>
-              <p>Students selected to participate will rehearse with Tiger Band in the morning, perform at the 90-minutes-before-kick-off concert, march in the parade, and perform on the field and in the stands with Tiger Band!</p>
-              <p>It's an awesome way to learn what it's really like to be a member of Tiger Band!</p>
-              <p>Click on the picture to complete a registration request.  Space is limited!  Participants will be selected on a first-come, first-served basis.</p>
-              <p>Go Tigers!!</p>
+              <h1>2019 Twirler Auditions</h1>
+              <img class="articleImg" src='/img/TwirlerSection.jpg'>
+              <p>All information about 2019 Tiger Twirler and Feature Twirler auditions are posted on our <a href="http://tband.people.clemson.edu/join/twirlers/">join page.</a></p>
+              <p>Applications and video submissions are due on February 28 to be considered for Feature Twirler and April 26 for the Twirling line.  Applications are being accepted now!!<p>
+              <p>Don't miss this opportunity to become a member of the Band that Shakes the Southland!</p>
           </article>
 
             <article class="text">
