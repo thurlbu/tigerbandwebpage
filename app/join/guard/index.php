@@ -45,13 +45,13 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2018 Tiger Guard Auditions</h1>
+                <h1 class="purpleText">2019 Tiger Guard Auditions</h1>
                 <p>All auditions for the Clemson University Tiger Fall Guard will be completed via online video submission.</p>
                 <p>Details about the content of the video audition and a video tutorial can be found below.</p>
-                <p>All audition videos must be submitted by <b>April 28</b> to receive full consideration.</p>
-                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
-                <p>Results will be sent out by May 10.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdmb0oIPBWtTDuVPUPqPVsEkkTJI7_CC2XLV8Kqjyd8kJgiqQ/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
+                <p>All audition videos must be submitted by <b>July 22</b> to receive full consideration.</p>
+                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmvLi_H4xcXBDNgnWT9KM15MW1QXisixtNQGnATWfyaIC3og/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
+                <p>Results will be sent out by July 29.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLScmvLi_H4xcXBDNgnWT9KM15MW1QXisixtNQGnATWfyaIC3og/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
                 <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
             </article>
 
@@ -61,15 +61,15 @@
                 <div class="month">
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
-                            <p>April</p>
-                            <b>28</b>
+                            <p>July</p>
+                            <b>22</b>
                             <p>Audition Submission Deadline</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Tiger Guard Audition Deadline<br>
                             Submit online application with link to video<br>
-                            Audition results will be sent on May 10</p>
+                            Audition results will be sent on July 29</p>
                     </div>
                 </div>
             </div>
@@ -113,7 +113,7 @@
             <ul>
               <li>8 to 12 steps of jazz runs</li>
               <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
-              <li>Explanations of these maneuvers with examples are provided in the tutorial video</li>
+              <li>Explanations of these maneuvers with examples will be provided in a tutorial video posted by December 15</li>
             </ul>
           </p>
               <p> The <b>FLAG SECTION</b> will consist of:<br>
@@ -123,10 +123,10 @@
               <li>4 cone tosses</li>
               <li>4 45 tosses</li>
               <li>4 tosses from the flag</li>
-              <li>Explanations of these maneuvers with examples and expectations are provided in the tutorial video</li>
+              <li>Explanations of these maneuvers with examples will be provided in a tutorial video posted by December 15</li>
             </ul>
           </p>
-              <p>Please watch the video to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2018 Audition</p>
+              <p>Please watch the video posted here by December 15 to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2019 Audition</p>
               <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
             <ul>
               <li>8 counts of right hand spins with a single out</li>
@@ -136,7 +136,7 @@
               <li>4 quad tosses</li>
             </ul>
           </p>
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/SeFEFkmY_n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
           </article>
 
