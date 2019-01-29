@@ -88,7 +88,7 @@
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
                 </div>
             </div>
-            
+
         </div>
 
         <div id="col2Flex">
@@ -139,7 +139,7 @@
                       <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
                   </div>
               </div>
-              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
+              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com">Hazel@carolinasuperstars.com</a></p>
           </article>
 
 
