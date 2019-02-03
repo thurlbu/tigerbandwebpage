@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-8965430-3');
+    </script>
+
     <meta charset="utf-8">
     <title>Clemson University Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
@@ -9,16 +19,6 @@
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-8965430-3');
-</script>
 
 <!-- HEADER -->
 
