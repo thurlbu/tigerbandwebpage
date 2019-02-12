@@ -115,7 +115,7 @@
           <article class="text fullWidth">
               <h1 class="purpleText">2019 Tiger Twirler Auditions</h1>
               <p>Auditions for the 2019 Tiger Twirlers will be completed via video submission.</p>
-              <p>Videos for the Feature Twirler Position are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
               <p>Your audition video must include:</p>
               <ol>
                   <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
