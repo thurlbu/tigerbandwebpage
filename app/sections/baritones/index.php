@@ -51,12 +51,12 @@
     <div class="section-leader">
       <img class="section-leader-photo" src="/img/section-leaders/alyssa.jpg">
       <h3>Lee Maiden</h3>
-      <p>Line 2<br/>Line 3</p>
+      <p>Year | Major <br/>Hometown</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="/img/section-leaders/chandler.jpg">
       <h3>Lee Maiden</h3>
-      <p>Line 2<br/>Line 3</p>
+      <p>Year | Major <br/>Hometown</p>
     </div>
   </div>
 
