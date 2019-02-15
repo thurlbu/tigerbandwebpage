@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-8965430-9');
+    </script>
+
     <meta charset="utf-8">
     <title>Tiger Dancers Auditions | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
@@ -44,44 +54,67 @@
 
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
-            <article class="text fullWidth">
-                <h1 class="purpleText">2018 Tiger Dancers Auditions</h1>
-                <p>All Auditions for the 2018 Tiger Dancers will be completed via video submission.</p>
-                <p>Please download the document below for details about the audition videos and the submission process.</p>
-                <a href="../../doc/DancerAudition.pdf" class="richLink" target="_blank">Tiger Dancer Audition Information</a>
-                <p>If you have any questions concerning auditions for the Dancers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Dancers Audition Question">Hazel@carolinasuperstars.com</a></p>
-            </article>
+          <article class="text fullWidth">
+              <h1 class="purpleText">2019 Tiger Dancer Auditions</h1>
+              <p>Auditions for the 2019 Tiger Dancers will be completed via video submission.</p>
+              <p>Videos are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <p>Your audition video must include:</p>
+              <ol>
+                  <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
+                  <li>Right and Left Splits</li>
+                  <li>Right and Left Double Pirouettes</li>
+                  <li>8-counts of Second Turns to the Right</li>
+                  <li>Kick Combination</li>
+              </ol>
 
-            <!--- DEADLINE CALENDAR UI --->
+              <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNrNcWncdkuWI41YDve9qiczXDgbXZ85bnJHf13N6XCSqWag/viewform?usp=sf_link">2019 TIGER DANCER APPLICATION</a></p>
+              <p>Please watch the video below for routines and explanations of the skills.</p>
+              <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jj54t3TY6i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Tiger Rag:</p>
+                      <audio src="/audio/TigerRag.mp3" controls></audio>
+                  </div>
+                  <div class="auditionAudio">
+                      <p>Eye of the Tiger:</p>
+                      <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
+                  </div>
+              </div>
+              <p>If you have any questions concerning auditions for the Tiger Dancers, please contact Marilla Riggs: <a href="mailto:marillaburnham@gmail.com">marillaburnham@gmail.com</a></p>
+          </article>
 
-            <div class="deadlines">
-                <div class="month">
-                    <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
-                        <div class="textContainer">
-                            <p>April</p>
-                            <b>28</b>
-                            <p>Deadline for Audition Video Submissions</p>
-                        </div>
-                    </div>
-                    <div class="deadlinesInfo" id="info1">
-                        <p>Audition Videos and Application materials due by 11:59pm on April 28<br>
-                            Email links and information to <a href="mailto:tigerbandauditions@gmail.com">tigerbandauditions@gmail.com</a><br>
-                            Results will be communicated by May 15th</p>
 
-                    </div>
-                </div>
-            </div>
         </div>
 
         <div id="col2Flex">
 
+          <!--- DEADLINE CALENDAR UI --->
+
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
+                      <div class="textContainer">
+                          <p>April</p>
+                          <b>26</b>
+                          <p>Deadline for Audition Video Submissions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info1">
+                      <p>Audition Videos and Application materials due by 11:59pm on April 26<br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNrNcWncdkuWI41YDve9qiczXDgbXZ85bnJHf13N6XCSqWag/viewform?usp=sf_link">Submit video via online application</a><br>
+                        Results will be communicated by May 3rd</p>
+
+                  </div>
+              </div>
+          </div>
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="/img/clemson-tiger-band-bc-2017-468.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-auburn-2017-161.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-bc-2017-488.jpg">
-                <img class="slider" src="/img/clemson-tiger-band-auburn-2017-80.jpg">
+                <img class="slider" src="/img/Dancer1.jpg">
+                <img class="slider" src="/img/Dancer2.jpg">
+                <img class="slider" src="/img/Dancer3.jpg">
+                <img class="slider" src="/img/Dancer4.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>

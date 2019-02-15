@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-10"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-8965430-10');
+    </script>
+
     <meta charset="utf-8">
     <title>Tiger Twirlers Auditions | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
@@ -88,7 +98,7 @@
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
                 </div>
             </div>
-            
+
         </div>
 
         <div id="col2Flex">
@@ -115,7 +125,7 @@
           <article class="text fullWidth">
               <h1 class="purpleText">2019 Tiger Twirler Auditions</h1>
               <p>Auditions for the 2019 Tiger Twirlers will be completed via video submission.</p>
-              <p>Videos for the Feature Twirler Position are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
               <p>Your audition video must include:</p>
               <ol>
                   <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
@@ -139,7 +149,7 @@
                       <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
                   </div>
               </div>
-              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Twirlers Audition Question">Hazel@carolinasuperstars.com</a></p>
+              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com">Hazel@carolinasuperstars.com</a></p>
           </article>
 
 
