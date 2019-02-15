@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Baritones</h1>
-    <img src="/img/action-cover.jpg"> <!--- FORMAT THIS --->
+    <img src="/img/sections/action-cover.jpg"> <!--- FORMAT THIS --->
   </div>
 
   <div class="section-quote">
@@ -72,7 +72,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/baritones.jpg">
+      <img src="/img/sections/baritones.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -88,12 +88,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/baritones.jpg">
+      <img src="/img/sections/baritones.jpg">
     </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/section-photo-smiling.jpg">
+    <img src="/img/sections/section-photo-smiling.jpg">
   </div>
 
   <div class="auditionButton">
