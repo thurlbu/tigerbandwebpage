@@ -96,6 +96,16 @@
     <img src="/img/section-photo-smiling.jpg">
   </div>
 
+  <div class="auditionButton">
+      <a href="/join/winds/" class="boxWrapper">
+          <div id="auditionToday" class="boxUIelement rect">
+              <div class="textContainer">
+                  <p>Join the Band that Shakes the Soundland!</p>
+              </div>
+          </div>
+      </a>
+  </div>
+
 <!--- FOOTER --->
 
 <?php
