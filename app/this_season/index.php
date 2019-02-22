@@ -39,7 +39,7 @@
 <body>
     <div class="heading">
         <h3>This Season</h3>
-        <h4>2018</h4>
+        <h4>2019</h4>
     </div>
 
     <div id="Col2FlexContent">
@@ -67,7 +67,7 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2018 Clemson Tigers Football Schedule</h1>
+                <h1>2019 Clemson Tigers Football Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -162,14 +162,14 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2019 Major Shows</h1>
-                <b>To be determined</b>
+                <b>To be announced...</b>
             </article>
             <article class="text officers">
                 <h1>2019 Officers</h1>
                 <p><b>Commander:</b> Graham Jackson</p>
                 <p><b>Vice-Commander:</b> Alicia Cameron</p>
                 <p><b>Sergeant Major:</b> Samantha Regi</p>
-                <p><b>Drum Majors: </b>To be determined</p>
+                <p><b>Drum Majors: </b>TBD</p>
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
                 <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
@@ -181,12 +181,12 @@
                 <p><b>Baritone:</b> Lorenzo Lewis &amp; Christopher Nahum</p>
                 <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
                 <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
-                <p><b>Color Guard:</b> Amber O’Dell Ericka Pace, &amp; Olivia Papotto</p>
+                <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
                 <p><b>Twirlers:</b> Reagan King</p>
                 <p><b>Dancers:</b> TBD after auditions</p>
                 <p><b>Head Band Manager:</b> Caroline Webb</p>
-                <p><b>Instrument Manager:</b> To be determined</p>
-                <p><b>Uniform Manager:</b> To be determined</p>
+                <p><b>Instrument Manager:</b> TBD</p>
+                <p><b>Uniform Manager:</b> TBD</p>
             </article>
         </div>
     </div>
