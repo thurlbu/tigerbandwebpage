@@ -35,12 +35,12 @@
 <body>
   <div class="section-heading">
     <h1>Baritones</h1>
-    <img src="/img/sections/action-cover.jpg"> <!--- FORMAT THIS --->
+    <img src="/img/sections/baritones/action-cover.jpg"> <!--- FORMAT THIS --->
   </div>
 
   <div class="section-quote">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
-    <p>&mdash; Chandler &amp; Alyssa</p>
+    <p>Welcome to the page of the Baritone section! We are your section leaders, Lorenzo and Chris! We’re looking forward to another great season this year and want to give you a sneak peak into what goes on in the Baritone section. </p>
+    <p>&mdash; Lorenzo &amp; Chris</p>
   </div>
 
   <div class="heading">
@@ -49,14 +49,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/alyssa.jpg">
-      <h3>Lee Maiden</h3>
-      <p>Year | Major <br/>Hometown</p>
+      <img class="section-leader-photo" src="/img/section-leaders/chris-nahum.png">
+      <h3>Chris Nahum</h3>
+      <p>Senior | Mechanical Engineering <br/>Indian Land, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/chandler.jpg">
-      <h3>Lee Maiden</h3>
-      <p>Year | Major <br/>Hometown</p>
+      <img class="section-leader-photo" src="/img/section-leaders/lorenzo-lewis.png">
+      <h3>Lorenzo Lewis</h3>
+      <p>Junior | Elementary Education <br/>Rock Hill, SC</p>
     </div>
   </div>
 
@@ -72,7 +72,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/baritones.jpg">
+      <img src="/img/sections/baritones/baritones.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -83,17 +83,26 @@
 
     <div class="tradition-tile">
       <div class="tradition-text">
-        <h4>Diversity</h4>
+        <h4>Amphitheater Pep Talk</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/baritones.jpg">
+      <img src="/img/sections/baritones/amphitheater-hype.png">
     </div>
+
+    <div class="tradition-tile">
+      <img src="/img/sections/baritones/baritones.jpg">
+    </div>
+    <div class="tradition-tile">
+      <div class="tradition-text">
+        <h4>Diversity</h4>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+      </div>
   </div>
 
-  <div class="media-container">
-    <img src="/img/sections/section-photo-smiling.jpg">
+  <div class="media-container" id="baritone-section-photo">
+    <img src="/img/sections/baritones/section-photo.png">
   </div>
 
   <div class="auditionButton">
