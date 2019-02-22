@@ -96,14 +96,14 @@
                     <tr>
                         <td>Sept 21</td>
                         <td>VS</td>
-                        <td>Charlotte</td>
+                        <td>Universtiy of North Carolina at Charlotte 49ers</td>
                         <td>Family Weekend</td>
                     </tr>
                     <tr>
                         <td>Sept 28</td>
                         <td>@</td>
                         <td>North Carolina University Tar Heels</td>
-                        <td>PARENTS DAY</td>
+                        <td></td>
                     </tr>
                     <tr>
                         <td>Oct 12</td>
