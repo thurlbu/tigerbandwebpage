@@ -2,7 +2,6 @@ const gulp = require('gulp');
 const browserSync = require('browser-sync');
 const connect = require('gulp-connect-php');
 
-const imagemin = require('gulp-imagemin');
 const cache = require('gulp-cache');
 const del = require('del');
 const runSequence = require('run-sequence');
@@ -16,7 +15,7 @@ gulp.task('default', function (callback) {
 
 gulp.task('build', function (callback) {
   runSequence('clean:prod', 'sass', 'css',
-    ['move-html-php-to-prod', 'minify-css', 'images', 'drumline', 'cutba', 'move-docs', 'move-audio'],
+    ['move-html-php-to-prod', 'minify-css', 'drumline', 'cutba', 'move-docs', 'move-audio'],
     callback
   );
 });
@@ -79,15 +78,6 @@ gulp.task('move-html-php-to-prod', function () {
     .pipe(gulp.dest('./prod/'));
 });
 
-gulp.task('images', function () {
-  return gulp.src(['./app/img/*',
-    './app/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/img'));
-});
-
 gulp.task('minify-css', () => {
   return gulp.src('./app/css/main.css')
     .pipe(cleanCSS({ compatibility: 'ie8' }))
@@ -116,7 +106,7 @@ gulp.task('move-audio', function () {
 // Doing drumline stuff
 
 gulp.task('drumline', function () {
-  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-images', 'drumline-move-extra']);
+  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-move-extra']);
 });
 
 gulp.task('drumline-sass', function () {
@@ -145,15 +135,6 @@ gulp.task('drumline-css-prod', function () {
     .pipe(gulp.dest('./prod/drumline/css/'));
 });
 
-gulp.task('drumline-images', function () {
-  return gulp.src(['./app/drumline/img/*',
-    './app/drumline/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/drumline/img'));
-});
-
 gulp.task('drumline-move-docs', function () {
   return gulp.src(['./app/drumline/doc/*', './app/drumline/doc/**/*'])
     .pipe(gulp.dest('./prod/drumline/doc'));
@@ -167,7 +148,7 @@ gulp.task('drumline-move-extra', function () {
 // Doing cutba stuff
 
 gulp.task('cutba', function (callback) {
-  runSequence(['cutba-move-docs', 'cutba-css-prod', 'cutba-images']);
+  runSequence(['cutba-move-docs', 'cutba-css-prod']);
 });
 
 gulp.task('cutba-sass', function () {
@@ -194,15 +175,6 @@ gulp.task('cutba-css-prod', function () {
   return gulp.src('./app/cutba/css/main.css')
     .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(gulp.dest('./prod/cutba/css/'));
-});
-
-gulp.task('cutba-images', function () {
-  return gulp.src(['./app/cutba/img/*',
-    './app/cutba/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/cutba/img'));
 });
 
 gulp.task('cutba-move-docs', function () {
