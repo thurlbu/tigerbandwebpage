@@ -27,7 +27,7 @@ $description-font-size: 18pt
     #tenors .section
       background: url(/img/sections/tenor-saxes/tenors.jpg) (center / cover) no-repeat
     #trumpets .section
-      background: url(/img/sections/trumpets/trumpets.jpg) (top / cover) no-repeat
+      background: url(/img/sections/trumpets/trumpets.png) (top / cover) no-repeat
     #mellophones .section
       background: url(/img/sections/mellophones/mellophones.jpg) (center / cover) no-repeat
     #baritones .section
@@ -69,6 +69,10 @@ $description-font-size: 18pt
     transform: translate(-50%, -50%)
     width: 100%
     z-index: -9
+.section-heading#trumpet-section-heading
+  height: calc(80vh - 4.5rem)
+  img
+    transform: translate(-50%, -35%)
 
 .section-quote
   height: 15vh
@@ -79,6 +83,8 @@ $description-font-size: 18pt
     font-size: $description-font-size
     &:last-child
       text-align: right
+.section-quote#trumpet-section-quote
+  height: 20vh
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -138,6 +144,9 @@ $description-font-size: 18pt
 .media-container#baritone-section-photo
   *
     transform: translate(-50%, -55%)
+.media-container#trumpet-section-photo
+  *
+    transform: translate(-50%, -45%)
 
 .auditionButton
   display: flex
