@@ -66,7 +66,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
+        <source src="https://s3.amazonaws.com/tiger-band-website/Baritone+Section+Hype+Video.mp4" type="video/mp4">
     </video>
   </div>
 
