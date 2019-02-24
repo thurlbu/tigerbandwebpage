@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/chris-nahum.png">
+      <img class="section-leader-photo" src="/img/sections/baritones/chris-nahum.png">
       <h3>Chris Nahum</h3>
       <p>Senior | Mechanical Engineering <br/>Indian Land, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/lorenzo-lewis.png">
+      <img class="section-leader-photo" src="/img/sections/baritones/lorenzo-lewis.png">
       <h3>Lorenzo Lewis</h3>
       <p>Junior | Elementary Education <br/>Rock Hill, SC</p>
     </div>

@@ -49,17 +49,17 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/trumpets/alicia-cameron.png">
+      <img class="section-leader-photo" src="/img/sections/trumpets/alicia-cameron.png">
       <h3>Alicia Cameron</h3>
       <p>Senior | Industrial Engineering <br/>Mt. Pleasant, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/trumpets/mac-mccrary.png">
+      <img class="section-leader-photo" src="/img/sections/trumpets/mac-mccrary.png">
       <h3>Mac McCrary</h3>
       <p>Junior | Performing Arts <br/>Walhalla, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/section-leaders/trumpets/nick-gustafson.png">
+      <img class="section-leader-photo" src="/img/sections/trumpets/nick-gustafson.png">
       <h3>Nick Gustafson</h3>
       <p>Senior | Computer Science <br/>Columbia, SC</p>
     </div>
