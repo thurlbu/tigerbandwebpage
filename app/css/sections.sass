@@ -73,6 +73,10 @@ $description-font-size: 18pt
   height: calc(80vh - 4.5rem)
   img
     transform: translate(-50%, -35%)
+.section-heading#alto-section-heading
+  height: calc(73vh - 4.5rem)
+  img
+    transform: translate(-50%, -30%)
 
 .section-quote
   height: 15vh
@@ -81,10 +85,12 @@ $description-font-size: 18pt
   p
     color: white
     font-size: $description-font-size
-    &:last-child
+    &:nth-of-type(even)
       text-align: right
 .section-quote#trumpet-section-quote
   height: 20vh
+.section-quote#alto-section-quote
+  height: 27vh
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -121,6 +127,8 @@ $description-font-size: 18pt
     width: 50%
     height: 60vh
     overflow: hidden
+    img
+      max-width: 100%
     .tradition-text
       padding: 2rem
       align-self: flex-start
