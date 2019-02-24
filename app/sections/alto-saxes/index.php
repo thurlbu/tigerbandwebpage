@@ -74,7 +74,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img oncontextmenu="return false;" src="/img/sections/altos/barbara-ann.png">
+      <img src="/img/sections/altos/barbara-ann.png">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
