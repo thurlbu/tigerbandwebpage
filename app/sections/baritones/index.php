@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Baritones</h1>
-    <img src="/img/sections/baritones/action-cover.jpg"> <!--- FORMAT THIS --->
+    <img src="/img/sections/baritones/action-cover.png">
   </div>
 
   <div class="section-quote">

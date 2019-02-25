@@ -15,7 +15,7 @@ gulp.task('default', function (callback) {
 
 gulp.task('build', function (callback) {
   runSequence('clean:prod', 'sass', 'css',
-    ['move-html-php-to-prod', 'minify-css', 'drumline', 'cutba', 'move-docs', 'move-audio'],
+    ['move-images', 'drumline', 'cutba', 'minify-css', 'move-html-php', 'move-docs', 'move-audio'],
     callback
   );
 });
@@ -73,7 +73,7 @@ gulp.task('css', function () {
     }))
 });
 
-gulp.task('move-html-php-to-prod', function () {
+gulp.task('move-html-php', function () {
   return gulp.src(['./app/**/*.php', './app/**/*.html'])
     .pipe(gulp.dest('./prod/'));
 });
@@ -102,11 +102,16 @@ gulp.task('move-audio', function () {
     .pipe(gulp.dest('./prod/audio'));
 });
 
+gulp.task('move-images', function () {
+  return gulp.src(['./app/img/*', './app/img/**/*'])
+    .pipe(gulp.dest('./prod/img'));
+});
+
 
 // Doing drumline stuff
 
 gulp.task('drumline', function () {
-  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-move-extra']);
+  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-move-extra', 'drumline-move-images']);
 });
 
 gulp.task('drumline-sass', function () {
@@ -145,10 +150,15 @@ gulp.task('drumline-move-extra', function () {
     .pipe(gulp.dest('./prod/drumline/'));
 });
 
+gulp.task('drumline-move-images', function () {
+  return gulp.src(['./app/drumline/img/*', './app/drumline/img/**/*'])
+    .pipe(gulp.dest('./prod/drumline/img'));
+});
+
 // Doing cutba stuff
 
 gulp.task('cutba', function (callback) {
-  runSequence(['cutba-move-docs', 'cutba-css-prod']);
+  runSequence(['cutba-move-docs', 'cutba-css-prod', 'cutba-move-images']);
 });
 
 gulp.task('cutba-sass', function () {
@@ -180,4 +190,9 @@ gulp.task('cutba-css-prod', function () {
 gulp.task('cutba-move-docs', function () {
   return gulp.src(['./app/cutba/doc/*', './app/cutba/doc/**/*'])
     .pipe(gulp.dest('./prod/cutba/doc'));
-})
+});
+
+gulp.task('cutba-move-images', function () {
+  return gulp.src(['./app/cutba/img/*', './app/cutba/img/**/*'])
+    .pipe(gulp.dest('./prod/cutba/img'));
+});
