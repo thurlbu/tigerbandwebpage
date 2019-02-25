@@ -150,7 +150,7 @@
             </div>
         </div>
     </a>
-    <a href="drum-majors/">
+    <a href="">
       <div id="drum-majors" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
@@ -159,7 +159,7 @@
         </div>
       </div>
     </a>
-    <a href="twirlers/">
+    <a href="">
         <div id="twirlers" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
@@ -168,7 +168,7 @@
             </div>
         </div>
     </a>
-    <a href="dancers/">
+    <a href="">
       <div id="dancers" class="boxWrapper">
           <div class="boxUIelement sq section">
             <div class="textContainer hide">
