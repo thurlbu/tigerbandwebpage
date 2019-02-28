@@ -48,29 +48,43 @@
         <h1>Tiger Band Tours</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <div id="socMedContainer" class="organizations">
-          <div id="icons">
-            <a href="/join/" target="_blank">
-              <div id="webLink" class="socialBorder">
-                <img class="socialIcon" src="/img/logos/webLink.png">
-              </div>
-            </a>
-          </div>
-        </div>
+        <a href="/join/" target="_blank" class="richLink">Schedule a tour</a>
       </article>
+
+      <div class="socialContainer">
+          <div id="icons">
+              <a href="https://twitter.com/cutigerband" target="_blank">
+                <div id="twitter" class="socialBorder">
+                  <img class="socialIcon" src="/img/logos/twitter.png" alt="Twitter">
+                </div>
+              </a>
+              <a href="https://www.instagram.com/cutigerband/" target="_blank">
+                <div id="instagram" class="socialBorder">
+                  <img class="socialIcon" src="/img/logos/instagram.png" alt="Instagram">
+                </div>
+              </a>
+              <a href="https://www.facebook.com/cutigerband" target="_blank">
+                <div id="facebook" class="socialBorder">
+                  <img class="socialIcon" src="/img/logos/facebook.png" alt="Facebook">
+                </div>
+              </a>
+              <a href="https://www.snapchat.com/add/cutigerband" target="_blank">
+                <div id="snapchat" class="socialBorder">
+                  <img class="socialIcon" src="/img/logos/snapchat.png" alt="Snapchat">
+                </div>
+              </a>
+              <a href="https://www.youtube.com/user/clemsontigerband" target="_blank">
+                <div id="youtube" class="socialBorder">
+                  <img class="socialIcon" src="/img/logos/youtubeWhite.png" alt="YouTube">
+                </div>
+              </a>
+          </div>
+      </div>
 
       <article class="text">
         <h1>Audition for Tiger Band</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <div id="socMedContainer" class="organizations">
-          <div id="icons">
-            <a href="/join/" target="_blank">
-              <div id="webLink" class="socialBorder">
-                <img class="socialIcon" src="/img/logos/webLink.png">
-              </div>
-            </a>
-          </div>
-        </div>
+        <a href="/join/" target="_blank" class="richLink">Join Tiger Band</a>
       </article>
     </div>
 
