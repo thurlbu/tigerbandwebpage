@@ -48,11 +48,29 @@
         <h1>Tiger Band Tours</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div id="socMedContainer" class="organizations">
+          <div id="icons">
+            <a href="/join/" target="_blank">
+              <div id="webLink" class="socialBorder">
+                <img class="socialIcon" src="/img/logos/webLink.png">
+              </div>
+            </a>
+          </div>
+        </div>
       </article>
 
       <article class="text">
         <h1>Audition for Tiger Band</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div id="socMedContainer" class="organizations">
+          <div id="icons">
+            <a href="/join/" target="_blank">
+              <div id="webLink" class="socialBorder">
+                <img class="socialIcon" src="/img/logos/webLink.png">
+              </div>
+            </a>
+          </div>
+        </div>
       </article>
     </div>
 
