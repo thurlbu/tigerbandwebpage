@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading" id="trumpet-section-heading">
     <h1>Trumpets</h1>
-    <img src="/img/sections/trumpets/header.png">
+    <img src="/img/sections/trumpets/header.jpg">
   </div>
 
   <div class="section-quote" id="trumpet-section-quote">
@@ -107,7 +107,7 @@
   </div>
 
   <div class="media-container" id="trumpet-section-photo">
-    <img src="/img/sections/trumpets/section-photo.png">
+    <img src="/img/sections/trumpets/section-photo.jpg">
   </div>
 
   <div class="auditionButton">
