@@ -39,7 +39,7 @@
   </div>
 
   <div class="section-quote" id="trumpet-section-quote">
-    <p>Welcome to the Trumpet Section! We are an awesome fun loving group of people that also play trumpet together. Throughout the season we will continually beat the trombones in our battles, have countless unforgettable experiences cheering on our Clemson Tigers, and have a great paper plate ceremony at the end of the season. Here is a little sneak peak of the Clemson University Tiger Town Trumpets. </p>
+    <p>Welcome to the Trumpet Section! We are an awesome fun loving group of people that also play trumpet together. Throughout the season we will go to battle with the trombones, have countless unforgettable experiences cheering on our Clemson Tigers, and have a great paper plate ceremony at the end of the season. Here is a little sneak peak of the Clemson University Tiger Town Trumpets.</p>
     <p>&mdash; Alicia, Mac, &amp; Nick</p>
   </div>
 
@@ -71,38 +71,38 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551557426/Trumpet_Page_Video.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/trumpets.png">
+      <img src="/img/sections/trumpets/trumpet-trombone-battles.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Trumpet VS Trombone Battles</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p>The morning of every home game starts with a battle like no other. It’s the official start of game day and the hype. We will use everything we can to win including a dinosaur suit, a shirtless painted trumpet in a hula skirt, pouring water on someone in a chair, fireworks, Terry the guard instructor, a manhole, and more. We also use music you know, cause we’re musicians and shooting fireworks without the sounds of Sweet Victory blaring through some trumpets is kinda pointless. Are you ready for battle?</p>
       </div>
     </div>
 
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Trumpet Thanksgiving</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p> Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/trumpets.png">
+      <img src="/img/sections/trumpets/trumpet-thanksgiving.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/trumpets.png">
+      <img src="/img/sections/trumpets/herbert.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
-        <h4>Our Mascot: Herbert</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <h4>Herbert</h4>
+        <p> Meet Herbert, the official mascot of the Tiger Town Trumpets. In August 2017, a freshman trumpet player brought a plastic lawn flamingo to college not knowing just how important the flamingo would be. After bringing the flamingo to a couple of practices, the section adopted him as their mascot and good luck charm. He was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members later that year took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. However, the best way to follow Herbert’s adventures is through his instagram page @herbert_flmgo. The trumpets love Herbert very much, and they can’t wait to see where his adventures take him next! </p>
       </div>
   </div>
 
