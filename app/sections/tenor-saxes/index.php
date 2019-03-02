@@ -67,23 +67,23 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/tenor-saxes.jpg">
+      <img src="/img/sections/tenor-saxes/gameday-hats.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Gameday Hats</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p>It’s a tenor sax tradition to wear propellor hats to every game day practice. This helps add to the game day spirit, definitely distinguishes our section, and makes those early morning practices much more fun and entertaining!</p>
       </div>
     </div>
 
     <div class="tradition-tile">
       <div class="tradition-text">
-        <h4>Tradition</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <h4>Section Culture</h4>
+        <p>The best aspect of the tenor sax section is unity among diversity. Each member of the section has a different background and unique personality, but this is a good thing. It adds to the atmosphere of the section, teaches you how to work well with others, and makes everything much more interesting. Even though we all have our own personalities, we work together to better ourselves and each other.</p>
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/tenor-saxes.jpg">
+      <img src="/img/sections/tenor-saxes/culture.jpg">
     </div>
   </div>
 
@@ -93,7 +93,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect tenors">
               <div class="textContainer">
                   <p>Join the Tenor Saxes!</p>
               </div>
