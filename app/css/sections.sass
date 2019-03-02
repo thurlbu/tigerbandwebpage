@@ -69,6 +69,9 @@ $description-font-size: 18pt
     transform: translate(-50%, -50%)
     width: 100%
     z-index: -9
+  &.clarinets
+    img
+      transform: translate(-50%, -37%)
 .section-heading#trumpet-section-heading
   height: calc(80vh - 4.5rem)
   img
@@ -139,6 +142,9 @@ $description-font-size: 18pt
       padding: 2rem
       align-self: flex-start
       font-size: $description-font-size
+    &.clarinets
+      img
+        max-height: 100%
 
 .media-container
   position: relative
@@ -182,7 +188,8 @@ $description-font-size: 18pt
   background-image: url(/img/clemson-tiger-band-ncstate-2016-428.jpg)
   background-size: cover
   background-position: center
-
+  &.clarinets
+    background-image: url(/img/sections/clarinets/recurting-button.jpg)
 
 @media (max-width: 1050px)
   .section-heading

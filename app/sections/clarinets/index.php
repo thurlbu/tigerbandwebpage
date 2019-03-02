@@ -33,12 +33,12 @@
 </nav>
 
 <body>
-  <div class="section-heading tenors">
+  <div class="section-heading clarinets">
     <h1>Clarinets</h1>
-    <img src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314058/header-high.jpg">
+    <img src="/img/sections/clarinets/header.jpg">
   </div>
 
-  <div class="section-quote tenors">
+  <div class="section-quote clarinets">
     <p>Welcome to the Clarinets!</p>
     <p>&mdash; Grayson &amp; Jason</p>
   </div>
@@ -53,9 +53,7 @@
       <h3>Grayson Davis</h3>
       <p>Senior | Mechanical Engineering <br/>Fort Mill, SC</p>
     </div>
-  </div>
 
-  <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314316/devin-lane-high.jpg">
       <h3>Jason Gonzales</h3>
@@ -74,8 +72,8 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/tenor-saxes.jpg">
+    <div class="tradition-tile clarinets">
+      <img src="/img/sections/clarinets/purple-shorts.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -91,17 +89,17 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/tenor-saxes.jpg">
+      <img src="/img/sections/clarinets/clarinets.jpg">
     </div>
   </div>
 
-  <div class="media-container tenors">
-    <img src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551313987/section-photo-high.jpg">
+  <div class="media-container">
+    <img src="/img/sections/clarinets/section-photo.jpg">
   </div>
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect clarinets">
               <div class="textContainer">
                   <p>Join the Band that Shakes the Southland</p>
               </div>
