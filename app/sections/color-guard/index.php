@@ -109,8 +109,8 @@
       </div>
   </div>
 
-  <div class="media-container" id="baritone-section-photo">
-    <img src="/img/sections/guard/guard.jpg">
+  <div class="media-container guard">
+    <img src="/img/sections/guard/section-photo.jpg">
   </div>
 
   <div class="auditionButton">
