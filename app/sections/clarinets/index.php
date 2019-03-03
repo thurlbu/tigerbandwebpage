@@ -49,13 +49,13 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314316/devin-lane-high.jpg">
+      <img class="section-leader-photo" src="/img/sections/clarinets/clarinets.jpg">
       <h3>Grayson Davis</h3>
       <p>Senior | Mechanical Engineering <br/>Fort Mill, SC</p>
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314316/devin-lane-high.jpg">
+      <img class="section-leader-photo" src="/img/sections/clarinets/clarinets.jpg">
       <h3>Jason Gonzales</h3>
       <p>Senior | Civil Engineering <br/>Summerville, SC</p>
     </div>
