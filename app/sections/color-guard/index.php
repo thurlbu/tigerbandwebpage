@@ -91,7 +91,7 @@
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Opportunity To Travel</h4>
-        <p>Tiger Guard offers members the chance to travel to away games! Postseason travels include the possibility of the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
+        <p>Tiger Guard offers members the chance to travel to away games! Postseason travel possibilities include the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
       </div>
     </div>
     <div class="tradition-tile">
