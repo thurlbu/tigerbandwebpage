@@ -84,14 +84,14 @@
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Why join Tiger Guard?</h4>
-        <p>Tiger Guard is not only an opportunity to physically express your talent, but to also express your personality with some of the greatest people, all while cheering on your Clemson Tigers! Tiger Guard takes hard work and dedication, but is also the most fun and memorable college experience that you will have!</p>
+        <p>Tiger Guard is not only an opportunity to physically express your talent, but to also express your personality with some of the greatest people, all while cheering on your Clemson Tigers! Tiger Guard takes hard work and dedication, but it is also the most fun and memorable college experience that you will have!</p>
       </div>
     </div>
 
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Opportunity To Travel</h4>
-        <p>Tiger Guard offers members the chance to travel to away games such as Georgia Tech, FSU, USC and postseason games! Postseason travels include the possibility of the ACC Championship, Bowl games, and even the National Championship! Come along with us as we travel from East Coast to West Coast with The Band that Shakes the Southland!</p>
+        <p>Tiger Guard offers members the chance to travel to away games such as Georgia Tech, FSU, USC, and postseason games! Postseason travels include the possibility of the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
       </div>
     </div>
     <div class="tradition-tile">
