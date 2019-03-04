@@ -91,7 +91,7 @@
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Opportunity To Travel</h4>
-        <p>Tiger Guard offers members the chance to travel to away games such as Georgia Tech, FSU, USC, and postseason games! Postseason travels include the possibility of the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
+        <p>Tiger Guard offers members the chance to travel to away games! Postseason travels include the possibility of the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
       </div>
     </div>
     <div class="tradition-tile">
@@ -105,7 +105,7 @@
       <div class="tradition-text">
         <h4>How to join!</h4>
         <p>To join Tiger Guard, follow the link below. All you have to do is watch an instructional video that takes you through the audition process. There are no fees! The deadline for submitting your completed application is July 22! We hope to be spinning with you soon!</p>
-        <!-- TODO: Add a button to the guard audition page -->
+        <a href="guard/" class="richLink">Join Tiger Guard</a>
       </div>
   </div>
 
