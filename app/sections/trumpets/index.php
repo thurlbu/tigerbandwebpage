@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading" id="trumpet-section-heading">
     <h1>Trumpets</h1>
-    <img src="/img/sections/trumpets/header.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
   </div>
 
   <div class="section-quote" id="trumpet-section-quote">
@@ -49,17 +49,17 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/trumpets/alicia-cameron.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836108/Section%20Pages/Trumpets/alicia-cameron.jpg">
       <h3>Alicia Cameron</h3>
       <p>Senior | Industrial Engineering <br/>Mt. Pleasant, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/trumpets/mac-mccrary.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836108/Section%20Pages/Trumpets/mac-mccrary.jpg">
       <h3>Mac McCrary</h3>
       <p>Junior | Performing Arts <br/>Walhalla, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/trumpets/nick-gustafson.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836505/Section%20Pages/Trumpets/nick-gustafson.jpg">
       <h3>Nick Gustafson</h3>
       <p>Senior | Computer Science <br/>Columbia, SC</p>
     </div>
@@ -71,13 +71,13 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551557426/Trumpet_Page_Video.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551835988/Section%20Pages/Trumpets/Trumpet_Page_Video.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/trumpet-trombone-battles.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835433/Section%20Pages/Trumpets/trumpet-trombone-battles.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -93,11 +93,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/trumpet-thanksgiving.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835428/Section%20Pages/Trumpets/trumpet-thanksgiving.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/trumpets/herbert.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836385/Section%20Pages/Trumpets/herbert.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -107,7 +107,7 @@
   </div>
 
   <div class="media-container" id="trumpet-section-photo">
-    <img src="/img/sections/trumpets/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836105/Section%20Pages/Trumpets/section.jpg">
   </div>
 
   <div class="auditionButton">
