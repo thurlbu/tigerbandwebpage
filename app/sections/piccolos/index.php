@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Piccolos</h1>
-    <img src="/img/sections/piccolos/piccolos.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
   </div>
 
   <div class="section-quote">
@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/piccolos/piccolos.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
       <h3>Maureen Zabel</h3>
       <p>Senior | Genetics<br/>Tega Cay, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/piccolos/piccolos.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
       <h3>Jillian McNally</h3>
       <p>Junior | Financial Management<br/>Walhalla, SC</p>
     </div>
@@ -72,7 +72,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/piccolos/piccolos.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -88,12 +88,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/piccolos/piccolos.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
     </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/piccolos/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909529/Section%20Pages/Piccolos/section.jpg">
   </div>
 
   <div class="auditionButton">
