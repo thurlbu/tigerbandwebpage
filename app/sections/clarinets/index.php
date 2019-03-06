@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading clarinets">
     <h1>Clarinets</h1>
-    <img src="/img/sections/clarinets/header.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
   </div>
 
   <div class="section-quote clarinets">
@@ -49,13 +49,13 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/clarinets/clarinets.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/purple-shorts-and-tiger-tails.jpg">
       <h3>Grayson Davis</h3>
       <p>Senior | Mechanical Engineering <br/>Fort Mill, SC</p>
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/clarinets/clarinets.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/purple-shorts-and-tiger-tails.jpg">
       <h3>Jason Gonzales</h3>
       <p>Senior | Civil Engineering <br/>Summerville, SC</p>
     </div>
@@ -73,7 +73,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile clarinets">
-      <img src="/img/sections/clarinets/purple-shorts.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/purple-shorts-and-tiger-tails.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -89,12 +89,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/clarinets/clarinets.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/breezeway-tunnel-and-pep-talk.jpg">
     </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/clarinets/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/section.jpg">
   </div>
 
   <div class="auditionButton">
