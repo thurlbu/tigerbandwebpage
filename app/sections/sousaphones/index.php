@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Sousaphones</h1>
-    <img src="/img/sections/sousaphones/sousaphones.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
   </div>
 
   <div class="section-quote">
@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/sousaphones/laura-kate-reid.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910608/Section%20Pages/Sousaphones/laura-kate-reid.jpg">
       <h3>Laura Kate Reid</h3>
       <p>Junior | Mathematical Sciences <br/>Aiken, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/sousaphones/graham-jackson.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/graham-jackson.jpg">
       <h3>Graham Jackson</h3>
       <p>Senior | Mechanical Engineering <br/>Lexington, SC</p>
     </div>
@@ -72,37 +72,37 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/sousaphones/sousaphones.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/morning-rag.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Morning Rag</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p>As the foundation of the band, it is our solemn duty to christen the beginning of each gameday rehearsal with the glorious sound colloquially known as Tiger Rag</p>
       </div>
     </div>
 
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>High Five Tunnel</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p>The best way to spread Tigertown cheer is high fives and playing loud for all to hear! (Catch us in E-4 after home games for your chance at a one-of-a-kind genuine Sousaphone high five!)</p>
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/sousaphones/sousaphones.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/high-five.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/sousaphones/sousaphones.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/camaraderie.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Camaraderie</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        <p>While we’re serious about our performances, we’re also serious about having fun! When we’re not at rehearsal or games, you can likely find us playing games or at a game night or at our favorite local spot: Taco Bell</p>
       </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/sousaphones/section-photo.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910860/Section%20Pages/Sousaphones/section.jpg">
   </div>
 
   <div class="auditionButton">
