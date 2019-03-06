@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading guard">
     <h1>Color Guard</h1>
-    <img src="/img/sections/guard/header.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
   </div>
 
   <div class="section-quote">
@@ -49,19 +49,19 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/guard/amber-o-dell.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/amber-o-dell.jpg">
       <h3>Amber O’Dell</h3>
       <p>Sophomore | Communications <br/>Piedmont, SC</p>
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/guard/ericka-pace.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/ericka-pace.jpg">
       <h3>Ericka Pace</h3>
       <p>Senior | Agricultural Mechanization and Business<br/>Polk City, FL</p>
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/guard/olivia-papotto.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/olivia-papotto.jpg">
       <h3>Olivia Papotto</h3>
       <p>Junior | Computer Information Systems<br/>Pelzer, SC</p>
     </div>
@@ -73,13 +73,13 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551584012/Guard_page_video.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551893887/Section%20Pages/Color%20Guard/Guard_page_video.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/guard/why-join.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/why-join.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -95,11 +95,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/guard/travel.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/travel.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/guard/how-to-join.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/how-to-join.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -110,11 +110,11 @@
   </div>
 
   <div class="media-container guard">
-    <img src="/img/sections/guard/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/section.jpg">
   </div>
 
   <div class="auditionButton">
-      <a href="/join/winds/" class="boxWrapper">
+      <a href="/join/guard/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect guard">
               <div class="textContainer">
                   <p>Come Spin With Tiger Guard!</p>
