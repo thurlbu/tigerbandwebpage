@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading" id="alto-section-heading">
     <h1>Alto Saxophones</h1>
-    <img src="/img/sections/altos/altos.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/header.jpg">
   </div>
 
   <div class="section-quote" id="alto-section-quote">
@@ -51,12 +51,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/altos/grant-howard.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874097/Section%20Pages/Alto%20Saxophones/grant-howard.jpg">
       <h3>Grant Howard</h3>
       <p>Senior | Economics <br/>Anderson, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/altos/sam-regi.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/sam-regi.jpg">
       <h3>Sam Regi</h3>
       <p>Senior | Performing Arts <br/>Tyrone, GA</p>
     </div>
@@ -68,13 +68,13 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://s3.amazonaws.com/tiger-band-website/Alto+Sax+Section+Page+Video.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551874593/Section%20Pages/Alto%20Saxophones/Alto_Sax_Section_Page_VIdeo.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/altos/barbara-ann.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874097/Section%20Pages/Alto%20Saxophones/barbara-ann.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -90,11 +90,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/altos/jorts.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/jorts.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/altos/tiger-rag.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874097/Section%20Pages/Alto%20Saxophones/tiger-rag.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -104,7 +104,7 @@
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/altos/section-photo.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/section.jpg">
   </div>
 
   <div class="auditionButton">
