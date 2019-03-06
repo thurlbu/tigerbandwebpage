@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/baritones/chris-nahum.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833778/Section%20Pages/Baritones/chris-nahum.jpg">
       <h3>Chris Nahum</h3>
       <p>Senior | Mechanical Engineering <br/>Indian Land, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/baritones/lorenzo-lewis.png">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833778/Section%20Pages/Baritones/lorenzo-lewis.jpg">
       <h3>Lorenzo Lewis</h3>
       <p>Junior | Elementary Education <br/>Rock Hill, SC</p>
     </div>
@@ -66,13 +66,13 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://s3.amazonaws.com/tiger-band-website/Baritone+Section+Hype+Video.mp4" type="video/mp4">
+        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/vc_auto/v1551834908/Section%20Pages/Baritones/Baritone_Section_Hype_Video.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/baritones/baritones.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551834756/Section%20Pages/Baritones/thumbnail.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -88,11 +88,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/baritones/amphitheater-hype.png">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833779/Section%20Pages/Baritones/amphitheater-pep-talk.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/baritones/baritones.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551834756/Section%20Pages/Baritones/thumbnail.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -102,7 +102,7 @@
   </div>
 
   <div class="media-container" id="baritone-section-photo">
-    <img src="/img/sections/baritones/section-photo.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833779/Section%20Pages/Baritones/section.jpg">
   </div>
 
   <div class="auditionButton">
