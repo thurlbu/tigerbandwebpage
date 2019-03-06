@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Mellophones</h1>
-    <img src="/img/sections/mellophones/mellophones.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
   </div>
 
   <div class="section-quote">
@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/mellophones/chris-haigh.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895554/Section%20Pages/Mellophones/chris-haigh.jpg">
       <h3>Chris Haigh</h3>
       <p>Senior | Computer Science<br/>Mount Pleasant, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/mellophones/sarah-raz.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895554/Section%20Pages/Mellophones/sarah-raz.jpg">
       <h3>Sarah “Raz” Razavi</h3>
       <p>Senior | American Sign Language<br/>Atlanta, GA</p>
     </div>
@@ -72,7 +72,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/mellophones/mellophones.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -88,11 +88,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/mellophones/mellophones.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/mellophones/mellophones.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -102,7 +102,7 @@
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/mellophones/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895549/Section%20Pages/Mellophones/section.jpg">
   </div>
 
   <div class="auditionButton">
