@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Managers</h1>
-    <img src="/img/sections/managers/managers.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
   </div>
 
   <div class="section-quote">
@@ -49,7 +49,7 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/managers/caroline-webb.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894757/Section%20Pages/Managers/caroline-web.jpg">
       <h3>Caroline Webb</h3>
       <p>Sophomore | Political Science<br/>Lugoff, SC</p>
     </div>
@@ -67,7 +67,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/managers/managers.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -83,12 +83,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/managers/managers.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
     </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/managers/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894757/Section%20Pages/Managers/section.jpg">
   </div>
 
   <div class="auditionButton">
