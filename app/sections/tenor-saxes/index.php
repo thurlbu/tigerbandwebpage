@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading tenors">
     <h1>Tenor Saxophones</h1>
-    <img src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314058/header-high.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
   </div>
 
   <div class="section-quote tenors">
@@ -49,7 +49,7 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551314316/devin-lane-high.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837273/Section%20Pages/Tenor%20Saxophones/davin-lane.jpg">
       <h3>Devin Lane</h3>
       <p>Sophomore | Electrical Engineering <br/>Blue Ridge, SC</p>
     </div>
@@ -61,13 +61,13 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-      <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551558987/Tenor_Sax_Section_Page_Video.mp4" type="video/mp4">
+      <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551836346/Section%20Pages/Tenor%20Saxophones/Tenor_Sax_Section_Page_Video.mp4" type="video/mp4">
     </video>
   </div>
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/gameday-hats.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/gameday-hats.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -83,12 +83,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/tenor-saxes/culture.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837445/Section%20Pages/Tenor%20Saxophones/culture.jpg">
     </div>
   </div>
 
   <div class="media-container tenors">
-    <img src="https://res.cloudinary.com/dnglix0tu/image/upload/v1551313987/section-photo-high.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837313/Section%20Pages/Tenor%20Saxophones/section.jpg">
   </div>
 
   <div class="auditionButton">
