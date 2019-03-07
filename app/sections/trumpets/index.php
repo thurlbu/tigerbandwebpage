@@ -89,7 +89,7 @@
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Trumpet Thanksgiving</h4>
-        <p> Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
+        <p>Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
       </div>
     </div>
     <div class="tradition-tile">
@@ -102,7 +102,7 @@
     <div class="tradition-tile">
       <div class="tradition-text">
         <h4>Herbert</h4>
-        <p> Meet Herbert, the official mascot of the Tiger Town Trumpets. In August 2017, a freshman trumpet player brought a plastic lawn flamingo to college not knowing just how important the flamingo would be. After bringing the flamingo to a couple of practices, the section adopted him as their mascot and good luck charm. He was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members later that year took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. However, the best way to follow Herbert’s adventures is through his instagram page @herbert_flmgo. The trumpets love Herbert very much, and they can’t wait to see where his adventures take him next! </p>
+        <p>Meet Herbert, he was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. </p>
       </div>
   </div>
 

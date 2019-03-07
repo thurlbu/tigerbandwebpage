@@ -83,7 +83,7 @@
 
     <div class="tradition-tile">
       <div class="tradition-text">
-        <h4>High Five Tunnel</h4>
+        <h4>High Five</h4>
         <p>The best way to spread Tigertown cheer is high fives and playing loud for all to hear! (Catch us in E-4 after home games for your chance at a one-of-a-kind genuine Sousaphone high five!)</p>
       </div>
     </div>
