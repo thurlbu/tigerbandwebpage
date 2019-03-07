@@ -10,7 +10,7 @@ const sass = require('gulp-sass');
 const concat = require('gulp-concat');
 
 gulp.task('default', function (callback) {
-  runSequence('sass', 'css', 'watch', callback);
+  runSequence('sass', 'sass-responsive', 'css', 'watch', callback);
 });
 
 gulp.task('build', function (callback) {
