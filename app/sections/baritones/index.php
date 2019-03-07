@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Baritones</h1>
-    <img src="/img/sections/baritones/action-cover.png">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
   </div>
 
   <div class="section-quote">
