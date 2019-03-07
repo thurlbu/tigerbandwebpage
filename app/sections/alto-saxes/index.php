@@ -33,12 +33,12 @@
 </nav>
 
 <body>
-  <div class="section-heading" id="alto-section-heading">
+  <div class="section-heading alto">
     <h1>Alto Saxophones</h1>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/header.jpg">
   </div>
 
-  <div class="section-quote" id="alto-section-quote">
+  <div class="section-quote alto">
     <p>The Alto Saxophone section of Tiger Band cultivates a jovial culture unmatched by any other section in Tiger Band, we had to have a special meeting because we were having too much fun. </p>
     <p>&mdash; Grant</p>
     <p>Less Dancing, More Dressing, Mr. Hurlburt, our assistant band director, said this to the Altos during rehearsal once.</p>

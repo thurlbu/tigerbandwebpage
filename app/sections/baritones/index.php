@@ -101,7 +101,7 @@
       </div>
   </div>
 
-  <div class="media-container" id="baritone-section-photo">
+  <div class="media-container baritone">
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833779/Section%20Pages/Baritones/section.jpg">
   </div>
 

@@ -75,18 +75,18 @@ $description-font-size: 18pt
   &.guard
     img
       transform: translate(-50%, -35%)
-.section-heading#trumpet-section-heading
-  height: calc(80vh - 4.5rem)
-  img
-    transform: translate(-50%, -35%)
-.section-heading#alto-section-heading
-  height: calc(73vh - 4.5rem)
-  img
-    transform: translate(-50%, -30%)
-.section-heading.tenors
-  height: calc(88vh - 4.5rem)
-  img
-    transform: translate(-50%, -45%)
+  &.trumpet
+    height: calc(80vh - 4.5rem)
+    img
+      transform: translate(-50%, -35%)
+  &.alto
+    height: calc(73vh - 4.5rem)
+    img
+      transform: translate(-50%, -30%)
+  &.tenors
+    height: calc(88vh - 4.5rem)
+    img
+      transform: translate(-50%, -45%)
 
 .section-quote
   height: 15vh
@@ -99,12 +99,12 @@ $description-font-size: 18pt
       text-align: right
   &.trombone
     height: 20vh
-.section-quote#trumpet-section-quote
-  height: 20vh
-.section-quote#alto-section-quote
-  height: 27vh
-.section-quote.tenors
-  height: 12vh
+  &.trumpet
+    height: 20vh
+  &.alto
+    height: 27vh
+  &.tenors
+    height: 12vh
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -169,16 +169,15 @@ $description-font-size: 18pt
   &.guard
     *
       transform: translate(-50%, -43%)
-
-.media-container#baritone-section-photo
-  *
-    transform: translate(-50%, -55%)
-.media-container#trumpet-section-photo
-  *
-    transform: translate(-50%, -45%)
-.media-container.tenors
-  *
-    transform: translate(-50%, -42.5%)
+  &.baritone
+    *
+      transform: translate(-50%, -55%)
+  &.trumpet
+    *
+      transform: translate(-50%, -45%)
+  &.tenors
+    *
+      transform: translate(-50%, -42.5%)
 
 .auditionButton
   display: flex
