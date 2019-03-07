@@ -35,7 +35,7 @@
 <body>
   <div class="section-heading">
     <h1>Trombones</h1>
-    <img src="/img/sections/trombones/header.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
   </div>
 
   <div class="section-quote trombone">
@@ -49,12 +49,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/trombones/georgia-krendel.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960085/Section%20Pages/Trombones/georgia-krendel.jpg">
       <h3>Georgia Krendel</h3>
       <p>Senior | Political Science<br/>Lynbrook, NY</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="/img/sections/trombones/trevor-kimbrell.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/trevor-kimbrell.jpg">
       <h3>Trevor Kimbrell</h3>
       <p>Sophomore | Industrial Engineering<br/>Mt. Pleasant, SC</p>
     </div>
@@ -72,7 +72,7 @@
 
   <div class="section-traditions">
     <div class="tradition-tile">
-      <img src="/img/sections/trombones/trombone-trumpet-battles.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960082/Section%20Pages/Trombones/trombone-trumpet-battles.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -88,11 +88,11 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/trombones/bonesocks.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/bonesocks.jpg">
     </div>
 
     <div class="tradition-tile">
-      <img src="/img/sections/trombones/pre-game-hype-speech.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/pre-game-hype-speech.jpg">
     </div>
     <div class="tradition-tile">
       <div class="tradition-text">
@@ -108,12 +108,12 @@
       </div>
     </div>
     <div class="tradition-tile">
-      <img src="/img/sections/trombones/bonesgiving.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960094/Section%20Pages/Trombones/bonesgiving.jpg">
     </div>
   </div>
 
   <div class="media-container">
-    <img src="/img/sections/trombones/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911605/Section%20Pages/Trombones/section-photo.jpg">
   </div>
 
   <div class="auditionButton">
