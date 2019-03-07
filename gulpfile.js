@@ -14,7 +14,7 @@ gulp.task('default', function (callback) {
 });
 
 gulp.task('build', function (callback) {
-  runSequence('clean:prod', 'sass', 'css',
+  runSequence('clean:prod', 'sass', 'sass-responsive', 'css',
     ['move-images', 'drumline', 'cutba', 'minify-css', 'move-html-php', 'move-docs', 'move-audio'],
     callback
   );
@@ -32,7 +32,9 @@ gulp.task('watch', ['browserSync'], function () {
   const mainFiles = ['./app/**/*.php', './app/**/*.html', './app/**/*.js'];
 
   gulp.watch('./app/css/*.sass', ['sass']);
+  gulp.watch('./app/css/responsive/*.sass', ['sass-responsive']);
   gulp.watch('./app/css/*.css', ['css']);
+  gulp.watch('./app/css/responsive/*.css', ['css']);
 
   gulp.watch('./app/drumline/css/*.sass', ['drumline-sass']);
   gulp.watch('./app/drumline/css/*.css', ['drumline-css-app']);
@@ -56,21 +58,24 @@ gulp.task('browserSync', function () {
 gulp.task('sass', function () {
   return gulp.src('./app/css/*.sass')
     .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('./app/css'))
-    .pipe(browserSync.reload({
-      stream: true
-    }))
+    .pipe(gulp.dest('./app/css'));
 });
+
+gulp.task('sass-responsive', function () {
+  return gulp.src('./app/css/responsive/*.sass')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./app/css/responsive'));
+})
 
 gulp.task('css', function () {
   del.sync('./app/css/main.css')
-  return gulp.src('./app/css/*.css')
+  return gulp.src(['./app/css/*.css', './app/css/responsive/*.css'])
     .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(concat('main.css'))
     .pipe(gulp.dest('./app/css/'))
     .pipe(browserSync.reload({
       stream: true
-    }))
+    }));
 });
 
 gulp.task('move-html-php', function () {
