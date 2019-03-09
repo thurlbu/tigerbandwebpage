@@ -76,34 +76,41 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835433/Section%20Pages/Trumpets/trumpet-trombone-battles.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Trumpet VS Trombone Battles</h4>
-        <p>The morning of every home game starts with a battle like no other. It’s the official start of game day and the hype. We will use everything we can to win including a dinosaur suit, a shirtless painted trumpet in a hula skirt, pouring water on someone in a chair, fireworks, Terry the guard instructor, a manhole, and more. We also use music you know, cause we’re musicians and shooting fireworks without the sounds of Sweet Victory blaring through some trumpets is kinda pointless. Are you ready for battle?</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835433/Section%20Pages/Trumpets/trumpet-trombone-battles.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Trumpet VS Trombone Battles</h4>
+          <p>The morning of every home game starts with a battle like no other. It’s the official start of game day and the hype. We will use everything we can to win including a dinosaur suit, a shirtless painted trumpet in a hula skirt, pouring water on someone in a chair, fireworks, Terry the guard instructor, a manhole, and more. We also use music you know, cause we’re musicians and shooting fireworks without the sounds of Sweet Victory blaring through some trumpets is kinda pointless. Are you ready for battle?</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Trumpet Thanksgiving</h4>
-        <p>Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Trumpet Thanksgiving</h4>
+          <p>Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835428/Section%20Pages/Trumpets/trumpet-thanksgiving.jpg">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551835428/Section%20Pages/Trumpets/trumpet-thanksgiving.jpg">
+      </div>
     </div>
 
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836385/Section%20Pages/Trumpets/herbert.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Herbert</h4>
-        <p>Meet Herbert, he was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. </p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836385/Section%20Pages/Trumpets/herbert.jpg">
       </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Herbert</h4>
+          <p>Meet Herbert, he was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. </p>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="media-container trumpet">
