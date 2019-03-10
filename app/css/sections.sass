@@ -92,7 +92,7 @@ $responsive-descr-font-size: 14pt
       transform: translate(-50%, -45%)
 
 .section-quote
-  height: auto
+  height: 20vh
   padding: 1rem 2.5%
   background: black
   p
@@ -101,8 +101,6 @@ $responsive-descr-font-size: 14pt
     &:nth-of-type(even)
       text-align: right
   &.trombone
-    height: 20vh
-  &.trumpet
     height: 20vh
   &.alto
     height: 27vh
@@ -217,7 +215,6 @@ $responsive-descr-font-size: 14pt
 
 @media (max-width: 1050px)
   .section-heading
-    margin-top: -0.5rem
     h1
       font-size: 54pt
     img
@@ -229,6 +226,14 @@ $responsive-descr-font-size: 14pt
       width: auto
 
 @media (max-width: 800px)
+  #boxUI.sections
+    margin-top: -0.5rem
+
+  .section-heading
+    margin-top: -0.5rem
+    h1
+      text-align: center
+
   .section-leaders-content
     flex-flow: row wrap
     .section-leader
@@ -238,6 +243,13 @@ $responsive-descr-font-size: 14pt
         font-size: $responsive-descr-font-size
 
   .section-quote
+    height: auto
+    &.trombone
+      height: auto
+    &.alto
+      height: auto
+    &.tenors
+      height: auto
     padding: 1rem
     p
       margin: 0
@@ -253,3 +265,8 @@ $responsive-descr-font-size: 14pt
     width: 80vw
     .rect, .boxWrapper
       height: 15vh
+
+@media (max-width: 350px)
+  .section-heading
+    h1
+      font-size: 48pt
