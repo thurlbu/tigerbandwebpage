@@ -39,8 +39,8 @@
   </div>
 
   <div class="section-quote">
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. </p>
-    <p>&mdash; Laura Kate &amp; Graham</p>
+    <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
+    <p>&mdash; LK &amp; G</p>
   </div>
 
   <div class="heading">
