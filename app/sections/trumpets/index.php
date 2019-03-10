@@ -92,7 +92,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Trumpet Thanksgiving</h4>
-          <p>Every Sunday before the USC Jr. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
+          <p>Every Sunday before the last regular season game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plates to everyone in the section; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
         </div>
       </div>
       <div class="tradition-tile image">

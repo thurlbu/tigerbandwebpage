@@ -158,14 +158,15 @@ $responsive-descr-font-size: 14pt
 .media-container
   position: relative
   width: 100vw
-  height: 100vh
+  height: 0
+  padding-top: 56.25%
   overflow: hidden
   margin: 0
   *
     position: absolute
     top: 50%
     left: 50%
-    min-width: 100%
+    width: 100%
     transform: translate(-50%, -50%)
     z-index: -2
   img
@@ -237,7 +238,9 @@ $responsive-descr-font-size: 14pt
         font-size: $responsive-descr-font-size
 
   .section-quote
+    padding: 1rem
     p
+      margin: 0
       font-size: $responsive-descr-font-size
 
   .section-traditions
@@ -245,12 +248,6 @@ $responsive-descr-font-size: 14pt
       .tradition-tile
         .tradition-text
           font-size: $responsive-descr-font-size
-
-  .media-container
-    width: 100vw
-    height: 20vh
-    *
-      width: 100vw
 
   .auditionButton
     width: 80vw
