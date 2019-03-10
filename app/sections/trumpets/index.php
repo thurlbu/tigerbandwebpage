@@ -49,7 +49,7 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836108/Section%20Pages/Trumpets/alicia-cameron.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552257405/Section%20Pages/Trumpets/alicia-cameron.jpg">
       <h3>Alicia Cameron</h3>
       <p>Senior | Industrial Engineering <br/>Mt. Pleasant, SC</p>
     </div>
