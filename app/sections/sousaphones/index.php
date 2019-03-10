@@ -71,34 +71,41 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/morning-rag.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Morning Rag</h4>
-        <p>As the foundation of the band, it is our solemn duty to christen the beginning of each gameday rehearsal with the glorious sound colloquially known as Tiger Rag</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/morning-rag.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Morning Rag</h4>
+          <p>As the foundation of the band, it is our solemn duty to christen the beginning of each gameday rehearsal with the glorious sound colloquially known as Tiger Rag</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>High Five</h4>
-        <p>The best way to spread Tigertown cheer is high fives and playing loud for all to hear! (Catch us in E-4 after home games for your chance at a one-of-a-kind genuine Sousaphone high five!)</p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>High Five</h4>
+          <p>The best way to spread Tigertown cheer is high fives and playing loud for all to hear! (Catch us in E-4 after home games for your chance at a one-of-a-kind genuine Sousaphone high five!)</p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/high-five.jpg">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/high-five.jpg">
+      </div>
     </div>
 
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/camaraderie.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Camaraderie</h4>
-        <p>While we’re serious about our performances, we’re also serious about having fun! When we’re not at rehearsal or games, you can likely find us playing games or at a game night or at our favorite local spot: Taco Bell</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/camaraderie.jpg">
       </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Camaraderie</h4>
+          <p>While we’re serious about our performances, we’re also serious about having fun! When we’re not at rehearsal or games, you can likely find us playing games or at a game night or at our favorite local spot: Taco Bell</p>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="media-container">

@@ -66,24 +66,28 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>The Mule</h4>
-        <p>Also known as La Mule, the MMule is the golf cart like vehicle that is often seen swooping around the band field and it is what we use to get from the equipment room, to the practice field, and to Death Valley. It is a lot of fun to drive around and beats having to walk everywhere! This is something only managers really get to do.</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>The Mule</h4>
+          <p>Also known as La Mule, the MMule is the golf cart like vehicle that is often seen swooping around the band field and it is what we use to get from the equipment room, to the practice field, and to Death Valley. It is a lot of fun to drive around and beats having to walk everywhere! This is something only managers really get to do.</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Culture</h4>
-        <p>While every section is a family in their own way, this could not be truer for a section than our own. We are often together for extended periods of time and as there are so few of us, we get to know each other very well. It can be a bit daunting at first, but soon you will not know what to do without the people that you meet here. It is truly a different kind of experience and culture than anything you will experience anywhere else.</p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Culture</h4>
+          <p>While every section is a family in their own way, this could not be truer for a section than our own. We are often together for extended periods of time and as there are so few of us, we get to know each other very well. It can be a bit daunting at first, but soon you will not know what to do without the people that you meet here. It is truly a different kind of experience and culture than anything you will experience anywhere else.</p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+      <div class="tradition-tile">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+      </div>
     </div>
   </div>
 

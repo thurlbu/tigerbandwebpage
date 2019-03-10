@@ -71,44 +71,52 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960082/Section%20Pages/Trombones/trombone-trumpet-battles.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Trombone Trumpet Battle</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960082/Section%20Pages/Trombones/trombone-trumpet-battles.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Trombone Trumpet Battle</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Bonesocks</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Bonesocks</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/bonesocks.jpg">
-    </div>
-
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/pre-game-hype-speech.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Pre Game Hype Speech </h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/bonesocks.jpg">
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Bonesgiving</h4>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/pre-game-hype-speech.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Pre Game Hype Speech </h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        </div>
       </div>
     </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960094/Section%20Pages/Trombones/bonesgiving.jpg">
+
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Bonesgiving</h4>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+        </div>
+      </div>
+      <div class="tradition-tile">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960094/Section%20Pages/Trombones/bonesgiving.jpg">
+      </div>
     </div>
   </div>
 

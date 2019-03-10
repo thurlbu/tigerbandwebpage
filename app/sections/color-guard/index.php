@@ -78,35 +78,42 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/why-join.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Why join Tiger Guard?</h4>
-        <p>Tiger Guard is not only an opportunity to physically express your talent, but to also express your personality with some of the greatest people, all while cheering on your Clemson Tigers! Tiger Guard takes hard work and dedication, but it is also the most fun and memorable college experience that you will have!</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/why-join.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Why join Tiger Guard?</h4>
+          <p>Tiger Guard is not only an opportunity to physically express your talent, but to also express your personality with some of the greatest people, all while cheering on your Clemson Tigers! Tiger Guard takes hard work and dedication, but it is also the most fun and memorable college experience that you will have!</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Opportunity To Travel</h4>
-        <p>Tiger Guard offers members the chance to travel to away games! Postseason travel possibilities include the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Opportunity To Travel</h4>
+          <p>Tiger Guard offers members the chance to travel to away games! Postseason travel possibilities include the ACC Championship, bowl games, and even the National Championship! Come along with us as we travel from east coast to west coast with The Band that Shakes the Southland!</p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/travel.jpg">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/travel.jpg">
+      </div>
     </div>
 
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/how-to-join.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>How to join!</h4>
-        <p>To join Tiger Guard, follow the link below. All you have to do is watch an instructional video that takes you through the audition process. There are no fees! The deadline for submitting your completed application is July 22! We hope to be spinning with you soon!</p>
-        <a href="guard/" class="richLink">Join Tiger Guard</a>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/how-to-join.jpg">
       </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>How to join!</h4>
+          <p>To join Tiger Guard, follow the link below. All you have to do is watch an instructional video that takes you through the audition process. There are no fees! The deadline for submitting your completed application is July 22! We hope to be spinning with you soon!</p>
+          <a href="guard/" class="richLink">Join Tiger Guard</a>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="media-container guard">

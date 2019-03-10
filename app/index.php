@@ -51,7 +51,7 @@
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
         <video id="homeVideoBkg" autoplay loop muted>
-            <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
+            <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1552147781/Home%20page/WebPageVideoLarge.mp4" type="video/mp4">
         </video>
     </div>
 

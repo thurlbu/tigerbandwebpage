@@ -66,24 +66,28 @@
   </div>
 
   <div class="section-traditions">
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/gameday-hats.jpg">
-    </div>
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Gameday Hats</h4>
-        <p>It’s a tenor sax tradition to wear propellor hats to every game day practice. This helps add to the game day spirit, definitely distinguishes our section, and makes those early morning practices much more fun and entertaining!</p>
+    <div class="tradition">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/gameday-hats.jpg">
+      </div>
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Gameday Hats</h4>
+          <p>It’s a tenor sax tradition to wear propellor hats to every game day practice. This helps add to the game day spirit, definitely distinguishes our section, and makes those early morning practices much more fun and entertaining!</p>
+        </div>
       </div>
     </div>
 
-    <div class="tradition-tile">
-      <div class="tradition-text">
-        <h4>Section Culture</h4>
-        <p>The best aspect of the tenor sax section is unity among diversity. Each member of the section has a different background and unique personality, but this is a good thing. It adds to the atmosphere of the section, teaches you how to work well with others, and makes everything much more interesting. Even though we all have our own personalities, we work together to better ourselves and each other.</p>
+    <div class="tradition">
+      <div class="tradition-tile">
+        <div class="tradition-text">
+          <h4>Section Culture</h4>
+          <p>The best aspect of the tenor sax section is unity among diversity. Each member of the section has a different background and unique personality, but this is a good thing. It adds to the atmosphere of the section, teaches you how to work well with others, and makes everything much more interesting. Even though we all have our own personalities, we work together to better ourselves and each other.</p>
+        </div>
       </div>
-    </div>
-    <div class="tradition-tile">
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837445/Section%20Pages/Tenor%20Saxophones/culture.jpg">
+      <div class="tradition-tile image">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837445/Section%20Pages/Tenor%20Saxophones/culture.jpg">
+      </div>
     </div>
   </div>
 
