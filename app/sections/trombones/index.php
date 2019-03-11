@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading">
-    <h1>Trombones</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading">
+      <h1>Trombones</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
+    </div>
 
-  <div class="section-quote trombone">
-    <p>Looking for the webpage of the best section in Tiger Band? You found it! We’re looking forward to another fun filled and exhilarating season here in Clemson. This season, we hope to continue our domination in our weekly battles with the trumpets, show off our ever-so-stylish bone socks, and cheer on our Tigers to another winning season. Keep scrolling to see what we’re all about.</p>
-    <p>&mdash; Georgia &amp; Trevor</p>
+    <div class="section-quote trombone">
+      <p>Looking for the webpage of the best section in Tiger Band? You found it! We’re looking forward to another fun filled and exhilarating season here in Clemson. This season, we hope to continue our domination in our weekly battles with the trumpets, show off our ever-so-stylish bone socks, and cheer on our Tigers to another winning season. Keep scrolling to see what we’re all about.</p>
+      <p>&mdash; Georgia &amp; Trevor</p>
+    </div>
   </div>
 
   <div class="heading">

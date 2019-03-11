@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading">
-    <h1>Baritones</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading">
+      <h1>Baritones</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
+    </div>
 
-  <div class="section-quote">
-    <p>Welcome to the page of the Baritone section! We are your section leaders, Lorenzo and Chris! We’re looking forward to another great season this year and want to give you a sneak peak into what goes on in the Baritone section. </p>
-    <p>&mdash; Lorenzo &amp; Chris</p>
+    <div class="section-quote">
+      <p>Welcome to the page of the Baritone section! We are your section leaders, Lorenzo and Chris! We’re looking forward to another great season this year and want to give you a sneak peak into what goes on in the Baritone section. </p>
+      <p>&mdash; Lorenzo &amp; Chris</p>
+    </div>
   </div>
 
   <div class="heading">

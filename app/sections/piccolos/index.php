@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading">
-    <h1>Piccolos</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading">
+      <h1>Piccolos</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+    </div>
 
-  <div class="section-quote">
-    <p>We are so excited for the 2019 edition of Tiger Band and we hope you are, too! </p>
-    <p>&mdash; Maureen &amp; Jillian</p>
+    <div class="section-quote">
+      <p>We are so excited for the 2019 edition of Tiger Band and we hope you are, too! </p>
+      <p>&mdash; Maureen &amp; Jillian</p>
+    </div>
   </div>
 
   <div class="heading">

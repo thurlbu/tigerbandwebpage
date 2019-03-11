@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading clarinets">
-    <h1>Clarinets</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading clarinets">
+      <h1>Clarinets</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
+    </div>
 
-  <div class="section-quote clarinets">
-    <p>Welcome to the Clarinets!</p>
-    <p>&mdash; Grayson &amp; Jason</p>
+    <div class="section-quote clarinets">
+      <p>Welcome to the Clarinets!</p>
+      <p>&mdash; Grayson &amp; Jason</p>
+    </div>
   </div>
 
   <div class="heading">

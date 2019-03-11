@@ -51,6 +51,12 @@ $responsive-descr-font-size: 14pt
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961559/Section%20Pages/Drumline/thumbnail.jpg) (center / cover) no-repeat
 
 /* SECTION PAGES */
+.section-fullscreen-container
+  display: flex
+  height: calc(100vh - 2.5rem)
+  width: 100vw
+  flex-flow: column
+
 .section-heading
   height: 70vh
   height: calc(85vh - 4.5rem)
@@ -70,42 +76,21 @@ $responsive-descr-font-size: 14pt
     transform: translate(-50%, -50%)
     width: 100%
     z-index: -9
-  &.clarinets
-    img
-      transform: translate(-50%, -37%)
-  &.guard
-    img
-      transform: translate(-50%, -35%)
-  &.trumpet
-    height: calc(80vh - 4.5rem)
-    img
-      left: 50%
-      top: 0
-      transform: translate(-50%, 0)
-  &.alto
-    height: calc(73vh - 4.5rem)
-    img
-      transform: translate(-50%, -30%)
-  &.tenors
-    height: calc(88vh - 4.5rem)
-    img
-      transform: translate(-50%, -45%)
 
 .section-quote
-  height: 20vh
+  display: flex
+  height: auto
+  width: calc(100% - 6rem)
   padding: 1rem 2.5%
   background: black
+  align-self: flex-end
+  flex-flow: column
   p
+    display: flex
     color: white
     font-size: $description-font-size
     &:nth-of-type(even)
-      text-align: right
-  &.trombone
-    height: 20vh
-  &.alto
-    height: 27vh
-  &.tenors
-    height: 12vh
+      align-self: flex-end
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -169,18 +154,6 @@ $responsive-descr-font-size: 14pt
     z-index: -2
   img
     width: 100%
-  &.guard
-    *
-      transform: translate(-50%, -43%)
-  &.baritone
-    *
-      transform: translate(-50%, -55%)
-  &.trumpet
-    *
-      transform: translate(-50%, -45%)
-  &.tenors
-    *
-      transform: translate(-50%, -42.5%)
 
 .auditionButton
   display: flex
@@ -243,13 +216,6 @@ $responsive-descr-font-size: 14pt
         font-size: $responsive-descr-font-size
 
   .section-quote
-    height: auto
-    &.trombone
-      height: auto
-    &.alto
-      height: auto
-    &.tenors
-      height: auto
     padding: 1rem
     p
       margin: 0

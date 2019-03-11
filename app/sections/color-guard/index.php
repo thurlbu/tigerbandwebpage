@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading guard">
-    <h1>Color Guard</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading guard">
+      <h1>Color Guard</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
+    </div>
 
-  <div class="section-quote">
-    <p>Welcome to the Tiger Guard section page! We are your section leaders, Amber, Ericka, and Olivia! We are looking forward to another great season this year and want to share with you a little about who we are and what we do! </p>
-    <p>&mdash; Amber, Ericka, &amp; Olivia</p>
+    <div class="section-quote">
+      <p>Welcome to the Tiger Guard section page! We are your section leaders, Amber, Ericka, and Olivia! We are looking forward to another great season this year and want to share with you a little about who we are and what we do! </p>
+      <p>&mdash; Amber, Ericka, &amp; Olivia</p>
+    </div>
   </div>
 
   <div class="heading">

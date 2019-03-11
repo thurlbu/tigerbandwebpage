@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading">
-    <h1>Managers</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading">
+      <h1>Managers</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+    </div>
 
-  <div class="section-quote">
-    <p>Welcome to the band managers! We’re here to find things and make sure they get to Death Valley. We also get to ride a golf cart.</p>
-    <p>&mdash; Caroline</p>
+    <div class="section-quote">
+      <p>Welcome to the band managers! We’re here to find things and make sure they get to Death Valley. We also get to ride a golf cart.</p>
+      <p>&mdash; Caroline</p>
+    </div>
   </div>
 
   <div class="heading">

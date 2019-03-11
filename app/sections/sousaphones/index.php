@@ -33,14 +33,16 @@
 </nav>
 
 <body>
-  <div class="section-heading">
-    <h1>Sousaphones</h1>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
-  </div>
+  <div class="section-fullscreen-container">
+    <div class="section-heading">
+      <h1>Sousaphones</h1>
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
+    </div>
 
-  <div class="section-quote">
-    <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
-    <p>&mdash; LK &amp; G</p>
+    <div class="section-quote">
+      <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
+      <p>&mdash; LK &amp; G</p>
+    </div>
   </div>
 
   <div class="heading">
