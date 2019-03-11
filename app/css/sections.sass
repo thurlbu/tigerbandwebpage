@@ -56,6 +56,7 @@ $responsive-descr-font-size: 14pt
   height: calc(100vh - 2.5rem)
   width: 100vw
   flex-flow: column
+  background: black
 
 .section-heading
   height: 70vh
@@ -69,28 +70,33 @@ $responsive-descr-font-size: 14pt
     width: 95%
     color: white
     text-shadow: 5px 5px 25px rgba(0, 0, 0, 1)
+    z-index: 2
   img
     position: absolute
     left: 50%
     top: 50%
     transform: translate(-50%, -50%)
     width: 100%
-    z-index: -9
+    z-index: 1
 
 .section-quote
   display: flex
-  height: auto
-  width: calc(100% - 6rem)
+  min-height: calc(100vh - 85vh)
+  width: 95vw
   padding: 1rem 2.5%
+  margin: 2rem 0
   background: black
   align-self: flex-end
   flex-flow: column
+  justify-content: center
+  z-index: 3
   p
-    display: flex
+    width: 100%
     color: white
     font-size: $description-font-size
     &:nth-of-type(even)
-      align-self: flex-end
+      padding-top: .5rem
+      text-align: right
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -216,6 +222,7 @@ $responsive-descr-font-size: 14pt
         font-size: $responsive-descr-font-size
 
   .section-quote
+    width: calc(100vw - 2rem)
     padding: 1rem
     p
       margin: 0
@@ -232,7 +239,7 @@ $responsive-descr-font-size: 14pt
     .rect, .boxWrapper
       height: 15vh
 
-@media (max-width: 350px)
+@media (max-width: 425px)
   .section-heading
     h1
-      font-size: 48pt
+      font-size: 36pt
