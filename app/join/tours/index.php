@@ -46,9 +46,11 @@
     <div id="col1Flex">
       <article class="text">
         <h1>Tiger Band Tours</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        <a href="/join/" target="_blank" class="richLink">Schedule a tour</a>
+        <img class="articleImg" src='/img/Gaffney.jpg'>
+        <p>If you're planning a visit to campus this spring, we hope you'll consider signing up for a Tiger Band Tour to learn what it takes to be a member of the "The Band that Shakes the Southland!"</p>
+        <p>Tour our facilities, learn about our history and traditions, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
+        <p>Tours this spring will take place on Fridays & Saturdays throughout the month of April.</p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" target="_blank" class="richLink">Schedule a tour</a>
       </article>
 
       <div class="socialContainer">
@@ -83,7 +85,10 @@
 
       <article class="text">
         <h1>Audition for Tiger Band</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <img class="articleImg" src='/img/CuseAmp.jpg'>
+        <p>All auditions for Tiger Band are completed via video submission.  You can find all the deadlines and information you need to create and submit your video on our join page.</p>
+        <p>Perform for over 1,000,000 people every year!  Travel the country supporting the Clemson Tigers!</p>
+        <p>We can't wait to welcome you to the Tiger Band family!</p>
         <a href="/join/" target="_blank" class="richLink">Join Tiger Band</a>
       </article>
     </div>
@@ -91,7 +96,10 @@
     <div id="col2Flex">
       <article class="text">
         <h1>High School Senior Day</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p>One game every season, we welcome 100 lucky high school seniors to perform with Tiger Band.</p>
+        <p>You'll rehearse with us, perform in our pre-game amphitheater concert, march to the stadium, and even perform on the field in Death Valley!</p>
+        <p>What better way to find out what it's like to be a member of Tiger Band?</p>
+        <p>Dates and registration information will be announced when it becomes available.</p>
         <div id="photoSlider">
           <img class="slider" src="/img/Slider1.jpg">
           <img class="slider" src="/img/Slider2.jpg">
