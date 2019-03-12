@@ -55,3 +55,15 @@
   background-image: url(/img/Twirlers.jpg);
   background-size: cover;
   background-position: center; }
+
+.socialContainer {
+  background: #F66733;
+  padding: 2rem;
+  width: 65%;
+  margin: 2rem auto;
+  border-radius: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2); }
+
+@media (max-width: 800px) {
+  .socialContainer {
+    width: 90%; } }
