@@ -34,7 +34,7 @@
 
 <body>
   <div class="section-fullscreen-container">
-    <div class="section-heading">
+    <div class="section-heading piccolo">
       <h1>Piccolos</h1>
       <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/header.jpg">
     </div>
