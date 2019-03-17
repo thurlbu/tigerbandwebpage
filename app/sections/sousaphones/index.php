@@ -80,7 +80,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Morning Rag</h4>
-          <p>As the foundation of the band, it is our solemn duty to christen the beginning of each gameday rehearsal with the glorious sound colloquially known as Tiger Rag</p>
+          <p>As the foundation of the band, it is our solemn duty to christen the beginning of each gameday rehearsal with the glorious sound colloquially known as Tiger Rag.</p>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Camaraderie</h4>
-          <p>While we’re serious about our performances, we’re also serious about having fun! When we’re not at rehearsal or games, you can likely find us playing games or at a game night or at our favorite local spot: Taco Bell</p>
+          <p>While we’re serious about our performances, we’re also serious about having fun! When we’re not at rehearsal or games, you can likely find us playing games or at a game night or at our favorite local spot: Taco Bell!</p>
         </div>
       </div>
     </div>
@@ -116,7 +116,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect sousaphone">
               <div class="textContainer">
                   <p>We’re #ALLIN, are you? (please click)</p>
               </div>
