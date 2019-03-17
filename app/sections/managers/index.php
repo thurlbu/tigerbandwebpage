@@ -64,7 +64,7 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552828871/Section%20Pages/Managers/the-mule.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
@@ -82,7 +82,7 @@
         </div>
       </div>
       <div class="tradition-tile">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552828099/Section%20Pages/Managers/culture.jpg">
       </div>
     </div>
   </div>
