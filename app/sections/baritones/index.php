@@ -75,7 +75,7 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551834756/Section%20Pages/Baritones/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1552827318/Section%20Pages/Baritones/pedialite.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
