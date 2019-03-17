@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>Alto Saxophone Section | Tiger Band</title>
-    <link rel="stylesheet" href="/css/main.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Band That Shakes the Southland">
-    <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-8965430-3');
+  </script>
+  <meta charset="utf-8">
+  <title>Alto Saxophone Section | Tiger Band</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta name="description" content="The Band That Shakes the Southland">
+  <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
 </head>
 
 <input type='checkbox' id='mobileMenu'>
