@@ -69,7 +69,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-      <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551267993/WebsiteVideo.mp4" type="video/mp4">
+      <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
     </video>
   </div>
 

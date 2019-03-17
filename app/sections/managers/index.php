@@ -61,12 +61,6 @@
       <h4>Traditions</h4>
   </div>
 
-  <div class="media-container">
-    <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/dnglix0tu/video/upload/v1551267993/WebsiteVideo.mp4" type="video/mp4">
-    </video>
-  </div>
-
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">

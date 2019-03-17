@@ -68,7 +68,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/vc_auto/v1551834908/Section%20Pages/Baritones/Baritone_Section_Hype_Video.mp4" type="video/mp4">
+        <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/baritone.mp4" type="video/mp4">
     </video>
   </div>
 
