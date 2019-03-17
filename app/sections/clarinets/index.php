@@ -34,12 +34,12 @@
 
 <body>
   <div class="section-fullscreen-container">
-    <div class="section-heading clarinets">
+    <div class="section-heading">
       <h1>Clarinets</h1>
       <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
     </div>
 
-    <div class="section-quote clarinets">
+    <div class="section-quote">
       <p>Welcome to the Clarinets!</p>
       <p>&mdash; Grayson &amp; Jason</p>
     </div>
