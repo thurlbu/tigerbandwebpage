@@ -75,7 +75,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551893887/Section%20Pages/Color%20Guard/Guard_page_video.mp4" type="video/mp4">
+        <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/guard.mp4" type="video/mp4">
     </video>
   </div>
 

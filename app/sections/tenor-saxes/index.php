@@ -63,7 +63,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-      <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551836346/Section%20Pages/Tenor%20Saxophones/Tenor_Sax_Section_Page_Video.mp4" type="video/mp4">
+      <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/tenor.mp4" type="video/mp4">
     </video>
   </div>
 

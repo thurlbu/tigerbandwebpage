@@ -70,7 +70,7 @@
 
   <div class="media-container">
     <video autoplay loop muted>
-        <source src="https://res.cloudinary.com/clemson-university-tiger-band/video/upload/v1551874593/Section%20Pages/Alto%20Saxophones/Alto_Sax_Section_Page_VIdeo.mp4" type="video/mp4">
+        <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/alto.mp4" type="video/mp4">
     </video>
   </div>
 
