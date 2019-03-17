@@ -36,7 +36,7 @@
   <div class="section-fullscreen-container">
     <div class="section-heading">
       <h1>Piccolos</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/header.jpg">
     </div>
 
     <div class="section-quote">
@@ -51,12 +51,12 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/maureen-zabel.jpg">
       <h3>Maureen Zabel</h3>
       <p>Senior | Genetics<br/>Tega Cay, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829787/Section%20Pages/Piccolos/jillian-mcnally.jpg">
       <h3>Jillian McNally</h3>
       <p>Junior | Financial Management<br/>Walhalla, SC</p>
     </div>
@@ -75,12 +75,12 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/piccsgiving.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Piccsgiving</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Each year right around Thanksgiving, everyone at the section comes together at one house to celebrate. It’s potluck style so everyone makes/ buys some food to share! It’s a lot of fun and it’s especially awesome for those of us who can’t go home for Thanksgiving break.</p>
         </div>
       </div>
     </div>
@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Secret Santa</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Sometime before we get out for Christmas break, everyone picks a name of another piccolo with a description of some of their favorite things. Then, when we get together for the bowl game after Christmas, we all exchange our gifts!</p>
         </div>
       </div>
       <div class="tradition-tile image">
@@ -104,7 +104,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect piccolo">
               <div class="textContainer">
                   <p>Come join our piccolo family!</p>
               </div>
