@@ -159,7 +159,7 @@
                 <p>CUTBA support is vital to the continued success of Tiger Band. Will you consider a donation to CUTBA to help Tiger Band continue its mission of excellence?</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://youtu.be/1q_PAUCpoTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/1q_PAUCpoTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
