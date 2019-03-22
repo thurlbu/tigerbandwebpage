@@ -47,7 +47,7 @@
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=368" class="mobileNav"
         target="_blank">Registration: Parents Day, Homecoming, &amp; E-Newsletter</a>
     <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate to CUTBA</a>
-    <a href="http://cutba.org/CUTBAbrickReservationForm.pdf" class="mobileNav" target="_blank">Buy a Brick</a>
+    <a href="https://cualumni.clemson.edu/give/cutba-brick" class="mobileNav" target="_blank">Buy a Brick</a>
 </nav>
 
 <!--- PAGE CONTENT --->
@@ -121,7 +121,7 @@
                 </div>
             </a>
 
-            <a href="http://cutba.org/CUTBAbrickReservationForm.pdf" target="_blank">
+            <a href="https://cualumni.clemson.edu/give/cutba-brick" target="_blank">
                 <div class="boxWrapper">
                     <div id="homepageNav5" class="boxUIelement rect orange">
                         <div class="textContainer">
@@ -154,17 +154,14 @@
                     University Tiger Band Association’s history, focus, activities, and funding.</p>
             </article>
 
-            <article class="text">
-                <h1 class="purpleText">2018 Tiger Band Parents Day!</h1>
-                <img class="articleImg" src='img/PD_16.jpg'>
-                <p>We're excited to welcome the parents of Tiger Band members to campus on September 29 to celebrate
-                    their students' achievements and to say thank you for all of their support!</p>
-                <p>Parents will have the opportunity to experience gameday through the eyes of their sons and daughers
-                    and share a meal (tickets required) with them at the end of the day. Parents of graduating senior
-                    band members will even have the opportunity to be on the field for the "most exciting 25-seconds in
-                    college football!"</p>
-                <p><a href="http://tband.people.clemson.edu/cutba/img/ParentSchedule.png">Click here for a full
-                        schedule of the days' activites.</a></p>
+            <article class="media">
+                <h1>Supporting Tiger Band Through CUTBA</h1>
+                <p>CUTBA support is vital to the continued success of Tiger Band. Will you consider a donation to CUTBA to help Tiger Band continue its mission of excellence?</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://youtu.be/1q_PAUCpoTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
             </article>
 
             <article class="text">
