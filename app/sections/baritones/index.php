@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the page of the Baritone section! We are your section leaders, Lorenzo and Chris! We’re looking forward to another great season this year and want to give you a sneak peak into what goes on in the Baritone section. </p>
+      <p>Welcome to the Baritone Section! We’re looking forward to another great season and want to give a sneak-peek into what it’s like to be a member of the Baritone Section.</p>
       <p>&mdash; Lorenzo &amp; Chris</p>
     </div>
   </div>
@@ -76,7 +76,7 @@
   </div>
 
   <div class="media-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/baritone.mp4" type="video/mp4">
     </video>
   </div>

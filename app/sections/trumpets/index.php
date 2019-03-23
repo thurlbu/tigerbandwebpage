@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the Trumpet Section! We are an awesome fun loving group of people that also play trumpet together. Throughout the season we will go to battle with the trombones, have countless unforgettable experiences cheering on our Clemson Tigers, and have a great paper plate ceremony at the end of the season. Here is a little sneak peak of the Clemson University Tiger Town Trumpets.</p>
+      <p>Welcome to the Trumpet Section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
       <p>&mdash; Alicia, Mac, &amp; Nick</p>
     </div>
   </div>
@@ -81,7 +81,7 @@
   </div>
 
   <div class="media-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/trumpet.mp4" type="video/mp4">
     </video>
   </div>
@@ -93,8 +93,8 @@
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
-          <h4>Trumpet VS Trombone Battles</h4>
-          <p>The morning of every home game starts with a battle like no other. It’s the official start of game day and the hype. We will use everything we can to win including a dinosaur suit, a shirtless painted trumpet in a hula skirt, pouring water on someone in a chair, fireworks, Terry the guard instructor, a manhole, and more. We also use music you know, cause we’re musicians and shooting fireworks without the sounds of Sweet Victory blaring through some trumpets is kinda pointless. Are you ready for battle?</p>
+          <h4>Trumpet vs Trombone Battles</h4>
+          <p>The morning of every home game starts with a battle unlike any other. It’s the official start of the hype surrounding gameday. We’ll use everything we can to win including a dinosaur suit, a shirtless, painted trumpet player in a hula skirt, dumping water on people, fireworks, Terry (the guard instructor), a manhole, and more! We also use music because we’re musicians and shooting fireworks without the sounds of Sweet Victory blaring through some trumpets is kind of pointless. Are you ready for the battle?</p>
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Trumpet Thanksgiving</h4>
-          <p>Every Sunday before the last game of the year. game the trumpet section gathers for the longest Tiger Town Trumpet tradition: Trumpet Thanksgiving. This is when the section leaders give out paper plate awards; where the section shares some of the best photos, quotes, and memories from the season; and, of course, where we devour massive amounts of food. This is a celebration of the past season and a celebration of the game to come. </p>
+          <p>Every Sunday before the last game of the year, the trumpet section gathers for the longest Tiger Town Trumpet tradition – Trumpet Thanksgiving. The section leaders give out paper plate awards, we share all of our best photos, quotes, and memories from the season, and, of course, devour massive amounts of food. It’s a celebration of our accomplishments from the season and look ahead at what is still to come.</p>
         </div>
       </div>
       <div class="tradition-tile image">
@@ -118,7 +118,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Herbert</h4>
-          <p>Meet Herbert, he was given the name Herbert after drawing inspiration from our assistant band director’s name, Mr. Hurlburt. Some members took it upon themselves to sneak the bird into a few football games, but this quickly turned into a tradition of bringing him to every game for good luck. In his first appearance in the 2017 College Playoff game at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. The best times to spot him are in the 90 Minutes Before Kickoff Show, in the Tiger Band stands, and in the parade down to the stadium. </p>
+          <p>Meet Herbert! The inspiration for his name came from the name of our assistant band director, Mr. Hurlburt. He found his way into a few football games and quickly turned into the Tiger Town Trumpet’s good luck charm. In his first appearance in the 2017 College Football Playoff at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. Herbert can be spotted at the 90-minutes-before-kickoff concert in the amphitheater, in the parade to the stadium, and with the trumpet section in the stands cheering on our Tigers!</p>
         </div>
       </div>
     </div>

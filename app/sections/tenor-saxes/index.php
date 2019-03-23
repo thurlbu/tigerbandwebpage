@@ -71,7 +71,7 @@
   </div>
 
   <div class="media-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
       <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/tenor.mp4" type="video/mp4">
     </video>
   </div>
@@ -93,7 +93,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Section Culture</h4>
-          <p>The best aspect of the tenor sax section is unity among diversity. Each member of the section has a different background and unique personality, but this is a good thing. It adds to the atmosphere of the section, teaches you how to work well with others, and makes everything much more interesting. Even though we all have our own personalities, we work together to better ourselves and each other.</p>
+          <p>The best aspect of the tenor sax section is our unity among our diversity. Each member of the section comes from a different background with their own unique personality and it’s awesome! We all add to the atmosphere of the section, learn how to work well with others, and it makes everything much more interesting. Even though we all have our own quirks, we work together to better ourselves and each other.</p>
         </div>
       </div>
       <div class="tradition-tile image">

@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the band managers! We’re here to find things and make sure they get to Death Valley. We also get to ride a golf cart.</p>
+      <p>Welcome to the Tiger Band Managers! We support all of the logisitcal needs of Tiger Band. We also get to ride a golf cart.</p>
       <p>&mdash; Caroline</p>
     </div>
   </div>
@@ -87,7 +87,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Culture</h4>
-          <p>While every section is a family in their own way, this could not be truer for a section than our own. We are often together for extended periods of time and as there are so few of us, we get to know each other very well. It can be a bit daunting at first, but soon you will not know what to do without the people that you meet here. It is truly a different kind of experience and culture than anything you will experience anywhere else.</p>
+          <p>Every section in Tiger Band is a family in their own way. This is also true for the managers. We are often working together for extended periods of time and since we are one of the smallest sections of the band, we get to know each other very well. It’s a truly unique experience and culture that you can’t get anywhere else on Clemson’s campus.</p>
         </div>
       </div>
       <div class="tradition-tile">

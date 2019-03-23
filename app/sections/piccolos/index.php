@@ -76,7 +76,7 @@
   </div>
 
   <div class="media-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="https://s3.amazonaws.com/tiger-band-website/WebsiteVideo.mp4" type="video/mp4">
     </video>
   </div>
@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Piccsgiving</h4>
-          <p>Each year right around Thanksgiving, everyone at the section comes together at one house to celebrate. It’s potluck style so everyone makes/ buys some food to share! It’s a lot of fun and it’s especially awesome for those of us who can’t go home for Thanksgiving break.</p>
+          <p>Each year, around Thanksgiving, everyone in the section comes together to celebrate - potluck style so everyone brings some food to share! It’s a lot of fun and especially awesome for those of us who can’t go home for Thanksgiving break.</p>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Secret Santa</h4>
-          <p>Sometime before we get out for Christmas break, everyone picks a name of another piccolo with a description of some of their favorite things. Then, when we get together for the bowl game after Christmas, we all exchange our gifts!</p>
+          <p>Before we depart for winter break, everyone picks a name of another piccolo with a description of some of their favorite things. When we return for the bowl game we have a fun gift exchange!</p>
         </div>
       </div>
       <div class="tradition-tile image">

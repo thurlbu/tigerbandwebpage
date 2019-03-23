@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the Tiger Guard section page! We are your section leaders, Amber, Ericka, and Olivia! We are looking forward to another great season this year and want to share with you a little about who we are and what we do! </p>
+      <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
       <p>&mdash; Amber, Ericka, &amp; Olivia</p>
     </div>
   </div>
@@ -83,7 +83,7 @@
   </div>
 
   <div class="media-container">
-    <video autoplay loop muted>
+    <video playsinline autoplay loop muted>
         <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/guard.mp4" type="video/mp4">
     </video>
   </div>
