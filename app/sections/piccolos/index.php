@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>We are so excited for the 2019 edition of Tiger Band and we hope you are, too! </p>
+      <p>We may be the highest pitched instruments, but our section is still down to earth!</p>
       <p>&mdash; Maureen &amp; Jillian</p>
     </div>
   </div>
@@ -102,7 +102,7 @@
         </div>
       </div>
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909581/Section%20Pages/Piccolos/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553371764/Section%20Pages/Piccolos/secret-santa.jpg">
       </div>
     </div>
   </div>
