@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Trombone Trumpet Battle</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>The trombone trumpet battle is one of the most hilarious and entertaining parts of gameday for the entirety of Tiger Band. In the week leading up to a home game, each section prepares a song and a skit to accompany it. Before each home game rehearsal, the bones gather around the Bone Tree awaiting the trumpets call. Eventually, they play a tune that calls us out from under the Bone Tree. Then, the competition begins. The whole band gathers around to watch the show. Seeing as the best is always saved for last, the trumpets perform first. After the trumpets wrap up their portion, it’s our turn to show the band what we’re made of. Once we complete our performance, it’s up to the rest of the band to decide who will come out victorious. Over the past few years, the trombones have been quite the dominant force as we rarely lose a battle with the trumpets. The battles are always enjoyable to participate in as well as watch. They are a unique and exciting way to start off gameday.</p>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Bonesocks</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Bonesocks have been a trombone tradition for as long as anyone can remember. Every game day, we gear up in our bone socks and head out to the practice field for our game day rehearsal. When Tiger Band alumni come back and visit you can tell which section they were in because most trombone players will opt to rock their bonesocks. A combination of orange and purple stripes, these socks also come in handy during the cooler months...some of us even wear them under our uniform for good luck and some extra warmth.</p>
         </div>
       </div>
       <div class="tradition-tile image">
@@ -113,7 +113,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Pre Game Hype Speech </h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>The pre game hype speech is exactly what it sounds like: a pregame hype speech.  The speech follows each amphitheater concert and precedes each parade. Before we line up for the parade we all gather around in a circle and one of our members starts our call and answer sequence followed by a hype speech. This is a fun way to get the adrenaline pumping before heading into one of the best parts of game day: the parade. Each speech is different and you can never predict what is going to be said.</p>
         </div>
       </div>
     </div>
@@ -122,11 +122,11 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Bonesgiving</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Each November, the bones get together for a “Bonesgiving” celebration. We all gather at a member’s house or apartment and enjoy a potluck dinner. We feast on everything from turkey to buffalo chicken dip to strawberry salad. This event is one that we all look forward to as soon as the season begins.  Bonesgiving is an enjoyable way to celebrate the holidays as the regular season draws to an end. We cannot wait to celebrate bonesgiving with you this November!</p>
         </div>
       </div>
       <div class="tradition-tile">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960094/Section%20Pages/Trombones/bonesgiving.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553466863/Section%20Pages/Trombones/bonesgiving.jpg">
       </div>
     </div>
   </div>
