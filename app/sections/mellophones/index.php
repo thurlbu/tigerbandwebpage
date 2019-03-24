@@ -49,8 +49,8 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the page of the Baritone section! We are your section leaders, Lorenzo and Chris! We’re looking forward to another great season this year and want to give you a sneak peak into what goes on in the Baritone section. </p>
-      <p>&mdash; Lorenzo &amp; Chris</p>
+      <p></p>
+      <p>&mdash; Chris &amp; Raz</p>
     </div>
   </div>
 
@@ -84,12 +84,12 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553466017/Section%20Pages/Mellophones/yoga.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Yoga</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Before big games, we like to warm up as a section by doing a quick yoga routine. It’s a great way to stretch and also just have fun as a group!</p>
         </div>
       </div>
     </div>
@@ -98,11 +98,11 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Mello Stack</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>If you’re in our section, you’d better know your Mello’s serial number; our favorite picture tradition is stacking up all our instruments. Why? No clue. It looks cool and it’s fun to put together! Taking it apart, however...</p>
         </div>
       </div>
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895549/Section%20Pages/Mellophones/section.jpg">
       </div>
     </div>
 
