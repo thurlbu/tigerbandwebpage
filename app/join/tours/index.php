@@ -101,12 +101,12 @@
         <p>What better way to find out what it's like to be a member of Tiger Band?</p>
         <p>Dates and registration information will be announced when it becomes available.</p>
         <div id="photoSlider">
-          <img class="slider" src="/img/Slider1.jpg">
-          <img class="slider" src="/img/Slider2.jpg">
+          <img class="slider" src="/img/CuseAmp.jpg">
+          <img class="slider" src="/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg">
+          <img class="slider" src="/img/HSSD.jpg">
           <img class="slider" src="/img/Slider3.jpg">
           <img class="slider" src="/img/Slider4.jpg">
           <img class="slider" src="/img/Slider5.jpg">
-          <img class="slider" src="/img/Slider6.jpg">
           <div class="controls">
             <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
             <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
