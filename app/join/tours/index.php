@@ -46,7 +46,7 @@
     <div id="col1Flex">
       <article class="text">
         <h1>Tiger Band Tours</h1>
-        <img class="articleImg" src='/img/Gaffney.jpg'>
+        <img class="articleImg" src='https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551498/Join%20Page/tours/Gaffney.jpg'>
         <p>If you're planning a visit to campus this spring, we hope you'll consider signing up for a Tiger Band Tour to learn what it takes to be a member of the "The Band that Shakes the Southland!"</p>
         <p>Tour our facilities, learn about our history and traditions, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
         <p>Tours this spring will take place on Fridays & Saturdays throughout the month of April.</p>
@@ -85,7 +85,7 @@
 
       <article class="text">
         <h1>Audition for Tiger Band</h1>
-        <img class="articleImg" src='/img/CuseAmp.jpg'>
+        <img class="articleImg" src='https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551680/Join%20Page/tours/CuseAmp.jpg'>
         <p>All auditions for Tiger Band are completed via video submission.  You can find all the deadlines and information you need to create and submit your video on our join page.</p>
         <p>Perform for over 1,000,000 people every year!  Travel the country supporting the Clemson Tigers!</p>
         <p>We can't wait to welcome you to the Tiger Band family!</p>
@@ -101,12 +101,12 @@
         <p>What better way to find out what it's like to be a member of Tiger Band?</p>
         <p>Dates and registration information will be announced when it becomes available.</p>
         <div id="photoSlider">
-          <img class="slider" src="/img/CuseAmp.jpg">
-          <img class="slider" src="/img/clemson-tiger-band-fiesta-bowl-2016-726.jpg">
-          <img class="slider" src="/img/HSSD.jpg">
-          <img class="slider" src="/img/Slider3.jpg">
-          <img class="slider" src="/img/Slider4.jpg">
-          <img class="slider" src="/img/Slider5.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551680/Join%20Page/tours/CuseAmp.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551803/Join%20Page/tours/2016Drumline.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551855/Join%20Page/tours/HSSD.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551942/Join%20Page/tours/upside-down-tenor.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553552039/Join%20Page/tours/slider4.jpg">
+          <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553552090/Join%20Page/tours/Slider5.jpg">
           <div class="controls">
             <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
             <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
