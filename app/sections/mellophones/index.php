@@ -127,7 +127,7 @@
       <a href="/join/winds/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect">
               <div class="textContainer">
-                  <p>Join the Band that Shakes the Soundland</p>
+                  <p>Join the Band that Shakes the Southland</p>
               </div>
           </div>
       </a>

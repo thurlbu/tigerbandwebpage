@@ -127,7 +127,7 @@
       <a href="/join/winds/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect sousaphone">
               <div class="textContainer">
-                  <p>We’re #ALLIN, are you? (please click)</p>
+                  <p>We’re #ALLIN, are you?</p>
               </div>
           </div>
       </a>
