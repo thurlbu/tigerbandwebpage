@@ -118,7 +118,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Herbert</h4>
-          <p>Meet Herbert! The inspiration for his name came from the name of our assistant band director, Mr. Hurlburt. He found his way into a few football games and quickly turned into the Tiger Town Trumpet’s good luck charm. In his first appearance in the 2017 College Football Playoff at the Sugar Bowl, the flamingo received a bowl patch, and has for every Playoff game since. Herbert can be spotted at the 90-minutes-before-kickoff concert in the amphitheater, in the parade to the stadium, and with the trumpet section in the stands cheering on our Tigers!</p>
+          <p>Meet Herbert! The inspiration for his name came from the name of our assistant band director, Mr. Hurlburt. He found his way into a few football games in 2017 and quickly turned into the Tiger Town Trumpet’s good luck charm. For every appearance in a College Football Playoff game, the flamingo’s back is adorned with a bowl patch. Herbert can be spotted at the 90-minutes-before-kickoff concert in the amphitheater, in the parade to the stadium, and with the trumpet section in the stands cheering on our Tigers!</p>
         </div>
       </div>
     </div>
