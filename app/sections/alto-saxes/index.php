@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Barbara Ann</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>The Altos all group up before home football games and play an all alto arrangement of Barbara Ann by the Beach Boys. We play it in the breezeway of Brooks before we march to the amphitheater for the concert. After we finish playing, a member of the section usually gives a hype speech to get everybody pumped for the football game.</p>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Jorts</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>The Altos have a tradition of making their own jean shorts (jorts). We go to the Goodwill and buy pairs of jeans and usually have a “Jorts Party” at one of the older members’ apartments. We cut the jeans into shorts and use fabric paint to paint our own designs on them. No two pairs of jorts are alike, just like the people in the section. This is something that the members can choose to do or not; about half the section have jorts. We wear them at home game day practices to show off our Clemson spirit.</p>
         </div>
       </div>
       <div class="tradition-tile image">
@@ -113,7 +113,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Tiger Rag Tradition</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Every new member who comes into the alto saxophone section gets their own Tiger Band tiger rag to tie around the bell of their saxophone, and it becomes a permanent part of our uniform. Each one of the alto saxophone section members proudly wear their tiger rag and show it off to the world. Sam even has an extra one hanging up in her room.</p>
         </div>
       </div>
     </div>
@@ -125,7 +125,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect alto">
               <div class="textContainer">
                   <p>Join the culture</p>
               </div>
