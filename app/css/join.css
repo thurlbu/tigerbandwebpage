@@ -57,6 +57,9 @@
   background-position: center; }
 
 .socialContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   background: #F66733;
   padding: 2rem;
   width: 65%;
@@ -66,4 +69,6 @@
 
 @media (max-width: 800px) {
   .socialContainer {
-    width: 90%; } }
+    width: 90%;
+    padding: 0;
+    padding-right: 1rem; } }
