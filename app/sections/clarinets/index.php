@@ -60,7 +60,7 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/purple-shorts-and-tiger-tails.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553730045/Section%20Pages/Clarinets/grayson-davis.jpg">
       <h3>Grayson Davis</h3>
       <p>Senior | Mechanical Engineering <br/>Fort Mill, SC</p>
     </div>
