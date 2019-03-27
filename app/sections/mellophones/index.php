@@ -108,12 +108,12 @@
 
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553650425/Section%20Pages/Mellophones/man-of-steel.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Man of Steel</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Before each home game, we all gather together in a circle and play Man of Steel. It’s a great way to “warm up” and get super hype for the upcoming game!</p>
         </div>
       </div>
     </div>
@@ -125,7 +125,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect mellophone">
               <div class="textContainer">
                   <p>Join the Band that Shakes the Southland</p>
               </div>
