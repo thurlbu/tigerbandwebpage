@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the Clarinets!</p>
+      <p></p>
       <p>&mdash; Grayson &amp; Jason</p>
     </div>
   </div>
@@ -66,7 +66,7 @@
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/purple-shorts-and-tiger-tails.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553648716/Section%20Pages/Clarinets/jason-gonzales.jpg">
       <h3>Jason Gonzales</h3>
       <p>Senior | Civil Engineering <br/>Summerville, SC</p>
     </div>
@@ -90,7 +90,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Purple Shorts &amp; Tiger Tails</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Game Day is fun for all of Tiger Band, and the Clarinet Section is no exception. On game days we all wear purple short shorts for the morning rehearsal, and we also have Tiger Tails that we hang from the bells of our clarinets. Both these traditions are fun ways to show our hype for Game Days, and we’ve found that the more you buy in to Tiger Band the more fun you will have.</p>
         </div>
       </div>
     </div>
@@ -99,7 +99,8 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Breezeway Tunnel</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>After Tiger Band gets into uniform, we stand in the Breezeway by the Brooks Center before we leave for pregame performance. When we are in the Breezeway, the Clarinet section makes a tunnel and we encourage anyone walking through the area to run past us and we’ll cheer as they go. Tiger Band exists to get Clemson fans excited for games, and little things like this get us excited too. </p>
+          <p>The Clarinet section also has a Pep Talk in the Breezeway that is given by Grayson to hype us up for the game. The whole point is to get everyone in the section pumped up before performing for all of the fans at the football games. If Tiger Band is excited, then it makes it that much easier to hype all of the fans up.</p>
         </div>
       </div>
       <div class="tradition-tile image">
