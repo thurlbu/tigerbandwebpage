@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Pedialyte</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>On gamedays, the baritone section starts the day off by taking a celebratory shot of Pedialyte after a motivating speech by one of older members. This tradition not only hydrates the section but also gets the section pumped for the exciting gameday ahead.</p>
         </div>
       </div>
     </div>
@@ -98,7 +98,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Amphitheater Pep Talk</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>Before every game, there is a 90 minutes before kickoff concert at the Clemson Amphitheater that Tiger Band does. Before that starts, the baritone section lines up for our Pep Talk. One of our older members excitedly pumps up the section with motivational talk , while getting the section energized for the big game.</p>
         </div>
       </div>
       <div class="tradition-tile image">
@@ -113,7 +113,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Diversity</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ut magna tortor. Curabitur vehicula lobortis lacus, id dignissim metus interdum eu. Nam finibus lorem quis nibh pharetra, a facilisis diam mattis. Mauris sed arcu a enim vestibulum sodales. Duis feugiat nisl quam, ac lobortis erat rutrum eget. Nunc ultricies felis consectetur, venenatis risus ac, eleifend quam. Sed eros eros, pulvinar a nisl iaculis, suscipit cursus mi. Duis sodales, justo ut varius blandit, diam nisl vehicula turpis, a viverra nunc ex in enim.</p>
+          <p>The baritone section is a very welcoming and diverse section. The section is filled with a variety of people from different majors including Engineering, Education, Landscape Architecture, and numerous others. With a variety of people from different backgrounds.</p>
         </div>
       </div>
     </div>
@@ -125,7 +125,7 @@
 
   <div class="auditionButton">
       <a href="/join/winds/" class="boxWrapper">
-          <div id="auditionToday" class="boxUIelement rect">
+          <div id="auditionToday" class="boxUIelement rect baritone">
               <div class="textContainer">
                   <p>Join the Band that Shakes the Southland!</p>
               </div>
