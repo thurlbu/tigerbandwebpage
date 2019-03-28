@@ -14,6 +14,9 @@
     <title>This Season | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
@@ -48,7 +51,7 @@
 <body>
     <div class="heading">
         <h3>This Season</h3>
-        <h4>2018</h4>
+        <h4>2019</h4>
     </div>
 
     <div id="Col2FlexContent">
@@ -76,7 +79,7 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2018 Clemson Tigers Football Schedule</h1>
+                <h1>2019 Clemson Tigers Football Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -85,79 +88,79 @@
                         <th>Designation</th>
                     </tr>
                     <tr>
-                        <td>Sept 1</td>
+                        <td>Aug 29</td>
                         <td>VS</td>
-                        <td>Furman University Paladins</td>
-                        <td>Football Reunion Day</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 8</td>
-                        <td>@</td>
-                        <td>Texas A&M Aggies</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sept 15</td>
-                        <td>VS</td>
-                        <td>Georgia Southern University Eagles</td>
-                        <td>Family Weekend</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 22</td>
-                        <td>@</td>
                         <td>Georgia Institute of Technology Yellow Jackets</td>
-                        <td></td>
+                        <td>National Championship Celebration</td>
                     </tr>
                     <tr>
-                        <td>Sept 29</td>
+                        <td>Sept 7</td>
                         <td>VS</td>
-                        <td>Syracuse University Orange</td>
-                        <td>PARENTS DAY</td>
-                    </tr>
-                    <tr>
-                        <td>Oct 6</td>
-                        <td>@</td>
-                        <td>Wake Forest University Demon Deacons</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Oct 20</td>
-                        <td>VS</td>
-                        <td>North Carolina State University Wolfpack</td>
-                        <td>Homecoming</td>
-                    </tr>
-                    <tr>
-                        <td>Oct 27</td>
-                        <td>@</td>
-                        <td>Florida State University Seminoles</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Nov 3</td>
-                        <td>VS</td>
-                        <td>University of Louisville Cardinals</td>
+                        <td>Texas A&M Aggies</td>
                         <td>IPTAY Day</td>
                     </tr>
                     <tr>
-                        <td>Nov 10</td>
+                        <td>Sept 14</td>
                         <td>@</td>
-                        <td>Boston College Eagles</td>
+                        <td>Syracuse University Orange</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Nov 17</td>
+                        <td>Sept 21</td>
                         <td>VS</td>
-                        <td>Duke University Blue Devils</td>
-                        <td>Military Appreciation Day / Senior Day</td>
+                        <td>Universtiy of North Carolina at Charlotte 49ers</td>
+                        <td>Family Weekend</td>
                     </tr>
                     <tr>
-                        <td>Nov 24</td>
+                        <td>Sept 28</td>
+                        <td>@</td>
+                        <td>North Carolina University Tar Heels</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Oct 12</td>
                         <td>VS</td>
+                        <td>Florida State University Seminoles</td>
+                        <td>Solid Orange Day</td>
+                    </tr>
+                    <tr>
+                        <td>Oct 19</td>
+                        <td>@</td>
+                        <td>University of Louisville Cardinals</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Oct 26</td>
+                        <td>VS</td>
+                        <td>Boston College Eagles</td>
+                        <td>Homecoming/Football Reunion Day</td>
+                    </tr>
+                    <tr>
+                        <td>Nov 2</td>
+                        <td>VS</td>
+                        <td>Wofford University Terriers</td>
+                        <td>Military Appreciation Day/Purple Out</td>
+                    </tr>
+                    <tr>
+                        <td>Nov 9</td>
+                        <td>@</td>
+                        <td>North Carolina State University Wolfpack</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 16</td>
+                        <td>VS</td>
+                        <td>Wake Forest University Demon Deacons</td>
+                        <td>Senior Day/Hall of Fame Day</td>
+                    </tr>
+                    <tr>
+                        <td>Nov 30</td>
+                        <td>@</td>
                         <td>University of South Carolina Gamecocks</td>
                         <td>Palmetto Bowl</td>
                     </tr>
                     <tr>
-                        <td>Dec 1</td>
+                        <td>Dec 7</td>
                         <td>@</td>
                         <td>ACC Championship</td>
                         <td>Charlotte, NC</td>
@@ -170,38 +173,32 @@
 
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2018 Major Shows</h1>
-                <b>The Avengers</b>
-                <p></p>
-                <b>The Greatest Showman</b>
-                <p></p>
-                <b>The Music of Queen</b>
-                <p></p>
-                <b>Military Appreciation Day</b>
+                <h1>2019 Major Shows</h1>
+                <b>To be announced...</b>
             </article>
             <article class="text officers">
-                <h1>2018 Officers</h1>
-                <p><b>Commander:</b> Trey Lockett</p>
-                <p><b>Vice-Commander:</b> Josh Rogers</p>
-                <p><b>Sergeant Major:</b> Sam Verdonck</p>
-                <p><b>Drum Majors: </b>Trey Lockett, Stephanie Linke, Zach Jordan</p>
+                <h1>2019 Officers</h1>
+                <p><b>Commander:</b> Graham Jackson</p>
+                <p><b>Vice-Commander:</b> Alicia Cameron</p>
+                <p><b>Sergeant Major:</b> Samantha Regi</p>
+                <p><b>Drum Majors: </b>TBD</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> Tivvi Pare &amp; David Coulter</p>
-                <p><b>Clarinets:</b> Jason Gonzales &amp; Reanna Jeanes</p>
-                <p><b>Alto Saxes:</b> Caleb Kelley &amp; Sam Regi</p>
-                <p><b>Tenor Saxes:</b> Taliyah Smith</p>
-                <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Josh Koury</p>
+                <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
+                <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
+                <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
+                <p><b>Tenor Saxes:</b> Devin Lane</p>
+                <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
                 <p><b>Mellophone:</b> Chris Haigh &amp; Sarah Razavi</p>
-                <p><b>Trombone:</b> Josh Rogers &amp; Jack Morgan</p>
-                <p><b>Baritone:</b> Alyssa Collado &amp; Chandler Miller</p>
-                <p><b>Sousaphone:</b> Graham Jackson &amp; Robert Gradel</p>
-                <p><b>Drumline:</b> Tyler Stoneman &amp; Jared Friedl</p>
-                <p><b>Color Guard:</b> Hannah Barrett, Lexi Morgan, &amp; Hayley Perryman</p>
-                <p><b>Twirlers:</b> Ashley Swaney</p>
-                <p><b>Dancers:</b> Catharine Demaret &amp; Elizabeth Rola</p>
-                <p><b>Head Band Manager:</b> Nathan Bailes</p>
-                <p><b>Instrument Manager:</b> Alicia Cameron</p>
-                <p><b>Uniform Manager:</b> Sam Regi &amp; Dillon Waters</p>
+                <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
+                <p><b>Baritone:</b> Lorenzo Lewis &amp; Christopher Nahum</p>
+                <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
+                <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
+                <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
+                <p><b>Twirlers:</b> Reagan King</p>
+                <p><b>Dancers:</b> TBD after auditions</p>
+                <p><b>Head Band Manager:</b> Caroline Webb</p>
+                <p><b>Instrument Manager:</b> TBD</p>
+                <p><b>Uniform Manager:</b> TBD</p>
             </article>
         </div>
     </div>

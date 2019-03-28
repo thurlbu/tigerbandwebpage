@@ -15,6 +15,9 @@
     <title>Clemson University Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+    <link rel="shortcut icon" href="/favicons/favicon.ico">
     <meta name=viewport content="width=device-width, initial-scale=1">
     <meta name="description" content="The Band That Shakes the Southland">
     <meta name="keywords" content="tiger, band, clemson, university, shakes, southland">
@@ -174,6 +177,15 @@
 
             </article>
 
+            <article class="text">
+                <h1>Tiger Band Tours</h1>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" class="boxWrapper"><img class="articleImg" src='/img/Gaffney.jpg'></a>
+                <p>Visiting campus this spring? Make sure to sign up for a Tiger Band Tour to round out your Clemson University visit!</p>
+                <p>Experience a Clemson Gameday through the eyes of one of our current Tiger Band members!</p>
+                <p>Families are welcome to join as one of our Tiger Band Ambassadors walk you through our gameday experience and show you what it's like to be a member of the Band that Shakes the Southland!</p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link">Click here to schedule a Tiger Band Tour on select Fridays and Saturdays throughout April!</a></p>
+            </article>
+
             <article class="media">
                 <h1>Tiger Band Performs The Greatest Showman</h1>
                 <p>Check out Tiger Band's performance of their final show of the 2018 season. The Greatest Showman!</p>
@@ -223,13 +235,6 @@
               <p>Applications and video submissions are due on February 28 to be considered for Feature Twirler and April 26 for the Twirling line.  Applications are being accepted now!!<p>
               <p>Don't miss this opportunity to become a member of the Band that Shakes the Southland!</p>
           </article>
-
-            <article class="text">
-                <h1>Tiger Band Tours</h1>
-                <p>If you are planning a campus visit, don't forget to sign up for a Tiger Band Tour to learn first-hand what it's like to be a member of the "Band that Shakes the Southland!"</p>
-                <p>Tour our facilities, learn about the history and traditions of the band, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
-                <p>Tour dates and a link to registration will be coming soon!</p>
-            </article>
 
             <article class="media">
                 <h1>Tiger Band Performs The Avengers</h1>

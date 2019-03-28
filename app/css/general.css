@@ -57,8 +57,9 @@ a.richLink {
   text-align: center;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2);
   padding: 1rem;
-  margin: 1rem auto;
-  display: block;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
   width: 45%;
   transition: none 150ms ease;
   word-break: keep-all;
