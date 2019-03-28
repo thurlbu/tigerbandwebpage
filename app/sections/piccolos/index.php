@@ -77,7 +77,7 @@
 
   <div class="media-container">
     <video playsinline autoplay loop muted>
-        <source src="https://s3.amazonaws.com/tiger-band-website/section-pages/Piccolo+page.mp4" type="video/mp4">
+        <source src="https://d3fdmt0abme096.cloudfront.net/section-pages/Piccolo+page.mp4" type="video/mp4">
     </video>
   </div>
 
