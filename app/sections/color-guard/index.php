@@ -109,7 +109,7 @@
         </div>
       </div>
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/travel.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553898807/Section%20Pages/Color%20Guard/travel.jpg">
       </div>
     </div>
 
