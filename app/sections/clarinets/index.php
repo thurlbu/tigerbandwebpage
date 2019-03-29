@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p></p>
+      <p>"Do we need our instruments?" - Everyone, all the time, when we obviously needed them</p>
       <p>&mdash; Grayson &amp; Jason</p>
     </div>
   </div>
