@@ -163,7 +163,7 @@
       <div id="drum-majors" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">
-                <p>Drum Majors</p>
+                <p>Coming Soon</p>
             </div>
         </div>
       </div>
@@ -172,7 +172,7 @@
         <div id="twirlers" class="boxWrapper">
             <div class="boxUIelement sq section">
                 <div class="textContainer hide">
-                    <p>Twirlers</p>
+                  <p>Coming Soon</p>
                 </div>
             </div>
         </div>
@@ -181,7 +181,7 @@
       <div id="dancers" class="boxWrapper">
           <div class="boxUIelement sq section">
             <div class="textContainer hide">
-                <p>Dancers</p>
+              <p>Coming Soon</p>
             </div>
           </div>
       </div>

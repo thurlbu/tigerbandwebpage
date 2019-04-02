@@ -45,11 +45,11 @@
   <div class="section-fullscreen-container">
     <div class="section-heading piccolo">
       <h1>Piccolos</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/header.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1554168042/Section%20Pages/Piccolos/header.jpg">
     </div>
 
     <div class="section-quote">
-      <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for the 2019 edition of Tiger Band and we hope you are too! The piccolo section from last year had 33 people, with 4 of them being guys. </p>
+      <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for the 2019 edition of Tiger Band and we hope you are too!</p>
       <p>&mdash; Maureen &amp; Jillian</p>
     </div>
   </div>

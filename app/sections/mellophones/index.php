@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p></p>
+      <p>The only thing missing from the Mellophone family is YOU!</p>
       <p>&mdash; Chris &amp; Raz</p>
     </div>
   </div>
@@ -102,7 +102,7 @@
         </div>
       </div>
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895549/Section%20Pages/Mellophones/section.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1554168594/Section%20Pages/Mellophones/stack.jpg">
       </div>
     </div>
 
@@ -127,7 +127,7 @@
       <a href="/join/winds/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect mellophone">
               <div class="textContainer">
-                  <p>Join the Band that Shakes the Southland</p>
+                  <p>Join the Band that Shakes the Southland!</p>
               </div>
           </div>
       </a>

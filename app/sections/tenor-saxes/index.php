@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote tenors">
-      <p>Welcome to the Tenor Saxes!</p>
+      <p>Unity in our diversity. Bring your talents to the Tenor Sax section!</p>
       <p>&mdash; Devin Lane</p>
     </div>
   </div>

@@ -78,7 +78,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>The Mule</h4>
-          <p>Also known as La Mule, the MMule is the golf cart like vehicle that is often seen swooping around the band field and it is what we use to get from the equipment room, to the practice field, and to Death Valley. It is a lot of fun to drive around and beats having to walk everywhere! This is something only managers really get to do.</p>
+          <p>Also known as La Mule, the Mule is the golf-cart-like vehicle that is often seen swooping around the band field and it is what we use to get from the equipment room, to the practice field, and to Death Valley. It is a lot of fun to drive around and beats having to walk everywhere! This is something only managers really get to do.</p>
         </div>
       </div>
     </div>
@@ -104,7 +104,7 @@
       <a href="/join/winds/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect managers">
               <div class="textContainer">
-                  <p>Join the Band that Shakes the Southland</p>
+                  <p>Join the Band that Shakes the Southland!</p>
               </div>
           </div>
       </a>

@@ -127,7 +127,7 @@
       <a href="/join/winds/" class="boxWrapper">
           <div id="auditionToday" class="boxUIelement rect alto">
               <div class="textContainer">
-                  <p>Join the culture</p>
+                  <p>Join the culture!</p>
               </div>
           </div>
       </a>

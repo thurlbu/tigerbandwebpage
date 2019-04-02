@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the Baritone Section! We’re looking forward to another great season and want to give a sneak-peek into what it’s like to be a member of the Baritone Section.</p>
+      <p>Welcome to the baritone section! We’re looking forward to another great season and want to give a sneak-peek into what it’s like to be a member of the baritone section.</p>
       <p>&mdash; Lorenzo &amp; Chris</p>
     </div>
   </div>
@@ -89,7 +89,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Pedialyte</h4>
-          <p>On gamedays, the baritone section starts the day off by taking a celebratory shot of Pedialyte after a motivating speech by one of older members. This tradition not only hydrates the section but also gets the section pumped for the exciting gameday ahead.</p>
+          <p>On gamedays, the baritone section starts the day off by sharing in celebratory cups of Pedialyte after a motivating speech by one of the older members. This tradition not only hydrates the section but also gets the section pumped for the exciting gameday ahead.</p>
         </div>
       </div>
     </div>
@@ -113,7 +113,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Diversity</h4>
-          <p>The baritone section is a very welcoming and diverse section. The section is filled with a variety of people from different majors including Engineering, Education, Landscape Architecture, and numerous others. With a variety of people from different backgrounds.</p>
+          <p>The baritone section is a very welcoming and diverse section. It is filled with a wide variety of people from different backgrounds and majors including Engineering, Education, Landscape Architecture, and numerous others.</p>
         </div>
       </div>
     </div>

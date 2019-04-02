@@ -103,7 +103,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Trumpet Thanksgiving</h4>
-          <p>Every Sunday before the last game of the year, the trumpet section gathers for the longest Tiger Town Trumpet tradition – Trumpet Thanksgiving. The section leaders give out paper plate awards, we share all of our best photos, quotes, and memories from the season, and, of course, devour massive amounts of food. It’s a celebration of our accomplishments from the season and look ahead at what is still to come.</p>
+          <p>Every Sunday before the last game of the year, the trumpet section gathers for the longest standing Tiger Town Trumpet tradition – Trumpet Thanksgiving. The section leaders give out paper plate awards, we share all of our best photos, quotes, and memories from the season, and, of course, devour massive amounts of food. It’s a celebration of our accomplishments from the season and look ahead at what is still to come.</p>
         </div>
       </div>
       <div class="tradition-tile image">
