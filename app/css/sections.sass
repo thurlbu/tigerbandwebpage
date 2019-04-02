@@ -1,0 +1,278 @@
+@import "variables"
+$description-font-size: 18pt
+$responsive-descr-font-size: 14pt
+
+/* SECTION LANDING PAGE */
+
+.boxWrapper.title
+  &:hover .boxUIelement
+    transform: none
+  .textContainer
+    background: $clemson-orange
+    p
+      font-size: 36pt
+      font-weight: 700
+    &:hover
+      background: $clemson-orange
+
+.sections
+  .mobile-box
+    display: none
+  a
+    #piccolos .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553371765/Section%20Pages/Piccolos/thumbnail.jpg) (center / cover) no-repeat
+    #clarinets .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961247/Section%20Pages/Clarinets/thumbnail.jpg) (center / cover) no-repeat
+    #altos .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874848/Section%20Pages/Alto%20Saxophones/thumbnail.jpg) (center / cover) no-repeat
+    #tenors .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911136/Section%20Pages/Tenor%20Saxophones/thumbnail.jpg) (center / cover) no-repeat
+    #trumpets .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836465/Section%20Pages/Trumpets/thumbnail.jpg) (top / cover) no-repeat
+    #mellophones .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg) (center / cover) no-repeat
+    #baritones .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551834756/Section%20Pages/Baritones/thumbnail.jpg) (center / cover) no-repeat
+    #trombones .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload//q_auto/v1551960874/Section%20Pages/Trombones/thumbnail.jpg) (center / cover) no-repeat
+    #sousaphones .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/thumbnail.jpg) (top / cover) no-repeat
+    #managers .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg) (center / cover) no-repeat
+    #drum-majors .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961361/Section%20Pages/Drum%20Majors/thumbnail.jpg) (center / cover) no-repeat
+    #twirlers .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961464/Section%20Pages/Twirlers/thumbnail.jpg) (center / cover) no-repeat
+    #dancers .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961320/Section%20Pages/Dancers/thumbnail.jpg) (center / cover) no-repeat
+    #guard .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/thumbnail.jpg) (center / cover) no-repeat
+    #drumline .section
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961559/Section%20Pages/Drumline/thumbnail.jpg) (center / cover) no-repeat
+
+/* SECTION PAGES */
+.section-fullscreen-container
+  display: flex
+  height: calc(100vh - 2.5rem)
+  width: 100vw
+  flex-flow: column
+  background: black
+
+.section-heading
+  height: 70vh
+  height: calc(85vh - 4.5rem)
+  display: flex
+  justify-content: center
+  position: relative
+  overflow: hidden
+  h1
+    margin-top: auto
+    width: 95%
+    color: white
+    text-shadow: 5px 5px 25px rgba(0, 0, 0, 1)
+    z-index: 2
+  img
+    position: absolute
+    left: 50%
+    top: 50%
+    transform: translate(-50%, -50%)
+    width: 100%
+    z-index: 1
+  &.trumpet
+    img
+      top: 70%
+  &.piccolo
+    img
+      top: 30%
+  &.clarinet
+    img
+      top: 70%
+
+.section-quote
+  display: flex
+  min-height: calc(100vh - 85vh)
+  width: 95vw
+  padding: 1.5rem 2.5%
+  background: black
+  align-self: flex-end
+  flex-flow: column
+  justify-content: center
+  z-index: 3
+  p
+    width: 100%
+    color: white
+    font-size: $description-font-size
+    &:nth-of-type(even)
+      padding-top: .5rem
+      text-align: right
+
+.section-pages.heading
+  margin-bottom: 2.5rem
+
+.section-leaders-content
+  display: flex
+  justify-content: space-evenly
+  align-items: center
+  width: 100vw
+  margin-top: 4rem
+  .section-leader
+    width: 20%
+    .section-leader-photo
+      width: 100%
+      border-radius: 50%
+      shape-outside: circle()
+    p
+      text-align: center
+      font-size: $description-font-size
+      margin: 0
+      margin-top: 1rem
+    h3
+      text-align: center
+      padding: 0
+      margin-top: 1rem
+
+.section-traditions
+  display: flex
+  flex-flow: row wrap
+  .tradition
+    display: flex
+    .tradition-tile
+      display: flex
+      justify-content: center
+      align-items: center
+      width: 50%
+      overflow: hidden
+      img
+        max-width: 100%
+      .tradition-text
+        padding: 2rem
+        align-self: flex-start
+        font-size: $description-font-size
+      &.clarinets
+        img
+          max-height: 100%
+
+.media-container
+  position: relative
+  width: 100vw
+  height: 0
+  padding-top: 56.25%
+  overflow: hidden
+  margin: 0
+  *
+    position: absolute
+    top: 50%
+    left: 50%
+    width: 100%
+    transform: translate(-50%, -50%)
+    z-index: -2
+  img
+    width: 100%
+
+.auditionButton
+  display: flex
+  flex-flow: row wrap
+  width: 50vw
+  margin: auto
+  margin-top: 2rem
+  margin-bottom: 2rem
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25), 0 5px 10px rgba(0, 0, 0, 0.25)
+  .rect, .boxWrapper
+    width: auto
+    height: 25vh
+    flex: 1
+
+#auditionToday
+  background-image: url(/img/clemson-tiger-band-ncstate-2016-428.jpg)
+  background-size: cover
+  background-position: center
+  &.clarinets
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892365/Section%20Pages/Clarinets/recruiting-background.jpg)
+    background-position-y: 15%
+  &.guard
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553898813/Section%20Pages/Color%20Guard/recruiting-background.jpg)
+    background-position-y: 75%
+  &.managers
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894757/Section%20Pages/Managers/recuriting-button.jpg)
+    background-position-y: 30%
+  &.tenors
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg)
+    background-position-y: 30%
+  &.trombone
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960381/Section%20Pages/Trombones/recruiting-background.jpg)
+  &.sousaphone
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552785625/Section%20Pages/Sousaphones/recruiting-background.jpg)
+    background-position-y: 25%
+  &.piccolo
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553371765/Section%20Pages/Piccolos/recruiting-background.jpg)
+    background-position-y: 15%
+  &.alto
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553597202/Section%20Pages/Alto%20Saxophones/recruiting-background.jpg)
+    background-position-y: 60%
+  &.mellophone
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553649432/Section%20Pages/Mellophones/recruiting-background.jpg)
+    background-position-y: 25%
+  &.baritone
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553770132/Section%20Pages/Baritones/recruiting-background.jpg)
+    background-position-y: 30%
+
+@media (max-width: 1050px)
+  .section-heading
+    h1
+      font-size: 54pt
+    img
+      position: absolute
+      left: 50%
+      top: 50%
+      transform: translate(-50%, -50%)
+      height: 100%
+      width: auto
+    &.trumpet
+      img
+        top: 50%
+    &.piccolo
+      img
+        top: 50%
+    &.clarinet
+      img
+        top: 50%
+
+@media (max-width: 800px)
+  #boxUI.sections
+    margin-top: -0.5rem
+
+  .section-heading
+    margin-top: -0.5rem
+    h1
+      text-align: center
+
+  .section-leaders-content
+    flex-flow: row wrap
+    .section-leader
+      width: 50%
+      padding: 1rem
+      p
+        font-size: $responsive-descr-font-size
+
+  .section-quote
+    width: calc(100vw - 2rem)
+    padding: 1rem
+    margin: 2rem 0
+    p
+      font-size: $responsive-descr-font-size
+
+  .section-traditions
+    .tradition
+      .tradition-tile
+        .tradition-text
+          font-size: $responsive-descr-font-size
+
+  .auditionButton
+    width: 80vw
+    .rect, .boxWrapper
+      height: 15vh
+
+@media (max-width: 425px)
+  .section-heading
+    h1
+      font-size: 36pt

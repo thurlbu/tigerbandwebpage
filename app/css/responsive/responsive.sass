@@ -1,4 +1,4 @@
-@import "variables"
+@import "../variables"
 
 /**** SCREEN SIZES BELOW 1455PX *****/
 @media (max-width: 1455px)
@@ -470,6 +470,19 @@
     img
       width: 4rem
       height: 4rem
+  /***** SECTIONS *****/
+  .sections
+    .mobile-box
+      display: flex !important
+    .main-box
+      display: none
+  .section-traditions .tradition .tradition-tile
+    width: 100vw
+  .tradition
+    flex-flow: column
+  .tradition-tile.image
+    order: 1
+
   /***** CONTACT *****/
   #contactWrapper
     width: 90vw

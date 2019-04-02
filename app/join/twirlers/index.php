@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-10"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-        gtag('config', 'UA-8965430-10');
-    </script>
+    gtag('config', 'UA-8965430-3');
+  </script>
 
     <meta charset="utf-8">
     <title>Tiger Twirlers Auditions | Tiger Band</title>
@@ -43,7 +43,7 @@
     <a href="/bands/">Bands</a>
     <a href="/organizations/">Organizations</a>
     <a href="/staff/">Staff</a>
-    <a href="/members/">Members Only</a>
+    <a href="/sections/">Sections</a>
     <a href="/contact/">Contact</a>
 </nav>
 

@@ -110,28 +110,28 @@ video#homeVideoBkg {
     transform: scale(1.1); }
 
 /** PHOTOS **/
-#box1 {
+#box1.homepage {
   background: url(/img/logos/tigerbandmedia.png) center/80% no-repeat, url(/img/TigerBandMediaBackground.jpg); }
 
-#box2 {
+#box2.homepage {
   background: url(/img/clemson-tiger-band-syracuse-2016-526.jpg) center/cover; }
 
-#box3 {
+#box3.homepage {
   background: white url(/img/logos/YouTube.png) center/50% no-repeat; }
 
-#box4 {
+#box4.homepage {
   background: url(/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg) center/cover; }
 
-#box5 {
+#box5.homepage {
   background: url(/img/clemson-tiger-band-pitt-2016-713.jpg) center/cover; }
 
-#box7 {
+#box7.homepage {
   background: #522D80 url(/img/logos/CUTBA.svg) center/60% no-repeat; }
 
-#box8 {
+#box8.homepage {
   background: url(/img/clemson-tiger-band-syracuse-2016-1054.jpg) center/cover; }
 
-#box9 {
+#box9.homepage {
   background: url(/img/clemson-tiger-band-syracuse-2016-189.jpg) center/cover; }
 
 /** TEXT **/

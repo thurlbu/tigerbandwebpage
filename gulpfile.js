@@ -2,7 +2,6 @@ const gulp = require('gulp');
 const browserSync = require('browser-sync');
 const connect = require('gulp-connect-php');
 
-const imagemin = require('gulp-imagemin');
 const cache = require('gulp-cache');
 const del = require('del');
 const runSequence = require('run-sequence');
@@ -11,12 +10,12 @@ const sass = require('gulp-sass');
 const concat = require('gulp-concat');
 
 gulp.task('default', function (callback) {
-  runSequence('sass', 'css', 'watch', callback);
+  runSequence('sass', 'sass-responsive', 'css', 'watch', callback);
 });
 
 gulp.task('build', function (callback) {
-  runSequence('clean:prod', 'sass', 'css',
-    ['move-html-php-to-prod', 'minify-css', 'images', 'drumline', 'cutba', 'move-docs', 'move-audio'],
+  runSequence('clean:prod', 'sass', 'sass-responsive', 'css',
+    ['move-images', 'drumline', 'cutba', 'minify-css', 'move-html-php', 'move-docs', 'move-audio'],
     callback
   );
 });
@@ -33,7 +32,9 @@ gulp.task('watch', ['browserSync'], function () {
   const mainFiles = ['./app/**/*.php', './app/**/*.html', './app/**/*.js'];
 
   gulp.watch('./app/css/*.sass', ['sass']);
+  gulp.watch('./app/css/responsive/*.sass', ['sass-responsive']);
   gulp.watch('./app/css/*.css', ['css']);
+  gulp.watch('./app/css/responsive/*.css', ['css']);
 
   gulp.watch('./app/drumline/css/*.sass', ['drumline-sass']);
   gulp.watch('./app/drumline/css/*.css', ['drumline-css-app']);
@@ -57,35 +58,29 @@ gulp.task('browserSync', function () {
 gulp.task('sass', function () {
   return gulp.src('./app/css/*.sass')
     .pipe(sass().on('error', sass.logError))
-    .pipe(gulp.dest('./app/css'))
-    .pipe(browserSync.reload({
-      stream: true
-    }))
+    .pipe(gulp.dest('./app/css'));
 });
+
+gulp.task('sass-responsive', function () {
+  return gulp.src('./app/css/responsive/*.sass')
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./app/css/responsive'));
+})
 
 gulp.task('css', function () {
   del.sync('./app/css/main.css')
-  return gulp.src('./app/css/*.css')
+  return gulp.src(['./app/css/*.css', './app/css/responsive/*.css'])
     .pipe(cleanCSS({ compatibility: 'ie8' }))
     .pipe(concat('main.css'))
     .pipe(gulp.dest('./app/css/'))
     .pipe(browserSync.reload({
       stream: true
-    }))
+    }));
 });
 
-gulp.task('move-html-php-to-prod', function () {
+gulp.task('move-html-php', function () {
   return gulp.src(['./app/**/*.php', './app/**/*.html'])
     .pipe(gulp.dest('./prod/'));
-});
-
-gulp.task('images', function () {
-  return gulp.src(['./app/img/*',
-    './app/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/img'));
 });
 
 gulp.task('minify-css', () => {
@@ -112,11 +107,16 @@ gulp.task('move-audio', function () {
     .pipe(gulp.dest('./prod/audio'));
 });
 
+gulp.task('move-images', function () {
+  return gulp.src(['./app/img/*', './app/img/**/*'])
+    .pipe(gulp.dest('./prod/img'));
+});
+
 
 // Doing drumline stuff
 
 gulp.task('drumline', function () {
-  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-images', 'drumline-move-extra']);
+  runSequence(['drumline-move-docs', 'drumline-css-prod', 'drumline-move-extra', 'drumline-move-images']);
 });
 
 gulp.task('drumline-sass', function () {
@@ -145,15 +145,6 @@ gulp.task('drumline-css-prod', function () {
     .pipe(gulp.dest('./prod/drumline/css/'));
 });
 
-gulp.task('drumline-images', function () {
-  return gulp.src(['./app/drumline/img/*',
-    './app/drumline/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/drumline/img'));
-});
-
 gulp.task('drumline-move-docs', function () {
   return gulp.src(['./app/drumline/doc/*', './app/drumline/doc/**/*'])
     .pipe(gulp.dest('./prod/drumline/doc'));
@@ -164,10 +155,15 @@ gulp.task('drumline-move-extra', function () {
     .pipe(gulp.dest('./prod/drumline/'));
 });
 
+gulp.task('drumline-move-images', function () {
+  return gulp.src(['./app/drumline/img/*', './app/drumline/img/**/*'])
+    .pipe(gulp.dest('./prod/drumline/img'));
+});
+
 // Doing cutba stuff
 
 gulp.task('cutba', function (callback) {
-  runSequence(['cutba-move-docs', 'cutba-css-prod', 'cutba-images']);
+  runSequence(['cutba-move-docs', 'cutba-css-prod', 'cutba-move-images']);
 });
 
 gulp.task('cutba-sass', function () {
@@ -196,16 +192,12 @@ gulp.task('cutba-css-prod', function () {
     .pipe(gulp.dest('./prod/cutba/css/'));
 });
 
-gulp.task('cutba-images', function () {
-  return gulp.src(['./app/cutba/img/*',
-    './app/cutba/img/**/*'])
-    .pipe(cache(imagemin({
-      interlaced: true
-    })))
-    .pipe(gulp.dest('./prod/cutba/img'));
-});
-
 gulp.task('cutba-move-docs', function () {
   return gulp.src(['./app/cutba/doc/*', './app/cutba/doc/**/*'])
     .pipe(gulp.dest('./prod/cutba/doc'));
-})
+});
+
+gulp.task('cutba-move-images', function () {
+  return gulp.src(['./app/cutba/img/*', './app/cutba/img/**/*'])
+    .pipe(gulp.dest('./prod/cutba/img'));
+});
