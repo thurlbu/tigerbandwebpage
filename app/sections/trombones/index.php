@@ -88,8 +88,8 @@
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
-          <h4>Trombone Trumpet Battle</h4>
-          <p>The trombone trumpet battle is one of the most hilarious and entertaining parts of gameday for the entirety of Tiger Band. In the week leading up to a home game, each section prepares a song and a skit to accompany it. Before each home game rehearsal, the bones gather around the Bone Tree awaiting the trumpets' call. Eventually, they play a tune that calls us out from under the Bone Tree. Then, the competition begins. The whole band gathers around to watch the show. Seeing as the best is always saved for last, the trumpets perform first. After the trumpets wrap up their portion, it’s our turn to show the band what we’re made of. Once we complete our performance, it’s up to the rest of the band to decide who will come out victorious. Over the past few years, the trombones have been quite the dominant force as we rarely lose a battle with the trumpets. The battles are always enjoyable to participate in as well as watch. They are a unique and exciting way to start off gameday.</p>
+          <h4>Trombone-Trumpet Battle</h4>
+          <p>The trombone-trumpet battle is one of the most hilarious and entertaining parts of gameday for the entirety of Tiger Band. In the week leading up to a home game, each section prepares a song and a skit to accompany it. Before each home game rehearsal, the bones gather around the Bone Tree awaiting the trumpets' call. Eventually, they play a tune that calls us out from under the Bone Tree. Then, the competition begins. The whole band gathers around to watch the show. Seeing as the best is always saved for last, the trumpets perform first. After the trumpets wrap up their portion, it’s our turn to show the band what we’re made of. Once we complete our performance, it’s up to the rest of the band to decide who will come out victorious. Over the past few years, the trombones have been quite the dominant force as we rarely lose a battle with the trumpets. The battles are always enjoyable to participate in as well as watch. They are a unique and exciting way to start off gameday.</p>
         </div>
       </div>
     </div>
@@ -112,8 +112,8 @@
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
-          <h4>Pre Game Hype Speech </h4>
-          <p>The pre game hype speech is exactly what it sounds like: a pregame hype speech.  The speech follows each amphitheater concert and precedes each parade. Before we line up for the parade we all gather around in a circle and one of our members starts our call and answer sequence followed by a hype speech. This is a fun way to get the adrenaline pumping before heading into one of the best parts of game day: the parade. Each speech is different and you can never predict what is going to be said.</p>
+          <h4>Pregame Hype Speech </h4>
+          <p>The pregame hype speech is exactly what it sounds like: a pregame hype speech.  The speech follows each amphitheater concert and precedes each parade. Before we line up for the parade we all gather around in a circle and one of our members starts our call-and-response sequence followed by a hype speech. This is a fun way to get the adrenaline pumping before heading into one of the best parts of game day: the parade. Each speech is different and you can never predict what is going to be said.</p>
         </div>
       </div>
     </div>

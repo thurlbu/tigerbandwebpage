@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>Welcome to the Trumpet Section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
+      <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
       <p>&mdash; Alicia, Mac, &amp; Nick</p>
     </div>
   </div>

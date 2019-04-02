@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote">
-      <p>The only thing missing from the Mellophone family is YOU!</p>
+      <p>The only thing missing from the mellophone family is YOU!</p>
       <p>&mdash; Chris &amp; Raz</p>
     </div>
   </div>

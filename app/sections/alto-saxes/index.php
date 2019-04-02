@@ -49,7 +49,7 @@
     </div>
 
     <div class="section-quote alto">
-      <p>The Alto Saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less Dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal.</p>
+      <p>The alto saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal.</p>
       <p>&mdash; Grant &amp; Sam </p>
     </div>
   </div>

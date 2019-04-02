@@ -79,7 +79,7 @@
   </div>
 
   <div class="heading section-pages">
-      <h4>Cool Aspects</h4>
+      <h4>Our Section</h4>
   </div>
 
   <div class="media-container">
@@ -95,7 +95,7 @@
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
-          <h4>Why join Tiger Guard?</h4>
+          <h4>Why Join Tiger Guard?</h4>
           <p>Tiger Guard is not only an opportunity to physically express your talent, but to also express your personality with some of the greatest people, all while cheering on your Clemson Tigers! Tiger Guard takes hard work and dedication, but it is also the most fun and memorable college experience that you will have!</p>
         </div>
       </div>
@@ -119,7 +119,7 @@
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
-          <h4>How to join!</h4>
+          <h4>How to Join!</h4>
           <p>To join Tiger Guard, follow the link below. All you have to do is watch an instructional video that takes you through the audition process. There are no fees! The deadline for submitting your completed application is July 22! We hope to be spinning with you soon!</p>
           <a href="guard/" class="richLink">Join Tiger Guard</a>
         </div>
