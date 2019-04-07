@@ -120,16 +120,6 @@
         <div id="col1Flex">
 
           <article class="text fullWidth">
-              <h1>Tutorial</h1>
-              <p>Here’s a video tutorial walking you through the audition and submission process:</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/t5Bifhj5Vcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
-          </article>
-
-          <article class="text fullWidth">
               <h1>Audition Videos</h1>
               <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
               <p> The <b>MOVEMENT SECTION</b> will consist of:<br>
@@ -163,6 +153,15 @@
 
           </article>
 
+          <article class="text fullWidth">
+              <h1>Tutorial</h1>
+              <p>Here’s a video tutorial walking you through the audition and submission process:</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/t5Bifhj5Vcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
         </div>
 
         <div id="col2Flex">
