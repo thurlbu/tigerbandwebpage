@@ -118,6 +118,17 @@
 
     <div id="Col2FlexContent">
         <div id="col1Flex">
+
+          <article class="text fullWidth">
+              <h1>Tutorial</h1>
+              <p>Here’s a video tutorial walking you through the audition and submission process:</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/t5Bifhj5Vcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
+
           <article class="text fullWidth">
               <h1>Audition Videos</h1>
               <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
@@ -138,7 +149,7 @@
               <li>Explanations of these maneuvers with examples will be provided in a tutorial video posted by December 15</li>
             </ul>
           </p>
-              <p>Please watch the video posted here by December 15 to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2019 Audition</p>
+              <p>Please watch the video posted below to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2019 Audition</p>
               <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
             <ul>
               <li>8 counts of right hand spins with a single out</li>
