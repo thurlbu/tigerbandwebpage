@@ -8,3 +8,4 @@ prod
 app/css/*.css
 app/css/responsive/*.css
 package-lock.json
+package-lock.json
