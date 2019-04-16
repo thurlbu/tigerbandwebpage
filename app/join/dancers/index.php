@@ -144,9 +144,9 @@
 
             <article class="text fullWidth">
                 <h1>Eligibility</h1>
-                <p>Any full-time Clemson student with a minimum of 12 credit hours each semester and acumulative GPA of 2.5 or greater. Also, full-time students at Tri-County Technical College taking transfer courses with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater are eligible to audition for a position.</p>
+                <p>Any full-time Clemson student with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater. Also, full-time students at Tri-County Technical College taking transfer courses with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater are eligible to audition for a position.</p>
                 <p>Students may take advantage of the opportunity to participate as a Tiger Dancer at Clemson as a transfer student for up to 2 years after their high school graduation date. After the 2 year transfer period, students must be full time students at Clemson University to participate as a Tiger Dancer.</p>
-                <p>Potential members must include a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) to the e-mail that includes a link to your audition video to verify current student status. </p>
+                <p>Potential members must upload a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) via google drive on their audition application form to verify current student status. </p>
             </article>
         </div>
 
