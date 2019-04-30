@@ -107,7 +107,7 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
             <article class="media">
-                <h1 class="orangeText">2018 Video Audition Requirements</h1>
+                <h1 class="orangeText">2019 Video Audition Requirements</h1>
                 <p><a href="music/">Click here</a> to access the video audition music requirements for each section.</p>
                 <p>All video audition information is located here: <a href="auditions/video">Video Audition Information</a></p>
                 <p>If you have any questions about the video audition music requirements you can send an email to <a
@@ -132,28 +132,16 @@
         </div>
 
         <div id="col2Flex">
-            <article class="text">
-              <h1 class="orangeText">Audition Excerpt</h1>
-              <p>The Audition Excerpt has been posted here: <a href="music">Audition Excerpt</a></p>
-                      <p>Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 13.</p>
-              <p>If you have any questions about the audition music requirements you can send an email to <a href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
-            </article>
-
-            <article class="text">
-              <h1 class="orangeText">Call Back Audition Materials</h1>
-              <p>The Call Back audition materials and information have been updated and posted here: <a href="auditions">Call Back Audition Information</a></p>
-                      <p>If you have any questions about the audition music requirements you can send an email to <a href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
-            </article>
-
             <article class="media">
-                <h1 class="orangeText">The day is not over when the clock hits 0:00</h1>
-                <img class="articleImg" src='img/post.jpg'>
-                <p>At every home game, the Clemson University Drumline plays a postgame concert on the field at Death
-                    Valley.</p>
-                <p>Join us after the gathering at the paw for some fun, music, and if you're lucky, a unique Clemson
-                    keepsake that one fan gets to take home every week!</p>
-                <p>It's a great opportunity to get up close and personal with these talented musicians!</p>
+              <h1 class="orangeText">Pre Audition Workshop Camp</h1>
+              <p><a href="https://drive.google.com/file/d/1gbVwOl0QxvU7ZlgUF4HhCwu8Ilksqyeh/view" class="boxWrapper"><img class="articleImg" src='img/post.jpg'></a></p>
+              <p>The 2019 Clemson University Drumline Pre-Audition Workshop Camp will be hosted on the beautiful Clemson University Campus on Saturday, May 4 from 9-6.</p>
+              <p>Learn about technique fundamentals and get insight on how to prepare for your video audition to join the 2019 Clemson Drumline from current members and Tiger Band staff.</p>
+              <p>The camp is FREE and filled on a first-come, first-served basis.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE TO REGISTER TODAY!</a></p>
             </article>
+
+            
 
         </div>
     </div>

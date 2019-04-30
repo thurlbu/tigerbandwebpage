@@ -69,7 +69,7 @@
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>TBA</b>
+                    <b>4</b>
                     <p>Audition Workshop</p>
                 </div>
             </div>
@@ -78,8 +78,9 @@
             </div>
             <div class="deadlinesInfo" id="info2">
                 <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
-                <br>Time and Date TBA
-                <br>Brooks Center - Room 112</p>
+                <br>Saturday, May 4 - 9am to 6pm
+                <br>Brooks Center - Room 112
+                <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">Click here to register!</a></p>
             </div>
         </div>
         <div class="month num2">
