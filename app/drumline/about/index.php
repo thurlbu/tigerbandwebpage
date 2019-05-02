@@ -106,14 +106,12 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Tyler Stoneman</h1>
-                <h2 class="purpleText">2018 Section Leader</h2>
+                <h1>Briana Parcell</h1>
+                <h2 class="purpleText">2019 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/tstoneman.png" class="staffPortrait">
-                    <p>Tyler Stoneman is the section leader of the 2018 Clemson University Drumline. He was born in Asheville, North Carolina, but has lived in Powdersville, South Carolina since he was five years old. Tyler is a junior pursuing a B.S. in Public Health Sciences and a minor in Biology as he plans to attend medical school upon graduation in 2019.</p>
-                    <p>This is Tyler’s fourth year with CUD and his second year as section leader. In 2016, Tyler was the social media director for CUD, publishing pictures, videos, and member spotlights from our championship season. He is a member of the Clemson University Symphonic
- Band and Percussion Ensemble. Tyler was also a member of the former PIW Finalist indoor ensemble Palmetto Percussion in 2016. has taught the T. L. Hanna Drumline for a total of 3 seasons and plans to continue teaching this coming year.</p>
-                    <p>On his own time, Tyler enjoys teaching private drum lessons, getting down on the dance floor, watching surgery videos, and obsessing over his favorite comedian and actor, Will Ferrell.</p>
+                    <img src="../img/staff/Briana.jpg" class="staffPortrait">
+                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2019 Tiger Band Season. A gradute of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year on second bass.</p>
+                    <p>Briana is a junior working towards dual degrees in Genetics and Biochemistry with a Psychology minor. When she isn't studying or practicing, she enjoys napping, snacking, and watching movies or hanging out with friends. Her favorite Christmas tradition is watching Elf, a heartwarming Christmas comedy starring her favorite actor/comedian/cotton-headed-ninny-muggins, Will Ferrell.</p>
                 </div>
             </article>
         </div>
@@ -136,13 +134,13 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Jared Friedl</h1>
-                <h2 class="purpleText">2018 Assistant Section Leader</h2>
+                <h1>David Cherne</h1>
+                <h2 class="purpleText">2019 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/Friedl.jpg" class="staffPortrait">
-                    <p>Jared Friedl is the Assistant Section Leader for the 2018 Clemson University Drumline. He was born and raised in Wake Forest, North Carolina, but especially enjoys quiet evenings in the mountains away from the hustle and bustle.  Jared is a senior Physics major with a minor in Philosophy, and hopes to pursue graduate studies in particle physics. </p>
-		    <p>This is Jared’s fourth year in CUD. Jared has participated in many of Clemson’s other ensembles including concert band, steel band, gigging steel band, percussion ensemble, and jazz ensemble. He is also an active member of Clemson’s chapter of Kappa Kappa Psi, National Honorary Band Fraternity. Jared has played quads since his freshman year of high school and still manages to complain about the back pain.</p>
-		    <p>Jared enjoys reading books, drumming, arranging, sleeping, eating, and having a beard. He listens to rap, jazz, funk, and electronic music almost nonstop and has a special place in his heart for Will Ferrell’s lesser known gems such as A Night at the Roxbury and Everything Must Go.</p>
+                    <img src="../img/staff/David.jpg" class="staffPortrait">
+                    <p>David Cherne is a section leader of the 2019 Clemson University Drumline (CUD). He was born in Akron, Ohio, but moved to Fort Mill for his sophomore year of high school. David is a junior pursuing a B.A. in Computer Science with a minor in Digital Production Arts and plans to attend grad school to continue his studies in Digital Production Arts.</p>
+		                <p>As a freshman member of the CUD, David played Bass Drum, but then moved to the quad line his sophomore year. Marching band has taken David to many places, whether it’s playing bass drum on the Great Wall of China, playing in a concert honoring fallen veterans in Normandy, France, or watching Clemson win the championship in San Francisco, California, he has many great memories that he would not have been able to make without drums! David also enjoys playing in the Clemson Steel band beating all of the bad vibes away.</p>
+		                <p>David enjoys playing online games with friends, writing fantasy, practicing drum set, doodling, and procrastinating his coding projects until the day before they’re due. He listens to all kinds of music but can’t tell you the lyrics to any of them. He is always down to sit and talk with you for hours, but only if it’s about his favorite comedian/actor Will Ferrell.</p>
                 </div>
             </article>
         </div>
