@@ -110,7 +110,7 @@
                 <h2 class="purpleText">2019 Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/Briana.jpg" class="staffPortrait">
-                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2019 Tiger Band Season. A gradute of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year on second bass.</p>
+                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2019 Tiger Band Season. A graduate of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year on second bass.</p>
                     <p>Briana is a junior working towards dual degrees in Genetics and Biochemistry with a Psychology minor. When she isn't studying or practicing, she enjoys napping, snacking, and watching movies or hanging out with friends. Her favorite Christmas tradition is watching Elf, a heartwarming Christmas comedy starring her favorite actor/comedian/cotton-headed-ninny-muggins, Will Ferrell.</p>
                 </div>
             </article>
