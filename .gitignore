@@ -1,11 +1,8 @@
 .DS_Store
-*/.DS_Store
-*/*/.DS_Store
-*/*/*/.DS_Store
+**/.DS_Store
 node_modules
 prod
 .vscode
 app/css/*.css
 app/css/responsive/*.css
-package-lock.json
-package-lock.json
+**/*.css

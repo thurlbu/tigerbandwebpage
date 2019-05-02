@@ -70,19 +70,19 @@
 
     <div class="sponsors">
         <a href="http://remo.com/" target="_blank">
-            <img src="../img/logos/remo.svg" width="250">
+            <img src="../img/logos/remo.svg">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
-            <img src="../img/logos/sabian.svg" width="150">
+            <img src="../img/logos/sabian.svg">
         </a>
         <a href="https://www.swaggtagz.com/" target="_blank">
-            <img src="../img/logos/swaggtagz.svg" width="350">
+            <img src="../img/logos/swaggtagz.svg">
         </a>
         <a href="http://vicfirth.com/" target="_blank">
-            <img src="../img/logos/vic-firth.svg" width="150">
+            <img src="../img/logos/vic-firth.svg">
         </a>
         <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
-            <img src="../img/logos/yamaha.svg" width="250">
+            <img src="../img/logos/yamaha.svg">
         </a>
     </div>
 
