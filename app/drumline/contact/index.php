@@ -59,12 +59,8 @@
 
             <!--- CONTACT FORM --->
 
-            <form action="http://www.clemson.edu/cgi-bin/formail.cgi" method="POST" id="contactForm">
-                <input type="hidden" name="recipient" value="pbuyer@clemson.edu"> <!--clemsondrumline@gmail.com-->
-                <input type="hidden" name="subject" value="Clemson Drumline Website Form Results">
+            <form action="send-mail.php" method="POST" id="contactForm">
                 <input type="hidden" name="sort" value="order:regarding,realname,email,phone,message">
-                <input type="hidden" name="print_config" value="realname, email">
-                <input type="hidden" name="redirect" value="http://tband.people.clemson.edu/drumline/contact/contact.php">
 
                 <input type="text" name="realname" placeholder="Name*" required>
                 <input type="text" name="phone" placeholder="Phone Number*" required>
@@ -72,7 +68,7 @@
                 <input type="text" name="regarding" placeholder="Subject*" required>
                 <textarea name="message" placeholder="Your Message*" required></textarea>
                 <div>
-                    <input type="submit" value="Send">
+                    <input type="submit" name="submit" value="Send">
                     <input type="reset" value="Reset">
                 </div>
             </form>
