@@ -39,13 +39,10 @@
 
 <!--- NAVIGATION --->
 
-<nav>
-    <a href="/drumline/">Home</a>
-    <a href="../about/">About</a>
-    <a href="../auditions/">Auditions</a>
-    <a href="../music/" class="active">Music</a>
-    <a href="../contact/">Contact</a>
-</nav>
+<?php
+    include('../header.php');
+    echo getHeader('music');
+?>
 
 <!--- PAGE CONTENT --->
 

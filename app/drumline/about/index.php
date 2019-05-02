@@ -35,13 +35,10 @@
 
 <label id='mobileScreenShade' for='mobileMenu'></label>
 
-<nav>
-    <a href="/drumline/">Home</a>
-    <a href="../about/" class="active">About</a>
-    <a href="../auditions/">Auditions</a>
-    <a href="../music/">Music</a>
-    <a href="../contact/">Contact</a>
-</nav>
+<?php
+    include('../header.php');
+    echo getHeader('about');
+?>
 
 <body>
     <div class="heading">

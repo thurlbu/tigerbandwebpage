@@ -38,13 +38,10 @@
 
 <!--- NAVIGATION --->
 
-<nav>
-    <a href="/drumline/">Home</a>
-    <a href="../about/">About</a>
-    <a href="../auditions/">Auditions</a>
-    <a href="../music/">Music</a>
-    <a href="../contact/" class="active">Contact</a>
-</nav>
+<?php
+    include('../header.php');
+    echo getHeader('contact');
+?>
 
 <!--- PAGE CONTENT --->
 

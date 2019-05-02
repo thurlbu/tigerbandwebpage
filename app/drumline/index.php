@@ -41,13 +41,10 @@
 
 <!--- NAVIGATION --->
 
-<nav>
-    <a href="/drumline/" class="active">Home</a>
-    <a href="/drumline/about/">About</a>
-    <a href="/drumline/auditions/">Auditions</a>
-    <a href="/drumline/music/">Music</a>
-    <a href="/drumline/contact/">Contact</a>
-</nav>
+<?php
+    include('header.php');
+    echo getHeader('home');
+?>
 
 <!--- PAGE CONTENT --->
 
