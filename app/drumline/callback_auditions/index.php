@@ -11,8 +11,8 @@
     gtag('config', 'UA-8965430-3');
   </script>
     <meta charset="utf-8">
-    <title>Auditions | Clemson Drumline</title>
-    <link rel="stylesheet" href="../../css/main.css">
+    <title>Callback Auditions | Clemson Drumline</title>
+    <link rel="stylesheet" href="../css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
@@ -39,13 +39,10 @@
 
 <!--- NAVIGATION --->
 
-<nav>
-    <a href="/drumline/">Home</a>
-    <a href="../about/">About</a>
-    <a href="../auditions/" class="active">Auditions</a>
-    <a href="../music/">Music</a>
-    <a href="../contact/">Contact</a>
-</nav>
+<?php
+    include('../header.php');
+    echo getHeader('callback_auditions');
+?>
 
 <!--- PAGE CONTENT --->
 
@@ -155,8 +152,8 @@
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
                 <div class="linkWrapper">
-                    <a href="http://tband.people.clemson.edu/drumline/auditions/" class="richLink" target="_blank">2019 Audition Schedule - coming soon...</a>
-                    <a href="http://tband.people.clemson.edu/drumline/auditions/" class="richLink" target="_blank">2019 Full Preseason Schedule - coming soon...</a>
+                    <a href="" class="richLink" target="_blank">2019 Audition Schedule - coming soon...</a>
+                    <a href="" class="richLink" target="_blank">2019 Full Preseason Schedule - coming soon...</a>
                 </div>
             </article>
         </div>
