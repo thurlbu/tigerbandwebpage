@@ -251,7 +251,21 @@
 </html>
 
 <script type="text/javascript">
-//Copyright Date
+    // Script for the drop down calender
+    var active123 = [1,1,1,1,1,1,1];
+    function moreInfo(x) {
+        active123[x] = 0;
+        document.getElementById("text" + x).classList.toggle("clicked");
+        document.getElementById("info" + x).classList.toggle("clicked");
+        for(var i = 0; i < active123.length; i++) {
+            if(active123[i] == 0 && i != x) {
+                document.getElementById("text" + i).classList.remove("clicked");
+                document.getElementById("info" + i).classList.remove("clicked");
+                active123[i] = 1;
+            }
+        }
+    }
+    //Copyright Date
     var startYear = 2017;
     var currentYear = new Date().getFullYear();
     if (startYear == currentYear) {
