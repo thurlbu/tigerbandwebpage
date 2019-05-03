@@ -12,7 +12,7 @@
   </script>
     <meta charset="utf-8">
     <title>Auditions | Clemson Drumline</title>
-    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../../css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
