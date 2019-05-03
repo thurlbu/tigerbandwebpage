@@ -35,16 +35,10 @@
 
 <!--- NAVIGATION --->
 
-<nav>
-    <a href="/">Home</a>
-    <a href="/this_season/" class="active">This Season</a>
-    <a href="/join/">Join</a>
-    <a href="/bands/">Bands</a>
-    <a href="/organizations/">Organizations</a>
-    <a href="/staff/">Staff</a>
-    <a href="/sections/">Sections</a>
-    <a href="/contact/">Contact</a>
-</nav>
+<?php
+    include('../header.php');
+    echo getHeader('this_season');
+?>
 
 <!--- PAGE CONTENT --->
 
