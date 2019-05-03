@@ -111,8 +111,7 @@
                         href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/rzruW_Y9PT8" frameborder="0"
-                            allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9n2Ulib8CbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
@@ -138,7 +137,7 @@
               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE TO REGISTER TODAY!</a></p>
             </article>
 
-            
+
 
         </div>
     </div>

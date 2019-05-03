@@ -44,6 +44,8 @@
     echo getHeader('auditions');
 ?>
 
+
+
 <!--- PAGE CONTENT --->
 
 <body>
@@ -52,6 +54,86 @@
         <h4>Video Audition Information</h4>
     </div>
 
+    <!--- DEADLINES UI --->
+
+    <div class="deadlines">
+        <div class="month num1">
+            <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
+                <div class="textContainer">
+                    <p>December</p>
+                    <b>15</b>
+                    <p>Music Available</p>
+                </div>
+            </div>
+            <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                <div class="textContainer">
+                    <p>May</p>
+                    <b>4</b>
+                    <p>Audition Workshop</p>
+                </div>
+            </div>
+            <div class="deadlinesInfo" id="info1">
+                <p>Audition materials for VIDEO round will be available on website</p>
+            </div>
+            <div class="deadlinesInfo" id="info2">
+                <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
+                <br>Saturday, May 4 - 9am to 6pm
+                <br>Brooks Center - Room 112
+                <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">Click here to register!</a></p>
+            </div>
+        </div>
+        <div class="month num2">
+            <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
+                <div class="textContainer">
+                    <p>July</p>
+                    <b>1</b>
+                    <p>Video Deadline</p>
+                </div>
+            </div>
+            <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
+                <div class="textContainer">
+                    <p>July</p>
+                    <b>8</b>
+                    <p>Audition Results</p>
+                </div>
+            </div>
+            <div class="deadlinesInfo" id="info3">
+                <p>Deadline for VIDEO round audition submissions<p>
+            </div>
+            <div class="deadlinesInfo" id="info4">
+                <p>Audition results announced<br>
+                    Those selected must report to CALL BACK auditions on Monday, August 10</p>
+            </div>
+        </div>
+        <div class="month num3">
+            <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
+                <div class="textContainer">
+                    <p>August</p>
+                    <b>10</b>
+                    <p>Callback Auditions</p>
+                </div>
+            </div>
+            <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
+                <div class="textContainer">
+                    <p>August</p>
+                    <b>14</b>
+                    <p>Band Camp</p>
+                </div>
+            </div>
+            <div class="deadlinesInfo" id="info6">
+                <p>CUD CALL BACK Auditions<br>
+                8:30AM - 5:30PM<br>
+                Brooks and Bellamy Theaters<p>
+            </div>
+            <div class="deadlinesInfo" id="info7">
+                <p>Tiger Band Preseason Camp begins</p>
+            </div>
+        </div>
+    </div>
+
+    <!--- ANNOUCEMENTS/ARTICLES --->
+
+    
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="media">
@@ -59,21 +141,16 @@
             <p>Here’s a video tutorial walking you through the audition and submission process.</p>
             <div class="iframeContainer">
                 <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/rzruW_Y9PT8" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/9n2Ulib8CbI" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </article>
         </div>
 
         <div id="col2Flex">
+
             <article class="text fullWidth">
-                <h1 class="purpleText">Basic Information</h1>
-                <p>All returning members and new auditionees will be submitting a video for the first round of auditions. Those selected as call-backs will participate in the live second round of auditions in August.</p>
-                <p>Video auditions require access to instruments, arranged through the student’s high school or CUD. Contact us at ClemsonDrumline@gmail.com, if you have exhausted all possibilities on securing an instrument and are unsuccessful.</p>
-                <p>All the information you need to complete and submit your video is below. If you have any questions throughout the video audition process, you may contact us at <a href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a>.</p>
-            </article>
-            <article class="text fullWidth">
-                <h1 class="purpleText">Audition Requirements</h1>
+                <h1 class="purpleText">2019 Clemson University Drumline Auditions</h1>
                 <p>CUD is looking for players who want to be a part of the drumline as an ensemble and not just play a certain instrument. This means understanding and respecting that the Clemson Drumline is made up of 4 sections - snares, quads, basses, and cymbals - and each section is of equal importance to Tiger Band, to the music, and to our success as a unit. At Clemson, there is no hierarchy. Everybody is valued, and everybody contributes. We will accept multiple video submissions for those that are auditioning for multiple sections.
                 <a href="https://docs.google.com/document/d/1Okp__K2LMh1i7LlnYH1yi1Yi24QMDZQs22gzKJV-IIE" class="richLink" target="_blank">Video Audition Requirements<br>for Each Section</a>
                 </p>
