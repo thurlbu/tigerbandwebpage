@@ -105,37 +105,29 @@
         <div id="col1Flex">
             <article class="media">
                 <h1 class="orangeText">2019 Video Audition Requirements</h1>
-                <p><a href="music/">Click here</a> to access the video audition music requirements for each section.</p>
-                <p>All video audition information is located here: <a href="auditions/video">Video Audition Information</a></p>
-                <p>If you have any questions about the video audition music requirements you can send an email to <a
+                <p><a href="video_auditions/">Click here</a> to review audition video requirements.</p>
+                <p>If you have any questions about the video audition process you can send an email to <a
                         href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9n2Ulib8CbI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9n2Ulib8CbI" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
 
-            <article class="text">
-                <h1 class="orangeText">Follow CUD on Social Media</h1>
-                <img class="articleImg" src='img/Social_Media2.png'>
-                <p>Keep up to date with all of the news and events from the Clemson University Drumline by following
-                    @clemsondrumline on <a href="https://www.facebook.com/ClemsonDrumline" target="_blank">Facebook</a>
-                    and <a href="https://twitter.com/clemsondrumline" target="_blank">Twitter</a> and @Clemson_Drumline
-                    on <a href="https://www.instagram.com/clemson_drumline/" target="_blank">Instagram</a>!</p>
-                <p>See all the latest photos and videos and get all the latest announcements!</p>
-            </article>
+
         </div>
 
         <div id="col2Flex">
-            <article class="media">
-              <h1 class="orangeText">Pre Audition Workshop Camp</h1>
-              <p><a href="https://drive.google.com/file/d/1gbVwOl0QxvU7ZlgUF4HhCwu8Ilksqyeh/view" class="boxWrapper"><img class="articleImg" src='img/post.jpg'></a></p>
-              <p>The 2019 Clemson University Drumline Pre-Audition Workshop Camp will be hosted on the beautiful Clemson University Campus on Saturday, May 4 from 9-6.</p>
-              <p>Learn about technique fundamentals and get insight on how to prepare for your video audition to join the 2019 Clemson Drumline from current members and Tiger Band staff.</p>
-              <p>The camp is FREE and filled on a first-come, first-served basis.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE TO REGISTER TODAY!</a></p>
-            </article>
+          <article class="text">
+              <h1 class="orangeText">Follow CUD on Social Media</h1>
+              <img class="articleImg" src='img/Social_Media2.png'>
+              <p>Keep up to date with all of the news and events from the Clemson University Drumline by following
+                  @clemsondrumline on <a href="https://www.facebook.com/ClemsonDrumline" target="_blank">Facebook</a>
+                  and <a href="https://twitter.com/clemsondrumline" target="_blank">Twitter</a> and @Clemson_Drumline
+                  on <a href="https://www.instagram.com/clemson_drumline/" target="_blank">Instagram</a>!</p>
+              <p>See all the latest photos and videos and get all the latest announcements!</p>
+          </article>
 
 
 
