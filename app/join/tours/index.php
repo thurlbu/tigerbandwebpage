@@ -53,10 +53,10 @@
       <article class="text">
         <h1>Tiger Band Tours</h1>
         <img class="articleImg" src='https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553551498/Join%20Page/tours/Gaffney.jpg'>
-        <p>If you're planning a visit to campus this spring, we hope you'll consider signing up for a Tiger Band Tour to learn what it takes to be a member of the "The Band that Shakes the Southland!"</p>
+        <p>If you're planning a visit to campus in the spring semester, we hope you'll consider signing up for a Tiger Band Tour to learn what it takes to be a member of the "The Band that Shakes the Southland!"</p>
         <p>Tour our facilities, learn about our history and traditions, and experience a gameday through the eyes of our Tiger Band Ambassadors.</p>
-        <p>Tours this spring will take place on Fridays & Saturdays throughout the month of April.</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" target="_blank" class="richLink">Schedule a tour</a>
+        <p>Tours this spring will take place on Fridays & Saturdays. Registration will become available at the beginning of the spring semester.</p>
+        <a href="" target="_blank" class="richLink">Registration will be available soon!</a>
       </article>
 
       <div class="socialContainer">
