@@ -189,7 +189,7 @@
                 <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
                 <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
                 <p><b>Twirlers:</b> Reagan King</p>
-                <p><b>Dancers:</b> TBD after auditions</p>
+                <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
                 <p><b>Head Band Manager:</b> Caroline Webb</p>
                 <p><b>Instrument Manager:</b> TBD</p>
                 <p><b>Uniform Manager:</b> TBD</p>
@@ -211,7 +211,7 @@
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
                 <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
-                <p>The full 2018 Friday Night Lights schedule will be announced right here early in the fall.</p>
+                <p>The full 2019 Friday Night Lights schedule will be announced right here early in the fall.</p>
             </article>
             <article class="text">
                 <h1>Amphitheater Concert</h1>

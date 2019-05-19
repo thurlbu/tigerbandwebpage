@@ -165,19 +165,11 @@
         <div id="col1Flex">
             <article class="text">
                 <h1>Join the 2019 Clemson University Tiger Band</h1>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
-                <p>Sign up today to receive information about what it takes to be a member of Tiger Band and get exclusive information and early registration to events BEFORE they're released to the public!</p>
+                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
+                <p>The deadline to submit audition videos for new members is July 22. Submit your video today!</p>
+                <p>Travel the country as a "Guardian of the Clemson Spirit," meet lifelong friends, and make lasting memories. Don't miss out on this once-in-a-lifetime opportunity!</p>
                 <p>For audition information visit our <a href="/join/">join page!</a></p>
 
-            </article>
-
-            <article class="text">
-                <h1>Tiger Band Tours</h1>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" class="boxWrapper"><img class="articleImg" src='/img/Gaffney.jpg'></a>
-                <p>Visiting campus this spring? Make sure to sign up for a Tiger Band Tour to round out your Clemson University visit!</p>
-                <p>Experience a Clemson Gameday through the eyes of one of our current Tiger Band members!</p>
-                <p>Families are welcome to join as one of our Tiger Band Ambassadors walk you through our gameday experience and show you what it's like to be a member of the Band that Shakes the Southland!</p>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link">Click here to schedule a Tiger Band Tour on select Fridays and Saturdays throughout April!</a></p>
             </article>
 
             <article class="media">
@@ -223,11 +215,11 @@
           </article>
 
           <article class="text">
-              <h1>2019 Twirler Auditions</h1>
-              <img class="articleImg" src='/img/TwirlerSection.jpg'>
-              <p>All information about 2019 Tiger Twirler and Feature Twirler auditions are posted on our <a href="http://tband.people.clemson.edu/join/twirlers/">join page.</a></p>
-              <p>Applications and video submissions are due on February 28 to be considered for Feature Twirler and April 26 for the Twirling line.  Applications are being accepted now!!<p>
-              <p>Don't miss this opportunity to become a member of the Band that Shakes the Southland!</p>
+              <h1>CBDNA Recognition</h1>
+              <img class="articleImg" src='/img/CBDNA.png'>
+              <p>Tiger Band was one of 5 college marching bands selected to present at the 2018 College Band Directors National Association National Conference.</p>
+              <p>Tiger Band was selected to present their "Greatest Showman" halftime show.</p>
+              <p>We are truly humbled to have been selected for this prestigious honor!</p>
           </article>
 
             <article class="media">

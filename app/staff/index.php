@@ -283,11 +283,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Tamara Bowen</h1>
+                <h1>Mrs. Tamara Sloan</h1>
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Tamara.jpg">
-                    <p>Tamara Bowen is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
+                    <p>Tamara Sloan is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
         </div>
