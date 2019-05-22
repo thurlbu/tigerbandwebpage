@@ -114,7 +114,7 @@
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>14</b>
+                    <b>13</b>
                     <p>Band Camp</p>
                 </div>
             </div>

@@ -206,6 +206,15 @@
         </div>
 
         <div id="col2Flex">
+          <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
+              <article class="text">
+                  <h1>2019 Preseason Camp Schedule</h1>
+                  <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
+                  <p>Click here to view the 2019 Summer Preseason Camp Schedule.</p>
+                  <p>We're looking forward to welcoming the 2019 edition of "The Band that Shakes the Southland" to campus. Our pursuit of excellence continues!</p>
+              </article>
+          </a>
+
           <article class="text">
               <h1>Scholarships!</h1>
               <img class="articleImg" src='/img/Horns.jpg'>

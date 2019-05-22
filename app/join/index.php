@@ -117,7 +117,7 @@
               <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
           </article>
 
-      
+
         </div>
 
         <div id="col1Flex">
@@ -127,6 +127,15 @@
                     <img class="articleImg" src='/img/CuseAmp.jpg'>
                     <p>Click here to register with Tiger Band and receive information about what it takes to be a member of Tiger Band.</p>
                     <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
+                </article>
+            </a>
+
+            <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
+                <article class="text">
+                    <h1>2019 Preseason Camp Schedule</h1>
+                    <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
+                    <p>Click here to view the 2019 Summer Preseason Camp Schedule.</p>
+                    <p>We're looking forward to welcoming the 2019 edition of "The Band that Shakes the Southland" to campus. Our pursuit of excellence continues!</p>
                 </article>
             </a>
         </div>

@@ -61,7 +61,7 @@
         <!--- HOMEPAGE NAVIGATION BOXES --->
 
         <div class="homepageNav">
-            <a href="auditions/">
+            <a href="video_auditions/">
                 <div class="boxWrapper">
                     <div id="homepageNav1" class="boxUIelement rect orange">
                         <div class="textContainer">
