@@ -191,8 +191,8 @@
                 <p><b>Twirlers:</b> Reagan King</p>
                 <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
                 <p><b>Head Band Manager:</b> Caroline Webb</p>
-                <p><b>Instrument Manager:</b> TBD</p>
-                <p><b>Uniform Manager:</b> TBD</p>
+                <p><b>Instrument Manager:</b> Alicia Cameron &amp; Eva Lamar</p>
+                <p><b>Uniform Manager:</b> Arianna Csiszer &amp; Sophie Greenwood</p>
             </article>
         </div>
     </div>
