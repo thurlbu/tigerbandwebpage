@@ -82,10 +82,6 @@
 /**** MOBILE VERSION *****/
 /**** SCREEN SIZES BELOW 800PX *****/
 @media (max-width: 800px)
-  body
-    margin-top: 3rem
-  \::-webkit-scrollbar
-    display: none
   footer
     table
       &:first-child, &:nth-child(2), &:nth-child(3), &:nth-child(4)
@@ -101,32 +97,7 @@
     padding: 1vw
   /***** MOBILE MENU *****/
   nav
-    background: rgba(0, 0, 0, 0)
-    width: 100vw
-    text-align: center
-    position: fixed
-    top: -35rem
-    left: 0
-    display: flex
-    flex-flow: row wrap
-    align-content: flex-start
-    transition: all 300ms ease
-    a
-      background: white
-      color: #181818
-      text-align: left
-      padding: 0.75rem 0 0.75rem 2rem
-      flex-basis: 100%
-      transition: 300ms ease
-      transition-property: color, background
-      border-bottom: 1px solid $innovation-gray
-      &:hover
-        background: $clemson-orange
-        color: white
-      &.active
-        background: $clemson-orange
-        color: white
-        border-bottom: 1px solid $innovation-gray
+    display: none
   #mobileHeader
     width: 100vw
     height: 2.5rem
@@ -167,54 +138,11 @@
     opacity: 0
     z-index: 99
     cursor: pointer
-  #menuButton
-    display: block
-    position: absolute
-    right: 0
-    width: 4rem
-    height: inherit
   #tbMobileLogo
     display: block
     margin: 0.1rem
     width: 12rem
   /** MENU BUTTON **/
-  #menuButton
-    font-size: 0
-    text-indent: -9999px
-    cursor: pointer
-    span
-      display: block
-      position: absolute
-      top: 50%
-      transform: translateY(-50%)
-      left: 1rem
-      right: 1rem
-      height: 2.5px
-      background: $innovation-gray
-      transition: 300ms ease
-      transition-property: background, -webkit-transform
-      transition-property: background, transform
-      transition-property: background, transform, -webkit-transform
-      &::before, &::after
-        position: absolute
-        display: block
-        left: 0
-        width: 100%
-        height: 2.5px
-        background-color: $innovation-gray
-        content: ""
-        transition: 300ms ease
-        transition-property: background, -webkit-transform
-        transition-property: background, transform
-        transition-property: background, transform, -webkit-transform
-      &::before
-        top: -8px
-      &::after
-        bottom: -8px
-    &:hover span
-      background: $clemson-orange
-      &::before, &::after
-        background: $clemson-orange
   #mobileMenu:checked ~ #mobileHeader #menuButton span
     background: none
     &::before
@@ -226,20 +154,6 @@
       transform: rotate(-45deg)
       background: $clemson-orange
   /***** HOMEPAGE *****/
-  #homeFullscrContainer
-    background: url(/img/MobileBackground.jpg)
-    background-size: cover
-    background-position: center
-    background-repeat: no-repeat
-  video#homeVideoBkg
-    display: none
-  #screenShadeHome
-    width: 100vw
-    height: 100vh
-    background: rgba(0, 0, 0, 0.25)
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0)), 75%, rgba(0, 0, 0, 0.25)), to(rgba(0, 0, 0, 0.8)))
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.25) 75%, rgba(0, 0, 0, 0.8) 100%)
-    z-index: -1
   .fullpageTitle
     width: 80%
     h2

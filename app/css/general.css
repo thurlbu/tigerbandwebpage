@@ -44,6 +44,10 @@ body {
   min-height: 95.5%;
   min-height: calc(100% - 3.5rem);
   margin-top: 2.5rem; }
+  @media (max-width: 800px) {
+    body {
+      margin: 0;
+      height: 100vh; } }
 
 a {
   color: #522D80;
@@ -77,6 +81,46 @@ a.richLink:hover {
 
 #mobileHeader, #menuButton, #mobileMenu, #mobileScreenShade, .hide {
   display: none; }
+
+@media (max-width: 800px) {
+  #menuButton {
+    display: block;
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    right: 0;
+    z-index: 100; }
+    #menuButton span {
+      display: block;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      left: 1rem;
+      right: 1rem;
+      height: 2.5px;
+      transition: 300ms ease;
+      transition-property: -webkit-transform;
+      transition-property: transform;
+      transition-property: transform, -webkit-transform; }
+      #menuButton span::before, #menuButton span::after {
+        position: absolute;
+        display: block;
+        left: 0;
+        width: 100%;
+        height: 2.5px;
+        content: "";
+        transition: 300ms ease;
+        transition-property: -webkit-transform;
+        transition-property: transform;
+        transition-property: transform, -webkit-transform; }
+      #menuButton span::before {
+        top: -8px; }
+      #menuButton span::after {
+        bottom: -8px; }
+    #menuButton:hover span {
+      background: #F66733; }
+      #menuButton:hover span::before, #menuButton:hover span::after {
+        background: #F66733; } }
 
 .show {
   display: block; }

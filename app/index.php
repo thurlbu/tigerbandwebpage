@@ -25,14 +25,7 @@
 
 <!-- HEADER -->
 
-<input type='checkbox' id='mobileMenu'>
-
-<div id="mobileHeader">
-	<a href="/"><a href="/website/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
-	<label for="mobileMenu" id="menuButton"><span>=</span></label>
-</div>
-
-<label id='mobileScreenShade' for='mobileMenu'></label>
+<label id="menuButton"><span>=</span></label>
 
 <!-- NAVIGATION-->
 
@@ -46,10 +39,7 @@
 <body>
     <!-- FULL SCREEN MAIN VIDEO-->
     <div id="homeFullscrContainer">
-        <div id="screenShadeHome"></div>
-        <video id="homeVideoBkg" autoplay loop muted>
-            <source src="https://d3fdmt0abme096.cloudfront.net/mainLargeCompressed.mp4" type="video/mp4">
-        </video>
+        <div id="screenShade"></div>
     </div>
 
     <div class="fullpageTitle">
@@ -269,6 +259,22 @@
     }
     else {
         document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear + " - " + currentYear;
+    }
+
+    if (screen.width >= 800) {
+        var divWhereVideoNeedsToGo = document.getElementById('homeFullscrContainer');
+        var newVideoElement = document.createElement('video');
+        newVideoElement.autoplay = true;
+        newVideoElement.loop = true;
+        newVideoElement.muted = true;
+        newVideoElement.setAttribute('id', 'homeVideoBkg')
+
+        var ogvSource = document.createElement('source');
+        ogvSource.setAttribute('src', 'https://d3fdmt0abme096.cloudfront.net/mainLargeCompressed.mp4');
+        ogvSource.setAttribute('type', 'video/mp4');
+        newVideoElement.appendChild(ogvSource);
+
+        divWhereVideoNeedsToGo.appendChild(newVideoElement);
     }
 </script>
 </html>
