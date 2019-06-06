@@ -59,8 +59,18 @@
   border-bottom: 3px solid $clemson-orange
   animation: fadeIn 500ms ease-in-out
 
+  @include mobile
+    width: 80%
+    h2
+      font-size: 25pt
+    h1
+      font-size: 40pt
+
 .tbHomeLogo, .clemsonLogo
   animation: fadeIn 500ms ease-in-out
+
+  @include mobile
+    display: none
 
 .tbHomeLogo
   position: absolute
@@ -77,13 +87,37 @@
 /*****BOX UI*****/
 /** STYLING **/
 
+#boxUI a, #auditionBoxUI a, #rgBoxUI a, .aboutLinks a, .homepageNav a
+  text-decoration: none
+
 #boxUI
   display: flex
   flex-wrap: wrap
   width: 100vw
 
-#boxUI a, #auditionBoxUI a, #rgBoxUI a, .aboutLinks a, .homepageNav a
-  text-decoration: none
+  @include mobile
+    a:nth-child(1)
+      order: 9
+      margin: 0
+    a:nth-child(4)
+      display: none
+    a:nth-child(8)
+      order: 1
+
+.boxWrapper
+  overflow: hidden
+  position: relative
+  &:hover .boxUIelement
+    transform: scale(1.1)
+
+  @include mobile
+    width: 40vw
+    height: 40vw
+    padding: 5vw
+    padding-bottom: 2rem
+    &.tigerbandmedia
+      width: 100vw
+      padding: 0
 
 .boxUIelement
   height: 33vh
@@ -93,11 +127,44 @@
   transition: transform 300ms ease
   transition: transform 300ms ease, -webkit-transform 300ms ease
 
+  @include mobile
+    border-radius: 10px
+    height: inherit
+    margin-bottom: 2rem
+    flex-grow: 1
+    position: relative
+    transition: transform 300ms ease
+    transition: transform 300ms ease, -webkit-transform 300ms ease
+
+    &.homepage
+      &::after
+        width: 100%
+        height: 2rem
+        position: absolute
+        bottom: -2rem
+        left: 0
+        color: $matte-black
+        text-align: left
+        line-height: 2rem
+        font-size: 14pt
+        font-weight: 700
+        transition: opacity 300ms ease
+      &:hover::after
+        opacity: 0
+
 .rect
   width: 50vw
 
+  @include mobile
+    width: inherit
+    height: inherit
+
 .sq
   width: 25vw
+
+  @include mobile
+    width: inherit
+    height: inherit
 
 .purp
   background: $clemson-purple
@@ -108,22 +175,27 @@
 .white
   background: white
 
-.boxWrapper
-  overflow: hidden
-  position: relative
-  &:hover .boxUIelement
-    transform: scale(1.1)
-
 /** PHOTOS **/
 
 #box1.homepage
   background: url(/img/logos/tigerbandmedia.png) (center / 80%) no-repeat, url(/img/TigerBandMediaBackground.jpg)
 
+  @include mobile
+    width: 100vw
+
 #box2.homepage
   background: url(/img/clemson-tiger-band-syracuse-2016-526.jpg) (center / cover)
 
+  @include mobile
+    &::after
+      content: "Drumline"
+
 #box3.homepage
   background: white url(/img/logos/YouTube.png) (center / 50%) no-repeat
+
+  @include mobile
+    &::after
+      content: "YouTube"
 
 #box4.homepage
   background: url(/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg) (center / cover)
@@ -131,14 +203,35 @@
 #box5.homepage
   background: url(/img/clemson-tiger-band-pitt-2016-713.jpg) (center / cover)
 
+  @include mobile
+    &::after
+      content: "Donate"
+
+#box6.homepage
+
+  @include mobile
+    display: none
+
 #box7.homepage
   background: $clemson-purple url(/img/logos/CUTBA.svg) (center / 60%) no-repeat
+
+  @include mobile
+    &::after
+      content: "CUTBA"
 
 #box8.homepage
   background: url(/img/clemson-tiger-band-syracuse-2016-1054.jpg) (center / cover)
 
+  @include mobile
+    &::after
+      content: "Join"
+
 #box9.homepage
   background: url(/img/clemson-tiger-band-syracuse-2016-189.jpg) (center / cover)
+
+  @include mobile
+    &::after
+      content: "Merch"
 
 /** TEXT **/
 
@@ -183,52 +276,52 @@
     font-size: 24pt
     margin-bottom: 0.5rem
 
-#icons
-  display: flex
-  justify-content: space-between
-  align-items: center
+  #icons
+    display: flex
+    justify-content: space-between
+    align-items: center
 
-.socialBorder
-  border: 1px solid white
-  width: 4rem
-  height: 4rem
-  border-radius: 50%
-  transition: background-color 300ms ease
-  cursor: pointer
-  position: relative
+    .socialBorder
+      border: 1px solid white
+      width: 4rem
+      height: 4rem
+      border-radius: 50%
+      transition: background-color 300ms ease
+      cursor: pointer
+      position: relative
 
-#webLink, #twitter, #facebook, #instagram, #snapchat
-  background: $clemson-orange
+    #webLink, #twitter, #facebook, #instagram, #snapchat
+      background: $clemson-orange
 
-#webLink:hover
-  background: $innovation-gray
+    #webLink:hover
+      background: $innovation-gray
 
-#twitter:hover
-  background: #1da1f2
+    #twitter:hover
+      background: #1da1f2
 
-#facebook:hover
-  background: #3b5998
+    #facebook:hover
+      background: #3b5998
 
-#instagram:hover
-  background: #e1306c
-  background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%)
+    #instagram:hover
+      background: #e1306c
+      background: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%)
 
-#snapchat:hover
-  background: #FFFc00
-  img
-    filter: drop-shadow(0 0 0.5px black)
+    #snapchat:hover
+      background: #FFFc00
+      img
+        filter: drop-shadow(0 0 0.5px black)
 
-#youtube:hover
-  background: #ff0000
+    #youtube:hover
+      background: #ff0000
 
-.socialIcon
-  width: 2rem
-  height: auto
-  flex-wrap: wrap
-  position: absolute
-  left: 50%
-  top: 50%
-  transform: translate(-50%, -50%)
+    .socialIcon
+      width: 2rem
+      height: auto
+      flex-wrap: wrap
+      position: absolute
+      left: 50%
+      top: 50%
+      transform: translate(-50%, -50%)
 
 #socMedContainer.organizations
   padding: 1rem 0

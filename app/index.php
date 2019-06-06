@@ -55,7 +55,7 @@
 
     <div id="boxUI">
         <a href="http://www.tigerbandmedia.com/" target="_blank">
-            <div class="boxWrapper">
+            <div class="boxWrapper tigerbandmedia">
                 <div id="box1" class="boxUIelement rect orange homepage">
                 </div>
             </div>
@@ -148,7 +148,7 @@
 
     <div class="heading">
         <h3>Tiger Band</h3>
-        <h4>Announcements</h4>
+        <h4>Articles</h4>
     </div>
 
     <div id="Col2FlexContent" class="homepage">
