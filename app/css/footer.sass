@@ -1,15 +1,68 @@
 @import "variables"
+@import "breakpoints"
 
 /***** FOOTER *****/
+
 footer
   background: $clemson-orange
   margin-top: auto
+
   a
     text-decoration: none
     color: white
     transition: color 300ms ease
     &:hover
       color: $clemson-purple
+
+  table
+    width: 19.5vw
+    color: white
+    font-size: 11pt
+    font-weight: 400
+    td
+      padding: 0.25rem
+    tr:first-child td
+      font-weight: 400
+    &:first-child td, &:nth-child(2) td
+      text-align: left
+    &:nth-child(4) td, &:last-child td
+      text-align: right
+
+  @include mobile
+    border-radius: 10px 10px 0 0
+    width: 98vw
+    padding: 0
+
+    table
+      font-size: 10pt
+      width: 98vw
+      td
+        padding: 0
+      &:last-child td
+        text-align: center
+      &:first-child, &:nth-child(2), &:nth-child(3), &:nth-child(4)
+        display: none
+
+  #footerLogo
+    align-self: center
+    width: 50%
+    max-width: 20rem
+    display: block
+    margin: auto
+
+  #socMedContainer
+    width: 35%
+    position: relative
+    left: 50%
+    transform: translateX(-50%)
+    padding: 0.5rem
+
+    .socialBorder
+      width: 3.5rem
+      height: 3.5rem
+
+    @include mobile
+      display: none
 
 #footerColsLayout
   display: flex
@@ -18,41 +71,14 @@ footer
   width: 98vw
   padding: 1vw
 
-footer
-  table
-    width: 19.5vw
-    color: white
-    font-size: 11pt
-    font-weight: 400
-    tr:first-child td
-      font-weight: 400
-    &:first-child td, &:nth-child(2) td
-      text-align: left
-      padding: 0.25rem
-    &:nth-child(4) td, &:last-child td
-      text-align: right
-      padding: 0.25rem
-  #footerLogo
-    align-self: center
-    width: 50%
-    max-width: 20rem
-    display: block
-    margin: auto
+  @include mobile
+    width: 98vw
+    padding: 1vw 0
 
 hr
   width: 98vw
   background: white
   margin: auto
-
-footer #socMedContainer
-  width: 35%
-  position: relative
-  left: 50%
-  transform: translateX(-50%)
-  padding: 0.5rem
-  .socialBorder
-    width: 3.5rem
-    height: 3.5rem
 
 body.stickyFooter
   display: flex

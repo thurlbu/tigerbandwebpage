@@ -9,6 +9,51 @@ footer {
     transition: color 300ms ease; }
     footer a:hover {
       color: #522D80; }
+  footer table {
+    width: 19.5vw;
+    color: white;
+    font-size: 11pt;
+    font-weight: 400; }
+    footer table td {
+      padding: 0.25rem; }
+    footer table tr:first-child td {
+      font-weight: 400; }
+    footer table:first-child td, footer table:nth-child(2) td {
+      text-align: left; }
+    footer table:nth-child(4) td, footer table:last-child td {
+      text-align: right; }
+  @media (max-width: 800px) {
+    footer {
+      border-radius: 10px 10px 0 0;
+      width: 98vw;
+      padding: 0; }
+      footer table {
+        font-size: 10pt;
+        width: 98vw; }
+        footer table td {
+          padding: 0; }
+        footer table:last-child td {
+          text-align: center; }
+        footer table:first-child, footer table:nth-child(2), footer table:nth-child(3), footer table:nth-child(4) {
+          display: none; } }
+  footer #footerLogo {
+    align-self: center;
+    width: 50%;
+    max-width: 20rem;
+    display: block;
+    margin: auto; }
+  footer #socMedContainer {
+    width: 35%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0.5rem; }
+    footer #socMedContainer .socialBorder {
+      width: 3.5rem;
+      height: 3.5rem; }
+    @media (max-width: 800px) {
+      footer #socMedContainer {
+        display: none; } }
 
 #footerColsLayout {
   display: flex;
@@ -16,42 +61,15 @@ footer {
   align-items: start;
   width: 98vw;
   padding: 1vw; }
-
-footer table {
-  width: 19.5vw;
-  color: white;
-  font-size: 11pt;
-  font-weight: 400; }
-  footer table tr:first-child td {
-    font-weight: 400; }
-  footer table:first-child td, footer table:nth-child(2) td {
-    text-align: left;
-    padding: 0.25rem; }
-  footer table:nth-child(4) td, footer table:last-child td {
-    text-align: right;
-    padding: 0.25rem; }
-
-footer #footerLogo {
-  align-self: center;
-  width: 50%;
-  max-width: 20rem;
-  display: block;
-  margin: auto; }
+  @media (max-width: 800px) {
+    #footerColsLayout {
+      width: 98vw;
+      padding: 1vw 0; } }
 
 hr {
   width: 98vw;
   background: white;
   margin: auto; }
-
-footer #socMedContainer {
-  width: 35%;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 0.5rem; }
-  footer #socMedContainer .socialBorder {
-    width: 3.5rem;
-    height: 3.5rem; }
 
 body.stickyFooter {
   display: flex;

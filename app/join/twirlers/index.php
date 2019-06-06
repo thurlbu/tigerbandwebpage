@@ -278,9 +278,9 @@
     var startYear = 2017;
     var currentYear = new Date().getFullYear();
     if (startYear == currentYear) {
-        document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear;
+        document.getElementById("copyright").innerHTML = "&copy " + startYear;
     }
     else {
-        document.getElementById("copyright").innerHTML = "COPYRIGHT &copy " + startYear + " - " + currentYear;
+        document.getElementById("copyright").innerHTML = "&copy " + startYear + " - " + currentYear;
     }
 </script>

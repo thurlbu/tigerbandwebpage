@@ -116,5 +116,15 @@
     readfile("../../footer.html");
 ?>
 </body>
-
+<script type="text/javascript">
+    //Copyright Date
+    var startYear = 2017;
+    var currentYear = new Date().getFullYear();
+    if (startYear == currentYear) {
+        document.getElementById("copyright").innerHTML = "&copy " + startYear;
+    }
+    else {
+        document.getElementById("copyright").innerHTML = "&copy " + startYear + " - " + currentYear;
+    }
+</script>
 </html>
