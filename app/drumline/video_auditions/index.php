@@ -234,7 +234,7 @@
             </div>
             <div class="processText">
                 <h8>Wait for our response</h8>
-                <p>You will receive an email from us containing your status for call-back auditions by June 8.</p>
+                <p>You will receive an email from us containing your status for call-back auditions by July 8.</p>
             </div>
         </div>
     </div>
