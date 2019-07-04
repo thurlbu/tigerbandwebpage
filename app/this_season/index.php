@@ -73,25 +73,37 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2019 Clemson Tigers Football Schedule</h1>
+                <h1>2019 Clemson Tiger Band Performance Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
                         <th></th>
-                        <th>Opponent</th>
-                        <th>Designation</th>
+                        <th>Event</th>
+                        <th>Info/Location</th>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Aug 29</td>
                         <td>VS</td>
                         <td>Georgia Institute of Technology Yellow Jackets</td>
                         <td>National Championship Celebration</td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
+                        <td>Sept 6</td>
+                        <td></td>
+                        <td>First Friday Parade</td>
+                        <td>Clemson, SC - 6:00 PM</td>
+                    </tr>
+                    <tr class="orange-row">
                         <td>Sept 7</td>
                         <td>VS</td>
                         <td>Texas A&M Aggies</td>
                         <td>IPTAY Day</td>
+                    </tr>
+                    <tr class="carolina-panthers-row">
+                        <td>Sept 8</td>
+                        <td></td>
+                        <td>Carolina Panthers</td>
+                        <td>Bank of America Stadium in Charlotte, NC - 1:00pm</td>
                     </tr>
                     <tr>
                         <td>Sept 14</td>
@@ -99,7 +111,7 @@
                         <td>Syracuse University Orange</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Sept 21</td>
                         <td>VS</td>
                         <td>Universtiy of North Carolina at Charlotte 49ers</td>
@@ -111,7 +123,7 @@
                         <td>North Carolina University Tar Heels</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Oct 12</td>
                         <td>VS</td>
                         <td>Florida State University Seminoles</td>
@@ -123,13 +135,19 @@
                         <td>University of Louisville Cardinals</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
+                        <td>Oct 25</td>
+                        <td></td>
+                        <td>Tigerama</td>
+                        <td>Memorial Stadium at 7:00pm</td>
+                    </tr>
+                    <tr class="orange-row">
                         <td>Oct 26</td>
                         <td>VS</td>
                         <td>Boston College Eagles</td>
                         <td>Homecoming/Football Reunion Day</td>
                     </tr>
-                    <tr>
+                    <tr class="purple-row">
                         <td>Nov 2</td>
                         <td>VS</td>
                         <td>Wofford University Terriers</td>
@@ -141,7 +159,7 @@
                         <td>North Carolina State University Wolfpack</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Nov 16</td>
                         <td>VS</td>
                         <td>Wake Forest University Demon Deacons</td>
