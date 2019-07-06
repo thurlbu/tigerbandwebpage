@@ -30,12 +30,13 @@ footer
 
   @include mobile
     border-radius: 10px 10px 0 0
-    width: 98vw
+    width: 100vw
     padding: 0
+    margin: 0;
 
     table
       font-size: 10pt
-      width: 98vw
+      width: 100%
       td
         padding: 0
       &:last-child td
@@ -79,6 +80,9 @@ hr
   width: 98vw
   background: white
   margin: auto
+
+  @include mobile
+    display: none
 
 body.stickyFooter
   display: flex

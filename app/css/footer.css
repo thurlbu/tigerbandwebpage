@@ -25,11 +25,12 @@ footer {
   @media (max-width: 800px) {
     footer {
       border-radius: 10px 10px 0 0;
-      width: 98vw;
-      padding: 0; }
+      width: 100vw;
+      padding: 0;
+      margin: 0; }
       footer table {
         font-size: 10pt;
-        width: 98vw; }
+        width: 100%; }
         footer table td {
           padding: 0; }
         footer table:last-child td {
@@ -70,6 +71,9 @@ hr {
   width: 98vw;
   background: white;
   margin: auto; }
+  @media (max-width: 800px) {
+    hr {
+      display: none; } }
 
 body.stickyFooter {
   display: flex;
