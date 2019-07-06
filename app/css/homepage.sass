@@ -11,15 +11,17 @@
   overflow: hidden
 
   @include mobile
+    height: 105vh
     background: url('https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1559177783/Home%20page/home-background-mobile.jpg')
     background-size: cover
     background-position: center
     background-repeat: no-repeat
     margin: 0
+    border-radius: 0 0 10px 10px
 
   #screenShade
     width: 100vw
-    height: 100vh
+    height: 100%
     background: rgba(0, 0, 0, 0.5)
     background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0.3)), 75%, rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.8)))
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.8) 100%)
@@ -31,7 +33,7 @@
       left: 0
       top: 0
       width: 100vw
-      height: 100vh
+      height: 100%
       background: black
       z-index: -2
 
@@ -98,7 +100,7 @@
   @include mobile
     a:nth-child(1)
       order: 9
-      margin: 0
+      margin: 1rem 0 0 0;
     a:nth-child(4)
       display: none
     a:nth-child(8)

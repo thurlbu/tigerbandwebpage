@@ -25,7 +25,7 @@
 
 <!-- HEADER -->
 
-<label id="menuButton"><span>=</span></label>
+<label id="menuButton"><span></span></label>
 
 <!-- NAVIGATION-->
 
