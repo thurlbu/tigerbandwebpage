@@ -44,8 +44,8 @@
     <a href="/" class="mobileNav" target="_blank">Tiger Band Website</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true"
         class="mobileNav" target="_blank">CUTBA and Tiger Band Merchandise</a>
-    <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=368" class="mobileNav"
-        target="_blank">Registration: Parents Day, Homecoming, &amp; E-Newsletter</a>
+    <a href="https://secure.touchnet.net:443/C20569_ustores/web/product_detail.jsp?PRODUCTID=3973" class="mobileNav"
+        target="_blank">Purchase Tiger Band Parent T-Shirts</a>
     <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate to CUTBA</a>
     <a href="https://cualumni.clemson.edu/give/cutba-brick" class="mobileNav" target="_blank">Buy a Brick</a>
 </nav>
@@ -91,11 +91,11 @@
                 </div>
             </a>
 
-            <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=368" target="_blank">
+            <a href="https://secure.touchnet.net:443/C20569_ustores/web/product_detail.jsp?PRODUCTID=3973" target="_blank">
                 <div class="boxWrapper">
                     <div id="homepageNav2" class="boxUIelement rect purp">
                         <div class="textContainer">
-                            <p>Register: Parents Day, Homecoming, &amp; E-Newsletter</p>
+                            <p>Purchase Tiger Band Parent T-Shirts</p>
                         </div>
                     </div>
                 </div>
@@ -165,13 +165,13 @@
             </article>
 
             <article class="text">
-                <h1 class="purpleText">Looking for a unique gift?</h1>
+                <h1 class="purpleText">Looking for that perfect Tiger Band and CUTBA Merchandise?</h1>
                 <img class="articleImg" src='img/products.jpg'>
-                <p>The Clemson University Tiger Band Association is happy to announce that it has partnered with Entire
-                    Image Inc. to produce a line of new products made from old Tiger Band uniforms.</p>
+                <p>CUTBA is proud to announce that we have an exciting new line-up of shirts and accessories for the 2019 football season. We have new stylish shirts, hats, and accessories.. and prices are very attractive as well!</p>
+                <p>Many of your old favorites are still for sale, but new styles and materials have been added for you to take a look at. We also plan to add a few more new shirts in the near future, so please check the web site often for the new items!</p>
                 <p>Please <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true">visit
-                        our website</a> to see the pillows, uniforms in shadow boxes, and shakos. Don’t wait to place
-                    your order – quantities are limited.</p>
+                        our merchandise website</a> to check out what we have available including pillows, uniforms in shadow boxes, T-Shirts, Hats, and much, much more. Don’t wait to place
+                    your order as some quantities are limited.</p>
             </article>
         </div>
 
