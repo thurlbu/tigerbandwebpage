@@ -47,7 +47,7 @@
     <a href="https://secure.touchnet.net:443/C20569_ustores/web/product_detail.jsp?PRODUCTID=3973" class="mobileNav"
         target="_blank">Purchase Tiger Band Parent T-Shirts</a>
     <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate to CUTBA</a>
-    <a href="https://cualumni.clemson.edu/give/cutba-brick" class="mobileNav" target="_blank">Buy a Brick</a>
+    <a href="https://secure.touchnet.net/C20569_ustores/web/classic/product_detail.jsp?PRODUCTID=3463" class="mobileNav" target="_blank">PARENTS DAY REGISTRATION</a>
 </nav>
 
 <!--- PAGE CONTENT --->
@@ -121,11 +121,11 @@
                 </div>
             </a>
 
-            <a href="https://cualumni.clemson.edu/give/cutba-brick" target="_blank">
+            <a href="https://secure.touchnet.net/C20569_ustores/web/classic/product_detail.jsp?PRODUCTID=3463" target="_blank">
                 <div class="boxWrapper">
                     <div id="homepageNav5" class="boxUIelement rect orange">
                         <div class="textContainer">
-                            <p><u>Buy a brick:</u><br>John H Butler<br>&amp; Bruce F Cook<br>Tiger Band Plaza</p>
+                            <p>PARENTS DAY REGISTRATION</p>
                         </div>
                     </div>
                 </div>

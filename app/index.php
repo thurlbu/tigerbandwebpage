@@ -164,11 +164,12 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
             <article class="text">
-                <h1>Join the 2019 Clemson University Tiger Band</h1>
-                <a href="/join/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
-                <p>The deadline to submit audition videos for new members is July 22. Submit your video today!</p>
-                <p>Travel the country as a "Guardian of the Clemson Spirit," meet lifelong friends, and make lasting memories. Don't miss out on this once-in-a-lifetime opportunity!</p>
-                <p>For audition information visit our <a href="/join/">join page!</a></p>
+                <h1>2019 Kidz Klub</h1>
+                <img class="articleImg" src='/img/KIDZKLUB.jpg'>
+                <p>Join us at the Band Practice field outside the Brooks Center at 5:00 every Friday before a home game for the Tiger Band Kidz Klub!</p>
+                <p>Kids and their parents will get an up-close-and-personal introduction to Tiger Band, participate in our pregame rehearsal, and receive a cool Tiger Band gift!</p>
+                <p>Our first meeting will be on WEDNESDAY, AUGUST 28 due to the Thursday night game.</p>
+                <p>Hope to CU soon!!</p>
 
             </article>
 
@@ -194,6 +195,11 @@
                 </div>
             </article>
 
+
+        </div>
+
+        <div id="col2Flex">
+          <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
             <article class="media">
                 <h1>We are Tiger Band</h1>
                 <p>What does it mean to be a member of Tiger Band?</p>
@@ -203,16 +209,6 @@
                     </div>
                 </div>
             </article>
-        </div>
-
-        <div id="col2Flex">
-          <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
-              <article class="text">
-                  <h1>2019 Preseason Camp Schedule</h1>
-                  <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                  <p>Click here to view the 2019 Summer Preseason Camp Schedule.</p>
-                  <p>We're looking forward to welcoming the 2019 edition of "The Band that Shakes the Southland" to campus. Our pursuit of excellence continues!</p>
-              </article>
           </a>
 
           <article class="text">
@@ -241,15 +237,7 @@
                 </div>
             </article>
 
-            <article class="media">
-                <h1>Clemson University Alma Mater</h1>
-                <p>Traditions are important to Tiger Band. Enjoy Tiger Band singing the Clemson University Alma Mater led by Drum Major, Trey Lockett during our 2018 Preseason Camp.</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+        
 
         </div>
     </div>
