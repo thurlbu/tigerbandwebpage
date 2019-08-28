@@ -174,6 +174,16 @@
             </article>
 
             <article class="media">
+                <h1>We are Tiger Band</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </article>
+
+            <article class="media">
                 <h1>Tiger Band Performs The Greatest Showman</h1>
                 <p>Check out Tiger Band's performance of their final show of the 2018 season. The Greatest Showman!</p>
                 <p>A special thanks to the Russian Bar Trio for helping us out!</p>
@@ -199,17 +209,16 @@
         </div>
 
         <div id="col2Flex">
-          <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
             <article class="media">
-                <h1>We are Tiger Band</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
+                <h1>2019 Tiger Band Pregame Video</h1>
+                <p>Check out the video that plays as Tiger Band streams out of the tunnels into Death Valley to begin their Pregame Show!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ3Z9A1zqkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
-          </a>
+
 
           <article class="text">
               <h1>Scholarships!</h1>
@@ -237,7 +246,7 @@
                 </div>
             </article>
 
-        
+
 
         </div>
     </div>
