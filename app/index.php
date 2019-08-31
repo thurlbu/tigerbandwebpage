@@ -163,6 +163,17 @@
 
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
+            
+            <article class="media">
+                <h1>National Championship Celebration</h1>
+                <p>Celebrate Clemson's incredible 15-0 championship season with Tiger Band's halftime presentation from August 29!</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3efeyUexc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </article>
+
             <article class="text">
                 <h1>2019 Kidz Klub</h1>
                 <img class="articleImg" src='/img/KIDZKLUB.jpg'>
@@ -171,16 +182,6 @@
                 <p>Our first meeting will be on WEDNESDAY, AUGUST 28 due to the Thursday night game.</p>
                 <p>Hope to CU soon!!</p>
 
-            </article>
-
-            <article class="media">
-                <h1>We are Tiger Band</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
             </article>
 
             <article class="media">
@@ -236,16 +237,15 @@
               <p>We are truly humbled to have been selected for this prestigious honor!</p>
           </article>
 
-            <article class="media">
-                <h1>Tiger Band Performs The Avengers</h1>
-                <p>Check out Tiger Band's performance of their first show of the 2018 season. The Music from the Avengers!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/C-vJCUiwNOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
-
+          <article class="media">
+              <h1>We are Tiger Band</h1>
+              <p>What does it mean to be a member of Tiger Band?</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
 
 
         </div>
