@@ -176,6 +176,22 @@
         </div>
 
         <div id="col2Flex">
+          <article class="text">
+              <h1 class="purpleText">Alumni Band October 26</h1>
+              <img class="articleImg" src='img/AlumniBand.jpg'>
+              <p>Please plan to join your fellow Tiger Band Alumni for the 2019 Alumni Band activities and performance at Homecoming on October 26, 2019 (Clemson vs. Boston College).</p>
+              <p>We will be performing at pregame again this year to join in “The Most Exciting 25 Seconds in College Football!” </p>
+              <p><b>Participation Fee Structure:</b>
+              <br>We are implementing a Member and Non-Member fee structure this year to benefit CUTBA Members.
+              <br><a href="https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A5ee4b2de-48aa-4804-b490-e5e2becf1f10">Click here for more details</a></p>
+              <p><b>Uniform Requirements:</b>
+              <br>Last year we added a new lighter weight polyester mesh shirt option for our Alumni Band Uniform vs. the poly/cotton shirt from prior years. Either shirt can be worn as we have matched the color shades. If you have the original poly/cotton shirt and want to continue wearing it, there is no requirement to change. The new lighter weight shirt will be $22 (vs. $17 for the poly/cotton shirt).
+              <br><a href="https://documentcloud.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A21eae563-06c6-48f3-b7c5-c3d699244c58">Click here for more details</a></p>
+              <p>Early registration will run through <b>Tuesday, October 1st</b>
+              <br><a href="https://secure.touchnet.net/C20569_ustores/web/classic/product_detail.jsp?PRODUCTID=1973">Click here for more details</a></p>
+              <p>Questions - please email <a href="mailto:bensadams@bellsouth.net">Ben Adams.</a></p>
+          </article>
+
             <article class="text">
                 <h1 class="purpleText">Supporting Tiger Band...</h1>
                 <img class="articleImg" src='img/CUTBADonate.jpg'>
