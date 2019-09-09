@@ -186,14 +186,18 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2019 Major Shows</h1>
-                <b>To be announced...</b>
+                <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
+                <p>Southern Rock featuring guitarist Zach Thigpen</p>
+                <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
+                <p>Military Appreciation Day</p>
+                <p>Elton John</p>
             </article>
             <article class="text officers">
                 <h1>2019 Officers</h1>
                 <p><b>Commander:</b> Graham Jackson</p>
                 <p><b>Vice-Commander:</b> Alicia Cameron</p>
                 <p><b>Sergeant Major:</b> Samantha Regi</p>
-                <p><b>Drum Majors: </b>TBD</p>
+                <p><b>Drum Majors: </b> Victor Fleifel, Zach Jordan, &amp; Stephanie Linke</p>
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
                 <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
