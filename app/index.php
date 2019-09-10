@@ -163,7 +163,17 @@
 
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
-            
+
+            <article class="media">
+                <h1>Southern Rock Show</h1>
+                <p>Tiger Band welcomes special guest, guitarist Zach Thigpen, to Death Valley to help us perform the music of the Allman Brothers, Marshall Tucker Band, and Lynyrd Skynyrd!</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/40Tbj3H1TYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </article>
+
             <article class="media">
                 <h1>National Championship Celebration</h1>
                 <p>Celebrate Clemson's incredible 15-0 championship season with Tiger Band's halftime presentation from August 29!</p>
@@ -172,16 +182,6 @@
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3efeyUexc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
-            </article>
-
-            <article class="text">
-                <h1>2019 Kidz Klub</h1>
-                <img class="articleImg" src='/img/KIDZKLUB.jpg'>
-                <p>Join us at the Band Practice field outside the Brooks Center at 5:00 every Friday before a home game for the Tiger Band Kidz Klub!</p>
-                <p>Kids and their parents will get an up-close-and-personal introduction to Tiger Band, participate in our pregame rehearsal, and receive a cool Tiger Band gift!</p>
-                <p>Our first meeting will be on WEDNESDAY, AUGUST 28 due to the Thursday night game.</p>
-                <p>Hope to CU soon!!</p>
-
             </article>
 
             <article class="media">

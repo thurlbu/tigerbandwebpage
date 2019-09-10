@@ -187,7 +187,7 @@
             <article class="text shows">
                 <h1>2019 Major Shows</h1>
                 <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
-                <p>Southern Rock featuring guitarist Zach Thigpen</p>
+                <p><a href="https://www.youtube.com/watch?v=40Tbj3H1TYk">Southern Rock featuring guitarist Zach Thigpen</a></p>
                 <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
                 <p>Military Appreciation Day</p>
                 <p>Elton John</p>
