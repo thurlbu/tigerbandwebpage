@@ -54,12 +54,12 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="/img/Slider1.jpg">
-                <img class="slider" src="/img/Slider2.jpg">
-                <img class="slider" src="/img/Slider3.jpg">
-                <img class="slider" src="/img/Slider4.jpg">
-                <img class="slider" src="/img/Slider5.jpg">
-                <img class="slider" src="/img/Slider6.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206225/This%20season/clemson-tiger-band-gatech-2019-520.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206821/This%20season/clemson-tiger-band-natty-2018-427.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206821/This%20season/clemson-tiger-band-gsu-2018-346.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206820/This%20season/clemson-tiger-band-gsu-2018-297.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206825/This%20season/clemson-tiger-band-cotton-bowl-2018-259.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206819/This%20season/clemson-tiger-band-gatech-2019-250.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
