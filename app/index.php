@@ -184,32 +184,7 @@
                 </div>
             </article>
 
-            <article class="media">
-                <h1>Tiger Band Performs The Greatest Showman</h1>
-                <p>Check out Tiger Band's performance of their final show of the 2018 season. The Greatest Showman!</p>
-                <p>A special thanks to the Russian Bar Trio for helping us out!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/LEvXFGXPBAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
 
-            <article class="media">
-                <h1>Tiger Band Vlog - National Championship</h1>
-                <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
-                <p>Spoiler Alert - THE TIGERS ARE THE CHAMPIONS! Check out Tiger Band's trip to Santa Clara for the National Championship Game!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/MqgK6uoquuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
-
-
-        </div>
-
-        <div id="col2Flex">
             <article class="media">
                 <h1>2019 Tiger Band Pregame Video</h1>
                 <p>Check out the video that plays as Tiger Band streams out of the tunnels into Death Valley to begin their Pregame Show!</p>
@@ -221,6 +196,20 @@
             </article>
 
 
+        </div>
+
+        <div id="col2Flex">
+
+          <article class="media">
+              <h1>Tiger Band Vlog Season 2, Episode 1</h1>
+              <p>Follow the members of Tiger Band through their preseason camp and find out why we are so grateful to call Clemson home!</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/xsXJtvbAMTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
+
           <article class="text">
               <h1>Scholarships!</h1>
               <img class="articleImg" src='/img/Horns.jpg'>
@@ -229,13 +218,6 @@
               <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
           </article>
 
-          <article class="text">
-              <h1>CBDNA Recognition</h1>
-              <img class="articleImg" src='/img/CBDNA.png'>
-              <p>Tiger Band was one of 5 college marching bands selected to present at the 2018 College Band Directors National Association National Conference.</p>
-              <p>Tiger Band was selected to present their "Greatest Showman" halftime show.</p>
-              <p>We are truly humbled to have been selected for this prestigious honor!</p>
-          </article>
 
           <article class="media">
               <h1>We are Tiger Band</h1>
