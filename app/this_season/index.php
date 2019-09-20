@@ -204,9 +204,9 @@
                 <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
                 <p><b>Tenor Saxes:</b> Devin Lane</p>
                 <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
-                <p><b>Mellophone:</b> Chris Haigh &amp; Sarah Razavi</p>
+                <p><b>Mellophone:</b> Sarah Razavi</p>
                 <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
-                <p><b>Baritone:</b> Lorenzo Lewis &amp; Christopher Nahum</p>
+                <p><b>Baritone:</b> Anthony Benware &amp; Christopher Nahum</p>
                 <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
                 <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
                 <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
