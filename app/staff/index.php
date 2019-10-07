@@ -113,10 +113,10 @@
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Ms. Lee Maiden</h1>
-                <h2>Administrative Assistant</h2>
+                <h2>Administrative coordinator</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Maiden.png">
-                    <p>Lee Maiden has been Clemson Bands’ administrative assistant since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
+                    <p>Lee Maiden has been Clemson Bands’ administrative coordinator since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
                     <p>Prior to Clemson, Lee spent 30 years as executive assistant at LNP Engineering Plastics Inc., a multinational company, and throughout her career, worked closely with British and Japanese nationals, and employees in the U.S., Malaysia, South America, and The Netherlands.</p>
                 </div>
             </article>
