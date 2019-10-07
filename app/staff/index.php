@@ -144,9 +144,9 @@
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Hazel.jpg">
-                    <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is co-owner of Upstate Dance with over 600 students in dance and twirling in the upstate of South Carolina.</p>
+                    <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is owner of Carolina Superstars Baton and Dance with over 500 students in dance and twirling.</p>
                     <p>Because of her love for children, Hazel has devoted most of her life to teaching and helping young people develop a positive self-image. Her students have come from all over the southeastern United States and have held state, regional, and national titles in twirling.</p>
-                    <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University. She has 2 daughters both of whom are also active in the Upstate Dance Company and Tiger Band.</p>
+                    <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University.</p>
                 </div>
             </article>
 
