@@ -164,6 +164,17 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
 
+          <article class="text">
+              <h1>2019 - 2020 Pep Band</h1>
+                <img class="articleImg" src='/img/Pep Band.jpg'>
+              <p>We want YOU to audition for the Basketball Pep Band!</p>
+              <p>Wind auditions for the basketball band will be identical to the Tiger Band auditions.  Videos that have edited audio will not be accepted.  For an audition tutorial video and to download the music, please visit the <a href="http://tband.people.clemson.edu/join/winds/">Tiger Band Join Page.</a></p>
+              <p>Drumset auditions will take place in person on the evening (exact time TBA) of Thursday, October 17.  Drummers will play Tiger Rag, Eye of the Tiger, and Look What You Made Me Do with a small live band.</p>
+              <p>Audition videos for the 2019-2020 pep band must be submitted by noon on October 18 and drummers planning to audition must sign up by noon on October 16.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdwJQ2YuScQ3WeT-dpGLj9kBn-h_EkIRWvimbE5WCCUV0KvXg/viewform?usp=sf_link">Wind Audition Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsyy2_-3UImafHiYv1JU7cE2lRNFNPdFyEhk2bWQQNGcVEug/viewform?usp=sf_link">Drum Set Audition Sign Up Form</a></p>
+          </article>
+
             <article class="media">
                 <h1>Southern Rock Show</h1>
                 <p>Tiger Band welcomes special guest, guitarist Zach Thigpen, to Death Valley to help us perform the music of the Allman Brothers, Marshall Tucker Band, and Lynyrd Skynyrd!</p>
