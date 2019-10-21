@@ -113,7 +113,7 @@
               <h1>Scholarships!</h1>
               <img class="articleImg" src='/img/Horns.jpg'>
               <p>Did you know that any Clemson student, regardless of major, who participates in Tiger Band AND one of our auditioned ensembles in the fall AND spring semesters - Symphonic Band or Jazz Ensemble - will automatically receive a scholarship?  Automatic scholarships range from $400 to $500 per semester.</p>
-              <p>Students who have paricipated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
+              <p>Students who have participated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
               <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
           </article>
 
