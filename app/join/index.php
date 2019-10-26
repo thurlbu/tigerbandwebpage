@@ -109,6 +109,16 @@
     <div id="Col2FlexContent">
         <div id="col1Flex">
 
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+          <article class="text">
+              <h1>2019 High School Senior Day</h1>
+                <img class="articleImg" src='/img/SeniorDay2019.jpg'></a>
+              <p>On November 16, Tiger Band will invite around 75 lucky high school seniors to find out first hand what it's like to be a member of Tiger Band.</p>
+              <p>Students that are chosen to participate will join Tiger Band for their gameday rehearsal, perform at the 90-minutes-before-kick-off concert, march in the parade to the stadium, sit in the stands and play with the band during the game, and even perform on the field in Death Valley when the Tigers take on Wake Forest!</p>
+              <p>Space is limited, so please register as soon as possible to receive full consideration.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link">2019 High School Senior Day Registration Form</a></p>
+          </article>
+          
           <article class="text">
               <h1>Scholarships!</h1>
               <img class="articleImg" src='/img/Horns.jpg'>
