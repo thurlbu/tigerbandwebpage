@@ -343,80 +343,55 @@
       padding: 0 1.5rem
 
 /***** HOMEPAGE ARTICLES *****/
-
-#content, #Col2FlexContent.homepage
+.articles
   display: flex
-  flex-flow: row wrap
-  width: 96.5vw
-  width: calc(100vw - 4rem)
-  margin: auto
-  margin-bottom: 1.5rem
-  justify-content: space-between
-  padding-top: 0
-  align-items: flex-start
+  width: calc(100vw - 2rem)
 
-#content.centered
-  justify-content: center
+  flex-wrap: wrap
+  flex-direction: row
 
-article
-  width: calc(50% - 4rem)
-  margin: 1.5rem 0 0 0
-  padding: 1.5rem
-  background: white
-  overflow: auto
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2)
-  transition: none 150ms ease
-  transition-property: -webkit-box-shadow, -webkit-transform
-  transition-property: box-shadow, transform
-  transition-property: box-shadow, transform, -webkit-box-shadow, -webkit-transform
-  &.fullWidth p
+  justify-content: space-around
+
+  padding: 1rem
+
+  article
+    display: flex
     width: 100%
-  img.fullSize
-    width: 75%
-  &.text h1, &.media h1
-    margin: 0
-    font-weight: 400
-  &.text, &.media
-    h1
-      font-size: 24pt
-      color: $clemson-orange
-    h2
-      font-size: 14pt
-      font-weight: 400
-      color: $clemson-purple
-      font-style: italic
-      margin: 0
-    p
-      padding: 0.5rem 0
-      margin: 0
-  &.media h1
-    color: $clemson-purple
-  &.media p
-    padding: 0.5rem 0
-    margin: 0
+    max-width: 30rem
+    margin-bottom: 1rem
 
-#col1Flex > a, #col2Flex > a
-  text-decoration: none
-  color: black
+    border-radius: 10px
+    box-shadow: 3px 3px 6px rgba(0,0,0, .38)
 
-.articleImg
-  width: 70%
-  float: right
-  padding: 0.5rem
+    // flex-shrink: 1
 
-.iframeContainer
-  width: 75%
-  margin: auto
+    .article__image
+      width: 100%
+      padding: 0
+      border-radius: 10px 10px 0 0
 
-.iFrameAspectRatio
-  position: relative
-  padding-bottom: 56.25%
-  width: 100%
-  margin: auto
-  height: 0
-  iframe
-    position: absolute
-    left: 0
-    top: 0
-    height: 100%
-    width: 100%
+    .iFrameAspectRatio
+      position: relative
+      padding-bottom: 56.25%
+      width: 100%
+      margin: auto
+      height: 0
+      .article__media
+        position: absolute
+        left: 0
+        top: 0
+        height: 100%
+        width: 100%
+        padding: 0
+        border-radius: 10px 10px 0 0
+
+    .article__content
+      padding: 0.5rem
+
+      h1
+        font-size: 18px
+        color: $text-bold
+      
+      p
+        font-size: 14px
+        color: $text-regular

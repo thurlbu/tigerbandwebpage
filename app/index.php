@@ -151,96 +151,99 @@
         <h4>Articles</h4>
     </div>
 
-    <div id="Col2FlexContent" class="homepage">
-        <div id="col1Flex">
-            <article class="text">
+    <div class="articles">
+        <article class="text" href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/">
+            <img class="article__image" src="/img/2017TigerBand.jpg"/>
+            <div class="article__content">
                 <h1>Join the 2019 Clemson University Tiger Band</h1>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper"><img class="articleImg" src='/img/2017TigerBand.jpg'></a>
                 <p>Sign up today to receive information about what it takes to be a member of Tiger Band and get exclusive information and early registration to events BEFORE they're released to the public!</p>
                 <p>For audition information visit our <a href="/join/">join page!</a></p>
+            </div>
+        </article>
 
-            </article>
-
-            <article class="text">
+        <article class="text">
+            <img class="article__image" src='/img/Gaffney.jpg'>
+            <div class="article__content">
                 <h1>Tiger Band Tours</h1>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" class="boxWrapper"><img class="articleImg" src='/img/Gaffney.jpg'></a>
                 <p>Visiting campus this spring? Make sure to sign up for a Tiger Band Tour to round out your Clemson University visit!</p>
                 <p>Experience a Clemson Gameday through the eyes of one of our current Tiger Band members!</p>
                 <p>Families are welcome to join as one of our Tiger Band Ambassadors walk you through our gameday experience and show you what it's like to be a member of the Band that Shakes the Southland!</p>
                 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link">Click here to schedule a Tiger Band Tour on select Fridays and Saturdays throughout April!</a></p>
-            </article>
+            </div>
+        </article>
 
-            <article class="media">
+        <article class="media">
+            <div class="iFrameAspectRatio">
+                <iframe class="article__media" src="https://www.youtube.com/embed/LEvXFGXPBAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="article__content">
                 <h1>Tiger Band Performs The Greatest Showman</h1>
                 <p>Check out Tiger Band's performance of their final show of the 2018 season. The Greatest Showman!</p>
                 <p>A special thanks to the Russian Bar Trio for helping us out!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/LEvXFGXPBAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+            </div>
+        </article>
 
-            <article class="media">
+        <article class="media">
+            <div class="iFrameAspectRatio">
+                <iframe class="article__media" src="https://www.youtube.com/embed/MqgK6uoquuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+            <div class="article__content">
                 <h1>Tiger Band Vlog - National Championship</h1>
                 <p>Follow Tiger Band's season behind the scenes through our weekly Vlog produced by the Tiger Band Media Team!</p>
                 <p>Spoiler Alert - THE TIGERS ARE THE CHAMPIONS! Check out Tiger Band's trip to Santa Clara for the National Championship Game!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/MqgK6uoquuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+            </div>
+        </article>
 
-            <article class="media">
+        <article class="media">
+            <div class="iFrameAspectRatio">
+                <iframe class="article__media" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div class="article__content">
                 <h1>We are Tiger Band</h1>
                 <p>What does it mean to be a member of Tiger Band?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
-        </div>
+            </div>
+        </article>
 
-        <div id="col2Flex">
-          <article class="text">
-              <h1>Scholarships!</h1>
-              <img class="articleImg" src='/img/Horns.jpg'>
-              <p>Did you know that any Clemson student, regardless of major, who participates in Tiger Band AND one of our auditioned ensembles in the fall AND spring semesters - Symphonic Band or Jazz Ensemble - will automatically receive a scholarship?  Automatic scholarships range from $400 to $500 per semester.</p>
-              <p>Students who have paricipated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
-              <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
-          </article>
+        <article class="text">
+            <img class="article__image" src='/img/Horns.jpg'>
+            <div class="article__content">
+                <h1>Scholarships!</h1>
+                <p>Did you know that any Clemson student, regardless of major, who participates in Tiger Band AND one of our auditioned ensembles in the fall AND spring semesters - Symphonic Band or Jazz Ensemble - will automatically receive a scholarship?  Automatic scholarships range from $400 to $500 per semester.</p>
+                <p>Students who have paricipated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
+                <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
+            </div>
+        </article>
 
-          <article class="text">
-              <h1>2019 Twirler Auditions</h1>
-              <img class="articleImg" src='/img/TwirlerSection.jpg'>
-              <p>All information about 2019 Tiger Twirler and Feature Twirler auditions are posted on our <a href="http://tband.people.clemson.edu/join/twirlers/">join page.</a></p>
-              <p>Applications and video submissions are due on February 28 to be considered for Feature Twirler and April 26 for the Twirling line.  Applications are being accepted now!!<p>
-              <p>Don't miss this opportunity to become a member of the Band that Shakes the Southland!</p>
-          </article>
+        <article class="text">
+            <img class="article__image" src='/img/TwirlerSection.jpg'>
+            <div class="article__content">
+                <h1>2019 Twirler Auditions</h1>
+                <p>All information about 2019 Tiger Twirler and Feature Twirler auditions are posted on our <a href="http://tband.people.clemson.edu/join/twirlers/">join page.</a></p>
+                <p>Applications and video submissions are due on February 28 to be considered for Feature Twirler and April 26 for the Twirling line.  Applications are being accepted now!!<p>
+                <p>Don't miss this opportunity to become a member of the Band that Shakes the Southland!</p>
+            </div>
+        </article>
 
-            <article class="media">
+        <article class="media">
+            <div class="iFrameAspectRatio">
+                <iframe class="article__media" src="https://www.youtube.com/embed/C-vJCUiwNOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div class="article__content">
                 <h1>Tiger Band Performs The Avengers</h1>
                 <p>Check out Tiger Band's performance of their first show of the 2018 season. The Music from the Avengers!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/C-vJCUiwNOw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+            </div>
+        </article>
 
-            <article class="media">
+        <article class="media">
+            <div class="iFrameAspectRatio">
+                <iframe class="article__media" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+            <div class="article__content">
                 <h1>Clemson University Alma Mater</h1>
                 <p>Traditions are important to Tiger Band. Enjoy Tiger Band singing the Clemson University Alma Mater led by Drum Major, Trey Lockett during our 2018 Preseason Camp.</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/BBbSutvDE7o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+            </div>
+        </article>
 
-        </div>
     </div>
 </body>
 
