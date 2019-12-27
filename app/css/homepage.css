@@ -56,6 +56,18 @@
   border-top: 3px solid #F66733;
   border-bottom: 3px solid #F66733;
   animation: fadeIn 500ms ease-in-out; }
+  .fullpageTitle h2 {
+    font-size: 40pt;
+    line-height: 20pt; }
+  .fullpageTitle h1 {
+    font-size: 65pt; }
+  @media (max-width: 1455px) {
+    .fullpageTitle {
+      width: 75%; }
+      .fullpageTitle h2 {
+        font-size: 20pt; }
+      .fullpageTitle h1 {
+        font-size: 45pt; } }
   @media (max-width: 800px) {
     .fullpageTitle {
       width: 80%; }
