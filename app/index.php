@@ -39,7 +39,14 @@
 <body>
     <!-- FULL SCREEN MAIN VIDEO-->
     <div id="homeFullscrContainer">
-        <div id="screenShade"></div>
+        <div id="screenShade">
+            <div class="mobile-social">
+                <a href="https://www.instagram.com/cutigerband/" target="_blank"><img class="mobile-social-icon" src="/img/logos/instagram.png"></a>
+                <a href="https://www.facebook.com/cutigerband" target="_blank"><img class="mobile-social-icon" src="/img/logos/facebook.png"></a>
+                <a href="https://www.youtube.com/user/clemsontigerband" target="_blank"><img class="mobile-social-icon" src="/img/logos/youtubeWhite.png"></a>
+                <a href="https://twitter.com/cutigerband" target="_blank"><img class="mobile-social-icon" src="/img/logos/twitter.png"></a>
+            </div>
+        </div>
     </div>
 
     <div class="fullpageTitle">

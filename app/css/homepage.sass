@@ -40,6 +40,21 @@
     @include mobile
       background: rgba(0,0,0, 0.35)
 
+    .mobile-social
+      display: none
+
+      @include mobile
+        position: absolute
+        top: 88%
+
+        width: 100vw
+
+        display: flex
+        justify-content: space-around
+
+      .mobile-social-icon
+        height: 2.5rem
+
   video#homeVideoBkg
     position: absolute
     top: 50%
@@ -80,6 +95,12 @@
       font-size: 25pt
     h1
       font-size: 40pt
+
+  @media (max-width: 360px)
+    h2
+      font-size: 18pt
+    h1
+      font-size: 28pt
 
 .tbHomeLogo, .clemsonLogo
   animation: fadeIn 500ms ease-in-out

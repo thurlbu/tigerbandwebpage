@@ -36,6 +36,17 @@
     @media (max-width: 800px) {
       #homeFullscrContainer #screenShade {
         background: rgba(0, 0, 0, 0.35); } }
+    #homeFullscrContainer #screenShade .mobile-social {
+      display: none; }
+      @media (max-width: 800px) {
+        #homeFullscrContainer #screenShade .mobile-social {
+          position: absolute;
+          top: 88%;
+          width: 100vw;
+          display: flex;
+          justify-content: space-around; } }
+      #homeFullscrContainer #screenShade .mobile-social .mobile-social-icon {
+        height: 2.5rem; }
   #homeFullscrContainer video#homeVideoBkg {
     position: absolute;
     top: 50%;
@@ -75,6 +86,11 @@
         font-size: 25pt; }
       .fullpageTitle h1 {
         font-size: 40pt; } }
+  @media (max-width: 360px) {
+    .fullpageTitle h2 {
+      font-size: 18pt; }
+    .fullpageTitle h1 {
+      font-size: 28pt; } }
 
 .tbHomeLogo, .clemsonLogo {
   animation: fadeIn 500ms ease-in-out; }
