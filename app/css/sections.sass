@@ -42,7 +42,7 @@ $responsive-descr-font-size: 14pt
     #drum-majors .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961361/Section%20Pages/Drum%20Majors/thumbnail.jpg) (center / cover) no-repeat
     #twirlers .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961464/Section%20Pages/Twirlers/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453646/Section%20Pages/Twirlers/thumbnail-2.jpg) (center / cover) no-repeat
     #dancers .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961320/Section%20Pages/Dancers/thumbnail.jpg) (center / cover) no-repeat
     #guard .section
@@ -85,6 +85,12 @@ $responsive-descr-font-size: 14pt
     img
       top: 30%
   &.clarinet
+    img
+      top: 70%
+  &.dancer
+    img
+      top: 70%
+  &.twirler
     img
       top: 70%
 
@@ -168,6 +174,9 @@ $responsive-descr-font-size: 14pt
     z-index: -2
   img
     width: 100%
+  &.drum-major
+    img
+      top: 89%
 
 .auditionButton
   display: flex
@@ -215,6 +224,15 @@ $responsive-descr-font-size: 14pt
   &.baritone
     background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553770132/Section%20Pages/Baritones/recruiting-background.jpg)
     background-position-y: 30%
+  &.drum-major
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572462929/Section%20Pages/Drum%20Majors/recuriting-background.jpg)
+    background-position-y: 8%
+  &.dancer
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1556556718/Good%20photos/clemson-tiger-band-gsu-2018-393.jpg)
+    background-position-y: 60%
+  &.twirlers
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574653663/Section%20Pages/Twirlers/recruiting.jpg)
+    background-position-y: 35%
 
 @media (max-width: 1050px)
   .section-heading
@@ -234,6 +252,12 @@ $responsive-descr-font-size: 14pt
       img
         top: 50%
     &.clarinet
+      img
+        top: 50%
+    &.dancer
+      img
+        top: 50%
+    &.twirler
       img
         top: 50%
 
