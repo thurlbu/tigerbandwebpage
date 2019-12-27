@@ -132,4 +132,17 @@
             </a>
         </div>
     </div>
+
+    <div class="mobile-footer">
+        <div class="mobile-footer__logos-container">
+            <img class="tiger-band-logo" src="/img/logos/TigerBandFull.png">
+            <div class="line"></div>
+            <img class="clemson-logo-white" src="/img/logos/clemsonPawWhite.png">
+        </div>
+        <h5 class="mobile-footer__copywrite">Clemson University Tiger Band &copy; 2017 </h5>
+    </div>
 </footer>
+<script>
+    var currentYear = new Date().getFullYear();
+    document.getElementsByClassName("mobile-footer__copywrite")[0].innerHTML += " - " + currentYear;
+</script>

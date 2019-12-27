@@ -35,14 +35,7 @@ footer
     margin: 0;
 
     table
-      font-size: 10pt
-      width: 100%
-      td
-        padding: 0
-      &:last-child td
-        text-align: center
-      &:first-child, &:nth-child(2), &:nth-child(3), &:nth-child(4)
-        display: none
+      display: none
 
   #footerLogo
     align-self: center
@@ -90,3 +83,37 @@ body.stickyFooter
 
 .stickyFooterContent
   flex: 1 0 auto
+
+.mobile-footer
+  display: none
+
+  @include mobile
+    display: inline
+
+    &__logos-container
+      display: flex
+      justify-content: center
+      align-items: center
+      margin: 1rem
+
+      .clemson-logo-white
+        width: 30%
+        max-width: 8rem
+
+      .line
+        width: 0.15rem
+        height: 6rem
+        border-radius: 50px
+        background-color: white
+        margin: 0 2rem
+
+      .tiger-band-logo
+        width: 35%
+        max-width: 10rem
+
+    &__copywrite
+      margin: 0
+      padding-bottom: 0.5rem
+      color: white
+      font-size: 16px
+      text-align: center
