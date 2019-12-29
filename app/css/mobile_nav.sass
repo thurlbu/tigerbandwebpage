@@ -1,0 +1,66 @@
+@import "variables"
+
+body.mobile-nav 
+  background-color: #F8F8F8
+  
+.logos-container
+  display: flex
+  justify-content: center
+  align-items: center
+  padding: 2rem 1rem 1rem 1rem
+
+  .clemson-paw
+    width: 20%
+    max-width: 5rem
+
+  .line
+    width: 0.15rem
+    height: 4rem
+    border-radius: 50px
+    background-color: #F66733
+    margin: 0 0.5rem
+
+  .tiger-band-logo
+    width: 25%
+    max-width: 7rem
+
+.horizontal-slider
+  display: flex
+  flex-direction: row
+  flex-wrap: nowrap
+
+  width: 80rem
+
+  .nav-card
+    display: flex
+    width: 13rem
+
+    flex-direction: column
+
+    border-radius: 10px
+    box-shadow: 3px 3px 6px rgba(0,0,0, .38)
+
+    margin-left: 1rem
+
+    .nav-card__image
+      width: 100%
+      padding: 0
+      border-radius: 10px 10px 0 0
+
+      object-fit: cover
+
+    .nav-card__content
+      padding: 0 .25rem
+
+      h1
+        font-size: 18px
+        color: $text-bold
+        margin: 0
+        margin-top: .5rem
+        margin-bottom: 0.1rem
+      
+      p
+        font-size: 14px
+        color: $text-regular
+        margin: 0
+        margin-bottom: 0.25rem
