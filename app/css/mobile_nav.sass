@@ -47,8 +47,6 @@ body.mobile-nav
       padding: 0
       border-radius: 10px 10px 0 0
 
-      object-fit: cover
-
     .nav-card__content
       padding: 0 .25rem
 
@@ -64,3 +62,42 @@ body.mobile-nav
         color: $text-regular
         margin: 0
         margin-bottom: 0.25rem
+
+.home-contact-button-container
+  display: flex
+
+  width: 100vw
+  margin-top: 5rem
+
+  justify-content: space-around
+
+  .home-button
+    display: flex
+    flex-direction: column
+
+    justify-content: center
+    align-items: center
+    
+    .home-icon-container
+      display: flex
+      justify-content: center
+      width: 3.2rem
+      height: 3.2rem
+
+      border-radius: 10px
+
+      box-shadow: 3px 3px 6px rgba(0,0,0, .38)
+
+      background-image: url("/img/icons/home.png")
+      background-repeat: no-repeat
+      background-position-x: 50%
+      background-position-y: 50%
+
+      &#contact
+        background-image: url("/img/icons/mail.png")
+  
+    .home-button-label
+      font-size: 18px
+      color: $text-bold
+      margin: 0
+
