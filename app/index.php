@@ -25,7 +25,7 @@
 
 <!-- HEADER -->
 
-<a href="/mobile_nav/" <label id="menuButton"><span></span></label></a>
+<a href="/mobile_nav/"><label id="menuButton"><span></span></label></a>
 
 <!-- NAVIGATION-->
 

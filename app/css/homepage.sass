@@ -19,41 +19,32 @@
     margin: 0
     border-radius: 0 0 10px 10px
 
-  #screenShade
-    width: 100vw
-    height: 100%
-    background: rgba(0, 0, 0, 0.5)
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0.3)), 75%, rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.8)))
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.8) 100%)
-    z-index: -1
-    &::after
-      content: ""
-      display: block
-      position: absolute
-      left: 0
-      top: 0
-      width: 100vw
-      height: 100%
-      background: black
-      z-index: -2
+#screenShade
+  width: 100vw
+  height: 100%
+  background: rgba(0, 0, 0, 0.5)
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(from(rgba(0, 0, 0, 0.3)), 75%, rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.8)))
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 75%, rgba(0, 0, 0, 0.8) 100%)
+  z-index: -1
+
+  @include mobile
+    background: rgba(0,0,0, 0.35)
+    border-radius: 0 0 10px 10px
+
+  .mobile-social
+    display: none
 
     @include mobile
-      background: rgba(0,0,0, 0.35)
+      position: absolute
+      top: 88%
 
-    .mobile-social
-      display: none
+      width: 100vw
 
-      @include mobile
-        position: absolute
-        top: 88%
+      display: flex
+      justify-content: space-around
 
-        width: 100vw
-
-        display: flex
-        justify-content: space-around
-
-      .mobile-social-icon
-        height: 2.5rem
+    .mobile-social-icon
+      height: 2.5rem
 
   video#homeVideoBkg
     position: absolute
@@ -411,8 +402,10 @@
 
     .article__image
       width: 100%
+      max-height: 30rem
       padding: 0
       border-radius: 10px 10px 0 0
+      object-fit: cover
 
     .iFrameAspectRatio
       position: relative
