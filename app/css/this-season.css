@@ -1,0 +1,59 @@
+/***** COLORS *****/
+/***** THIS SEASON PAGE *****/
+.photoSlider {
+  width: 101.75%;
+  margin: 2rem 0; }
+  .photoSlider .controls {
+    width: 50%;
+    margin: auto;
+    margin-top: -2.5rem;
+    text-align: center; }
+  .photoSlider .slider {
+    display: none;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.2); }
+
+.dots {
+  display: inline-block;
+  height: 1rem;
+  width: 1rem;
+  border: 1px solid white;
+  border-radius: 50%;
+  transition: background 300ms ease;
+  cursor: pointer; }
+  .dots:hover {
+    background: white; }
+
+.dot-white {
+  background: white; }
+
+/** ARTICLE FORMATTING **/
+article.shows p {
+  padding-left: 2.5rem;
+  color: #86898C; }
+
+article.officers p {
+  color: #86898C; }
+
+article.officers b {
+  color: black; }
+
+/** FOOTBALL CALENDAR FORMATTING **/
+table {
+  width: 100%;
+  border-collapse: collapse; }
+  table tr.orange-row {
+    background: rgba(246, 103, 51, 0.5); }
+  table tr.purple-row {
+    background: rgba(82, 45, 128, 0.5); }
+  table tr.carolina-panthers-row {
+    background: rgba(0, 133, 202, 0.5); }
+
+th {
+  padding: 0.5rem; }
+
+td {
+  padding: 0.5rem; }
+  td:first-child, td:nth-child(2) {
+    text-align: center; }

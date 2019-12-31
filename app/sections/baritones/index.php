@@ -59,9 +59,9 @@
       <p>Senior | Mechanical Engineering <br/>Indian Land, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833778/Section%20Pages/Baritones/lorenzo-lewis.jpg">
-      <h3>Lorenzo Lewis</h3>
-      <p>Junior | Elementary Education <br/>Rock Hill, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574176190/Section%20Pages/Baritones/anthony-b.jpg">
+      <h3>Anthony Benware</h3>
+      <p>Senior | Marketing <br/>Charleston, SC</p>
     </div>
   </div>
 

@@ -50,12 +50,12 @@
             <!--- PHOTO SLIDER --->
 
             <div class="photoSlider">
-                <img class="slider" src="/img/Slider1.jpg">
-                <img class="slider" src="/img/Slider2.jpg">
-                <img class="slider" src="/img/Slider3.jpg">
-                <img class="slider" src="/img/Slider4.jpg">
-                <img class="slider" src="/img/Slider5.jpg">
-                <img class="slider" src="/img/Slider6.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206225/This%20season/clemson-tiger-band-gatech-2019-520.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206821/This%20season/clemson-tiger-band-natty-2018-427.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206821/This%20season/clemson-tiger-band-gsu-2018-346.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206820/This%20season/clemson-tiger-band-gsu-2018-297.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206825/This%20season/clemson-tiger-band-cotton-bowl-2018-259.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1568206819/This%20season/clemson-tiger-band-gatech-2019-250.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
@@ -69,25 +69,37 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2019 Clemson Tigers Football Schedule</h1>
+                <h1>2019 Clemson Tiger Band Performance Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
                         <th></th>
-                        <th>Opponent</th>
-                        <th>Designation</th>
+                        <th>Event</th>
+                        <th>Info/Location</th>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Aug 29</td>
                         <td>VS</td>
                         <td>Georgia Institute of Technology Yellow Jackets</td>
                         <td>National Championship Celebration</td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
+                        <td>Sept 6</td>
+                        <td></td>
+                        <td>First Friday Parade</td>
+                        <td>Clemson, SC - 6:00 PM</td>
+                    </tr>
+                    <tr class="orange-row">
                         <td>Sept 7</td>
                         <td>VS</td>
                         <td>Texas A&M Aggies</td>
                         <td>IPTAY Day</td>
+                    </tr>
+                    <tr class="carolina-panthers-row">
+                        <td>Sept 8</td>
+                        <td></td>
+                        <td>Carolina Panthers</td>
+                        <td>Bank of America Stadium in Charlotte, NC - 1:00pm</td>
                     </tr>
                     <tr>
                         <td>Sept 14</td>
@@ -95,7 +107,7 @@
                         <td>Syracuse University Orange</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Sept 21</td>
                         <td>VS</td>
                         <td>Universtiy of North Carolina at Charlotte 49ers</td>
@@ -107,7 +119,7 @@
                         <td>North Carolina University Tar Heels</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Oct 12</td>
                         <td>VS</td>
                         <td>Florida State University Seminoles</td>
@@ -119,13 +131,19 @@
                         <td>University of Louisville Cardinals</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
+                        <td>Oct 25</td>
+                        <td></td>
+                        <td>Tigerama</td>
+                        <td>Memorial Stadium at 7:00pm</td>
+                    </tr>
+                    <tr class="orange-row">
                         <td>Oct 26</td>
                         <td>VS</td>
                         <td>Boston College Eagles</td>
                         <td>Homecoming/Football Reunion Day</td>
                     </tr>
-                    <tr>
+                    <tr class="purple-row">
                         <td>Nov 2</td>
                         <td>VS</td>
                         <td>Wofford University Terriers</td>
@@ -137,7 +155,7 @@
                         <td>North Carolina State University Wolfpack</td>
                         <td></td>
                     </tr>
-                    <tr>
+                    <tr class="orange-row">
                         <td>Nov 16</td>
                         <td>VS</td>
                         <td>Wake Forest University Demon Deacons</td>
@@ -164,31 +182,35 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2019 Major Shows</h1>
-                <b>To be announced...</b>
+                <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
+                <p><a href="https://www.youtube.com/watch?v=40Tbj3H1TYk">Southern Rock featuring guitarist Zach Thigpen</a></p>
+                <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
+                <p>Military Appreciation Day</p>
+                <p>Elton John</p>
             </article>
             <article class="text officers">
                 <h1>2019 Officers</h1>
                 <p><b>Commander:</b> Graham Jackson</p>
                 <p><b>Vice-Commander:</b> Alicia Cameron</p>
                 <p><b>Sergeant Major:</b> Samantha Regi</p>
-                <p><b>Drum Majors: </b>TBD</p>
+                <p><b>Drum Majors: </b> Victor Fleifel, Zach Jordan, &amp; Stephanie Linke</p>
                 <h1>Section Leaders: </h1>
                 <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
                 <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
                 <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
                 <p><b>Tenor Saxes:</b> Devin Lane</p>
                 <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
-                <p><b>Mellophone:</b> Chris Haigh &amp; Sarah Razavi</p>
+                <p><b>Mellophone:</b> Sarah Razavi</p>
                 <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
-                <p><b>Baritone:</b> Lorenzo Lewis &amp; Christopher Nahum</p>
+                <p><b>Baritone:</b> Anthony Benware &amp; Christopher Nahum</p>
                 <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
                 <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
                 <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
                 <p><b>Twirlers:</b> Reagan King</p>
-                <p><b>Dancers:</b> TBD after auditions</p>
+                <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
                 <p><b>Head Band Manager:</b> Caroline Webb</p>
-                <p><b>Instrument Manager:</b> TBD</p>
-                <p><b>Uniform Manager:</b> TBD</p>
+                <p><b>Instrument Manager:</b> Alicia Cameron &amp; Eva Lamar</p>
+                <p><b>Uniform Manager:</b> Arianna Csiszer &amp; Sophie Greenwood</p>
             </article>
         </div>
     </div>
@@ -207,7 +229,7 @@
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
                 <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
-                <p>The full 2018 Friday Night Lights schedule will be announced right here early in the fall.</p>
+                <p>The full 2019 Friday Night Lights schedule will be announced right here early in the fall.</p>
             </article>
             <article class="text">
                 <h1>Amphitheater Concert</h1>

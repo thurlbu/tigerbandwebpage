@@ -113,10 +113,10 @@
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Ms. Lee Maiden</h1>
-                <h2>Administrative Assistant</h2>
+                <h2>Administrative coordinator</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Maiden.png">
-                    <p>Lee Maiden has been Clemson Bands’ administrative assistant since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
+                    <p>Lee Maiden has been Clemson Bands’ administrative coordinator since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
                     <p>Prior to Clemson, Lee spent 30 years as executive assistant at LNP Engineering Plastics Inc., a multinational company, and throughout her career, worked closely with British and Japanese nationals, and employees in the U.S., Malaysia, South America, and The Netherlands.</p>
                 </div>
             </article>
@@ -144,9 +144,9 @@
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Hazel.jpg">
-                    <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is co-owner of Upstate Dance with over 600 students in dance and twirling in the upstate of South Carolina.</p>
+                    <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is owner of Carolina Superstars Baton and Dance with over 500 students in dance and twirling.</p>
                     <p>Because of her love for children, Hazel has devoted most of her life to teaching and helping young people develop a positive self-image. Her students have come from all over the southeastern United States and have held state, regional, and national titles in twirling.</p>
-                    <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University. She has 2 daughters both of whom are also active in the Upstate Dance Company and Tiger Band.</p>
+                    <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University.</p>
                 </div>
             </article>
 
@@ -283,11 +283,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Tamara Bowen</h1>
+                <h1>Mrs. Tamara Sloan</h1>
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Tamara.jpg">
-                    <p>Tamara Bowen is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
+                    <p>Tamara Sloan is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
         </div>

@@ -114,7 +114,7 @@
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>14</b>
+                    <b>13</b>
                     <p>Band Camp</p>
                 </div>
             </div>
@@ -131,7 +131,7 @@
 
     <!--- ANNOUCEMENTS/ARTICLES --->
 
-    
+
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="media">
@@ -234,7 +234,7 @@
             </div>
             <div class="processText">
                 <h8>Wait for our response</h8>
-                <p>You will receive an email from us containing your status for call-back auditions by June 8.</p>
+                <p>You will receive an email from us containing your status for call-back auditions by July 8.</p>
             </div>
         </div>
     </div>

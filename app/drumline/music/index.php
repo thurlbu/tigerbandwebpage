@@ -57,8 +57,7 @@
         <div id="col1Flex">
             <article class="text fullWidth">
                 <h1 class="purpleText">Sheet Music</h1>
-                <p>Welcome to the CUD Music Page! Below you will find Audition and Warm Up Exercises, Supplemental Material, Pregame Music, and Cadences.</p>
-		<p>All audition music for the 2019 season will be updated on this site on December 15th.</p>
+                <p>Welcome to the CUD Music Page! Below you will find Callback Audition and Warm Up Exercises, Supplemental Material, Pregame Music, and Cadences.</p>
                 <p>For an explanation of the Cymbal notation, please refer to the <a href="../doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank">2010 Cymbal Notation Legend</a>.</p>
                 <p><strong>Note:</strong> some of the older arrangements (such as Pregame Music) use a different system - email a staff member if you have any questions.</p>
 
@@ -75,16 +74,12 @@
                     <th colspan="4">Callback Audition Excerpt</th>
                 </tr>
                 <tr>
-                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 10th.</td>
+                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 10.</td>
                 </tr>
                 <tr>
                     <td>2019 Callback Excerpt</td>
-                    <td>Coming in July</td>
-                    <td>Score |
-                    S |
-                    Q |
-                    B |
-                    C</td>
+                    <td>Coming on August 3</td>
+                    <td><a href="https://drive.google.com/open?id=0B4DWpMjnU4xANngzd1k1UDFzbVlYWWo2NHdTV2lNTlZhQmVR" title="Audition Excerpt - Score" target="_blank">Score</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAaktkb29yVVc5N2E2MHFsRmd1Q3J1cVpOVXRB" title="Audition Excerpt - Snare" target="_blank">S</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xATmtZeS14cnNCNURNNWtrTWJvQ21tMHBpMzVF" title="Audition Excerpt - Quad" target="_blank">Q</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAaFRoallxSHlTVGtYdGFZdkhpanlkUTQ4M19Z" title="Audition Excerpt - Bass" target="_blank">B</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAOG9ka0x0cmJmRkZrTUdPOG9aYzZXQ3l1eDk0" title="Audition Excerpt - Cymbal" target="_blank">C</a></td>
                     <td><a href="../doc/CymbalKey.pdf" target="_blank">** Cymbal Notation **</a></td>
                 </tr>
 		</table>

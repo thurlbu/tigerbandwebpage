@@ -109,22 +109,25 @@
     <div id="Col2FlexContent">
         <div id="col1Flex">
 
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+          <article class="text">
+              <h1>2019 High School Senior Day</h1>
+                <img class="articleImg" src='/img/SeniorDay2019.jpg'></a>
+              <p>On November 16, Tiger Band will invite around 75 lucky high school seniors to find out first hand what it's like to be a member of Tiger Band.</p>
+              <p>Students that are chosen to participate will join Tiger Band for their gameday rehearsal, perform at the 90-minutes-before-kick-off concert, march in the parade to the stadium, sit in the stands and play with the band during the game, and even perform on the field in Death Valley when the Tigers take on Wake Forest!</p>
+              <p>Space is limited, so please register as soon as possible to receive full consideration.</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link">2019 High School Senior Day Registration Form</a></p>
+          </article>
+          
           <article class="text">
               <h1>Scholarships!</h1>
               <img class="articleImg" src='/img/Horns.jpg'>
               <p>Did you know that any Clemson student, regardless of major, who participates in Tiger Band AND one of our auditioned ensembles in the fall AND spring semesters - Symphonic Band or Jazz Ensemble - will automatically receive a scholarship?  Automatic scholarships range from $400 to $500 per semester.</p>
-              <p>Students who have paricipated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
+              <p>Students who have participated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
               <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
           </article>
 
-          <article class="text">
-              <h1>Tiger Band Tours</h1>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link" class="boxWrapper"><img class="articleImg" src='/img/Gaffney.jpg'></a>
-              <p>Visiting campus this spring? Make sure to sign up for a Tiger Band Tour to round out your Clemson University visit!</p>
-              <p>Experience a Clemson Gameday through the eyes of one of our current Tiger Band members!</p>
-              <p>Families are welcome to join as one of our Tiger Band Ambassadors walk you through our gameday experience and show you what it's like to be a member of the Band that Shakes the Southland!</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSey6vLaz9zrwRNtBBIR8eyi07bIjCJFOA-MeSogzpKf-OZNRQ/viewform?usp=sf_link">Click here to schedule a Tiger Band Tour on select Fridays and Saturdays throughout April!</a></p>
-          </article>
+
         </div>
 
         <div id="col1Flex">
@@ -134,6 +137,15 @@
                     <img class="articleImg" src='/img/CuseAmp.jpg'>
                     <p>Click here to register with Tiger Band and receive information about what it takes to be a member of Tiger Band.</p>
                     <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
+                </article>
+            </a>
+
+            <a href="/img/2019Preseason.pdf" class="boxWrapper" target="_blank">
+                <article class="text">
+                    <h1>2019 Preseason Camp Schedule</h1>
+                    <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
+                    <p>Click here to view the 2019 Summer Preseason Camp Schedule.</p>
+                    <p>We're looking forward to welcoming the 2019 edition of "The Band that Shakes the Southland" to campus. Our pursuit of excellence continues!</p>
                 </article>
             </a>
         </div>
