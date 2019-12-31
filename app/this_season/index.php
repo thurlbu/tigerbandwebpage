@@ -44,8 +44,8 @@
         <h4>2019</h4>
     </div>
 
-    <div id="Col2FlexContent">
-        <div id="col1Flex">
+    <div class="articles_container">
+        <div class="articles">
 
             <!--- PHOTO SLIDER --->
 
@@ -69,148 +69,154 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2019 Clemson Tiger Band Performance Schedule</h1>
-                <table>
-                    <tr>
-                        <th>Date</th>
-                        <th></th>
-                        <th>Event</th>
-                        <th>Info/Location</th>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Aug 29</td>
-                        <td>VS</td>
-                        <td>Georgia Institute of Technology Yellow Jackets</td>
-                        <td>National Championship Celebration</td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Sept 6</td>
-                        <td></td>
-                        <td>First Friday Parade</td>
-                        <td>Clemson, SC - 6:00 PM</td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Sept 7</td>
-                        <td>VS</td>
-                        <td>Texas A&M Aggies</td>
-                        <td>IPTAY Day</td>
-                    </tr>
-                    <tr class="carolina-panthers-row">
-                        <td>Sept 8</td>
-                        <td></td>
-                        <td>Carolina Panthers</td>
-                        <td>Bank of America Stadium in Charlotte, NC - 1:00pm</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 14</td>
-                        <td>@</td>
-                        <td>Syracuse University Orange</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Sept 21</td>
-                        <td>VS</td>
-                        <td>Universtiy of North Carolina at Charlotte 49ers</td>
-                        <td>Family Weekend</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 28</td>
-                        <td>@</td>
-                        <td>North Carolina University Tar Heels</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Oct 12</td>
-                        <td>VS</td>
-                        <td>Florida State University Seminoles</td>
-                        <td>Solid Orange Day</td>
-                    </tr>
-                    <tr>
-                        <td>Oct 19</td>
-                        <td>@</td>
-                        <td>University of Louisville Cardinals</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Oct 25</td>
-                        <td></td>
-                        <td>Tigerama</td>
-                        <td>Memorial Stadium at 7:00pm</td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Oct 26</td>
-                        <td>VS</td>
-                        <td>Boston College Eagles</td>
-                        <td>Homecoming/Football Reunion Day</td>
-                    </tr>
-                    <tr class="purple-row">
-                        <td>Nov 2</td>
-                        <td>VS</td>
-                        <td>Wofford University Terriers</td>
-                        <td>Military Appreciation Day/Purple Out</td>
-                    </tr>
-                    <tr>
-                        <td>Nov 9</td>
-                        <td>@</td>
-                        <td>North Carolina State University Wolfpack</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Nov 16</td>
-                        <td>VS</td>
-                        <td>Wake Forest University Demon Deacons</td>
-                        <td>Senior Day/Hall of Fame Day</td>
-                    </tr>
-                    <tr>
-                        <td>Nov 30</td>
-                        <td>@</td>
-                        <td>University of South Carolina Gamecocks</td>
-                        <td>Palmetto Bowl</td>
-                    </tr>
-                    <tr>
-                        <td>Dec 7</td>
-                        <td>@</td>
-                        <td>ACC Championship</td>
-                        <td>Charlotte, NC</td>
-                    </tr>
-                </table>
+                <div class="article__content">
+                    <h1>2019 Clemson Tiger Band Performance Schedule</h1>
+                    <table>
+                        <tr>
+                            <th>Date</th>
+                            <th></th>
+                            <th>Event</th>
+                            <th>Info/Location</th>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Aug 29</td>
+                            <td>VS</td>
+                            <td>Georgia Institute of Technology Yellow Jackets</td>
+                            <td>National Championship Celebration</td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Sept 6</td>
+                            <td></td>
+                            <td>First Friday Parade</td>
+                            <td>Clemson, SC - 6:00 PM</td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Sept 7</td>
+                            <td>VS</td>
+                            <td>Texas A&M Aggies</td>
+                            <td>IPTAY Day</td>
+                        </tr>
+                        <tr class="carolina-panthers-row">
+                            <td>Sept 8</td>
+                            <td></td>
+                            <td>Carolina Panthers</td>
+                            <td>Bank of America Stadium in Charlotte, NC - 1:00pm</td>
+                        </tr>
+                        <tr>
+                            <td>Sept 14</td>
+                            <td>@</td>
+                            <td>Syracuse University Orange</td>
+                            <td></td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Sept 21</td>
+                            <td>VS</td>
+                            <td>Universtiy of North Carolina at Charlotte 49ers</td>
+                            <td>Family Weekend</td>
+                        </tr>
+                        <tr>
+                            <td>Sept 28</td>
+                            <td>@</td>
+                            <td>North Carolina University Tar Heels</td>
+                            <td></td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Oct 12</td>
+                            <td>VS</td>
+                            <td>Florida State University Seminoles</td>
+                            <td>Solid Orange Day</td>
+                        </tr>
+                        <tr>
+                            <td>Oct 19</td>
+                            <td>@</td>
+                            <td>University of Louisville Cardinals</td>
+                            <td></td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Oct 25</td>
+                            <td></td>
+                            <td>Tigerama</td>
+                            <td>Memorial Stadium at 7:00pm</td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Oct 26</td>
+                            <td>VS</td>
+                            <td>Boston College Eagles</td>
+                            <td>Homecoming/Football Reunion Day</td>
+                        </tr>
+                        <tr class="purple-row">
+                            <td>Nov 2</td>
+                            <td>VS</td>
+                            <td>Wofford University Terriers</td>
+                            <td>Military Appreciation Day/Purple Out</td>
+                        </tr>
+                        <tr>
+                            <td>Nov 9</td>
+                            <td>@</td>
+                            <td>North Carolina State University Wolfpack</td>
+                            <td></td>
+                        </tr>
+                        <tr class="orange-row">
+                            <td>Nov 16</td>
+                            <td>VS</td>
+                            <td>Wake Forest University Demon Deacons</td>
+                            <td>Senior Day/Hall of Fame Day</td>
+                        </tr>
+                        <tr>
+                            <td>Nov 30</td>
+                            <td>@</td>
+                            <td>University of South Carolina Gamecocks</td>
+                            <td>Palmetto Bowl</td>
+                        </tr>
+                        <tr>
+                            <td>Dec 7</td>
+                            <td>@</td>
+                            <td>ACC Championship</td>
+                            <td>Charlotte, NC</td>
+                        </tr>
+                    </table>
+                </div>
             </article>
         </div>
 
         <!--- INFORMATION ARTICLES --->
 
-        <div id="col2Flex">
+        <div class="articles">
             <article class="text shows">
-                <h1>2019 Major Shows</h1>
-                <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
-                <p><a href="https://www.youtube.com/watch?v=40Tbj3H1TYk">Southern Rock featuring guitarist Zach Thigpen</a></p>
-                <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
-                <p>Military Appreciation Day</p>
-                <p>Elton John</p>
+                <div class="article__content">
+                    <h1>2019 Major Shows</h1>
+                    <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
+                    <p><a href="https://www.youtube.com/watch?v=40Tbj3H1TYk">Southern Rock featuring guitarist Zach Thigpen</a></p>
+                    <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
+                    <p>Military Appreciation Day</p>
+                    <p>Elton John</p>
+                </div>
             </article>
             <article class="text officers">
-                <h1>2019 Officers</h1>
-                <p><b>Commander:</b> Graham Jackson</p>
-                <p><b>Vice-Commander:</b> Alicia Cameron</p>
-                <p><b>Sergeant Major:</b> Samantha Regi</p>
-                <p><b>Drum Majors: </b> Victor Fleifel, Zach Jordan, &amp; Stephanie Linke</p>
-                <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
-                <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
-                <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
-                <p><b>Tenor Saxes:</b> Devin Lane</p>
-                <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
-                <p><b>Mellophone:</b> Sarah Razavi</p>
-                <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
-                <p><b>Baritone:</b> Anthony Benware &amp; Christopher Nahum</p>
-                <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
-                <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
-                <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
-                <p><b>Twirlers:</b> Reagan King</p>
-                <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
-                <p><b>Head Band Manager:</b> Caroline Webb</p>
-                <p><b>Instrument Manager:</b> Alicia Cameron &amp; Eva Lamar</p>
-                <p><b>Uniform Manager:</b> Arianna Csiszer &amp; Sophie Greenwood</p>
+                <div class="article__content">
+                    <h1>2019 Officers</h1>
+                    <p><b>Commander:</b> Graham Jackson</p>
+                    <p><b>Vice-Commander:</b> Alicia Cameron</p>
+                    <p><b>Sergeant Major:</b> Samantha Regi</p>
+                    <p><b>Drum Majors: </b> Victor Fleifel, Zach Jordan, &amp; Stephanie Linke</p>
+                    <h1>Section Leaders: </h1>
+                    <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
+                    <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
+                    <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
+                    <p><b>Tenor Saxes:</b> Devin Lane</p>
+                    <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
+                    <p><b>Mellophone:</b> Sarah Razavi</p>
+                    <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
+                    <p><b>Baritone:</b> Anthony Benware &amp; Christopher Nahum</p>
+                    <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
+                    <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
+                    <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
+                    <p><b>Twirlers:</b> Reagan King</p>
+                    <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
+                    <p><b>Head Band Manager:</b> Caroline Webb</p>
+                    <p><b>Instrument Manager:</b> Alicia Cameron &amp; Eva Lamar</p>
+                    <p><b>Uniform Manager:</b> Arianna Csiszer &amp; Sophie Greenwood</p>
+                </div>
             </article>
         </div>
     </div>
@@ -221,52 +227,64 @@
             <h4>Football Activities</h4>
         </div>
 
-    <div id="Col2FlexContent">
-        <div id="col1Flex">
+    <div class="articles_container">
+        <div class="articles">
             <article class="text">
-                <h1>Friday Night Lights</h1>
-                    <img class="articleImg" src='/img/Friday Night Lights.jpg'>
-                <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
-                <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
-                <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
-                <p>The full 2019 Friday Night Lights schedule will be announced right here early in the fall.</p>
+                <img class="article__image" src='/img/Friday Night Lights.jpg'>
+                <div class="article__content">
+                    <h1>Friday Night Lights</h1>
+                    <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
+                    <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
+                    <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
+                    <p>The full 2019 Friday Night Lights schedule will be announced right here early in the fall.</p>
+                </div>
             </article>
             <article class="text">
-                <h1>Amphitheater Concert</h1>
-                    <img class="articleImg" src='/img/90Minutes.jpg'>
-                <p>90-minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
-                <p>What better way to prepare for a gameday in Clemson than to listen to Tiger Band in this beautiful setting with thousands of Clemson fans?</p>
+                <img class="article__image" src='/img/90Minutes.jpg'>
+                <div class="article__content">
+                    <h1>Amphitheater Concert</h1>
+                    <p>90-minutes before kick-off, Tiger Band serenades the crowd with Clemson favorites and previews the day's halftime show. See the dancers, twirlers, and color guard and enjoy the sounds of Tiger Band.</p>
+                    <p>What better way to prepare for a gameday in Clemson than to listen to Tiger Band in this beautiful setting with thousands of Clemson fans?</p>
+                </div>
             </article>
             <article class="text">
-                <h1>The Most Exciting 25 Seconds in College Football</h1>
-                    <img class="articleImg" src='/img/25Seconds.jpg'>
-                <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag.</p>
-                <p>In 1985, Brent Musburger dubbed our stadium entrance "the most exciting 25 seconds in college football" and anyone who has seen it is sure to agree.</p>
-                <p>It is truly an experience you will never forget.</p>
+                <img class="article__image" src='/img/25Seconds.jpg'>
+                <div class="article__content">
+                    <h1>The Most Exciting 25 Seconds in College Football</h1>
+                    <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag.</p>
+                    <p>In 1985, Brent Musburger dubbed our stadium entrance "the most exciting 25 seconds in college football" and anyone who has seen it is sure to agree.</p>
+                    <p>It is truly an experience you will never forget.</p>
+                </div>
             </article>
         </div>
-        <div id="col2Flex">
+        <div class="articles">
             <article class="text">
-                <h1>Tiger Walk</h1>
-                    <img class="articleImg" src='/img/TigerWalk.jpg'>
-                <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley.</p>
-                <p>Get up close and personal with the team as they walk through the fans on their way to the stadium to prepare for the game.</p>
-                <p>Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
+                <img class="article__image" src='/img/TigerWalk.jpg'>
+                <div class="article__content">
+                    <h1>Tiger Walk</h1>
+                    <p>Two hours and ten minutes before kick-off, Tiger Band welcomes the football team to Death Valley.</p>
+                    <p>Get up close and personal with the team as they walk through the fans on their way to the stadium to prepare for the game.</p>
+                    <p>Come join Tiger Band at the Oculus and help us cheer on our Clemson Tigers!</p>
+                </div>
             </article>
             <article class="text">
-                <h1>Game Day Parade</h1>
-                    <img class="articleImg" src='/img/ParadeHighFive.jpg'>
-                <p>60-minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley.</p>
-                <p>Join thousands of fans lining the streets of Clemson's campus to welcome Tiger Band into Death Valley.</p>
-                <p>Tiger Band will get you pumped up for gameday with their energy and passion and the sounds of Tiger Rag.</p>
-                <p>If you're lucky, you may even get a high five!</p>
+                <img class="article__image" src='/img/ParadeHighFive.jpg'>
+                <div class="article__content">
+                    <h1>Game Day Parade</h1>
+                    <p>60-minutes before kickoff, Tiger Band parades down Fort Hill to Death Valley.</p>
+                    <p>Join thousands of fans lining the streets of Clemson's campus to welcome Tiger Band into Death Valley.</p>
+                    <p>Tiger Band will get you pumped up for gameday with their energy and passion and the sounds of Tiger Rag.</p>
+                    <p>If you're lucky, you may even get a high five!</p>
+                </div>
             </article>
             <article class="text">
-                <h1>Post-Game</h1>
-                    <img class="articleImg" src='/img/PostGameDrums.jpg'>
-                <p>After gathering at the paw at every home game, stick around to enjoy a post-game concert from the talented Clemson University Drumline.</p>
-                <p>You never know what you'll get from the CUD.  Upside-down or right-side-up, they're sure to entertain with their music and choreography.</p>
-                <p>One lucky fan even walks away with a special gift.  Come out and support the drumline at midfield after the game!</p>
+                <img class="article__image" src='/img/PostGameDrums.jpg'>
+                <div class="article__content">
+                    <h1>Post-Game</h1>
+                    <p>After gathering at the paw at every home game, stick around to enjoy a post-game concert from the talented Clemson University Drumline.</p>
+                    <p>You never know what you'll get from the CUD.  Upside-down or right-side-up, they're sure to entertain with their music and choreography.</p>
+                    <p>One lucky fan even walks away with a special gift.  Come out and support the drumline at midfield after the game!</p>
+                </div>
             </article>
         </div>
     </div>

@@ -2,7 +2,7 @@
 /***** THIS SEASON PAGE *****/
 .photoSlider {
   width: 101.75%;
-  margin: 2rem 0; }
+  margin-bottom: 2rem; }
   .photoSlider .controls {
     width: 50%;
     margin: auto;
