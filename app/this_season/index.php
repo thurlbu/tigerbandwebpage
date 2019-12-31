@@ -24,15 +24,11 @@
 
 <!--- HEADER --->
 
-<input type='checkbox' id='mobileMenu'>
-
-<div id="mobileHeader">
-	<a href="/"><img id="tbMobileLogo" src="/img/logos/TigerBandMobileLogo.png" width="120"></a>
-	<label for="mobileMenu" id="menuButton"><span>=</span></label>
-</div>
-
-<label id='mobileScreenShade' for='mobileMenu'></label>
-
+    <a href="/mobile_nav/">
+      <label id="menuButton">
+        <span></span>
+      </label>
+    </a>
 <!--- NAVIGATION --->
 
 <?php
@@ -53,7 +49,7 @@
 
             <!--- PHOTO SLIDER --->
 
-            <div id="photoSlider">
+            <div class="photoSlider">
                 <img class="slider" src="/img/Slider1.jpg">
                 <img class="slider" src="/img/Slider2.jpg">
                 <img class="slider" src="/img/Slider3.jpg">
