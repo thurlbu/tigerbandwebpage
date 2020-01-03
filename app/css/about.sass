@@ -1,9 +1,11 @@
 @import "variables"
+@import "breakpoints"
 
 /***** ABOUT PAGE *****/
 .expandButton
   position: absolute
   right: 0.25rem
+  top: 2.5rem
   pointer-events: none
   user-select: none
   img
@@ -52,3 +54,22 @@ img.staffPortrait
 
 .aboutLinks
   text-align: center
+
+.staff-name
+  color: $clemson-orange !important
+  font-size: 24pt !important
+  font-weight: 400 !important
+
+  @include mobile
+    font-size: 18pt !important
+
+.staff-title
+  color: $clemson-purple !important
+  font-size: 13pt
+  font-style: italic
+
+.force-full-width
+  width: calc(47% - 2rem)
+
+  @include mobile
+    width: calc(100%)
