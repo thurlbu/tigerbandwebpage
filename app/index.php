@@ -163,15 +163,16 @@
 
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link" class="boxWrapper" target="_blank">
-         <article class="text">
-             <h1>2019 High School Senior Day</h1>
-               <img class="articleImg" src='/img/SeniorDay2019.jpg'></a>
-             <p>On November 16, Tiger Band will invite around 75 lucky high school seniors to find out first hand what it's like to be a member of Tiger Band.</p>
-             <p>Students that are chosen to participate will join Tiger Band for their gameday rehearsal, perform at the 90-minutes-before-kick-off concert, march in the parade to the stadium, sit in the stands and play with the band during the game, and even perform on the field in Death Valley when the Tigers take on Wake Forest!</p>
-             <p>Space is limited, so please register as soon as possible to receive full consideration.</p>
-             <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfM3I7wXoORe61XCOIR7g34lUFvp8RIoHFDJJpS9-ugiZOG2Q/viewform?usp=sf_link">2019 High School Senior Day Registration Form</a></p>
-         </article>
+         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBuG-Nr00phNgYxk_R8w5H2K45pxKhEXfUIBMH3qdP2B-oMw/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+           <article class="text">
+               <h1>Scholarships!</h1>
+               <img class="articleImg" src='/img/Horns.jpg'></a>
+               <p>All Clemson University enrolled band students, regardless of major, are eligible to receive band participation-based awards. The standard award is $500 per semester and requires participation in Tiger Band AND either Symphonic Band or Jazz Ensemble (“The Jungaleers”). All three groups are auditioned ensembles; Tiger Band auditions are by video during the summer, and Symphonic Band and Jazz Ensemble auditions occur during the first week of classes in the fall semester. Click the “Join” menu item above for more info.</p>
+               <p>Incoming freshmen who have participated in the Senior All-State or Region Bands are encouraged to submit a video audition to be considered for more than the standard award. Please prepare two short excerpts demonstrating your lyrical and technical playing. These can be from any music of your choosing, such as an etude book, All-State audition piece, concerto, solo, etc. 4 minutes of total music is plenty.</p>
+               <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive or Dropbox. Secure a download link for the file and submit it by April 15, 2020 to be considered for the 2020-2021 academic year.</p>
+               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfBuG-Nr00phNgYxk_R8w5H2K45pxKhEXfUIBMH3qdP2B-oMw/viewform?usp=sf_link">Click here to access our scholarship audition form</a> and submit your video today!<p>
+
+           </article>
 
 
 
@@ -185,26 +186,7 @@
                 </div>
             </article>
 
-            <article class="media">
-                <h1>National Championship Celebration</h1>
-                <p>Celebrate Clemson's incredible 15-0 championship season with Tiger Band's halftime presentation from August 29!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/r_3efeyUexc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
 
-
-            <article class="media">
-                <h1>2019 Tiger Band Pregame Video</h1>
-                <p>Check out the video that plays as Tiger Band streams out of the tunnels into Death Valley to begin their Pregame Show!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ3Z9A1zqkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
 
 
         </div>
@@ -212,21 +194,24 @@
         <div id="col2Flex">
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 2, Episode 1</h1>
-              <p>Follow the members of Tiger Band through their preseason camp and find out why we are so grateful to call Clemson home!</p>
+              <h1>Tiger Band Vlog Season 2, Episode 9</h1>
+              <p>Follow the members of Tiger Band as they help the Tigers to another Fiesta Bowl Championship!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/xsXJtvbAMTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/0dTdPRiGASc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
 
-          <article class="text">
-              <h1>Scholarships!</h1>
-              <img class="articleImg" src='/img/Horns.jpg'>
-              <p>Did you know that any Clemson student, regardless of major, who participates in Tiger Band AND one of our auditioned ensembles in the fall AND spring semesters - Symphonic Band or Jazz Ensemble - will automatically receive a scholarship?  Automatic scholarships range from $400 to $500 per semester.</p>
-              <p>Students who have participated in all-state or region band are encouraged to do an in-person audition in the spring of your senior year of high school to try for a larger scholarship amount.</p>
-              <p>To schedule a scholarship audition or for any more questions, contact Lee Maiden, the band administrative assistant, at <a href="mailto:lmaiden@clemson.edu">lmaiden@clemson.edu</a> or call the band office at <a href="tel:864-656-3380">864.656.3380.</a>
+
+          <article class="media">
+                <h1>2019 Tiger Band Pregame Video</h1>
+                <p>Check out the video that plays as Tiger Band streams out of the tunnels into Death Valley to begin their Pregame Show!</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ3Z9A1zqkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
           </article>
 
 
