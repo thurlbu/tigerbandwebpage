@@ -45,7 +45,7 @@
 <body>
     <div class="heading">
         <h3>This Season</h3>
-        <h4>2019</h4>
+        <h4>2020</h4>
     </div>
 
     <div id="Col2FlexContent">
@@ -73,7 +73,7 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2019 Clemson Tiger Band Performance Schedule</h1>
+                <h1>2020 Clemson Tiger Band Performance Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -82,101 +82,92 @@
                         <th>Info/Location</th>
                     </tr>
                     <tr class="orange-row">
-                        <td>Aug 29</td>
-                        <td>VS</td>
+                        <td>April 4</td>
+                        <td></td>
+                        <td>Spring Game</td>
+                        <td>Clemson, SC - 2:30 PM</td>
+                    </tr>
+                    <tr>
+                        <td>Sept 3</td>
+                        <td>@</td>
                         <td>Georgia Institute of Technology Yellow Jackets</td>
-                        <td>National Championship Celebration</td>
+                        <td></td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 6</td>
+                        <td>Sept 11</td>
                         <td></td>
                         <td>First Friday Parade</td>
-                        <td>Clemson, SC - 6:00 PM</td>
+                        <td>Clemson, SC</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 7</td>
+                        <td>Sept 12</td>
                         <td>VS</td>
-                        <td>Texas A&M Aggies</td>
-                        <td>IPTAY Day</td>
-                    </tr>
-                    <tr class="carolina-panthers-row">
-                        <td>Sept 8</td>
-                        <td></td>
-                        <td>Carolina Panthers</td>
-                        <td>Bank of America Stadium in Charlotte, NC - 1:00pm</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 14</td>
-                        <td>@</td>
-                        <td>Syracuse University Orange</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Sept 21</td>
-                        <td>VS</td>
-                        <td>Universtiy of North Carolina at Charlotte 49ers</td>
-                        <td>Family Weekend</td>
-                    </tr>
-                    <tr>
-                        <td>Sept 28</td>
-                        <td>@</td>
-                        <td>North Carolina University Tar Heels</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Oct 12</td>
-                        <td>VS</td>
-                        <td>Florida State University Seminoles</td>
-                        <td>Solid Orange Day</td>
-                    </tr>
-                    <tr>
-                        <td>Oct 19</td>
-                        <td>@</td>
                         <td>University of Louisville Cardinals</td>
                         <td></td>
                     </tr>
+
                     <tr class="orange-row">
-                        <td>Oct 25</td>
+                        <td>Sept 19</td>
+                        <td>VS</td>
+                        <td>Akron University Zips</td>
                         <td></td>
-                        <td>Tigerama</td>
-                        <td>Memorial Stadium at 7:00pm</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Oct 26</td>
+                        <td>Sept 26</td>
                         <td>VS</td>
-                        <td>Boston College Eagles</td>
-                        <td>Homecoming/Football Reunion Day</td>
-                    </tr>
-                    <tr class="purple-row">
-                        <td>Nov 2</td>
-                        <td>VS</td>
-                        <td>Wofford University Terriers</td>
-                        <td>Military Appreciation Day/Purple Out</td>
+                        <td>Universtiy of Virginia Cavaliers</td>
+                        <td></td>
                     </tr>
                     <tr>
-                        <td>Nov 9</td>
+                        <td>Oct 2</td>
                         <td>@</td>
+                        <td>Boston College Eagles</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Oct 10</td>
+                        <td>@</td>
+                        <td>Florida State University Seminoles</td>
+                        <td></td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Oct 17</td>
+                        <td>VS</td>
                         <td>North Carolina State University Wolfpack</td>
                         <td></td>
                     </tr>
+
                     <tr class="orange-row">
-                        <td>Nov 16</td>
+                        <td>Oct 24</td>
                         <td>VS</td>
-                        <td>Wake Forest University Demon Deacons</td>
-                        <td>Senior Day/Hall of Fame Day</td>
+                        <td>Syracuse University Orange</td>
+                        <td></td>
                     </tr>
                     <tr>
-                        <td>Nov 30</td>
+                        <td>Nov 7</td>
                         <td>@</td>
+                        <td>Notre Dame University Fighting Irish</td>
+                        <td></td>
+                    </tr>
+                    <tr class="purple-row">
+                        <td>Nov 14</td>
+                        <td>VS</td>
+                        <td>The Citadel Bulldogs</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 21</td>
+                        <td>@</td>
+                        <td>Wake Forest University Demon Deacons</td>
+                        <td></td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Nov 28</td>
+                        <td>VS</td>
                         <td>University of South Carolina Gamecocks</td>
                         <td>Palmetto Bowl</td>
                     </tr>
-                    <tr>
-                        <td>Dec 7</td>
-                        <td>@</td>
-                        <td>ACC Championship</td>
-                        <td>Charlotte, NC</td>
-                    </tr>
+
                 </table>
             </article>
         </div>
@@ -185,36 +176,32 @@
 
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2019 Major Shows</h1>
-                <p><a href="https://www.youtube.com/watch?v=r_3efeyUexc">2018 National Championship Celebration</a></p>
-                <p><a href="https://www.youtube.com/watch?v=40Tbj3H1TYk">Southern Rock featuring guitarist Zach Thigpen</a></p>
-                <p>50th Anniversary of the Summer of 1969 and Woodstock</p>
-                <p>Military Appreciation Day</p>
-                <p>Elton John</p>
+                <h1>2020 Major Shows</h1>
+                <p>To be announced this summer...</p>
             </article>
             <article class="text officers">
-                <h1>2019 Officers</h1>
-                <p><b>Commander:</b> Graham Jackson</p>
-                <p><b>Vice-Commander:</b> Alicia Cameron</p>
-                <p><b>Sergeant Major:</b> Samantha Regi</p>
-                <p><b>Drum Majors: </b> Victor Fleifel, Zach Jordan, &amp; Stephanie Linke</p>
+                <h1>2020 Officers</h1>
+                <p><b>Commander:</b> Stephanie Linke</p>
+                <p><b>Vice-Commander:</b> Victor Fleifel</p>
+                <p><b>Sergeant Major:</b> Laura Kate Reid</p>
+                <p><b>Drum Majors: </b> TBD</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> Jillian McNally &amp; Maureen Zabel</p>
-                <p><b>Clarinets:</b> Grayson Davis &amp; Jason Gonzales</p>
-                <p><b>Alto Saxes:</b> Grant Howard &amp; Samantha Regi</p>
-                <p><b>Tenor Saxes:</b> Devin Lane</p>
-                <p><b>Trumpets:</b> Alicia Cameron, Nick Gustafson, &amp; Mac McCrary</p>
-                <p><b>Mellophone:</b> Sarah Razavi</p>
-                <p><b>Trombone:</b> Trevor Kimbrell &amp; Georgia Krendel</p>
-                <p><b>Baritone:</b> Anthony Benware &amp; Christopher Nahum</p>
-                <p><b>Sousaphone:</b> Graham Jackson &amp; Laura Kate Reid</p>
-                <p><b>Drumline:</b> David Cherne &amp; Briana Parcell</p>
-                <p><b>Color Guard:</b> Amber O’Dell, Ericka Pace, &amp; Olivia Papotto</p>
-                <p><b>Twirlers:</b> Reagan King</p>
-                <p><b>Dancers:</b> Catie Demaret, Elizabeth Rola, &amp; Maggie Wentworth</p>
-                <p><b>Head Band Manager:</b> Caroline Webb</p>
-                <p><b>Instrument Manager:</b> Alicia Cameron &amp; Eva Lamar</p>
-                <p><b>Uniform Manager:</b> Arianna Csiszer &amp; Sophie Greenwood</p>
+                <p><b>Piccolos:</b> TBD</p>
+                <p><b>Clarinets:</b> TBD</p>
+                <p><b>Alto Saxes:</b> TBD</p>
+                <p><b>Tenor Saxes:</b> TBD</p>
+                <p><b>Trumpets:</b> TBD</p>
+                <p><b>Mellophone:</b> TBD</p>
+                <p><b>Trombone:</b> TBD</p>
+                <p><b>Baritone:</b> TBD</p>
+                <p><b>Sousaphone:</b> TBD</p>
+                <p><b>Drumline:</b> TBD</p>
+                <p><b>Color Guard:</b> TBD</p>
+                <p><b>Twirlers:</b> TBD</p>
+                <p><b>Dancers:</b> TBD</p>
+                <p><b>Head Band Manager:</b> TBD</p>
+                <p><b>Instrument Manager:</b> TBD</p>
+                <p><b>Uniform Manager:</b> TBD</p>
             </article>
         </div>
     </div>
@@ -232,8 +219,6 @@
                     <img class="articleImg" src='/img/Friday Night Lights.jpg'>
                 <p>Tiger Band joins forces with local high school bands to show their support for the high school marching activity.</p>
                 <p>Keep an eye out for some orange in the stands on Friday night because you never know when we might head your way.</p>
-                <p>Watch Tiger Band's social media over the summer to have the chance to suggest possible destinations for the 2018 season!</p>
-                <p>The full 2019 Friday Night Lights schedule will be announced right here early in the fall.</p>
             </article>
             <article class="text">
                 <h1>Amphitheater Concert</h1>

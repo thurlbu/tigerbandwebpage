@@ -52,10 +52,10 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2019 Tiger Band Brass and Woodwind Auditions</h1>
-                <p>All auditions for wind players for the 2019 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqMOgrJia-sCJOXo7qGN4SLcikE00ojeCSMfPfGarcJ2OYdA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
-                <p>The first round of drumline auditions will be via video submission due on June 1. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
+                <h1 class="purpleText">2020 Tiger Band Brass and Woodwind Auditions</h1>
+                <p>All auditions for wind players for the 2020 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                <p>The first round of drumline auditions will be via video submission due on June 21. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
             </article>
         </div>
 
@@ -68,34 +68,34 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>8</b>
+                            <b>6</b>
                             <p>Returners</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>22</b>
+                            <b>20</b>
                             <p>New Members</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>29</b>
+                            <b>27</b>
                             <p>Results</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Returners Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqMOgrJia-sCJOXo7qGN4SLcikE00ojeCSMfPfGarcJ2OYdA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info2">
                         <p>First Year Members Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqMOgrJia-sCJOXo7qGN4SLcikE00ojeCSMfPfGarcJ2OYdA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Results will be emailed to everyone by July 29, 2019</p>
+                        <p>Results will be emailed to everyone by July 27, 2020</p>
                     </div>
                 </div>
             </div>
@@ -114,7 +114,7 @@
     <div id="Col2FlexContent">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1>Content</h1>
+              <h1>Content</h1>
                 <p>Your audition video should contain:</p>
                 <ol>
                     <li>A short introduction of yourself</li>
@@ -122,6 +122,13 @@
                     <li>Tiger Rag (one time through, stop at the end of the first ending)</li>
                     <li>Alma Mater (one time through)</li>
                 </ol>
+              <h1>Requirements</h1>
+                <p>All 3 songs on the video must be done in <b><u>one,</u> <u>continuous,</u> <u>un-edited</u></b> take. (Do not turn the camera off between songs)</p>
+                <p>Your face and fingers/valves/slides must be visible at all times in the video.</p>
+                <p>Returning members must submit a new video for the 2020 season. Videos used in previous seasons will not be accepted.</p>
+                <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
+                <p>Sheet music for Tiger Rag and The Alma Mater can be downloaded below.</p>
+              <h1>Reference Recordings</h1>
                 <div id="audioContainer">
                     <div class="auditionAudio">
                         <p>Tiger Rag:</p>
@@ -132,16 +139,15 @@
                         <audio src="/audio/AlmaMater.mp3" controls></audio>
                     </div>
                 </div>
-                <p>Sheet music for Tiger Rag and The Alma Mater can be downloaded below.</p>
-                <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
+
             </article>
             <article class="text fullWidth">
                 <h1>Submission</h1>
                 <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive, Dropbox, or Box.</p>
-                <p>Secure a download link for the file that you can share with us.</p>
+                <p>Secure a download link for the file that you can share with us. Please check to make sure that the permissions will allow us to view it!</p>
                 <p>Fill out the online application below:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqMOgrJia-sCJOXo7qGN4SLcikE00ojeCSMfPfGarcJ2OYdA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
-                <p>Results will be communicated by July 29 via email. All accepted Tiger Band members will report to campus on <u>August 14</u> to begin our 2019 preseason camp.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
+                <p>Results will be communicated by July 27 via email. All accepted Tiger Band members will report to campus on <u>August 12</u> to begin our 2020 preseason camp.</p>
             </article>
         </div>
 
