@@ -51,13 +51,13 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2019 Tiger Guard Auditions</h1>
+                <h1 class="purpleText">2020 Tiger Guard Auditions</h1>
                 <p>All auditions for the Clemson University Tiger Fall Guard will be completed via online video submission.</p>
                 <p>Details about the content of the video audition and a video tutorial can be found below.</p>
-                <p>All audition videos must be submitted by <b>July 22</b> to receive full consideration.</p>
-                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScmvLi_H4xcXBDNgnWT9KM15MW1QXisixtNQGnATWfyaIC3og/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
-                <p>Results will be sent out by July 29.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLScmvLi_H4xcXBDNgnWT9KM15MW1QXisixtNQGnATWfyaIC3og/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
+                <p>All audition videos - returners and new members - must be submitted by <b>July 6</b> to receive full consideration.</p>
+                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
+                <p>Results will be sent out by July 13.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
                 <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
             </article>
 
@@ -68,14 +68,14 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>22</b>
+                            <b>6</b>
                             <p>Audition Submission Deadline</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Tiger Guard Audition Deadline<br>
                             Submit online application with link to video<br>
-                            Audition results will be sent on July 29</p>
+                            Audition results will be sent on July 13</p>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
             <ul>
               <li>8 to 12 steps of jazz runs</li>
               <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
-              <li>Explanations of these maneuvers with examples will be provided in a tutorial video posted by December 15</li>
+              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
             </ul>
           </p>
               <p> The <b>FLAG SECTION</b> will consist of:<br>
@@ -130,10 +130,10 @@
               <li>4 cone tosses</li>
               <li>4 45 tosses</li>
               <li>4 tosses from the flag</li>
-              <li>Explanations of these maneuvers with examples will be provided in a tutorial video posted by December 15</li>
+              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
             </ul>
           </p>
-              <p>Please watch the video posted below to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2019 Audition</p>
+
               <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
             <ul>
               <li>8 counts of right hand spins with a single out</li>
@@ -141,18 +141,30 @@
               <li>4 double tosses</li>
               <li>4 triple tosses</li>
               <li>4 quad tosses</li>
+              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
             </ul>
           </p>
+
+          <p>Please watch the second tutorial video, posted below, to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2020 Audition</p>
 
 
           </article>
 
           <article class="text fullWidth">
-              <h1>Tutorial</h1>
-              <p>Here’s a video tutorial walking you through the audition and submission process:</p>
+              <h1>Movement, Flag, & Rifle Tutorial</h1>
+              <p>Video tutorial walking you through the Movement, Flag, and Rifle portion of the audition:</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/t5Bifhj5Vcs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/DL071iugIWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+              <br>
+              <br>
+              <h1>Choreography Tutorial</h1>
+              <p>Video tutorial walking you through the Choreography portion of the audition:</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/DL071iugIWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
@@ -170,7 +182,7 @@
                   <li>Full time Clemson student</li>
                   <li>Full time Tri County Technical College student</li>
                   <li>Bridge student</li>
-                  <li>Exceptions can be made for full time students at other institutions (there is a process to be eligible for this option)</li>
+                  <li>Some exceptions can be made for full time students at other up-state institutions</li>
               </ul>
           </article>
 
@@ -186,13 +198,13 @@
           </article>
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
-                <p>The	Guard	members	acquire	a	warm	–up	jacket	for	cooler	performances	and	shoes.	Extra	cost	could	be	gloves,	a	guard	member	t-shirt	and	items	similar	to	this	as	a	section.	Approximate	cost	for	shoes	and	warm-up	is	about	$100.00.</p>
+                <p>The	Guard	members	acquire	a	warm–up	jacket for	cooler weather	and	shoes.	Extra	cost	could	be	gloves,	a	guard	member t-shirt	and	items	similar	to	this	as	a	section.	Approximate	cost	for	shoes	and	warm-up	is	about	$100.00.</p>
             </article>
 
             <article class="text fullWidth">
                 <h1>Appearance</h1>
                 <p>Tiger	guard	members	are	a	positive	role	model	and	represent	Clemson	University	and	Tiger	Band at	all	times	with	good	character	and	a	positive	image.</p>
-                <p>Each	member	agrees	to remain	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.	Any	tattoos	must	be	completely	concealed	while	in	uniform	and	any	piercings	(other	than	1	hole	in	each	ear)	will	be	removed	for	every	performance.</p>
+                <p>Each	member	agrees	to remain	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.</p>
             </article>
 
         </div>
