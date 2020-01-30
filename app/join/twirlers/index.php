@@ -57,29 +57,20 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
-                          <p>February</p>
-                          <b>28</b>
-                          <p>Deadline for Feature Twirler Video Submissions</p>
+                          <p>April</p>
+                          <b>27</b>
+                          <p>Deadline for Audition Video Submissions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                    <p>Audition Videos and Application materials due by 11:59pm on February 28<br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBgGJmn1Qsk5Ioa4dsWJmuT42-z_ImRX_VFgG7fZykSZeiPA/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by March 5th</p>
+                      <p>Audition Videos and Application materials due by 11:59pm on April 27<br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">Submit video via online application</a><br>
+                        Results will be communicated by May 2nd</p>
+
                   </div>
               </div>
           </div>
 
-            <article class="text fullWidth">
-                <h1 class="purpleText">2019 Feature Twirler Auditions</h1>
-                <p>Auditions for the 2019 Feature Twirler position will be completed via video submission. The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
-                <p>Videos for the Feature Twirler Position are due by <b>February 28, 2019</b> and results will be communicated by <b>March 5th, 2019</b>.</p>
-                <p>Your video must include performances with 1, 2, and 3 batons on a football field. The video can include performances with a marching band but is not required.</p>
-                <p>You may wear whatever you like but only videos shot outdoors will receive full consideration.</p>
-                <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdBgGJmn1Qsk5Ioa4dsWJmuT42-z_ImRX_VFgG7fZykSZeiPA/viewform?usp=sf_link">2019 FEATURE TWIRLER APPLICATION</a></p>
-                <p>If you have any questions concerning auditions for the Feature Twirler Position, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Feature Twirler Audition Question">Hazel@carolinasuperstars.com</a></p>
-            </article>
 
             <!--- PHOTO SLIDER --->
 
@@ -102,27 +93,13 @@
 
           <!--- DEADLINE CALENDAR UI --->
 
-          <div class="deadlines">
-              <div class="month">
-                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
-                      <div class="textContainer">
-                          <p>April</p>
-                          <b>26</b>
-                          <p>Deadline for Audition Video Submissions</p>
-                      </div>
-                  </div>
-                  <div class="deadlinesInfo" id="info2">
-                    <p>Audition Videos and Application materials due by 11:59pm on April 26th<br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMMgzeNqhFyjZLpyCIhMvaOHJpkBUlmT8e8Yu9jZd19dta9w/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by May 3rd</p>
-                  </div>
-              </div>
-          </div>
 
           <article class="text fullWidth">
-              <h1 class="purpleText">2019 Tiger Twirler Auditions</h1>
-              <p>Auditions for the 2019 Tiger Twirlers will be completed via video submission.</p>
-              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <h1 class="purpleText">2020 Tiger Twirler Auditions</h1>
+              <p>Auditions for the 2020 Tiger Twirlers will be completed via video submission.</p>
+              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>April 27, 2020</b> and results will be communicated by <b>May 2, 2020</b>.</p>
+              <p>For your video, please wear a <b><u>white tank top</b></u>, <b><u>black leggings</b></u>, and <b><u>jazz shoes</b></u>.</p>
+              <p>All returning members must submit a new audition video each year.</p>
               <p>Your audition video must include:</p>
               <ol>
                   <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
@@ -133,7 +110,7 @@
               </ol>
 
               <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMMgzeNqhFyjZLpyCIhMvaOHJpkBUlmT8e8Yu9jZd19dta9w/viewform?usp=sf_link">2019 TIGER TWIRLER APPLICATION</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">2020 TIGER TWIRLER APPLICATION</a></p>
               <p>Please watch the video below for routines and explanations of the skills.</p>
               <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSwLtyVq2pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
               <div id="audioContainer">
@@ -169,10 +146,13 @@
             </article>
 
             <article class="text fullWidth">
-                <h1>Eligibility</h1>
-                <p>Any full-time Clemson student with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater. Also, full-time students at Tri-County Technical College taking transfer courses with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater are eligible to audition for a position.</p>
-                <p>Students may take advantage of the opportunity to participate as a Tiger Twirler at Clemson as a transfer student for up to 2 years after their high school graduation date. After the 2 year transfer period, students must be full time students at Clemson University to participate as a Tiger Twirler.</p>
-                <p>Potential members must upload a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) via google drive on their audition application form to verify current student status. </p>
+              <h1>Eligibility Requirements</h1>
+              <ul>
+                  <li>Full time Clemson student</li>
+                  <li>Full time Tri County Technical College student</li>
+                  <li>Bridge student</li>
+                  <li>Some exceptions can be made for full time students at other up-state institutions</li>
+              </ul>
             </article>
         </div>
 
@@ -184,12 +164,14 @@
 
             <article class="text fullWidth">
                 <h1>Appearance</h1>
-                <p>All members must represent Clemson University with good character and a positive image. Each member will be required to be uniform at all appearances including hair, make-up, costume, etc. Any tattoos must be completely concealed while in uniform. Any additional piercings (other than 1 hole in each ear) must be removed for every performance, pep rally, and game. A Tiger Twirler must maintain a good standing in the community and be a positive role model at all times (at practice, in the stands, at games, pep rallies, online, etc.) </p>
+                <p>All members must represent Clemson University with good character and a positive image. Each member will be required to be uniform at all appearances including hair, make-up, costume, etc.  A Tiger Twirler must maintain a good standing in the community and be a positive role model at all times (at practice, in the stands, at games, pep rallies, online, etc.) </p>
             </article>
 
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
-                <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $400-$650. The first deposit is due June 1st and the balance will be due July 15th.</p>
+                <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $100 for returners and $600 for new members.</p>
+                <p>Twirlers will be able to keep everything they've purchased (including their uniform) at the conclusion of the season.</p>
+                <p>The first deposit is due June 1st and the balance will be due July 15th.</p>
             </article>
         </div>
     </div>

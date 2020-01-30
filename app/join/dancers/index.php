@@ -51,9 +51,11 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
           <article class="text fullWidth">
-              <h1 class="purpleText">2019 Tiger Dancer Auditions</h1>
-              <p>Auditions for the 2019 Tiger Dancers will be completed via video submission.</p>
-              <p>Videos are due by <b>April 26, 2019</b> and results will be communicated by <b>May 3, 2019</b>.</p>
+              <h1 class="purpleText">2020 Tiger Dancer Auditions</h1>
+              <p>Auditions for the 2020 Tiger Dancers will be completed via video submission.</p>
+              <p>Videos are due by <b>April 27, 2020</b> and results will be communicated by <b>May 2, 2020</b>.</p>
+              <p>For your video, please wear a <b><u>white tank top</b></u>, <b><u>black leggings</b></u>, and <b><u>jazz shoes</b></u>.</p>
+              <p>All returning members must submit a new audition video each year.</p>
               <p>Your audition video must include:</p>
               <ol>
                   <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
@@ -64,7 +66,7 @@
               </ol>
 
               <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdNrNcWncdkuWI41YDve9qiczXDgbXZ85bnJHf13N6XCSqWag/viewform?usp=sf_link">2019 TIGER DANCER APPLICATION</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">2020 TIGER DANCER APPLICATION</a></p>
               <p>Please watch the video below for routines and explanations of the skills.</p>
               <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jj54t3TY6i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
               <div id="audioContainer">
@@ -92,14 +94,14 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>26</b>
+                          <b>27</b>
                           <p>Deadline for Audition Video Submissions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Audition Videos and Application materials due by 11:59pm on April 26<br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNrNcWncdkuWI41YDve9qiczXDgbXZ85bnJHf13N6XCSqWag/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by May 3rd</p>
+                      <p>Audition Videos and Application materials due by 11:59pm on April 27<br>
+                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">Submit video via online application</a><br>
+                        Results will be communicated by May 2nd</p>
 
                   </div>
               </div>
@@ -137,10 +139,13 @@
             </article>
 
             <article class="text fullWidth">
-                <h1>Eligibility</h1>
-                <p>Any full-time Clemson student with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater. Also, full-time students at Tri-County Technical College taking transfer courses with a minimum of 12 credit hours each semester and a cumulative GPA of 2.5 or greater are eligible to audition for a position.</p>
-                <p>Students may take advantage of the opportunity to participate as a Tiger Dancer at Clemson as a transfer student for up to 2 years after their high school graduation date. After the 2 year transfer period, students must be full time students at Clemson University to participate as a Tiger Dancer.</p>
-                <p>Potential members must upload a copy of their transcript (current college students) or a copy of their college acceptance letter (incoming freshman only) via google drive on their audition application form to verify current student status. </p>
+              <h1>Eligibility Requirements</h1>
+              <ul>
+                  <li>Full time Clemson student</li>
+                  <li>Full time Tri County Technical College student</li>
+                  <li>Bridge student</li>
+                  <li>Some exceptions can be made for full time students at other up-state institutions</li>
+              </ul>
             </article>
         </div>
 
@@ -152,12 +157,14 @@
 
             <article class="text fullWidth">
                 <h1>Appearance</h1>
-                <p>All members must represent Clemson University with good character and a positive image. Each member will be required to be uniform at all appearances including hair, make-up, costume, etc. Any tattoos must be completely concealed while in uniform. Any additional piercings (other than 1 hole in each ear) must be removed for every performance, pep rally, and game. A Tiger Dancer must maintain a good standing in the community and be a positive role model at all times (at practice, in the stands, at games, pep rallies, online, etc.) </p>
+                <p>All members must represent Clemson University with good character and a positive image. Each member will be required to be uniform at all appearances including hair, make-up, costume, etc. A Tiger Dancer must maintain a good standing in the community and be a positive role model at all times (at practice, in the stands, at games, pep rallies, online, etc.) </p>
             </article>
 
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
-                <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $400-$550. The first deposit is due June 1st and the balance will be due July 15th.</p>
+                <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $200 for returners and $450 for new members.</p>
+                <p>Dancers will be able to keep everything they've purchased (including their uniform) at the conclusion of the season.</p>
+                <p>The first deposit is due June 1st and the balance will be due July 15th.</p>
             </article>
         </div>
     </div>
