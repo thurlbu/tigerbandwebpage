@@ -145,7 +145,7 @@
             </ul>
           </p>
 
-          <p>Please watch the second tutorial video, posted below, to learn the required 32 counts of <b>CHOREOGRAPHY</b> for the 2020 Audition</p>
+          <p>Please watch the second tutorial video, posted below, to learn the required <b>CHOREOGRAPHY</b> for the 2020 Audition. Please include the entire routines for Tiger Fanfare and Orange Bowl March. You can find and download the audio files below the tutorial video.</p>
 
 
           </article>
@@ -161,12 +161,23 @@
               <br>
               <br>
               <h1>Choreography Tutorial</h1>
-              <p>Video tutorial walking you through the Choreography portion of the audition:</p>
+              <p>Video tutorial showing the Choreography portion of the audition. The example video has front and back views for learning purposes only. Your video should only contain the front view:</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/DL071iugIWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/Zp1nVLWh9mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Tiger Fanfare:</p>
+                      <audio src="/audio/Tiger Fanfare.mp3" controls></audio>
+                  </div>
+                  <div class="auditionAudio">
+                      <p>Orange Bowl March:</p>
+                      <audio src="/audio/Orange Bowl March.mp3" controls></audio>
+                  </div>
+              </div>
+              <p>Please direct all questions concerning auditions for the Tiger Guard to Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger_Guard_Audition_Question">tkent25646@aol.com</a>.</p>
           </article>
         </div>
 
