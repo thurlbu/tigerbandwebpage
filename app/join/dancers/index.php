@@ -109,15 +109,17 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="/img/Dancer1.jpg">
-                <img class="slider" src="/img/Dancer2.jpg">
-                <img class="slider" src="/img/Dancer3.jpg">
-                <img class="slider" src="/img/Dancer4.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-1.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-2.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-3.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952846/Join%20Page/Dancer/slide-4.jpg">
+                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-5.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
                 </div>
             </div>
         </div>
