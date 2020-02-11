@@ -193,6 +193,13 @@
 
         <div id="col2Flex">
 
+          <article class="text">
+              <h1>2020 Auditions</h1>
+              <img class="articleImg" src='/img/FiestaBowl2019.jpg'></a>
+              <p>We're looking for the best and brightest to join the ranks of the "Band that Shake the Southland!"</p>
+              <p>For all the information you need to join Tiger Band in our upcoming 2020 season, please visit our join page and submit those audition videos!</p>
+
+          </article>
           <article class="media">
               <h1>Tiger Band Vlog Season 2, Episode 9</h1>
               <p>Follow the members of Tiger Band as they help the Tigers to another Fiesta Bowl Championship!</p>
