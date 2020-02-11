@@ -157,7 +157,7 @@
               <p>Here’s a video tutorial walking you through the audition and submission process:</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/z2QuVMQ4B3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5tJBhZZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>

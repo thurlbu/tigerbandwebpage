@@ -58,15 +58,15 @@
         <div class="month num1">
             <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                 <div class="textContainer">
-                    <p>December</p>
-                    <b>15</b>
+                    <p>February</p>
+                    <b>1</b>
                     <p>Music Available</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>4</b>
+                    <b>2</b>
                     <p>Audition Workshop</p>
                 </div>
             </div>
@@ -75,7 +75,7 @@
             </div>
             <div class="deadlinesInfo" id="info2">
                 <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
-                <br>Saturday, May 4 - 9am to 6pm
+                <br>Saturday, May 2 - 9am to 6pm
                 <br>Brooks Center - Room 112
                 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">Click here to register!</a></p>
             </div>
@@ -83,15 +83,15 @@
         <div class="month num2">
             <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                 <div class="textContainer">
-                    <p>July</p>
-                    <b>1</b>
+                    <p>June</p>
+                    <b>21</b>
                     <p>Video Deadline</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
                 <div class="textContainer">
-                    <p>July</p>
-                    <b>8</b>
+                    <p>June</p>
+                    <b>28</b>
                     <p>Audition Results</p>
                 </div>
             </div>
@@ -114,7 +114,7 @@
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>13</b>
+                    <b>12</b>
                     <p>Band Camp</p>
                 </div>
             </div>
@@ -134,14 +134,14 @@
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2019 Drumline Auditions</h1>
+                <h1 class="purpleText">2020 Drumline Auditions</h1>
                 <p>Prospective CUD Members:</p>
-                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is July 1.</p>
-                <p>Auditionees will be notified about video audition results by July 8. Students who earn a call-back audition invitation will move to Clemson on August 10 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
+                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 21.</p>
+                <p>Auditionees will be notified about video audition results by June 28. Students who earn a call-back audition invitation will move to Clemson on August 10 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
                 <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">
-                    <a href="https://docs.google.com/document/d/1r2P30e5fj0bkUe800gs9fjL0Ut_yr4eZKvlEZrGmqWw/edit?usp=sharing" class="richLink" target="_blank">Welcome Letter</a>
+                    <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank">Welcome Letter</a>
                 </div>
             </article>
         </div>
@@ -150,7 +150,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <div class="linkWrapper"><a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2019 Audition Schedule</a> <a href="https://drive.google.com/file/d/0B4DWpMjnU4xALW4zcm92NDhDZTVtTVdVM0RvbTdoaXdjNzJz/view?usp=sharing" class="richLink" target="_blank" title="Full Preseason Schedule">2019 Full Preseason Schedule</a></div>
+                <div class="linkWrapper"><a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Fall Audition Schedule">2020 Audition Schedule</a> <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Full Preseason Schedule">2020 Full Preseason Schedule</a></div>
             </article>
         </div>
     </div>

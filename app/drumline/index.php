@@ -104,7 +104,7 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
             <article class="media">
-                <h1 class="orangeText">2019 Video Audition Requirements</h1>
+                <h1 class="orangeText">2020 Video Audition Requirements</h1>
                 <p><a href="video_auditions/">Click here</a> to review audition video requirements.</p>
                 <p>If you have any questions about the video audition process you can send an email to <a
                         href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
