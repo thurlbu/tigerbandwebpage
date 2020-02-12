@@ -201,11 +201,11 @@
 
           </article>
           <article class="media">
-              <h1>Tiger Band Vlog Season 2, Episode 9</h1>
-              <p>Follow the members of Tiger Band as they help the Tigers to another Fiesta Bowl Championship!</p>
+              <h1>Tiger Band Vlog Season 2, Episode 10</h1>
+              <p>Follow the members of Tiger Band as they visit New Orleans for the National Championship Game!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/0dTdPRiGASc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/gWtjuNrMK_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
