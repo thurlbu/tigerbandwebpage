@@ -186,20 +186,20 @@
                 <p><b>Sergeant Major:</b> Laura Kate Reid</p>
                 <p><b>Drum Majors: </b> TBD</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> TBD</p>
-                <p><b>Clarinets:</b> TBD</p>
-                <p><b>Alto Saxes:</b> TBD</p>
-                <p><b>Tenor Saxes:</b> TBD</p>
-                <p><b>Trumpets:</b> TBD</p>
-                <p><b>Mellophone:</b> TBD</p>
-                <p><b>Trombone:</b> TBD</p>
-                <p><b>Baritone:</b> TBD</p>
-                <p><b>Sousaphone:</b> TBD</p>
-                <p><b>Drumline:</b> TBD</p>
-                <p><b>Color Guard:</b> TBD</p>
-                <p><b>Twirlers:</b> TBD</p>
-                <p><b>Dancers:</b> TBD</p>
-                <p><b>Head Band Manager:</b> TBD</p>
+                <p><b>Piccolos:</b> Hannah Kadets and Jillian McNally</p>
+                <p><b>Clarinets:</b> Jason Gonazales and Natalie Henderson</p>
+                <p><b>Alto Saxes:</b> Charlie Brooks-Knepfle and Grant Howard</p>
+                <p><b>Tenor Saxes:</b> Erick Restreppo</p>
+                <p><b>Trumpets:</b> Adam Gootgeld, Nick Gustafson, and Andrew Marsh</p>
+                <p><b>Mellophone:</b> Sadie Bates and Stuart Saletan</p>
+                <p><b>Trombone:</b> Trevor Kimbrell and Georgia Krendel</p>
+                <p><b>Baritone:</b> Anthony Benware and Morgan Oliver</p>
+                <p><b>Sousaphone:</b> Laura Kate Reid and John Turpin</p>
+                <p><b>Drumline:</b> David Cherne and Briana Parcell</p>
+                <p><b>Color Guard:</b> Andra Cummings, Adanma Nwobodu, and Olivia Papotto</p>
+                <p><b>Twirlers:</b> Reagan King</p>
+                <p><b>Dancers:</b> Samantha Bernard and Elizabeth Rola</p>
+                <p><b>Head Band Manager:</b> Caroline Webb</p>
                 <p><b>Instrument Manager:</b> TBD</p>
                 <p><b>Uniform Manager:</b> TBD</p>
             </article>

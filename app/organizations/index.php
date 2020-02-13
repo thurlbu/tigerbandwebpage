@@ -122,55 +122,11 @@
                     </div>
             </article>
 
-            <article class="text">
-                <h1>Moving Images, LLC.</h1>
-                    <img class="articleImg" src='/img/MovingImages.jpg'>
-                <p>Randy Christ, owner of Moving Images LLC, has proudly provided videography services to Tiger Band since 2010.</p>
-                <p>Moving Images LLC uses videography, photography, and other digital media technologies to create imaginative and compelling ways of expressing the ideas, and capturing the moments that are important to you. The experience and preparation methods that we have developed through years of shooting in "one-take" special event situations, allows you to relax and enjoy the experience of working with Moving Images. We are in this business because we love the special blend of artistry and technology that is required to produce a memorable image. We feel strongly that stories we are hired to tell are important, and we are passionate about doing what ever is necessary to tell the story in a way that reaches the viewer. Let us tell your story with moving images.</p>
-                <div id="socMedContainer" class="organizations">
-                    <div id="icons">
-                        <a href="http://www.MovingImagesPhotography.com" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
-                        <a href="http://www.MovingImagesVideography.com" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </article>
+
         </div>
 
         <div id="col2Flex">
-            <article class="text">
-                <h1>Phi Mu Alpha (&Phi;&Mu;&Alpha;)</h1>
-                    <img class="articleImg" src='/img/PMA.jpg'>
-                <p>Phi Mu Alpha Sinfonia Fraternity of America is the world's largest and oldest secret national fraternal society in music. Recently installed in the fall of 2014, the Sigma Mu chapter is looking forward to providing the men of Clemson University with a brotherhood experience like no other.</p>
-                <p>In Phi Mu Alpha Sinfonia, music is the bond that brings Sinfonians together here at Clemson University, and nationwide. Phi Mu Alpha Sinfonia is more than just a social club, it is a brotherhood that binds men together for their lives. Through Sinfonia we seek not only to develop manlier musicians, but also to develop musicianly men.</p>
-                <div id="socMedContainer" class="organizations">
-                    <div id="icons">
-                        <a href="https://www.facebook.com/clemsonpma/" target="_blank">
-                            <div id="facebook" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/facebook.png">
-                            </div>
-                        </a>
-                        <a href="https://www.instagram.com/clemsonpma/?hl=en" target="_blank">
-                            <div id="instagram" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/instagram.png">
-                            </div>
-                        </a>
-                        <a href="http://clemson.sinfonia.org" target="_blank">
-                            <div id="webLink" class="socialBorder">
-                                <img class="socialIcon" src="/img/logos/webLink.png">
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </article>
-
+    
             <article class="text">
                 <h1>Brooks Center for the Performing Arts</h1>
                     <img class="articleImg" src='/img/Brooks.jpg'>
@@ -220,6 +176,27 @@
                             </div>
                         </a>
                         <a href="http://www.imaginestudiossc.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </article>
+
+            <article class="text">
+                <h1>Moving Images, LLC.</h1>
+                    <img class="articleImg" src='/img/MovingImages.jpg'>
+                <p>Randy Christ, owner of Moving Images LLC, has proudly provided videography services to Tiger Band since 2010.</p>
+                <p>Moving Images LLC uses videography, photography, and other digital media technologies to create imaginative and compelling ways of expressing the ideas, and capturing the moments that are important to you. The experience and preparation methods that we have developed through years of shooting in "one-take" special event situations, allows you to relax and enjoy the experience of working with Moving Images. We are in this business because we love the special blend of artistry and technology that is required to produce a memorable image. We feel strongly that stories we are hired to tell are important, and we are passionate about doing what ever is necessary to tell the story in a way that reaches the viewer. Let us tell your story with moving images.</p>
+                <div id="socMedContainer" class="organizations">
+                    <div id="icons">
+                        <a href="http://www.MovingImagesPhotography.com" target="_blank">
+                            <div id="webLink" class="socialBorder">
+                                <img class="socialIcon" src="/img/logos/webLink.png">
+                            </div>
+                        </a>
+                        <a href="http://www.MovingImagesVideography.com" target="_blank">
                             <div id="webLink" class="socialBorder">
                                 <img class="socialIcon" src="/img/logos/webLink.png">
                             </div>
