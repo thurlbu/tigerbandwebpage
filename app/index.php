@@ -186,20 +186,33 @@
                 </div>
             </article>
 
-
+            <article class="media">
+                <h1>We are Tiger Band</h1>
+                <p>What does it mean to be a member of Tiger Band?</p>
+                <div class="iframeContainer">
+                    <div class="iFrameAspectRatio">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </article>
 
 
         </div>
 
         <div id="col2Flex">
 
-          <article class="text">
-              <h1>2020 Auditions</h1>
-              <img class="articleImg" src='/img/FiestaBowl2019.jpg'></a>
+          <article class="media">
+              <h1>Director's Message about 2020 Auditions</h1>
               <p>We're looking for the best and brightest to join the ranks of the "Band that Shake the Southland!"</p>
               <p>For all the information you need to join Tiger Band in our upcoming 2020 season, please visit our join page and submit those audition videos!</p>
-
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xc9G-d58w5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
           </article>
+
+
           <article class="media">
               <h1>Tiger Band Vlog Season 2, Episode 10</h1>
               <p>Follow the members of Tiger Band as they visit New Orleans for the National Championship Game!</p>
@@ -222,15 +235,7 @@
           </article>
 
 
-          <article class="media">
-              <h1>We are Tiger Band</h1>
-              <p>What does it mean to be a member of Tiger Band?</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                  </div>
-              </div>
-          </article>
+
 
 
         </div>
