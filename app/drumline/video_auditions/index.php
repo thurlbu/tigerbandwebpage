@@ -75,8 +75,11 @@
             </div>
             <div class="deadlinesInfo" id="info2">
                 <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
-                <br>Saturday, May 2 - 9am to 6pm
-                <br>Brooks Center - Room 112
+                <br>
+                <br>IN PERSON WORKSHOP CANCELLED DUE TO COVID-19
+                <br>
+                <br>ONLINE ALTERNATIVE EVENT WILL BE ANNOUNCED SOON
+                <br>
                 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">Click here to register!</a></p>
             </div>
         </div>

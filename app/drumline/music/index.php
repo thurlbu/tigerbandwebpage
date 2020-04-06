@@ -77,9 +77,9 @@
                     <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 10.</td>
                 </tr>
                 <tr>
-                    <td>2019 Callback Excerpt</td>
-                    <td>Coming on August 3</td>
-                    <td><a href="https://drive.google.com/open?id=0B4DWpMjnU4xANngzd1k1UDFzbVlYWWo2NHdTV2lNTlZhQmVR" title="Audition Excerpt - Score" target="_blank">Score</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAaktkb29yVVc5N2E2MHFsRmd1Q3J1cVpOVXRB" title="Audition Excerpt - Snare" target="_blank">S</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xATmtZeS14cnNCNURNNWtrTWJvQ21tMHBpMzVF" title="Audition Excerpt - Quad" target="_blank">Q</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAaFRoallxSHlTVGtYdGFZdkhpanlkUTQ4M19Z" title="Audition Excerpt - Bass" target="_blank">B</a> | <a href="https://drive.google.com/open?id=0B4DWpMjnU4xAOG9ka0x0cmJmRkZrTUdPOG9aYzZXQ3l1eDk0" title="Audition Excerpt - Cymbal" target="_blank">C</a></td>
+                    <td>2020 Callback Excerpt</td>
+                    <td>Coming Soon...</td>
+                    <td>Score | S | Q | B | C</td>
                     <td><a href="../doc/CymbalKey.pdf" target="_blank">** Cymbal Notation **</a></td>
                 </tr>
 		</table>

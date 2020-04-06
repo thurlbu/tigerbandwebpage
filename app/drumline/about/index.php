@@ -66,8 +66,14 @@
     </div>
 
     <div class="sponsors">
+        <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
+          <img src="../img/logos/yamaha.svg">
+        </a>
         <a href="http://remo.com/" target="_blank">
             <img src="../img/logos/remo.svg">
+        </a>
+        <a href="http://vicfirth.com/" target="_blank">
+            <img src="../img/logos/vic-firth.svg">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg">
@@ -75,12 +81,8 @@
         <a href="https://www.swaggtagz.com/" target="_blank">
             <img src="../img/logos/swaggtagz.svg">
         </a>
-        <a href="http://vicfirth.com/" target="_blank">
-            <img src="../img/logos/vic-firth.svg">
-        </a>
-        <a href="https://usa.yamaha.com/products/musical_instruments/marching/index.html" target="_blank">
-            <img src="../img/logos/yamaha.svg">
-        </a>
+
+
     </div>
 
     <div class="heading">
@@ -107,10 +109,10 @@
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Briana Parcell</h1>
-                <h2 class="purpleText">2019 Section Leader</h2>
+                <h2 class="purpleText">2020 Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/Briana.jpg" class="staffPortrait">
-                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2019 Tiger Band Season. A graduate of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year on second bass.</p>
+                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2020 Tiger Band Season. A graduate of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year.</p>
                     <p>Briana is a junior working towards dual degrees in Genetics and Biochemistry with a Psychology minor. When she isn't studying or practicing, she enjoys napping, snacking, and watching movies or hanging out with friends. Her favorite Christmas tradition is watching Elf, a heartwarming Christmas comedy starring her favorite actor/comedian/cotton-headed-ninny-muggins, Will Ferrell.</p>
                 </div>
             </article>
@@ -135,10 +137,10 @@
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>David Cherne</h1>
-                <h2 class="purpleText">2019 Section Leader</h2>
+                <h2 class="purpleText">2020 Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/David.jpg" class="staffPortrait">
-                    <p>David Cherne is a section leader of the 2019 Clemson University Drumline (CUD). He was born in Akron, Ohio, but moved to Fort Mill for his sophomore year of high school. David is a junior pursuing a B.A. in Computer Science with a minor in Digital Production Arts and plans to attend grad school to continue his studies in Digital Production Arts.</p>
+                    <p>David Cherne is a section leader of the 2020 Clemson University Drumline (CUD). He was born in Akron, Ohio, but moved to Fort Mill for his sophomore year of high school. David is a junior pursuing a B.A. in Computer Science with a minor in Digital Production Arts and plans to attend grad school to continue his studies in Digital Production Arts.</p>
 		                <p>As a freshman member of the CUD, David played Bass Drum, but then moved to the quad line his sophomore year. Marching band has taken David to many places, whether it’s playing bass drum on the Great Wall of China, playing in a concert honoring fallen veterans in Normandy, France, or watching Clemson win the championship in San Francisco, California, he has many great memories that he would not have been able to make without drums! David also enjoys playing in the Clemson Steel band beating all of the bad vibes away.</p>
 		                <p>David enjoys playing online games with friends, writing fantasy, practicing drum set, doodling, and procrastinating his coding projects until the day before they’re due. He listens to all kinds of music but can’t tell you the lyrics to any of them. He is always down to sit and talk with you for hours, but only if it’s about his favorite comedian/actor Will Ferrell.</p>
                 </div>
