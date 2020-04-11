@@ -154,15 +154,7 @@
                     University Tiger Band Association’s history, focus, activities, and funding.</p>
             </article>
 
-            <article class="media">
-                <h1>Supporting Tiger Band Through CUTBA</h1>
-                <p>CUTBA support is vital to the continued success of Tiger Band. Will you consider a donation to CUTBA to help Tiger Band continue its mission of excellence?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/1q_PAUCpoTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+
 
             <article class="text">
                 <h1 class="purpleText">Looking for that perfect Tiger Band and CUTBA Merchandise?</h1>
@@ -177,10 +169,16 @@
 
         <div id="col2Flex">
 
-
+          <article class="media">
+              <h1>Supporting Tiger Band Through CUTBA</h1>
+              <p>CUTBA support is vital to the continued success of Tiger Band. Will you consider a donation to CUTBA to help Tiger Band continue its mission of excellence?</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/1q_PAUCpoTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
         
-
-
 
             <article class="text">
                 <h1 class="purpleText">Follow CUTBA on Social Media!</h1>
