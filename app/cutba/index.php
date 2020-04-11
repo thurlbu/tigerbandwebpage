@@ -178,24 +178,7 @@
         <div id="col2Flex">
 
 
-            <article class="text">
-                <h1 class="purpleText">Supporting Tiger Band...</h1>
-                <img class="articleImg" src='img/CUTBADonate.jpg'>
-                <p>Become a member today by making a 100% tax deductible contribution to CUTBA through The Clemson
-                    Foundation/Annual Giving Office. Your membership contribution will give you recognition in three
-                    areas: The Clemson Foundation, Friends of The Brooks Center, and CUTBA.</p>
-                <p>All funds are used to support Tiger Band and Tiger Band Student with many events throughout the
-                    year. Scholarships are also provided through CUTBA’s Endowment.</p>
-                    <p>There are many ways <b><u>YOU</b></u> can help support Tiger Band financially:</p>
-                    <ul>
-                        <li><a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2">A one time, immediate, online contribution
-                                via credit/debit card</a></li>
-                        <li><a href="http://www.clemson.edu/giving/documents/bankdraft.pdf">A recurring contribution via
-                                bank draft</a></li>
-                        <li><a href="http://www.clemson.edu/giving/documents/creditcarddraft.pdf">A recurring contribution
-                                via a debit/credit card</a></li>
-                    </ul>
-            </article>
+        
 
 
 
