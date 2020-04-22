@@ -39,12 +39,12 @@
   <div class="section-fullscreen-container">
     <div class="section-heading dancer">
       <h1>Dancers</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572481770/Section%20Pages/Dancers/header.jpg">
+      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587568442/Section%20Pages/Dancers/header.jpg">
     </div>
 
     <div class="section-quote">
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>&mdash; Maggie, Catie &amp; Elizabeth</p>
+      <p>&mdash; Elizabeth &amp; Samantha</p>
     </div>
   </div>
 
@@ -54,19 +54,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572480243/Section%20Pages/Dancers/maggie-wentworth.jpg">
-      <h3>Maggie Wentworth</h3>
-      <p>Junior | Bioengineering <br/>Ringgold, GA</p>
-    </div>
-    <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572480243/Section%20Pages/Dancers/catie-demaret.jpg">
-      <h3>Catie Demaret</h3>
-      <p>Senior | Philosophy and Women’s Leadership <br/>Schaumburg, IL</p>
-    </div>
-    <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572480243/Section%20Pages/Dancers/elizabeth-rola.jpg">
       <h3>Elizabeth Rola</h3>
       <p>Junior | Graphic Communications <br/>Daniel Island, SC</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="">
+      <h3>Samantha Bernard</h3>
+      <p>Sophomore | <br/></p>
     </div>
   </div>
 
@@ -107,7 +102,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572481236/Section%20Pages/Dancers/group.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587568442/Section%20Pages/Dancers/group.jpg">
   </div>
 
   <div class="auditionButton">
