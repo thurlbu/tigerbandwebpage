@@ -56,7 +56,7 @@
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453644/Section%20Pages/Twirlers/reagan-king.jpg">
       <h3>Reagan King</h3>
-      <p>Junior | Nursing <br/>Townville, SC</p>
+      <p>Senior | Nursing <br/>Townville, SC</p>
     </div>
   </div>
 
