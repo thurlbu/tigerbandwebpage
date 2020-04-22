@@ -84,7 +84,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Bruce's Brick</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Bruce’s Brick is a tradition that was started in the 80’s during the tenure of band director Bruce Cook. Tiger Band used to be housed in Holtzendorff hall, so they took a brick from Holtzendorff and the band touched it before every game. After Bruce Cook retired the tradition was lost, but it was recently brought back by Zach Arms, a previous Tiger Band Commander after the brick was found still lying around the band room. Before each home game every band member touches the brick while walking into the amphitheater for the 90 minutes before kick off concert.</p>
         </div>
       </div>
     </div>
@@ -109,14 +109,14 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Dancing</h4>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          <p>Every year the drum majors come up with a new touchdown celebration dance. Every section in Tiger Band has one, but ours is special because every new drum major gets to add their own twist to the previous dance. After we score a touchdown, we play tiger rag and the drum-line plays a tag to which the whole band chants and does their respective dance. It’s one of our favorite traditions to “shake our booty” to.</p>
         </div>
       </div>
     </div>
   </div>
 
   <div class="media-container drum-major">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572462052/Section%20Pages/Drum%20Majors/group.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587565248/Section%20Pages/Drum%20Majors/group.jpg">
   </div>
 
   <div class="auditionButton">
