@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading guard">
-      <h1>Color Guard</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Color Guard</h1>
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
       <p>&mdash; Amber, Ericka, &amp; Olivia</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
   </div>
 
   <div class="heading">

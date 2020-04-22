@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading twirler">
-      <h1>Twirlers</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574653657/Section%20Pages/Twirlers/header-2.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
-      <p>"Go Tigers, Beat Everyone!" &mdash; Tiger Twirlers Take a look at why we love twirling for this university and we hope that one day you will, too!</p>
+      <h1>Twirlers</h1>
+      <p>"Go Tigers, Beat Everyone!" &mdash; Tiger Twirlers <br /> Take a look at why we love twirling for this university and we hope that one day you will, too!</p>
       <p>&mdash; Reagan</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574653657/Section%20Pages/Twirlers/header-2.jpg">
   </div>
 
   <div class="heading">

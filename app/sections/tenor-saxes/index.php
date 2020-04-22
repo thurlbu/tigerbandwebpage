@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading tenors">
+  <div class="section-heading">
+    <div class="section-quote">
       <h1>Tenor Saxophones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
-    </div>
-
-    <div class="section-quote tenors">
       <p>Unity in our diversity. Bring your talents to the tenor sax section!</p>
       <p>&mdash; Devin Lane</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
   </div>
 
   <div class="heading">

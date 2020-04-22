@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
-      <h1>Mellophones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Mellophones</h1>
       <p>The only thing missing from the mellophone family is YOU!</p>
       <p>&mdash; Chris &amp; Raz</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
   </div>
 
   <div class="heading">

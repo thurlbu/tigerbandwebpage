@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
-      <h1>Baritones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Baritones</h1>
       <p>Welcome to the baritone section! We’re looking forward to another great season and want to give a sneak-peek into what it’s like to be a member of the baritone section.</p>
       <p>&mdash; Lorenzo &amp; Chris</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
   </div>
 
   <div class="heading">

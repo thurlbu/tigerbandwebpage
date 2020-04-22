@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
-      <h1>Drum Majors</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572459896/Section%20Pages/Drum%20Majors/header.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Drum Majors</h1>
       <p>Welcome to the smallest &mdash; and most selective &mdash; section in Tiger Band! As drum majors we are chosen by our peers to be great conductors, leaders, and guardians of the Clemson spirit, both on and off the field. We work as a tight-knit team to solve problems and make Tiger Band a welcoming and exciting place for everyone. Are you ready to see what it takes to wear the white uniform?</p>
       <p>&mdash; Stephanie, Victor, &amp; Zach</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572459896/Section%20Pages/Drum%20Majors/header.jpg">
   </div>
 
   <div class="section-leaders-content">

@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading alto">
+  <div class="section-heading">
+    <div class="section-quote">
       <h1>Alto Saxophones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/header.jpg">
-    </div>
-
-    <div class="section-quote alto">
       <p>The alto saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal.</p>
       <p>&mdash; Grant &amp; Sam </p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/header.jpg">
   </div>
 
   <div class="heading">

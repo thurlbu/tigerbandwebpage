@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
-      <h1>Managers</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Managers</h1>
       <p>Welcome to the Tiger Band Managers! We support all of the logisitcal needs of Tiger Band. We also get to ride a golf cart.</p>
       <p>&mdash; Caroline</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
   </div>
 
   <div class="heading">

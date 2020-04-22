@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading clarinet">
-      <h1>Clarinets</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
-    </div>
-
+  <div class="section-heading">
     <div class="section-quote">
+      <h1>Clarinets</h1>
       <p>We’re quirky and fun. Come join the clarinet family!</p>
       <p>&mdash; Grayson &amp; Jason</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
   </div>
 
   <div class="heading">
