@@ -81,7 +81,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Bruce's Brick</h4>
-          <p>Bruce’s Brick is a tradition that was started in the 80’s during the tenure of band director Bruce Cook. Tiger Band used to be housed in Holtzendorff hall, so they took a brick from Holtzendorff and the band touched it before every game. After Bruce Cook retired the tradition was lost, but it was recently brought back by Zach Arms, a previous Tiger Band Commander after the brick was found still lying around the band room. Before each home game every band member touches the brick while walking into the amphitheater for the 90 minutes before kick off concert.</p>
+          <p>Bruce’s Brick is a tradition that started in the 1980’s during the tenure of band director Bruce Cook. Tiger Band used to be housed in Holtzendorff Hall, so the band members took a brick from Holtzendorff and made sure every band member touched it before every game. After Bruce Cook retired, the tradition was lost. Bruce’s Brick did not return until 2016, when former Tiger Band commander and drum major Zach Arms found the brick still lying around the band room. Now, every member of Tiger Band touches Bruce’s Brick before each home game. It’s a great way to bring the band together and hype everyone up as we walk into the amphitheater to present our “90 Minutes Before Kick-Off“ concert!</p>
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Dancing</h4>
-          <p>Every year the drum majors come up with a new touchdown celebration dance. Every section in Tiger Band has one, but ours is special because every new drum major gets to add their own twist to the previous dance. After we score a touchdown, we play tiger rag and the drum-line plays a tag to which the whole band chants and does their respective dance. It’s one of our favorite traditions to “shake our booty” to.</p>
+          <p>Every year, the drum majors come up with a new touchdown celebration dance. Every section in Tiger Band has one, but ours is special, because every new drum major gets to add their own twist to the previous dance! After we score a touchdown, we play Tiger Rag and the drum-line plays a tag, or a short cadence. During this tag, the whole band chants, and  each section does their respective dance. It’s one of our favorite traditions to “shake our booty” to.</p>
         </div>
       </div>
     </div>
