@@ -41,7 +41,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Sousaphones</h1>
       <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
-      <p>&mdash; LK &amp; G</p>
+      <p>&mdash; LK &amp; T</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
   </div>
@@ -57,9 +57,9 @@
       <p>Junior | Mathematical Sciences <br/>Aiken, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/graham-jackson.jpg">
-      <h3>Graham Jackson</h3>
-      <p>Senior | Mechanical Engineering <br/>Lexington, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681946/Section%20Pages/Sousaphones/section-leader-2.jpg">
+      <h3>John Turpin</h3>
+      <p>Senior | Civil Engineering <br/>Waxhaw, NC</p>
     </div>
   </div>
 
