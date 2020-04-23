@@ -163,6 +163,17 @@
 
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
+
+         <article class="media">
+             <h1>2020 Tiger Dancer Section Leaders</h1>
+             <p>Introducing Rola and Samantha Bernard - our 2020 Tiger Dancer Section Leaders! Learn what it's like to be a member of this wonderful family of performers!</p>
+             <div class="iframeContainer">
+                 <div class="iFrameAspectRatio">
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/3jNdLMLraoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 </div>
+             </div>
+         </article>
+
          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBuG-Nr00phNgYxk_R8w5H2K45pxKhEXfUIBMH3qdP2B-oMw/viewform?usp=sf_link" class="boxWrapper" target="_blank">
            <article class="text">
                <h1>Scholarships!</h1>
