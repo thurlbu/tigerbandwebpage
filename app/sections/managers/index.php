@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Managers</h1>
       <p>Welcome to the Tiger Band Managers! We support all of the logisitcal needs of Tiger Band. We also get to ride a golf cart.</p>
       <p>&mdash; Caroline</p>
@@ -107,5 +107,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

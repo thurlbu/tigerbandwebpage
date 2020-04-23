@@ -38,7 +38,7 @@
 <body>
 
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Sousaphones</h1>
       <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
       <p>&mdash; LK &amp; G</p>
@@ -131,5 +131,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

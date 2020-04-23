@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Color Guard</h1>
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
       <p>&mdash; Amber, Ericka, &amp; Olivia</p>
@@ -138,5 +138,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

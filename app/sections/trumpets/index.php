@@ -38,7 +38,7 @@
 <body>
   <!-- <div class="section-fullscreen-container"> -->
     <div class="section-heading trumpet">
-      <div class="section-quote">
+      <div class="section-quote" id="quoteBox">
         <h1>Trumpets</h1>
         <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
         <p>&mdash; Alicia, Mac, &amp; Nick</p>
@@ -139,5 +139,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

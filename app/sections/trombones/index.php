@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Trombones</h1>
       <p>Looking for the webpage of the best section in Tiger Band? You found it! We’re looking forward to another fun-filled and exhilarating season here in Clemson. This season, we hope to continue our domination in our weekly battles with the trumpets, show off our ever-so-stylish bone socks, and cheer on our Tigers to another winning season. Keep scrolling to see what we’re all about.</p>
       <p>&mdash; Georgia &amp; Trevor</p>
@@ -142,5 +142,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

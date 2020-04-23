@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Twirlers</h1>
       <p>"Go Tigers, Beat Everyone!" &mdash; Tiger Twirlers <br /> Take a look at why we love twirling for this university and we hope that one day you will, too!</p>
       <p>&mdash; Reagan</p>
@@ -125,5 +125,5 @@
     readfile("../../footer.html");
 ?>
 </body>
-
+<script src="../handleQuoteBox.js"></script>
 </html>

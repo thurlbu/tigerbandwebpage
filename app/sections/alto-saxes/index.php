@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Alto Saxophones</h1>
       <p>The alto saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal.</p>
       <p>&mdash; Grant &amp; Sam </p>
@@ -130,5 +130,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

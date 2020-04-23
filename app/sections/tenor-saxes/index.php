@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Tenor Saxophones</h1>
       <p>Unity in our diversity. Bring your talents to the tenor sax section!</p>
       <p>&mdash; Devin Lane</p>
@@ -113,5 +113,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

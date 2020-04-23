@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Drum Majors</h1>
       <p>Welcome to the smallest &mdash; and most selective &mdash; section in Tiger Band! As drum majors we are chosen by our peers to be great conductors, leaders, and guardians of the Clemson spirit, both on and off the field. We work as a tight-knit team to solve problems and make Tiger Band a welcoming and exciting place for everyone. Are you ready to see what it takes to wear the white uniform?</p>
       <p>&mdash; Stephanie, Victor, &amp; Zach</p>
@@ -132,5 +132,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

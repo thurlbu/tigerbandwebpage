@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Mellophones</h1>
       <p>The only thing missing from the mellophone family is YOU!</p>
       <p>&mdash; Chris &amp; Raz</p>
@@ -130,5 +130,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

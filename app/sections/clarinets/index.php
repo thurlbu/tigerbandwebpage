@@ -37,7 +37,7 @@
 
 <body>
   <div class="section-heading">
-    <div class="section-quote">
+    <div class="section-quote" id="quoteBox">
       <h1>Clarinets</h1>
       <p>We’re quirky and fun. Come join the clarinet family!</p>
       <p>&mdash; Grayson &amp; Jason</p>
@@ -120,5 +120,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>
