@@ -7,5 +7,5 @@ function checkForMobileOrTablet() {
 };
 
 if (checkForMobileOrTablet()) {
-  quoteBox.style.bottom = "-15%"
+  quoteBox.style.bottom = "-20%"
 }

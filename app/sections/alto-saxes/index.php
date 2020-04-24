@@ -56,9 +56,9 @@
       <p>Senior | Economics <br/>Anderson, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/sam-regi.jpg">
-      <h3>Sam Regi</h3>
-      <p>Senior | Performing Arts <br/>Tyrone, GA</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587734276/Section%20Pages/Alto%20Saxophones/section-leader-2.jpg">
+      <h3>Charlie Brooks-Knepfle</h3>
+      <p>Junior | Music <br/>Central, SC</p>
     </div>
   </div>
 
@@ -111,7 +111,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587734381/Section%20Pages/Alto%20Saxophones/section.jpg">
   </div>
 
   <div class="auditionButton">
