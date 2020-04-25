@@ -40,26 +40,29 @@
     <div class="section-quote" id="quoteBox">
       <h1>Drum Majors</h1>
       <p>Welcome to the smallest &mdash; and most selective &mdash; section in Tiger Band! As drum majors we are chosen by our peers to be great conductors, leaders, and guardians of the Clemson spirit, both on and off the field. We work as a tight-knit team to solve problems and make Tiger Band a welcoming and exciting place for everyone. Are you ready to see what it takes to wear the white uniform?</p>
-      <p>&mdash; Stephanie, Victor, &amp; Zach</p>
+      <!-- <p>&mdash; Stephanie, Victor, &amp; Zach</p> -->
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572459896/Section%20Pages/Drum%20Majors/header.jpg">
   </div>
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572460818/Section%20Pages/Drum%20Majors/stephanie-linke.jpg">
-      <h3>Stephanie Linke</h3>
-      <p>Senior | Mechanical Engineering <br/>Summerville, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587781151/Section%20Pages/Drum%20Majors/tbd.jpg">
+      <h3>TBD 2020</h3>
+      <!-- <h3>Stephanie Linke</h3>
+      <p>Senior | Mechanical Engineering <br/>Summerville, SC</p> -->
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572460818/Section%20Pages/Drum%20Majors/victor-fleifel.jpg">
-      <h3>Victor Fleifel</h3>
-      <p>Junior | Civil Engineering <br/>Spartanburg, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587781151/Section%20Pages/Drum%20Majors/tbd.jpg">
+      <h3>TBD 2020</h3>
+      <!-- <h3>Victor Fleifel</h3>
+      <p>Junior | Civil Engineering <br/>Spartanburg, SC</p> -->
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572478321/Section%20Pages/Drum%20Majors/zach-jordan.jpg">
-      <h3>Zach Jordan</h3>
-      <p>Senior | Electrical Engineering / Performing Arts <br/>Cayce, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587781151/Section%20Pages/Drum%20Majors/tbd.jpg">
+      <h3>TBD 2020</h3>
+      <!-- <h3>Zach Jordan</h3>
+      <p>Senior | Electrical Engineering / Performing Arts <br/>Cayce, SC</p> -->
     </div>
   </div>
 
