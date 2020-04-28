@@ -36,18 +36,14 @@
 ?>
 
 <body>
-  <!-- <div class="section-fullscreen-container"> -->
-    <div class="section-heading trumpet">
-      <div class="section-quote" id="quoteBox">
-        <h1>Trumpets</h1>
-        <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
-        <p>&mdash; Nick, Adam, &amp; Andrew</p>
-      </div>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
+  <div class="section-heading trumpet">
+    <div class="section-quote" id="quoteBox">
+      <h1>Trumpets</h1>
+      <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
+      <p>&mdash; Nick, Adam, &amp; Andrew</p>
     </div>
-
-    
-  <!-- </div> -->
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
+  </div>
 
   <div class="heading">
       <h4>Section Leaders</h4>
