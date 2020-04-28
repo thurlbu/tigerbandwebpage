@@ -36,16 +36,14 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
-      <h1>Sousaphones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
-    </div>
 
-    <div class="section-quote">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
+      <h1>Sousaphones</h1>
       <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
-      <p>&mdash; LK &amp; G</p>
+      <p>&mdash; LK &amp; J</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
   </div>
 
   <div class="heading">
@@ -59,9 +57,9 @@
       <p>Junior | Mathematical Sciences <br/>Aiken, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/graham-jackson.jpg">
-      <h3>Graham Jackson</h3>
-      <p>Senior | Mechanical Engineering <br/>Lexington, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681946/Section%20Pages/Sousaphones/section-leader-2.jpg">
+      <h3>John Turpin</h3>
+      <p>Senior | Civil Engineering <br/>Waxhaw, NC</p>
     </div>
   </div>
 
@@ -114,7 +112,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910860/Section%20Pages/Sousaphones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588041902/Section%20Pages/Sousaphones/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -133,5 +131,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

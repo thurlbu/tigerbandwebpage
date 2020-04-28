@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
       <h1>Baritones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
-    </div>
-
-    <div class="section-quote">
       <p>Welcome to the baritone section! We’re looking forward to another great season and want to give a sneak-peek into what it’s like to be a member of the baritone section.</p>
-      <p>&mdash; Lorenzo &amp; Chris</p>
+      <p>&mdash; Morgan &amp; Anthony</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961176/Section%20Pages/Baritones/header.jpg">
   </div>
 
   <div class="heading">
@@ -54,9 +51,9 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833778/Section%20Pages/Baritones/chris-nahum.jpg">
-      <h3>Chris Nahum</h3>
-      <p>Senior | Mechanical Engineering <br/>Indian Land, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588021606/Section%20Pages/Baritones/section-leader-1.jpg">
+      <h3>Morgan Oliver</h3>
+      <p>Junior | Landscape Architecture<br/>Columbia, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574176190/Section%20Pages/Baritones/anthony-b.jpg">
@@ -114,7 +111,7 @@
   </div>
 
   <div class="media-container baritone">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551833779/Section%20Pages/Baritones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588021924/Section%20Pages/Baritones/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -133,5 +130,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

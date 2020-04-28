@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading trumpet">
+  <div class="section-heading trumpet">
+    <div class="section-quote" id="quoteBox">
       <h1>Trumpets</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
-    </div>
-
-    <div class="section-quote">
       <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
-      <p>&mdash; Alicia, Mac, &amp; Nick</p>
+      <p>&mdash; Nick, Adam, &amp; Andrew</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
   </div>
 
   <div class="heading">
@@ -54,19 +51,19 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552257405/Section%20Pages/Trumpets/alicia-cameron.jpg">
-      <h3>Alicia Cameron</h3>
-      <p>Senior | Industrial Engineering <br/>Mt. Pleasant, SC</p>
-    </div>
-    <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836108/Section%20Pages/Trumpets/mac-mccrary.jpg">
-      <h3>Mac McCrary</h3>
-      <p>Junior | Performing Arts <br/>Walhalla, SC</p>
-    </div>
-    <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836505/Section%20Pages/Trumpets/nick-gustafson.jpg">
       <h3>Nick Gustafson</h3>
       <p>Senior | Computer Science <br/>Columbia, SC</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588025029/Section%20Pages/Trumpets/section-leader-2.jpg">
+      <h3>Adam Gootgeld</h3>
+      <p>Senior | Materials Science and Engineering <br/>San Diego, CA</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080744/Section%20Pages/Trumpets/section-leader-3.jpg">
+      <h3>Andrew Marsh</h3>
+      <p>Junior | Mechanical Engineering <br/>Pickens, SC</p>
     </div>
   </div>
 
@@ -119,7 +116,7 @@
   </div>
 
   <div class="media-container trumpet">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836105/Section%20Pages/Trumpets/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588022541/Section%20Pages/Trumpets/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -138,5 +135,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

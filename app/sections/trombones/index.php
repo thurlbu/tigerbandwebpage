@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
       <h1>Trombones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
-    </div>
-
-    <div class="section-quote trombone">
       <p>Looking for the webpage of the best section in Tiger Band? You found it! We’re looking forward to another fun-filled and exhilarating season here in Clemson. This season, we hope to continue our domination in our weekly battles with the trumpets, show off our ever-so-stylish bone socks, and cheer on our Tigers to another winning season. Keep scrolling to see what we’re all about.</p>
       <p>&mdash; Georgia &amp; Trevor</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
   </div>
 
   <div class="heading">
@@ -126,7 +123,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911605/Section%20Pages/Trombones/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588022402/Section%20Pages/Trombones/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -145,5 +142,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading tenors">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
       <h1>Tenor Saxophones</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
-    </div>
-
-    <div class="section-quote tenors">
       <p>Unity in our diversity. Bring your talents to the tenor sax section!</p>
-      <p>&mdash; Devin Lane</p>
+      <p>&mdash; Erick</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
   </div>
 
   <div class="heading">
@@ -54,9 +51,9 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837273/Section%20Pages/Tenor%20Saxophones/davin-lane.jpg">
-      <h3>Devin Lane</h3>
-      <p>Sophomore | Electrical Engineering <br/>Blue Ridge, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080469/Section%20Pages/Tenor%20Saxophones/section-leader-1.jpg">
+      <h3>Erick Restrepo</h3>
+      <p>Senior | Political Sciences<br/>Spartanburg, SC</p>
     </div>
   </div>
 
@@ -73,7 +70,7 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/gameday-hats.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080472/Section%20Pages/Tenor%20Saxophones/gameday-hats.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
@@ -97,7 +94,7 @@
   </div>
 
   <div class="media-container tenors">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837313/Section%20Pages/Tenor%20Saxophones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080471/Section%20Pages/Tenor%20Saxophones/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -116,5 +113,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

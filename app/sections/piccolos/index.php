@@ -36,16 +36,14 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading piccolo">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
       <h1>Piccolos</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1554168042/Section%20Pages/Piccolos/header.jpg">
-    </div>
-
-    <div class="section-quote">
       <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for the 2019 edition of Tiger Band and we hope you are too!</p>
-      <p>&mdash; Maureen &amp; Jillian</p>
+      <p>&mdash; Jillian &amp; Hannah</p>
     </div>
+    
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1554168042/Section%20Pages/Piccolos/header.jpg">
   </div>
 
   <div class="heading">
@@ -54,14 +52,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829785/Section%20Pages/Piccolos/maureen-zabel.jpg">
-      <h3>Maureen Zabel</h3>
-      <p>Senior | Genetics<br/>Tega Cay, SC</p>
-    </div>
-    <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829787/Section%20Pages/Piccolos/jillian-mcnally.jpg">
       <h3>Jillian McNally</h3>
-      <p>Junior | Financial Management<br/>Walhalla, SC</p>
+      <p>Senior | Financial Management<br/>Walhalla, SC</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588041518/Section%20Pages/Piccolos/section-leader-2.jpg">
+      <h3>Hannah Kadets</h3>
+      <p>Junior | Animal Veterinary Science<br/>Shelby Twp, Michigan</p>
     </div>
   </div>
 
@@ -102,7 +100,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551909529/Section%20Pages/Piccolos/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588031109/Section%20Pages/Piccolos/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -121,5 +119,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>

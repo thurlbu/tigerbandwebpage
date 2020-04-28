@@ -30,81 +30,52 @@ $responsive-descr-font-size: 14pt
     #trumpets .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836465/Section%20Pages/Trumpets/thumbnail.jpg) (top / cover) no-repeat
     #mellophones .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1588024447/Section%20Pages/Mellophones/thumbnail.jpg) (center / cover) no-repeat
     #baritones .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551834756/Section%20Pages/Baritones/thumbnail.jpg) (center / cover) no-repeat
     #trombones .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload//q_auto/v1551960874/Section%20Pages/Trombones/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960874/Section%20Pages/Trombones/thumbnail.jpg) (center / cover) no-repeat
     #sousaphones .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/thumbnail.jpg) (top / cover) no-repeat
     #managers .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg) (center / cover) no-repeat
     #drum-majors .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961361/Section%20Pages/Drum%20Majors/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1551961361/Section%20Pages/Drum%20Majors/thumbnail.jpg) (center / cover) no-repeat
     #twirlers .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961464/Section%20Pages/Twirlers/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453646/Section%20Pages/Twirlers/thumbnail-2.jpg) (center / cover) no-repeat
     #dancers .section
-      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/e_grayscale/v1551961320/Section%20Pages/Dancers/thumbnail.jpg) (center / cover) no-repeat
+      background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587657133/Section%20Pages/Dancers/thumbnail.jpg) (center / cover) no-repeat
     #guard .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/thumbnail.jpg) (center / cover) no-repeat
     #drumline .section
       background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551961559/Section%20Pages/Drumline/thumbnail.jpg) (center / cover) no-repeat
 
 /* SECTION PAGES */
-.section-fullscreen-container
-  display: flex
-  height: calc(100vh - 2.5rem)
-  width: 100vw
-  flex-flow: column
-  background: black
-
 .section-heading
-  height: 70vh
-  height: calc(85vh - 4.5rem)
-  display: flex
-  justify-content: center
-  position: relative
-  overflow: hidden
-  h1
-    margin-top: auto
-    width: 95%
-    color: white
-    text-shadow: 5px 5px 25px rgba(0, 0, 0, 1)
-    z-index: 2
   img
+    height: 100%
+    width: 100%
+    height: calc(100vh - 2.5rem)
+    object-fit: cover
+    object-position: 50% 0
+  .section-quote
     position: absolute
-    left: 50%
-    top: 50%
-    transform: translate(-50%, -50%)
+    bottom: 0
     width: 100%
-    z-index: 1
-  &.trumpet
-    img
-      top: 70%
-  &.piccolo
-    img
-      top: 30%
-  &.clarinet
-    img
-      top: 70%
-
-.section-quote
-  display: flex
-  min-height: calc(100vh - 85vh)
-  width: 95vw
-  padding: 1.5rem 2.5%
-  background: black
-  align-self: flex-end
-  flex-flow: column
-  justify-content: center
-  z-index: 3
-  p
-    width: 100%
-    color: white
-    font-size: $description-font-size
-    &:nth-of-type(even)
-      padding-top: .5rem
-      text-align: right
+    h1
+      padding-left: 1rem
+      color: white
+      text-shadow: 5px 5px 25px rgba(0, 0, 0, 1)
+      margin: 0 
+    p
+      padding: 1rem 2rem
+      margin: 0
+      background-color: black
+      color: white
+      font-size: $description-font-size
+      &:nth-of-type(even)
+        padding-top: .5rem
+        text-align: right
 
 .section-pages.heading
   margin-bottom: 2.5rem
@@ -215,36 +186,35 @@ $responsive-descr-font-size: 14pt
   &.baritone
     background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553770132/Section%20Pages/Baritones/recruiting-background.jpg)
     background-position-y: 30%
+  &.drum-major
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572462929/Section%20Pages/Drum%20Majors/recuriting-background.jpg)
+    background-position-y: 8%
+  &.dancer
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1556556718/Good%20photos/clemson-tiger-band-gsu-2018-393.jpg)
+    background-position-y: 60%
+  &.twirlers
+    background-image: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587581478/Section%20Pages/Twirlers/recruiting.jpg)
+    background-position-y: 20%
 
 @media (max-width: 1050px)
   .section-heading
-    h1
-      font-size: 54pt
-    img
-      position: absolute
-      left: 50%
-      top: 50%
-      transform: translate(-50%, -50%)
-      height: 100%
-      width: auto
-    &.trumpet
-      img
-        top: 50%
-    &.piccolo
-      img
-        top: 50%
-    &.clarinet
-      img
-        top: 50%
+    .section-quote
+      h1
+        font-size: 54pt
 
 @media (max-width: 800px)
   #boxUI.sections
     margin-top: -0.5rem
 
   .section-heading
-    margin-top: -0.5rem
-    h1
-      text-align: center
+    img
+      margin-top: -0.5rem
+    .section-quote
+      h1
+        padding: 0
+        text-align: center
+      p
+        font-size: $responsive-descr-font-size
 
   .section-leaders-content
     flex-flow: row wrap
@@ -253,13 +223,6 @@ $responsive-descr-font-size: 14pt
       padding: 1rem
       p
         font-size: $responsive-descr-font-size
-
-  .section-quote
-    width: calc(100vw - 2rem)
-    padding: 1rem
-    margin: 2rem 0
-    p
-      font-size: $responsive-descr-font-size
 
   .section-traditions
     .tradition
@@ -274,5 +237,6 @@ $responsive-descr-font-size: 14pt
 
 @media (max-width: 425px)
   .section-heading
-    h1
-      font-size: 36pt
+    .section-quote
+      h1
+        font-size: 36pt

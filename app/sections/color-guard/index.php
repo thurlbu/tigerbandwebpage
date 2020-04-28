@@ -36,16 +36,13 @@
 ?>
 
 <body>
-  <div class="section-fullscreen-container">
-    <div class="section-heading guard">
+  <div class="section-heading">
+    <div class="section-quote" id="quoteBox">
       <h1>Color Guard</h1>
-      <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
-    </div>
-
-    <div class="section-quote">
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
-      <p>&mdash; Amber, Ericka, &amp; Olivia</p>
+      <p>&mdash; Andra, Ada, &amp; Olivia</p>
     </div>
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
   </div>
 
   <div class="heading">
@@ -54,21 +51,21 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/amber-o-dell.jpg">
-      <h3>Amber O’Dell</h3>
-      <p>Sophomore | Communications <br/>Piedmont, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681178/Section%20Pages/Color%20Guard/section-leader-1.jpg">
+      <h3>Andra Cummings</h3>
+      <p>Senior | Genetics <br/>Simpsonville, SC</p>
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/ericka-pace.jpg">
-      <h3>Ericka Pace</h3>
-      <p>Senior | Agricultural Mechanization and Business<br/>Polk City, FL</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588098229/Section%20Pages/Color%20Guard/section-leader-2.jpg">
+      <h3>Ada Nwobodu</h3>
+      <p>Junior | Biochemistry<br/>Simpsonvile, SC</p>
     </div>
 
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/olivia-papotto.jpg">
       <h3>Olivia Papotto</h3>
-      <p>Junior | Computer Information Systems<br/>Pelzer, SC</p>
+      <p>Senior | Computer Information Systems<br/>Pelzer, SC</p>
     </div>
   </div>
 
@@ -122,7 +119,7 @@
   </div>
 
   <div class="media-container guard">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588024114/Section%20Pages/Color%20Guard/section.jpg">
   </div>
 
   <div class="auditionButton">
@@ -141,5 +138,6 @@
     readfile("../../footer.html");
 ?>
 </body>
+<script src="../handleQuoteBox.js"></script>
 
 </html>
