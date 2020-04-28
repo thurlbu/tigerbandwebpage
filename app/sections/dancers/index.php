@@ -39,7 +39,7 @@
   <div class="section-heading">
     <div class="section-quote" id="quoteBox">
       <h1>Dancers</h1>
-      <p>The Tiger Dancers bring spirit, energy, and passion to every performance! On game day, we dance during the 90 minutes before kickoff amphitheater performance, the parade into the stadium, during pregame and halftime, and in the stands with all of Tiger Band. As well as football, we participate in numerous other events on campus including the First Friday Parade and the President’s Picnic. We have also been lucky enough to dance around the country during post-season football games to cheer on the Tigers. When the Tiger Dancers are not performing in Death Valley, we enjoy working with local dance teams like the Daniel High School dance team or performing for students at nearby schools like Cedar Grove Elementary. We are so excited for the 2020 season and can’t wait to get started!</p>
+      <p>The Tiger Dancers bring spirit, energy, and passion to every performance! On game day, we dance during the 90 minutes before kickoff amphitheater performance, the parade into the stadium, during pregame and halftime, and in the stands with all of Tiger Band. We have also been lucky enough to dance around the country during post-season football games to cheer on the Tigers. We are so excited for the 2020 season and can’t wait to get started!</p>
       <p>&mdash; Elizabeth &amp; Samantha</p>
     </div>
     

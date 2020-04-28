@@ -61,11 +61,11 @@
       <h4>Traditions</h4>
   </div>
 
-  <!-- <div class="media-container">
+  <div class="media-container">
     <video playsinline autoplay loop muted>
-        <source src="https://d3fdmt0abme096.cloudfront.net/section-pages/trumpet.mp4" type="video/mp4">
+        <source src="https://d3fdmt0abme096.cloudfront.net/section-pages/twirler.mp4" type="video/mp4">
     </video>
-  </div> -->
+  </div>
 
   <div class="section-traditions">
     <div class="tradition">

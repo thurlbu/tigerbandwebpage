@@ -123,7 +123,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911605/Section%20Pages/Trombones/section-photo.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588022402/Section%20Pages/Trombones/section.jpg">
   </div>
 
   <div class="auditionButton">

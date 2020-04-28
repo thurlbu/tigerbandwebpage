@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Mellophones</h1>
       <p>The only thing missing from the mellophone family is YOU!</p>
-      <p>&mdash; Chris &amp; Raz</p>
+      <p>&mdash; Sadie &amp; Stuart</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895644/Section%20Pages/Mellophones/thumbnail.jpg">
   </div>
@@ -51,14 +51,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895554/Section%20Pages/Mellophones/chris-haigh.jpg">
-      <h3>Chris Haigh</h3>
-      <p>Senior | Computer Science<br/>Mount Pleasant, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023250/Section%20Pages/Mellophones/section-leader-1.jpg">
+      <h3>Sadie Bates</h3>
+      <p>Junior | Chemical Engineering<br/>Summerville, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895554/Section%20Pages/Mellophones/sarah-raz.jpg">
-      <h3>Sarah “Raz” Razavi</h3>
-      <p>Senior | American Sign Language<br/>Atlanta, GA</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023773/Section%20Pages/Mellophones/section-leader-2.jpg">
+      <h3>Stuart Saletan</h3>
+      <p>Junior | Computer Science<br/>Charleston, SC</p>
     </div>
   </div>
 
@@ -111,7 +111,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551895549/Section%20Pages/Mellophones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588024074/Section%20Pages/Mellophones/section.jpg">
   </div>
 
   <div class="auditionButton">

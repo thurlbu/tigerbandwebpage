@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Color Guard</h1>
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
-      <p>&mdash; Andra &amp; Olivia</p>
+      <p>&mdash; Andra, Ada, &amp; Olivia</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
   </div>
@@ -54,6 +54,12 @@
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681178/Section%20Pages/Color%20Guard/section-leader-1.jpg">
       <h3>Andra Cummings</h3>
       <p>Senior | Genetics <br/>Simpsonville, SC</p>
+    </div>
+
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588098229/Section%20Pages/Color%20Guard/section-leader-2.jpg">
+      <h3>Ada Nwobodu</h3>
+      <p>Junior | Biochemistry<br/>Simpsonvile, SC</p>
     </div>
 
     <div class="section-leader">
@@ -113,7 +119,7 @@
   </div>
 
   <div class="media-container guard">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588024114/Section%20Pages/Color%20Guard/section.jpg">
   </div>
 
   <div class="auditionButton">

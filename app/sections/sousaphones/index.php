@@ -41,7 +41,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Sousaphones</h1>
       <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
-      <p>&mdash; LK &amp; T</p>
+      <p>&mdash; LK &amp; J</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
   </div>
@@ -112,7 +112,7 @@
   </div>
 
   <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910860/Section%20Pages/Sousaphones/section.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588041902/Section%20Pages/Sousaphones/section.jpg">
   </div>
 
   <div class="auditionButton">
