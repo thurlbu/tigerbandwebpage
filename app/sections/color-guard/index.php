@@ -57,9 +57,9 @@
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588098229/Section%20Pages/Color%20Guard/section-leader-2.jpg">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588106907/Section%20Pages/Color%20Guard/section-leader-2.jpg">
       <h3>Ada Nwobodu</h3>
-      <p>Junior | Biochemistry<br/>Simpsonvile, SC</p>
+      <p>Senior | Biochemistry<br/>Simpsonvile, SC</p>
     </div>
 
     <div class="section-leader">

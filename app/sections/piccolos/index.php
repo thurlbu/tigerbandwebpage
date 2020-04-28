@@ -39,7 +39,7 @@
   <div class="section-heading">
     <div class="section-quote" id="quoteBox">
       <h1>Piccolos</h1>
-      <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for the 2019 edition of Tiger Band and we hope you are too!</p>
+      <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for this next season and we hope you are too!</p>
       <p>&mdash; Jillian &amp; Hannah</p>
     </div>
     
