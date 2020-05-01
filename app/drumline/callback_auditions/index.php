@@ -66,21 +66,26 @@
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>2</b>
-                    <p>Audition Workshop</p>
+                    <b>23</b>
+                    <p>Online Audition Workshop</p>
                 </div>
             </div>
             <div class="deadlinesInfo" id="info1">
                 <p>Audition materials for VIDEO round will be available on website</p>
             </div>
             <div class="deadlinesInfo" id="info2">
-              <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
-              <br>
-              <br>IN PERSON WORKSHOP CANCELLED DUE TO COVID-19
-              <br>
-              <br>ONLINE ALTERNATIVE EVENT WILL BE ANNOUNCED SOON
-              <br>
-              <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">Click here to register!</a></p>
+                <p>Clemson University Drumline Pre-Audition Workshop on Zoom (P.A.W.Z.)
+                <br>
+                <br>Meet our staff, receive personal feedback, and learn the music for the video audition!
+                <br>
+                <br>The only thing you need is a practice pad and some sticks!
+                <br>
+                <br>10:00am - Snares and Quads
+                <br>1:00pm - Basses
+                <br>2:30pm - Cymbals
+                <br>3:30pm - Wrap-up session
+                <br>
+                <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE FOR FREE REGISTRATION!</a></p>
             </div>
         </div>
         <div class="month num2">
