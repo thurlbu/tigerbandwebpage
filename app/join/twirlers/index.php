@@ -58,15 +58,15 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
 
-                          <p>April</p>
-                          <b>27</b>
+                          <p>May</p>
+                          <b>8</b>
                           <p>Deadline for Audition Video Submissions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Audition Videos and Application materials due by 11:59pm on April 27<br>
+                      <p>Extended deadline for Audition Videos and Application materials is <b>11:59pm on May 8</b><br>
                         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by May 2nd</p>
+                        Results will be communicated by May 15th</p>
 
                   </div>
               </div>
@@ -75,7 +75,7 @@
           <article class="text fullWidth">
                           <h1 class="purpleText">2020 Feature Twirler Auditions</h1>
                           <p>Auditions for the 2020 Feature Twirler position will be completed via video submission. The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
-                          <p>Videos for the Feature Twirler Position are due by <b>April 27, 2020</b> and results will be communicated by <b>May 2, 2020</b>.</p>
+                          <p>Videos for the Feature Twirler Position are due by <b>May 8, 2020</b> and results will be communicated by <b>May 15, 2020</b>.</p>
                           <p>Your video must include performances with 1, 2, and 3 batons outside. The video can include performances with a marching band but is not required.</p>
                           <p>You may wear whatever you like, but <b>only videos shot outdoors will receive full consideration</b>. All feature twirler applicants will also be automatically considered for a position on the Tiger Twirler Team.</p>
                           <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
@@ -110,7 +110,7 @@
           <article class="text fullWidth">
               <h1 class="purpleText">2020 Tiger Twirler Auditions</h1>
               <p>Auditions for the 2020 Tiger Twirlers will be completed via video submission.</p>
-              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>April 27, 2020</b> and results will be communicated by <b>May 2, 2020</b>.</p>
+              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>May 8, 2020</b> and results will be communicated by <b>May 15, 2020</b>.</p>
               <p>For your video, please wear a <b><u>white tank top</b></u>, <b><u>black leggings</b></u>, and <b><u>jazz shoes</b></u>.</p>
               <p>All returning members must submit a new audition video each year.</p>
               <p>Your audition video must include:</p>
