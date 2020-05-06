@@ -229,7 +229,7 @@
 
           <article class="media">
               <h1>2020 Tiger Band Sousaphones</h1>
-              <p>Meet Laura Kate Reid, who along with Josh Turpin, will be the 2020 section leaders of the Sousaphones! Find out what it's like to be a part of the quirky Tiger Band Sousaphone family.</p>
+              <p>Meet Laura Kate Reid, who along with John Turpin, will be the 2020 section leaders of the Sousaphones! Find out what it's like to be a part of the quirky Tiger Band Sousaphone family.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/YxMQjt-GZGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
