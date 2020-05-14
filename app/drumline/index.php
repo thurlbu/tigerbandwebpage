@@ -115,19 +115,35 @@
                 </div>
             </article>
 
+            <article class="text">
+                <h1 class="orangeText">Follow CUD on Social Media</h1>
+                <img class="articleImg" src='img/Social_Media2.png'>
+                <p>Keep up to date with all of the news and events from the Clemson University Drumline by following
+                    @clemsondrumline on <a href="https://www.facebook.com/ClemsonDrumline" target="_blank">Facebook</a>
+                    and <a href="https://twitter.com/clemsondrumline" target="_blank">Twitter</a> and @Clemson_Drumline
+                    on <a href="https://www.instagram.com/clemson_drumline/" target="_blank">Instagram</a>!</p>
+                <p>See all the latest photos and videos and get all the latest announcements!</p>
+            </article>
+
 
         </div>
 
         <div id="col2Flex">
+
           <article class="text">
-              <h1 class="orangeText">Follow CUD on Social Media</h1>
-              <img class="articleImg" src='img/Social_Media2.png'>
-              <p>Keep up to date with all of the news and events from the Clemson University Drumline by following
-                  @clemsondrumline on <a href="https://www.facebook.com/ClemsonDrumline" target="_blank">Facebook</a>
-                  and <a href="https://twitter.com/clemsondrumline" target="_blank">Twitter</a> and @Clemson_Drumline
-                  on <a href="https://www.instagram.com/clemson_drumline/" target="_blank">Instagram</a>!</p>
-              <p>See all the latest photos and videos and get all the latest announcements!</p>
+              <h1 class="orangeText">2020 Clemson University Drumline PAWZ</h1>
+              <img class="articleImg" src='img/2019Drumline.jpg'>
+              <p>Looking for a little extra help with your 2020 Drumline Audition?</p>
+              <p>Join our 2020 Section Leaders and instructional staff on Saturday, May 23 for a free, online workshop to help sharpen your skills and answer any questions you may have about the Clemson University Drumline or our audition process.</p>
+              <p>You'll meet our staff, receive personal feedback, and learn the music for the video audition - just grab your practice pad and <a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">register for free online</a> to receive the link to the Zoom session(s)! You can show up for as many sessions as you'd like!</p>
+              <p>Saturday, May 23, 10:00am-12:00pm: Snares and Quads</p>
+              <p>Saturday, May 23, 1:00pm-2:30pm: Basses</p>
+              <p>Saturday, May 23, 2:30pm-3:30pm: Cymbals</p>
+              <p>Saturday, May 23, 3:30pm-4:30pm: CUD Culture & Video Audition Information Wrap-Up Session</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">REGISTER TODAY</a> for the 2020 <b>P</b>re-<b>A</b>udition <b>W</b>orkshop on <b>Z</b>oom!</p>
           </article>
+
+
 
 
 

@@ -60,6 +60,10 @@
     <div class="heading">
         <h4>Audition Information</h4>
     </div>
+        <br>
+        <center><h3><b><u>Tiger Band COVID-19 Response</u></b>
+        <br>
+        <a href="http://tband.people.clemson.edu/contact/">If you are having trouble meeting the audition requirements due to COVID-19 related restrictions, please contact the band office to see if we can help!</center></h3></a>
     <div id="auditionBoxUI">
         <a href="/join/winds/" class="boxWrapper">
             <div id="inlineBox1" class="boxUIelement sq white">
@@ -136,7 +140,7 @@
                 <article class="text">
                     <h1>2020 Preseason Camp Schedule</h1>
                     <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                    <p>We're looking forward to welcoming the 2020 edition of "The Band that Shakes the Southland" to campus on Wednesday August 12.</p> 
+                    <p>We're looking forward to welcoming the 2020 edition of "The Band that Shakes the Southland" to campus on Wednesday August 12.</p>
                     <p>Our pursuit of excellence continues!</p>
                 </article>
         </div>
