@@ -52,22 +52,11 @@
         <div id="col1Flex">
           <article class="text fullWidth">
               <h1 class="purpleText">2020 Tiger Dancer Auditions</h1>
-              <p>Auditions for the 2020 Tiger Dancers will be completed via video submission.</p>
-              <p>Videos are due by <b>May 8, 2020 at 11:59pm </b>and results will be communicated by <b>May 15, 2020</b>.</p>
-              <p>For your video, please wear a <b><u>white tank top</b></u>, <b><u>black leggings</b></u>, and <b><u>jazz shoes</b></u>.</p>
-              <p>All returning members must submit a new audition video each year.</p>
-              <p>Your audition video must include:</p>
-              <ol>
-                  <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
-                  <li>Right and Left Splits</li>
-                  <li>Right and Left Double Pirouettes</li>
-                  <li>8-counts of Second Turns to the Right</li>
-                  <li>Kick Combination</li>
-              </ol>
+              <p>Auditions for the 2020 Tiger Dancers are now complete.</p>
+              <p>Audition submission information for the 2021 season will be posted here in early 2021.</p>
+              <p>If you'd like to see an example of what the audition might entail, please watch last year's audition tutorial video below.</p>
 
-              <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">2020 TIGER DANCER APPLICATION</a></p>
-              <p>Please watch the video below for routines and explanations of the skills.</p>
+
               <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jj54t3TY6i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
               <div id="audioContainer">
                   <div class="auditionAudio">
@@ -79,7 +68,7 @@
                       <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
                   </div>
               </div>
-              <p>If you have any questions concerning auditions for the Tiger Dancers, please contact Marilla Riggs: <a href="mailto:marillaburnham@gmail.com">marillaburnham@gmail.com</a></p>
+              <p>If you have any questions concerning auditions for the Tiger Dancers, please contact Marilla Riggs: <a href="mailto:marillariggs@gmail.com">marillariggs@gmail.com</a></p>
           </article>
 
 
@@ -93,15 +82,14 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
-                          <p>May</p>
-                          <b>8</b>
-                          <p>Deadline for Audition Video Submissions</p>
+                          <p>Date</p>
+                          <b>TBD</b>
+                          <p>Deadline for 2021 Audition Video Submissions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Extended deadline for Audition Videos and Application materials is <b>11:59pm on May 8</b><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by May 15th</p>
+                      <p>Deadline for 2021 Dancer auditions will be announced in early 2021.</p>
+
 
                   </div>
               </div>

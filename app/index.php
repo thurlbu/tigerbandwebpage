@@ -178,18 +178,6 @@
          </article>
 
 
-         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfBuG-Nr00phNgYxk_R8w5H2K45pxKhEXfUIBMH3qdP2B-oMw/viewform?usp=sf_link" class="boxWrapper" target="_blank">
-           <article class="text">
-               <h1>Scholarships!</h1>
-               <img class="articleImg" src='/img/Horns.jpg'></a>
-               <p>All Clemson University enrolled band students, regardless of major, are eligible to receive band participation-based awards. The standard award is $500 per semester and requires participation in Tiger Band AND either Symphonic Band or Jazz Ensemble (“The Jungaleers”). All three groups are auditioned ensembles; Tiger Band auditions are by video during the summer, and Symphonic Band and Jazz Ensemble auditions occur during the first week of classes in the fall semester. Click the “Join” menu item above for more info.</p>
-               <p>Incoming freshmen who have participated in the Senior All-State or Region Bands are encouraged to submit a video audition to be considered for more than the standard award. Please prepare two short excerpts demonstrating your lyrical and technical playing. These can be from any music of your choosing, such as an etude book, All-State audition piece, concerto, solo, etc. 4 minutes of total music is plenty.</p>
-               <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive or Dropbox. Secure a download link for the file and submit it by April 15, 2020 to be considered for the 2020-2021 academic year.</p>
-               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfBuG-Nr00phNgYxk_R8w5H2K45pxKhEXfUIBMH3qdP2B-oMw/viewform?usp=sf_link">Click here to access our scholarship audition form</a> and submit your video today!<p>
-
-           </article>
-
-
 
             <article class="media">
                 <h1>Southern Rock Show</h1>

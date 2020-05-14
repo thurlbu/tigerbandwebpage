@@ -58,28 +58,28 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
 
-                          <p>May</p>
-                          <b>8</b>
-                          <p>Deadline for Audition Video Submissions</p>
+                          <p>Date</p>
+                          <b>TBD</b>
+                          <p>Deadline for 2021 Feature Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Extended deadline for Audition Videos and Application materials is <b>11:59pm on May 8</b><br>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">Submit video via online application</a><br>
-                        Results will be communicated by May 15th</p>
+                      <p>Deadline for 2021 Feature Twirler auditions will be announced in early 2021.</p>
 
                   </div>
+
+
               </div>
           </div>
 
           <article class="text fullWidth">
                           <h1 class="purpleText">2020 Feature Twirler Auditions</h1>
-                          <p>Auditions for the 2020 Feature Twirler position will be completed via video submission. The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
-                          <p>Videos for the Feature Twirler Position are due by <b>May 8, 2020</b> and results will be communicated by <b>May 15, 2020</b>.</p>
+                          <br>
+                          <p>Auditions for the 2020 Feature Twirler position are now complete. To learn about our audition process for future seasons, please review the information from our 2020 auditions below.</p>
+                          <br>
                           <p>Your video must include performances with 1, 2, and 3 batons outside. The video can include performances with a marching band but is not required.</p>
                           <p>You may wear whatever you like, but <b>only videos shot outdoors will receive full consideration</b>. All feature twirler applicants will also be automatically considered for a position on the Tiger Twirler Team.</p>
-                          <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">2020 FEATURE TWIRLER APPLICATION</a></p>
+                          <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please contact Hazel Cartee: <a href="mailto:Hazel@carolinasuperstars.com?subject=Tiger Feature Twirler Audition Question">Hazel@carolinasuperstars.com</a></p>
                       </article>
 
@@ -105,26 +105,31 @@
         <div id="col2Flex">
 
           <!--- DEADLINE CALENDAR UI --->
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
+                      <div class="textContainer">
 
+                          <p>Date</p>
+                          <b>TBD</b>
+                          <p>Deadline for 2021 Tiger Twirler Auditions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info1">
+                      <p>Deadline for 2021 Tiger Twirler auditions will be announced in early 2021.</p>
+
+                  </div>
+
+
+              </div>
+          </div>
 
           <article class="text fullWidth">
               <h1 class="purpleText">2020 Tiger Twirler Auditions</h1>
-              <p>Auditions for the 2020 Tiger Twirlers will be completed via video submission.</p>
-              <p>Videos to be considered to become a member of the Tiger Twirlers are due by <b>May 8, 2020</b> and results will be communicated by <b>May 15, 2020</b>.</p>
-              <p>For your video, please wear a <b><u>white tank top</b></u>, <b><u>black leggings</b></u>, and <b><u>jazz shoes</b></u>.</p>
-              <p>All returning members must submit a new audition video each year.</p>
-              <p>Your audition video must include:</p>
-              <ol>
-                  <li>Posted routines to Eye of the Tiger AND Tiger Rag</li>
-                  <li>Right Split</li>
-                  <li>Left Split</li>
-                  <li>3-Spin</li>
-                  <li>Toss Illusion</li>
-              </ol>
+              <p>Auditions for the 2020 Tiger Twirlers are now complete.</p>
+              <p>Audition submission information for the 2021 season will be posted here in early 2021.</p>
+              <p>If you'd like to see an example of what the audition might entail, please watch last year's audition tutorial video below.</p>
 
-              <p>To submit your video, upload it to youtube, google drive, or another file sharing service and submit your application. There will be a place on the form to include a link to your video.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">2020 TIGER TWIRLER APPLICATION</a></p>
-              <p>Please watch the video below for routines and explanations of the skills.</p>
               <p><iframe width="560" height="315" src="https://www.youtube.com/embed/xSwLtyVq2pQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
               <div id="audioContainer">
                   <div class="auditionAudio">
