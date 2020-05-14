@@ -122,9 +122,9 @@
             								<img class="socialIcon" src="/img/logos/facebook.png" alt="Facebook">
             							</div>
             						</a>
-                                    <a href="https://www.snapchat.com/add/cutigerband" target="_blank">
-            							<div id="snapchat" class="socialBorder">
-            								<img class="socialIcon" src="/img/logos/snapchat.png" alt="Snapchat">
+                                    <a href="https://www.youtube.com/user/clemsontigerband" target="_blank">
+            							<div id="youtube" class="socialBorder">
+            								<img class="socialIcon" src="/img/logos/youtubeWhite.png" alt="Youtube">
             							</div>
             						</a>
                     </div>
