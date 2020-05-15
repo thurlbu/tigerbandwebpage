@@ -107,7 +107,7 @@
           <!--- DEADLINE CALENDAR UI --->
           <div class="deadlines">
               <div class="month">
-                  <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
 
                           <p>Date</p>
@@ -115,7 +115,7 @@
                           <p>Deadline for 2021 Tiger Twirler Auditions</p>
                       </div>
                   </div>
-                  <div class="deadlinesInfo" id="info1">
+                  <div class="deadlinesInfo" id="info2">
                       <p>Deadline for 2021 Tiger Twirler auditions will be announced in early 2021.</p>
 
                   </div>
