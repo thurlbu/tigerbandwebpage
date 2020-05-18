@@ -216,13 +216,13 @@
           </article>
 
           <article class="media">
-              <h1>2020 Tiger Band Piccolos</h1>
-              <p>Introducing our 2020 Piccolo Section Leaders, Jillian McNally and Hannah Kadets. They wanted to tell you about their experiences in Tiger Band.</p>
-              <p>If you're ready to start your Tiger Band story, visit our <a href="http://tband.people.clemson.edu/join/">join page</a> for all of the important audition information!</p>
+              <h1>2020 Tiger Band Elected Student Leaders</h1>
+              <p>The elected student leadership for 2020, Stephanie, Victor, and Laura Kate want YOU to join Tiger Band!</p>
+              <p>Listen to their message and then then head to the "join" page on our website: <a href="http://tband.people.clemson.edu/join/">clemson.edu/tigerband</a> for all of the important audition information!</p>
 
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/izsDljmKvRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/yp06QJd-hhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
