@@ -94,6 +94,7 @@
                     <p>June</p>
                     <b>21</b>
                     <p>Video Deadline</p>
+
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
@@ -105,6 +106,7 @@
             </div>
             <div class="deadlinesInfo" id="info3">
                 <p>Deadline for VIDEO round audition submissions<p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2yxNaI9Poqo1SrbdcsouUYpgONv68r-FbA9wlfDZfjrQreQ/viewform?c=0&w=1">Click here to submit your video!</a></p>
             </div>
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced<br>
@@ -159,6 +161,8 @@
                 <h1 class="purpleText">2020 Clemson University Drumline Auditions</h1>
                 <p>CUD is looking for players who want to be a part of the drumline as an ensemble and not just play a certain instrument. This means understanding and respecting that the Clemson Drumline is made up of 4 sections - snares, quads, basses, and cymbals - and each section is of equal importance to Tiger Band, to the music, and to our success as a unit. At Clemson, there is no hierarchy. Everybody is valued, and everybody contributes. We will accept multiple video submissions for those that are auditioning for multiple sections.
                 <a href="https://docs.google.com/document/d/1Okp__K2LMh1i7LlnYH1yi1Yi24QMDZQs22gzKJV-IIE" class="richLink" target="_blank">Video Audition Requirements<br>for Each Section</a>
+                <br>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2yxNaI9Poqo1SrbdcsouUYpgONv68r-FbA9wlfDZfjrQreQ/viewform?c=0&w=1" class="richLink" target="_blank">Submit your Video Audition Here</a>
                 </p>
             </article>
         </div>
