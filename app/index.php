@@ -164,17 +164,16 @@
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
 
-         <article class="text">
-             <h1 class="orangeText">2020 Clemson University Drumline PAWZ</h1>
-             <img class="articleImg" src='img/2019Drumline.jpg'>
-             <p>Looking for a little extra help with your 2020 Drumline Audition?</p>
-             <p>Join our 2020 Section Leaders and instructional staff on Saturday, May 23 for a free, online workshop to help sharpen your skills and answer any questions you may have about the Clemson University Drumline or our audition process.</p>
-             <p>You'll meet our staff, receive personal feedback, and learn the music for the video audition - just grab your practice pad and <a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">register for free online</a> to receive the link to the Zoom session(s)! You can show up for as many sessions as you'd like!</p>
-             <p>Saturday, May 23, 10:00am-12:00pm: Snares and Quads</p>
-             <p>Saturday, May 23, 1:00pm-2:30pm: Basses</p>
-             <p>Saturday, May 23, 2:30pm-3:30pm: Cymbals</p>
-             <p>Saturday, May 23, 3:30pm-4:30pm: CUD Culture & Video Audition Information Wrap-Up Session</p>
-             <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">REGISTER TODAY</a> for the 2020 <b>P</b>re-<b>A</b>udition <b>W</b>orkshop on <b>Z</b>oom!</p>
+         <article class="media">
+             <h1>2020 Drumline Section Leaders</h1>
+             <p>Our 2020 Drumline Section Leaders, Briana & David have a message for anyone who is considering joining the Clemson University Drumline!</p>
+             <p>Listen to their message and then then head to the <a href="http://tband.people.clemson.edu/drumline/video_auditions/">"video audition" page on our website</a> for all of the important audition information!</p>
+
+             <div class="iframeContainer">
+                 <div class="iFrameAspectRatio">
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/VbOw-3wYMIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 </div>
+             </div>
          </article>
 
 
