@@ -165,13 +165,13 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Drumline Section Leaders</h1>
-             <p>Our 2020 Drumline Section Leaders, Briana & David have a message for anyone who is considering joining the Clemson University Drumline!</p>
-             <p>Listen to their message and then then head to the <a href="http://tband.people.clemson.edu/drumline/video_auditions/">"video audition" page on our website</a> for all of the important audition information!</p>
+             <h1>2020 Trombone Section Leaders</h1>
+             <p>Trevor and Georgia, the 2020 Trombone Section Leaders, want you to join the Tiger Band Trombone Family!</p>
+             <p>Listen to all of their great reasons about why you should join Tiger Band and then then head to the <a href="http://tband.people.clemson.edu/join/winds/">join page</a> on our website for all of the important audition information!</p>
 
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/VbOw-3wYMIM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/w-d8cUBC-Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
          </article>
