@@ -165,13 +165,13 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Trombone Section Leaders</h1>
-             <p>Trevor and Georgia, the 2020 Trombone Section Leaders, want you to join the Tiger Band Trombone Family!</p>
-             <p>Listen to all of their great reasons about why you should join Tiger Band and then then head to the <a href="http://tband.people.clemson.edu/join/winds/">join page</a> on our website for all of the important audition information!</p>
+             <h1>2020 Alto Sax Section Leaders</h1>
+             <p>Find your people in Tiger Band!</p>
+             <p>Check out all of the great reasons that Grant and Charlie have for you to play sax in Tiger Band and then head to the <a href="http://tband.people.clemson.edu/join/winds/">join page</a> on our website for all of the important audition information!</p>
 
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/w-d8cUBC-Ic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/5G2fhHHVN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
          </article>
