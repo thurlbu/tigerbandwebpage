@@ -165,13 +165,13 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Alto Sax Section Leaders</h1>
-             <p>Find your people in Tiger Band!</p>
-             <p>Check out all of the great reasons that Grant and Charlie have for you to play sax in Tiger Band and then head to the <a href="http://tband.people.clemson.edu/join/winds/">join page</a> on our website for all of the important audition information!</p>
+             <h1>2020 Tiger Guard Section Leaders</h1>
+             <p>Meet our 2020 Guard Captains: Ada, Andra, & Olivia! They're ready to welcome you to the Tiger Guard Family!</p>
+             <p>Visit the <a href="http://tband.people.clemson.edu/join/guard/">Clemson Guard Join Page</a> for audition information and remember that Tiger Guard audition videos must be submitted by July 6!</p>
 
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/5G2fhHHVN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/KeHQRxj60hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
          </article>
