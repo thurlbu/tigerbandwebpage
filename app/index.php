@@ -165,13 +165,13 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Tiger Guard Section Leaders</h1>
-             <p>Meet our 2020 Guard Captains: Ada, Andra, & Olivia! They're ready to welcome you to the Tiger Guard Family!</p>
-             <p>Visit the <a href="http://tband.people.clemson.edu/join/guard/">Clemson Guard Join Page</a> for audition information and remember that Tiger Guard audition videos must be submitted by July 6!</p>
+             <h1>2020 Mellophone Section Leaders</h1>
+             <p>Sadie and Stuart explain why making the decision to join Tiger Band is one of the best you can make when you come to Clemson.</p>
+             <p>Visit the <a href="http://tband.people.clemson.edu/join/winds/">Tiger Band Join Page</a> for audition information and remember that audition videos must be submitted by July 20!</p>
 
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/KeHQRxj60hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/2mOsrn5Qq8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
          </article>
