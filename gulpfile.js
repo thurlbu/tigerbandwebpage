@@ -167,7 +167,6 @@ gulp.task('cutba', function (callback) {
 });
 
 gulp.task('cutba-sass', function () {
-  del.sync('./app/cutba/css/cutba.css');
   return gulp.src('./app/cutba/css/*.sass')
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./app/cutba/css'))
