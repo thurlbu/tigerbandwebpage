@@ -42,7 +42,7 @@
       <p>"Go Tigers, Beat Everyone!" &mdash; Tiger Twirlers <br /> Take a look at why we love twirling for this university and we hope that one day you will, too!</p>
       <p>&mdash; Reagan</p>
     </div>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574653657/Section%20Pages/Twirlers/header-2.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952991/Join%20Page/Twirlers/slide-1.jpg">
   </div>
 
   <div class="heading">
@@ -61,11 +61,7 @@
       <h4>Traditions</h4>
   </div>
 
-  <div class="media-container">
-    <video playsinline autoplay loop muted>
-        <source src="https://d3fdmt0abme096.cloudfront.net/section-pages/twirler.mp4" type="video/mp4">
-    </video>
-  </div>
+
 
   <div class="section-traditions">
     <div class="tradition">
@@ -94,7 +90,7 @@
 
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453648/Section%20Pages/Twirlers/tiger-twirlers-in-training.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1594934026/Join%20Page/Twirlers/Photo_Slider_1.jpg">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
@@ -105,9 +101,7 @@
     </div>
   </div>
 
-  <div class="media-container">
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453824/Section%20Pages/Twirlers/section.jpg">
-  </div>
+
 
   <div class="auditionButton">
       <a href="/join/twirlers/" class="boxWrapper">

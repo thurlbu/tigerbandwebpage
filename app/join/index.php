@@ -104,6 +104,7 @@
                 </div>
             </div>
         </a>
+
     </div>
 
     <div class="heading">
@@ -118,6 +119,7 @@
               <p>If you are auditioning for Tiger Band, DO NOT sign up for a move-in date with housing.</p>
               <p>We will automatically sign you up for the August 11 move-in date.</p>
           </article>
+
             <article class="text">
                 <h1>Scholarships!</h1>
                 <img class="articleImg" src='/img/Horns.jpg'>
