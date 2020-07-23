@@ -47,7 +47,7 @@
     <a href="https://secure.touchnet.net:443/C20569_ustores/web/product_detail.jsp?PRODUCTID=3973" class="mobileNav"
         target="_blank">Purchase Tiger Band Parent T-Shirts</a>
     <a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2" class="mobileNav" target="_blank">Donate to CUTBA</a>
-    <a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=8e33fbe8-f361-4f3c-aa43-4b7f9f24589b" class="mobileNav" target="_blank">Buy a Brick</a>
+    <a href="buy-a-brick/" class="mobileNav">Buy a Brick</a>
 </nav>
 
 <!--- PAGE CONTENT --->
@@ -121,7 +121,7 @@
                 </div>
             </a>
 
-             <a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=8e33fbe8-f361-4f3c-aa43-4b7f9f24589b" target="_blank">
+             <a href="buy-a-brick/">
                 <div class="boxWrapper">
                     <div id="homepageNav5" class="boxUIelement rect orange">
                         <div class="textContainer">
