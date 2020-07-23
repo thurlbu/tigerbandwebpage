@@ -21,7 +21,7 @@
       $headers = 'From: ' . $_POST['email'] . "\r\n" .
         'Reply-To: ' . $_POST['email'] . "\r\n";
 
-      mail('thurlbu@clemson.edu', $subject, $message, $headers);
+      mail('thurlbu@g.clemson.edu,acserna@clemson.edu,ceetiger72@gmail.com', $subject, $message, $headers);
       header("Location: https://iamatiger.clemson.edu/giving/giving-to-clemson?id=8e33fbe8-f361-4f3c-aa43-4b7f9f24589b"); 
   }
   exit; 
