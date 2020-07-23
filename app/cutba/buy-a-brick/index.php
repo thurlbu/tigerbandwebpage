@@ -43,7 +43,7 @@
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Store</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Newsletter</a>
     <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate to CUTBA</a>
-    <a href="http://cutba.org/CUTBAbrickReservationForm.pdf" class="mobileNav" target="_blank">Buy a Brick</a>
+    <a href="buy-a-brick/" class="mobileNav">Buy a Brick</a>
 </nav>
 
 <!--- PAGE CONTENT --->
