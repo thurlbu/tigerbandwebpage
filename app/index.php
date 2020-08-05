@@ -165,15 +165,12 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Mellophone Section Leaders</h1>
-             <p>Sadie and Stuart explain why making the decision to join Tiger Band is one of the best you can make when you come to Clemson.</p>
-             <p>Visit the <a href="http://tband.people.clemson.edu/join/winds/">Tiger Band Join Page</a> for audition information and remember that audition videos must be submitted by July 20!</p>
+             <h1>2020 Symphonic Band Auditions</h1>
+             <p>Due to courses beginning online, the 2020 Symphonic Band Auditions will be conducted via online video submission.</p>
+             <p>All interested wind players can submit their auditions <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoRwULwgRVXaEHEQPsUmDimAV4URs_7xO5G47XAS6QSbFDzQ/viewform">via this online form </a>before noon on Monday, August 24.</p>
+             <p>Please prepare 2 short excerpts demonstrating your lyrical and technical abilities. These can be from any music of your choosing such as an etude book, All-State Audition piece, concerto, solo, etc. 4-5 minutes of total music is plenty.</p>
+             <p>All videos must be unedited, filmed in one continuous take, and your embouchure and hand on the keys/valves should be visible for the entire video.</p>
 
-             <div class="iframeContainer">
-                 <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/2mOsrn5Qq8M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                 </div>
-             </div>
          </article>
 
 
@@ -204,27 +201,14 @@
         <div id="col2Flex">
 
           <article class="media">
-              <h1>Director's Message about 2020 Auditions</h1>
-              <p>We're looking for the best and brightest to join the ranks of the "Band that Shake the Southland!"</p>
-              <p>For all the information you need to join Tiger Band in our upcoming 2020 season, please visit our join page and submit those audition videos!</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xc9G-d58w5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
+              <h1>2020 Jazz Ensemble Auditions</h1>
+              <p>Due to courses beginning online, the 2020 Jazz Ensemble Auditions will be conducted via online video submission.</p>
+              <p>All interested wind players can submit their auditions <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoRwULwgRVXaEHEQPsUmDimAV4URs_7xO5G47XAS6QSbFDzQ/viewform">via this online form </a>before noon on Monday, August 24. Rhythm section players should just submit their name on the interest list on the same form.</p>
+              <p><a href="https://drive.google.com/drive/u/2/folders/1UNsbEHw_a5fYfJatMraN29JApvU5vg9y">Please prepare these 2 tunes from the Real Book.</a> For both tunes, the first time through, please play the head (the notated part melody on the music provided). The second time through the background track, play an improvised solo through 1 chorus.</p>
+              <p>All videos must be unedited, filmed in one continuous take, and your embouchure and hand on the keys/valves should be visible for the entire video. It's also important that the backing track you're performing with (also found in the linked folder) is audible in the recording.</p>
           </article>
 
-          <article class="media">
-              <h1>2020 Tiger Band Elected Student Leaders</h1>
-              <p>The elected student leadership for 2020, Stephanie, Victor, and Laura Kate want YOU to join Tiger Band!</p>
-              <p>Listen to their message and then then head to the "join" page on our website: <a href="http://tband.people.clemson.edu/join/">clemson.edu/tigerband</a> for all of the important audition information!</p>
 
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/yp06QJd-hhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
-          </article>
 
           <article class="media">
               <h1>Tiger Band Vlog Season 2, Episode 10</h1>
