@@ -165,11 +165,14 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>2020 Symphonic Band Auditions</h1>
-             <p>Due to courses beginning online, the 2020 Symphonic Band Auditions will be conducted via online video submission.</p>
-             <p>All interested wind players can submit their auditions <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoRwULwgRVXaEHEQPsUmDimAV4URs_7xO5G47XAS6QSbFDzQ/viewform">via this online form </a>before noon on Monday, August 24.</p>
-             <p>Please prepare 2 short excerpts demonstrating your lyrical and technical abilities. These can be from any music of your choosing such as an etude book, All-State Audition piece, concerto, solo, etc. 4-5 minutes of total music is plenty.</p>
-             <p>All videos must be unedited, filmed in one continuous take, and your embouchure and hand on the keys/valves should be visible for the entire video.</p>
+             <h1>October 3, 2020 Pregame Show!</h1>
+             <p>Even if you can't make it to Death Valley today, Tiger Band is still here for you!</p>
+             <p>Come back at 7:45pm to watch our pregame show and let Tiger Band prepare you for today's game as the Tigers take on the Virginia Cavaliers.</p>
+             <div class="iframeContainer">
+                 <div class="iFrameAspectRatio">
+                     <<iframe width="560" height="315" src="https://www.youtube.com/embed/xsdyxDN151c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 </div>
+             </div>
 
          </article>
 
@@ -201,11 +204,13 @@
         <div id="col2Flex">
 
           <article class="media">
-              <h1>2020 Jazz Ensemble Auditions</h1>
-              <p>Due to courses beginning online, the 2020 Jazz Ensemble Auditions will be conducted via online video submission.</p>
-              <p>All interested wind players can submit their auditions <a href="https://docs.google.com/forms/d/e/1FAIpQLSeoRwULwgRVXaEHEQPsUmDimAV4URs_7xO5G47XAS6QSbFDzQ/viewform">via this online form </a>before noon on Monday, August 24. Rhythm section players should just submit their name on the interest list on the same form.</p>
-              <p><a href="https://drive.google.com/drive/u/2/folders/1UNsbEHw_a5fYfJatMraN29JApvU5vg9y">Please prepare these 2 tunes from the Real Book.</a> For both tunes, the first time through, please play the head (the notated part melody on the music provided). The second time through the background track, play an improvised solo through 1 chorus.</p>
-              <p>All videos must be unedited, filmed in one continuous take, and your embouchure and hand on the keys/valves should be visible for the entire video. It's also important that the backing track you're performing with (also found in the linked folder) is audible in the recording.</p>
+              <h1>October 3, 2020 Halftime Show!</h1>
+              <p>Tiger Band features its talented visual units, the Tiger Twirlers, the Tiger Dancers, and Feature Twirler, Anna White, to the music of Lizzo, Alicia Keys, and Dua Lipa!</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/_s8hjNy2IDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+
           </article>
 
 
