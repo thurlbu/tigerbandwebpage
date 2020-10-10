@@ -165,12 +165,12 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>October 3, 2020 Pregame Show!</h1>
+             <h1>October 10, 2020 Pregame Show!</h1>
              <p>Even if you can't make it to Death Valley today, Tiger Band is still here for you!</p>
-             <p>Come back at 7:45pm to watch our pregame show and let Tiger Band prepare you for today's game as the Tigers take on the Virginia Cavaliers.</p>
+             <p>Come back at 7:30pm to watch our pregame show and let Tiger Band prepare you for today's game as the Tigers take on the Miami Hurricanes.</p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                     <<iframe width="560" height="315" src="https://www.youtube.com/embed/xsdyxDN151c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Oeh8ivRgmBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
 
@@ -178,15 +178,7 @@
 
 
 
-            <article class="media">
-                <h1>Southern Rock Show</h1>
-                <p>Tiger Band welcomes special guest, guitarist Zach Thigpen, to Death Valley to help us perform the music of the Allman Brothers, Marshall Tucker Band, and Lynyrd Skynyrd!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/40Tbj3H1TYk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
+
 
             <article class="media">
                 <h1>We are Tiger Band</h1>
@@ -204,11 +196,11 @@
         <div id="col2Flex">
 
           <article class="media">
-              <h1>October 3, 2020 Halftime Show!</h1>
-              <p>Tiger Band features its talented visual units, the Tiger Twirlers, the Tiger Dancers, and Feature Twirler, Anna White, to the music of Lizzo, Alicia Keys, and Dua Lipa!</p>
+              <h1>October 10, 2020 Halftime Show!</h1>
+              <p>Tiger Band celebrates the music of Panic! at the Disco in its first FULL BAND halftime performance of 2020! Join us at halftime tonight!!!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/_s8hjNy2IDw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/2ivEZq-R7Hw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
 
           </article>
@@ -216,25 +208,17 @@
 
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 2, Episode 10</h1>
-              <p>Follow the members of Tiger Band as they visit New Orleans for the National Championship Game!</p>
+              <h1>Tiger Band Vlog Season 3, Episode 2</h1>
+              <p>Meet Drum Major, Jordan Pixley, as he gives you a behind-the-scenes tour of what it's like to be in Tiger Band in 2020...</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/gWtjuNrMK_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ne9Ea7W1rks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
 
 
-          <article class="media">
-                <h1>2019 Tiger Band Pregame Video</h1>
-                <p>Check out the video that plays as Tiger Band streams out of the tunnels into Death Valley to begin their Pregame Show!</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IQ3Z9A1zqkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>
-          </article>
+        
 
 
 
