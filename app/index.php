@@ -165,12 +165,12 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>October 24, 2020 Pregame Show!</h1>
+             <h1>October 31, 2020 Pregame Show!</h1>
              <p>Even if you can't make it to Death Valley today, Tiger Band is still here for you!</p>
-             <p>Come back at 11:45am to watch our pregame show and let Tiger Band prepare you for today's game as the Tigers take on the Syracuse Orange.</p>
+             <p>Come back at 11:45am to watch our pregame show and let Tiger Band prepare you for today's game as the Tigers take on the Boston College Eagles.</p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/GaKGbmTdGnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/X5ubzhMMEQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
 
@@ -196,11 +196,11 @@
         <div id="col2Flex">
 
           <article class="media">
-              <h1>October 24, 2020 Halftime Show!</h1>
-              <p>Tiger Band presents some of our favorite songs from our repertoire. Get up and dance with us to some Katy Perry, Usher, and Spencer Davis Group during halftime!!</p>
+              <h1>October 31, 2020 Halftime Show!</h1>
+              <p>Tiger Band is a family composed of many diverse ethnicities and backgrounds. Together, we strive to create a community which promotes inclusivity and belonging. As an organization, we stand with the black community because we’re STRONGER TOGETHER. Tiger Band presents our show “Legacy,” which embodies the influences of black historical and inspirational figures.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/7gJ7GXd_rA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/GSFmwUqbF2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
 
           </article>
