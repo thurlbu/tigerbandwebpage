@@ -200,7 +200,7 @@
               <p>Tiger Band is a family composed of many diverse ethnicities and backgrounds. Together, we strive to create a community which promotes inclusivity and belonging. As an organization, we stand with the black community because we’re STRONGER TOGETHER. Tiger Band presents our show “Legacy,” which embodies the influences of black historical and inspirational figures.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/GSFmwUqbF2s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/ugJFx0lif0Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
 
           </article>
