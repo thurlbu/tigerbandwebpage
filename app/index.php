@@ -208,11 +208,11 @@
 
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 3, Episode 2</h1>
-              <p>Meet Drum Major, Jordan Pixley, as he gives you a behind-the-scenes tour of what it's like to be in Tiger Band in 2020...</p>
+              <h1>Tiger Band Vlog Season 3, Episode 4</h1>
+              <p>Join four Tiger Band members as they compete to carve the spookiest pumpkin design in this Halloween Special!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/ne9Ea7W1rks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/rwYnLmwZAUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
