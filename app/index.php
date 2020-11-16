@@ -208,11 +208,11 @@
 
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 3, Episode 4</h1>
-              <p>Join four Tiger Band members as they compete to carve the spookiest pumpkin design in this Halloween Special!</p>
+              <h1>Tiger Band Vlog Season 3, Episode 5</h1>
+              <p>Next time you visit campus, make sure to check out the Bruce Cook and John Butler Tiger Band Plaza. Learn about the poem engraved into the pathway to our practice field!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/rwYnLmwZAUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/v2IFojAUHb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
