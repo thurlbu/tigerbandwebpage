@@ -165,12 +165,11 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>November 28, 2020 Pregame Show!</h1>
-             <p>Even if you can't make it to Death Valley today, Tiger Band is still here for you!</p>
-             <p>Start your gameday with Tiger Band! Enjoy our pregame show and get ready for the Tigers to take on Pittsburgh as we celebrate Military Appreciation Day!</p>
+             <h1>Clemson Tiger Guard</h1>
+             <p>We're proud to share this special performance from members of the incredibly talented Clemson Tiger Guard! Wishing everyone the happiest and most joyous holiday season ever!!</p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/u4fVzjVtVZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/42qqMbOCzY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
 
@@ -195,24 +194,13 @@
 
         <div id="col2Flex">
 
-          <article class="media">
-              <h1>November 28, 2020 Halftime Show!</h1>
-              <p>Tiger Band performs the music of Beyonce followed by the annual Military Appreciation Day ceremonies.</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/QNtEzp4hEeE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-
-          </article>
-
-
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 3, Episode 5</h1>
-              <p>Next time you visit campus, make sure to check out the Bruce Cook and John Butler Tiger Band Plaza. Learn about the poem engraved into the pathway to our practice field!</p>
+              <h1>Tiger Band Vlog Season 3, Episode 6</h1>
+              <p>2020 Season in review!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/v2IFojAUHb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/_3Vatq98dts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
