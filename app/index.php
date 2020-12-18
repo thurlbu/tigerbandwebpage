@@ -194,6 +194,15 @@
 
         <div id="col2Flex">
 
+          <article class="media">
+              <h1>Nothing can stop us...</h1>
+              <p>Not even a pandemic can stop Tiger Band!</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/IoJrB3bZVGU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+          </article>
 
           <article class="media">
               <h1>Tiger Band Vlog Season 3, Episode 6</h1>
