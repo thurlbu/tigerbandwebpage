@@ -51,23 +51,22 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
           <article class="text fullWidth">
-              <h1 class="purpleText">2020 Tiger Dancer Auditions</h1>
-              <p>Auditions for the 2020 Tiger Dancers are now complete.</p>
-              <p>Audition submission information for the 2021 season will be posted here in early 2021.</p>
-              <p>If you'd like to see an example of what the audition might entail, please watch last year's audition tutorial video below.</p>
-
-
-              <p><iframe width="560" height="315" src="https://www.youtube.com/embed/jj54t3TY6i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-              <div id="audioContainer">
-                  <div class="auditionAudio">
-                      <p>Tiger Rag:</p>
-                      <audio src="/audio/TigerRag.mp3" controls></audio>
-                  </div>
-                  <div class="auditionAudio">
-                      <p>Eye of the Tiger:</p>
-                      <audio src="/audio/EyeoftheTiger.mp3" controls></audio>
-                  </div>
-              </div>
+              <h1 class="purpleText">2021 Tiger Dancer Online Audition Clinics</h1>
+              <p>We will be hosting 3 online audition clinics to help anyone interested in becoming a Tiger Dancer prepare for their audition.</p>
+              <p>These clinics will be held on:</p>
+              <ul>
+                <li>Saturday, February 20 - 1:00pm-3:00pm</li>
+                <li>Sunday, March 7 - 2:00pm-4:00pm</li>
+                <li>Saturday, April 10 - 1:00pm-3:00pm</li>
+              </ul>
+              <p>During these free online clinics you'll get:</p>
+              <ul>
+              <li>exclusive instruction and feedback from our staff on the <b>choreography for this year's audition</b></li>
+              <li>a chance to talk to and <b>ask questions of current students</b> about what it's like to be a Tiger Dancer</li>
+              <li>to <b>meet some of our directors and staff.</b></li>
+              </ul>
+              <p>Anyone interested in becoming a Tiger Dancer is eligible to participate in a clinic, but you must fill out the registration form below!</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFy8kFyfvZ3Wx6w046KDA9YEtPiaYa9Ja2CiPxOsXpHJaHXw/viewform?usp=sf_link" class="richLink cta">2021 Dancer Audition Clinic Registration</a></p>
               <p>If you have any questions concerning auditions for the Tiger Dancers, please contact Marilla Riggs: <a href="mailto:marillariggs@gmail.com">marillariggs@gmail.com</a></p>
           </article>
 
@@ -82,13 +81,30 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
-                          <p>Date</p>
-                          <b>TBD</b>
-                          <p>Deadline for 2021 Audition Video Submissions</p>
+                          <p>February</p>
+                          <b>21</b>
+                          <p>Audition Details posted on this website</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Deadline for 2021 Dancer auditions will be announced in early 2021.</p>
+                      <p>Choreography and all of the audition details will be posted on this website on February 21.</p>
+
+
+                  </div>
+              </div>
+          </div>
+
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                      <div class="textContainer">
+                          <p>April</p>
+                          <b>21</b>
+                          <p>Deadline for 2021 Audition Video Submissions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info2">
+                      <p>Visit this website on or after February 21 for all audition details including submission instructions.</p>
 
 
                   </div>
