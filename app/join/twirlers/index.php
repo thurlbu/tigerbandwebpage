@@ -87,7 +87,7 @@
                           </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
-                              <li>4 independent judges - all certified by the USTA</li>
+                              <li>4 independent judges - all certified nationally</li>
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
@@ -206,7 +206,7 @@
               </ul>
               <p>All submissions will be evaluated by a panel of:</p>
                 <ul>
-                  <li>4 independent judges - all certified by the USTA</li>
+                  <li>4 independent judges - all certified nationally</li>
                   <li>Tiger Band Twirler Instructor</li>
                 </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
@@ -259,7 +259,7 @@
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
                   <p>This routine will be around 1-and-a-half minutes and will be emailed to every audition applicant and also posted on this website.</p>
                   <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXEdONMJsG0MymXYhQSmPTf8xwKA_WmFt8UNlrBNnhr-dNJg/viewform?usp=sf_link" class="richLink cta">Tiger Twirler Application</a></p>    
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXEdONMJsG0MymXYhQSmPTf8xwKA_WmFt8UNlrBNnhr-dNJg/viewform?usp=sf_link" class="richLink cta">Tiger Twirler Application</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Tim Hurlburt: <a href="mailto:thurlbu@clemson.edu">thurlbu@clemson.edu</a></p>
           </article>
 
