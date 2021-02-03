@@ -49,7 +49,7 @@
         <h4>Tiger Twirlers</h4>
     </div>
 
-    <div id="Col2FlexContent" class="about">
+    <div id="Col2FlexContent">
         <div id="col1Flex">
           <!--- DEADLINE CALENDAR UI --->
 
