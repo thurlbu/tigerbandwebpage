@@ -134,7 +134,7 @@
                               </ul>
                           <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJHnSqIsVl_aVFzZSFpgfELboT51KYZJZ5a60gFfXZxgYAoA/viewform?usp=sf_link" class="richLink cta">Feature Twirler Application</a></p>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
-                          <p>If you have any questions concerning auditions for the Feature Twirler Position, please contact Tim Hurlburt: <a href="mailto:thurlbu@clemson.edu?subject=Tiger Feature Twirler Audition Question">thurlbu@clemson.edu</a></p>
+                          <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
@@ -260,7 +260,7 @@
                   <p>This routine will be around 1-and-a-half minutes and will be emailed to every audition applicant and also posted on this website.</p>
                   <br>
               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXEdONMJsG0MymXYhQSmPTf8xwKA_WmFt8UNlrBNnhr-dNJg/viewform?usp=sf_link" class="richLink cta">Tiger Twirler Application</a></p>
-              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact Tim Hurlburt: <a href="mailto:thurlbu@clemson.edu">thurlbu@clemson.edu</a></p>
+              <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
 
