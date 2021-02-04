@@ -140,13 +140,13 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Hazel Cartee</h1>
+                <h1>Mrs. Emily Curry</h1>
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Hazel.jpg">
-                    <p>Ms. Hazel Cartee has been coaching the Tiger Twirlers since 1989. She is owner of Carolina Superstars Baton and Dance with over 500 students in dance and twirling.</p>
-                    <p>Because of her love for children, Hazel has devoted most of her life to teaching and helping young people develop a positive self-image. Her students have come from all over the southeastern United States and have held state, regional, and national titles in twirling.</p>
-                    <p>Hazel earned her B.S. in Early Childhood and Elementary Education from Anderson University.</p>
+                  <img class="staffPortrait" src="/img/staff/EmilyCurry.jpg">
+                    <p>Mrs. Emily Curry is entering her third year on the Tiger Band staff and first year as the Twirling Coordinator. Emily received her B.A. in Elementary Education from Clemson and is currently a fifth grade teacher at Cedar Grove Elementary, located in Anderson County.</p>
+                    <p>A native of Madison, Indiana, Emily found her way to Clemson through years of baton twirling and participating in competitions across the country. Beginning with her Tiger Twirler audition in 2002, Emily has made Clemson her home. She was a Tiger Twirler for four years and performed in various bowl games, parades, and community events as a member of Tiger Band. After graduation, Emily began teaching baton privately and has worked with dozens of students throughout the last decade.</p>
+                    <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband and two daughters.</p>
                 </div>
             </article>
 
