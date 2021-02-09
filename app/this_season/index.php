@@ -45,7 +45,7 @@
 <body>
     <div class="heading">
         <h3>This Season</h3>
-        <h4>2020</h4>
+        <h4>2021</h4>
     </div>
 
     <div id="Col2FlexContent">
@@ -73,7 +73,7 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2020 Clemson Tiger Band Performance Schedule</h1>
+                <h1>2021 Clemson Tiger Band Performance Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -82,88 +82,88 @@
                         <th>Info/Location</th>
                     </tr>
                     <tr class="orange-row">
-                        <td>April 4</td>
+                        <td>TBD</td>
                         <td></td>
                         <td>Spring Game</td>
-                        <td>Clemson, SC - 2:30 PM</td>
+                        <td>Clemson, SC</td>
                     </tr>
                     <tr>
-                        <td>Sept 3</td>
-                        <td>@</td>
-                        <td>Georgia Institute of Technology Yellow Jackets</td>
+                        <td>Sept 4</td>
                         <td></td>
+                        <td>University of Georgia Bulldogs</td>
+                        <td>Charlotte, NC</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 11</td>
+                        <td>Sept 10</td>
                         <td></td>
                         <td>First Friday Parade</td>
                         <td>Clemson, SC</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 12</td>
+                        <td>Sept 11</td>
                         <td>VS</td>
-                        <td>University of Louisville Cardinals</td>
+                        <td>South Carolina State University Bulldogs</td>
                         <td></td>
                     </tr>
 
                     <tr class="orange-row">
-                        <td>Sept 19</td>
+                        <td>Sept 18</td>
                         <td>VS</td>
-                        <td>Akron University Zips</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Sept 26</td>
-                        <td>VS</td>
-                        <td>Universtiy of Virginia Cavaliers</td>
+                        <td>Georgia Institute of Technology Yellowjackets</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Oct 2</td>
+                        <td>Sept 25</td>
                         <td>@</td>
+                        <td>North Carolina State University Wolfpack</td>
+                        <td></td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Oct 2</td>
+                        <td>VS</td>
                         <td>Boston College Eagles</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Oct 10</td>
+                        <td>Oct 15</td>
                         <td>@</td>
-                        <td>Florida State University Seminoles</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Oct 17</td>
-                        <td>VS</td>
-                        <td>North Carolina State University Wolfpack</td>
-                        <td></td>
-                    </tr>
-
-                    <tr class="orange-row">
-                        <td>Oct 24</td>
-                        <td>VS</td>
                         <td>Syracuse University Orange</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Nov 7</td>
+                        <td>Oct 23</td>
                         <td>@</td>
-                        <td>Notre Dame University Fighting Irish</td>
+                        <td>University of Pittsburgh Panthers</td>
                         <td></td>
                     </tr>
-                    <tr class="purple-row">
-                        <td>Nov 14</td>
+
+                    <tr class="orange-row">
+                        <td>Oct 30</td>
                         <td>VS</td>
-                        <td>The Citadel Bulldogs</td>
+                        <td>Florida State University Seminoles</td>
                         <td></td>
                     </tr>
                     <tr>
-                        <td>Nov 21</td>
+                        <td>Nov 6</td>
                         <td>@</td>
-                        <td>Wake Forest University Demon Deacons</td>
+                        <td>University of Louisville Cardinals</td>
                         <td></td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Nov 28</td>
+                        <td>Nov 13</td>
                         <td>VS</td>
+                        <td>University of Connecticut Huskies</td>
+                        <td></td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Nov 20</td>
+                        <td>VS</td>
+                        <td>Wake Forest University Demon Deacons</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Nov 27</td>
+                        <td>@</td>
                         <td>University of South Carolina Gamecocks</td>
                         <td>Palmetto Bowl</td>
                     </tr>
@@ -176,30 +176,30 @@
 
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2020 Major Shows</h1>
+                <h1>2021 Major Shows</h1>
                 <p>To be announced this summer...</p>
             </article>
             <article class="text officers">
-                <h1>2020 Officers</h1>
-                <p><b>Commander:</b> Stephanie Linke</p>
-                <p><b>Vice-Commander:</b> Victor Fleifel</p>
-                <p><b>Sergeant Major:</b> Laura Kate Reid</p>
+                <h1>2021 Officers</h1>
+                <p><b>Commander: Victor Fleifel</b></p>
+                <p><b>Vice-Commander: Jordan Pixley</b></p>
+                <p><b>Sergeant Major: Sadie Bates</b></p>
                 <p><b>Drum Majors: </b> TBD</p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> Hannah Kadets and Jillian McNally</p>
-                <p><b>Clarinets:</b> Jason Gonazales and Natalie Henderson</p>
-                <p><b>Alto Saxes:</b> Charlie Brooks-Knepfle and Grant Howard</p>
-                <p><b>Tenor Saxes:</b> Erick Restreppo</p>
-                <p><b>Trumpets:</b> Adam Gootgeld, Nick Gustafson, and Andrew Marsh</p>
-                <p><b>Mellophone:</b> Sadie Bates and Stuart Saletan</p>
-                <p><b>Trombone:</b> Trevor Kimbrell and Georgia Krendel</p>
-                <p><b>Baritone:</b> Anthony Benware and Morgan Oliver</p>
-                <p><b>Sousaphone:</b> Laura Kate Reid and John Turpin</p>
-                <p><b>Drumline:</b> David Cherne and Briana Parcell</p>
-                <p><b>Color Guard:</b> Andra Cummings, Adanma Nwobodu, and Olivia Papotto</p>
-                <p><b>Twirlers:</b> Reagan King</p>
-                <p><b>Dancers:</b> Samantha Bernard and Elizabeth Rola</p>
-                <p><b>Head Band Manager:</b> Caroline Webb</p>
+                <p><b>Piccolos:</b> TBD</p>
+                <p><b>Clarinets:</b> TBD</p>
+                <p><b>Alto Saxes:</b> TBD</p>
+                <p><b>Tenor Saxes:</b> TBD</p>
+                <p><b>Trumpets:</b> TBD</p>
+                <p><b>Mellophone:</b> TBD</p>
+                <p><b>Trombone:</b> TBD</p>
+                <p><b>Baritone:</b> TBD</p>
+                <p><b>Sousaphone:</b> TBD</p>
+                <p><b>Drumline:</b> TBD</p>
+                <p><b>Color Guard:</b> TBD</p>
+                <p><b>Twirlers:</b> TBD</p>
+                <p><b>Dancers:</b> TBD</p>
+                <p><b>Head Band Manager:</b> TBD</p>
                 <p><b>Instrument Manager:</b> TBD</p>
                 <p><b>Uniform Manager:</b> TBD</p>
             </article>
