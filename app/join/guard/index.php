@@ -50,38 +50,63 @@
 
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
+                      <div class="textContainer">
+                          <p>July</p>
+                          <b>10</b>
+                          <p>Deadline for Tiger Guard 1st round videos</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info3">
+                      <p>After first round videos are submitted, all audition candidates will receive the choreography for the round 2 video electronically on July 10. It will also be posted on this website at the same time.</p>
+
+
+                  </div>
+              </div>
+          </div>
             <article class="text fullWidth">
-                <h1 class="purpleText">2020 Tiger Guard Auditions</h1>
-                <p>All auditions for the Clemson University Tiger Fall Guard will be completed via online video submission.</p>
-                <p>Details about the content of the video audition and a video tutorial can be found below.</p>
-                <p>All audition videos - returners and new members - must be submitted by <b>July 6</b> to receive full consideration.</p>
-                <p>After you create your video, please upload it to YouTube as an unlisted video (not private!) or google drive or other file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link">on-line application</a> and make sure to provide a link to your video in the appropriate box.</p>
-                <p>Results will be sent out by July 13.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
+                <h1 class="purpleText">2021 Tiger Guard Auditions</h1>
+                <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
+                <p>This year's audition will consist of 4 separate short videos. Each of the videos must be <b>unedited and shot in one-continuous take.</b> Individual videos that have splices will not be considered.</p>
+                <p>The first 3 videos - for all returners and new members - must be submitted by <b>July 10</b>.</p>
+                <p>The fourth video - for all returners and new members - must be submitted by <b>July 17</b>. Both deadlines must be met in order to receive full consideration.</p>
+                <p>The content of these videos is explained below in detail.</p>
+                <p>After you create your videos, please upload them to google drive or another file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link">on-line application</a>.</p>
+                <p>Choreography for the 4th video will be emailed to everyone on July 10 who submitted their first 3 videos. Final results will be communicated by July 25.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
                 <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
             </article>
 
             <!--- DEADLINE CALENDAR UI --->
 
-            <div class="deadlines">
-                <div class="month">
-                    <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
-                        <div class="textContainer">
-                            <p>July</p>
-                            <b>6</b>
-                            <p>Audition Submission Deadline</p>
-                        </div>
-                    </div>
-                    <div class="deadlinesInfo" id="info1">
-                        <p>Tiger Guard Audition Deadline<br>
-                            Submit online application with link to video<br>
-                            Audition results will be sent on July 13</p>
-                    </div>
-                </div>
-            </div>
+
+
         </div>
 
         <div id="col2Flex">
+
+
+
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                      <div class="textContainer">
+                          <p>July</p>
+                          <b>17</b>
+                          <p>Deadline for Tiger Guard 2nd round videos</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info2">
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on July 10.</p>
+
+
+                  </div>
+              </div>
+          </div>
+
+
 
             <!--- PHOTO SLIDER --->
 
@@ -115,58 +140,40 @@
 
           <article class="text fullWidth">
               <h1>Audition Videos</h1>
-              <p>Your audition videos will consist of three or four portions: <b>Movement</b>, <b>Flag</b>, <b>Choreography</b> and <b>Rifle</b>. Everyone must complete the movement, flag, and choreography sections, but the rifle section is optional.</p>
-              <p> The <b>MOVEMENT SECTION</b> will consist of:<br>
-            <ul>
-              <li>8 to 12 steps of jazz runs</li>
-              <li>at least 2 Chasse and 2 Saute maneuvers in combination</li>
-              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
+              <p>The 2021 Tiger Guard auditions will consist of 4 short video submissions:</p>
+              <ul>
+              <li>Video 1 will cover choreography that you have lots of time to learn and perfect.</li>
+              <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
+              <li>Video 3 will be a short interview style video for us to get to know you.</li>
+              <li>Video 4 will cover different choreography that you will have a limited time (1 week) to learn.</li>
             </ul>
-          </p>
-              <p> The <b>FLAG SECTION</b> will consist of:<br>
-            <ul>
-              <li>16 counts of drop spins</li>
-              <li>16 counts of cones</li>
-              <li>4 cone tosses</li>
-              <li>4 45 tosses</li>
-              <li>4 tosses from the flag</li>
-              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
-            </ul>
-          </p>
-
-              <p>The <b>optional</b> <b>RIFLE SECTION</b> will consist of:<br>
-            <ul>
-              <li>8 counts of right hand spins with a single out</li>
-              <li>8 counts of left hand spins with a single out</li>
-              <li>4 double tosses</li>
-              <li>4 triple tosses</li>
-              <li>4 quad tosses</li>
-              <li>Explanations of these maneuvers with examples are provided in the first tutorial video, posted below</li>
-            </ul>
-          </p>
-
-          <p>Please watch the second tutorial video, posted below, to learn the required <b>CHOREOGRAPHY</b> for the 2020 Audition. Please include the entire routines for Tiger Fanfare and Orange Bowl March. You can find and download the audio files below the tutorial video.</p>
-
-
-          </article>
-
-          <article class="text fullWidth">
-              <h1>Movement, Flag, & Rifle Tutorial</h1>
-              <p>Video tutorial walking you through the Movement, Flag, and Rifle portion of the audition:</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/DL071iugIWM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
+              <p>Each of these videos will be described in detail below.</p>
+              <p>After you have completed the videos, you must submit them via this application form:</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+              <p>The first 3 audition videos are due on <b>July 10.</b> The last will be due on <b>July 17.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY JULY 10 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON JULY 17.</b></p>
+              <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
+              <ul>
+                <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
+                <li>All videos must be filmed outside.</li>
+                <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
+              </ul>
               <br>
+              <p>All submissions will be evaluated by a panel of Tiger Band staff.</p>
+                <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
+                <p><a href="/doc/CGScoreSheet2021.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
               <br>
-              <h1>Choreography Tutorial</h1>
-              <p>Video tutorial showing the Choreography portion of the audition. The example video has front and back views for learning purposes only. Your video should only contain the front view:</p>
+              <h1 class="purpleText">Video 1</h1>
+              <h5 class="purpleText">Choreography</h5>
+              <p>The first video will consist of your performance of the Tiger Guard choreography to 2 Clemson school songs: Tiger Fanfare and Orange Bowl March.</p>
+              <p>Please refer to following video to learn the choreography for these 2 songs.</p>
+              <p>This tutorial video has front and back views for learning purposes only. Your video should only contain the front view. Make sure that we can hear the music on your audition video. You can download the audio tracks below.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
                       <iframe width="560" height="315" src="https://www.youtube.com/embed/Zp1nVLWh9mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
+              <br>
               <div id="audioContainer">
                   <div class="auditionAudio">
                       <p>Tiger Fanfare:</p>
@@ -177,6 +184,47 @@
                       <audio src="/audio/Orange Bowl March.mp3" controls></audio>
                   </div>
               </div>
+<br>
+<h1 class="purpleText">Video 2</h1>
+<h5 class="purpleText">Basic Skills</h5>
+<p>In the second video, a demonstration the following skills is required in a single unedited and unspliced video:</p>
+<ul>
+  <li>8 to 12 steps of a <b>Jazz Run</b></li>
+  <li>at least <b>2 Chasse and 2 Saute maneuvers</b> in combination</li>
+  <li>16 counts of <b>Drop Spins</b></li>
+  <li>2 <b>Cone-Tosses</b></li>
+  <li>2 <b>45-Tosses</b></li>
+  <li>2 <b>Tosses-From-The-Flag</b></li>
+</ul>
+<p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED. If you would like to include the rifle portion, it should include:</p>
+<ul>
+  <li>8 counts of right hand spins with a single out</li>
+  <li>8 counts of left hand spins with a single out</li>
+  <li>2 double tosses</li>
+  <li>2 triple tosses</li>
+  <li>2 quad tosses</li>
+</ul>
+<p>Each of these skills is explained in detail in the video below along with some tips of what our judges are looking for.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/P5K8dSUFIGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<br>
+<h1 class="purpleText">Video 3</h1>
+<h5 class="purpleText">Interview</h5>
+<p>The third video will be an <b>interview video</b> for you to introduce yourself to our staff and directors.</p>
+<p>Please submit a video of yourself addressing the following information:</p>
+<ul>
+  <li>Name, hometown, major, current high school, and an interesting fact about yourself</li>
+  <li>Why did you choose Clemson University?</li>
+  <li>Why do you want to be a member of the Tiger Guard?</li>
+</ul>
+    <br>
+    <h1 class="purpleText">Video 4</h1>
+    <h5 class="purpleText">Learned Choreography</h5>
+    <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on July 10. The fourth video, <b>due July 17,</b> will be your performance of that choreography.</p>
+    <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
+    <p>This routine will be emailed to every audition applicant and also posted on this website.</p>
+    <br>
+      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+  <br>
               <p>Please direct all questions concerning auditions for the Tiger Guard to Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger_Guard_Audition_Question">tkent25646@aol.com</a>.</p>
           </article>
         </div>
