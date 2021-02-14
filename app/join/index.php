@@ -114,18 +114,13 @@
     <div id="Col2FlexContent">
         <div id="col1Flex">
 
-          <article class="text">
-              <h1>Housing</h1>
-              <p>If you are auditioning for Tiger Band, DO NOT sign up for a move-in date with housing.</p>
-              <p>We will automatically sign you up for the August 11 move-in date.</p>
-          </article>
-
             <article class="text">
                 <h1>Scholarships!</h1>
                 <img class="articleImg" src='/img/Horns.jpg'>
                 <p>All Clemson University enrolled band students, regardless of major, are eligible to receive band participation-based awards. The standard award is $500 per semester and requires participation in Tiger Band AND either Symphonic Band or Jazz Ensemble (“The Jungaleers”). All three groups are auditioned ensembles; Tiger Band auditions are by video during the summer, and Symphonic Band and Jazz Ensemble auditions occur during the first week of classes in the fall semester.</p>
                 <p>Incoming freshmen who have participated in the Senior All-State or Region Bands are encouraged to submit a video audition to be considered for more than the standard award. Please prepare two short excerpts demonstrating your lyrical and technical playing. These can be from any music of your choosing, such as an etude book, All-State audition piece, concerto, solo, etc. 4 minutes of total music is plenty.</p>
-                <p>Scholarship auditions for the 2020-2021 academic year are now complete. A link to submit scholarship auditions for the next academic year will be available in early 2021.</p>
+                <p>Scholarship auditions for the 2021-2022 academic year are now open. All scholarship auditions must be submitted at the link below by <b>April 30</b> in order to receive full consideration.</p>
+                  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7AiSHjqK21djzgOLz9HHRgyYtlxVJG-Gtz-iKRsUsrgc9vQ/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
             </article>
 
 
@@ -143,10 +138,10 @@
 
 
                 <article class="text">
-                    <h1>2020 Preseason Camp Schedule</h1>
+                    <h1>2021 Preseason Camp</h1>
                     <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                    <p>We're looking forward to welcoming the 2020 edition of "The Band that Shakes the Southland" to campus on Wednesday August 12.</p>
-                    <p>Our pursuit of excellence continues!</p>
+                    <p>We're hoping to welcome the 2021 edition of "The Band that Shakes the Southland" to campus in mid-August. Obviously, our ability to have a normal in-person preseason camp hinges on the state of the COVID situation at that time.</p>
+                    <p>As updates regarding next fall become available, they will be posted here.</p>
                 </article>
         </div>
     </div>

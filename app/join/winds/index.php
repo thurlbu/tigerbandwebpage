@@ -52,10 +52,10 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2020 Tiger Band Brass and Woodwind Auditions</h1>
-                <p>All auditions for wind players for the 2020 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
-                <p>The first round of drumline auditions will be via video submission due on June 21. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
+                <h1 class="purpleText">2021 Tiger Band Brass and Woodwind Auditions</h1>
+                <p>All auditions for wind players for the 2021 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                <p>The first round of drumline auditions will be via video submission due on June 25. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
             </article>
         </div>
 
@@ -68,7 +68,7 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>6</b>
+                            <b>10</b>
                             <p>Returners</p>
                         </div>
                     </div>
@@ -82,20 +82,20 @@
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>27</b>
+                            <b>25</b>
                             <p>Results</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Returners Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info2">
                         <p>First Year Members Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Results will be emailed to everyone by July 27, 2020</p>
+                        <p>Results will be emailed to everyone by July 25, 2021</p>
                     </div>
                 </div>
             </div>
@@ -116,18 +116,19 @@
             <article class="text fullWidth">
               <h1>Content</h1>
                 <p>Your audition video should contain:</p>
-                <ol>
+                <ul>
                     <li>A short introduction of yourself</li>
-                    <li>The Chromatic Scale (at least 2 octaves)</li>
                     <li>Tiger Rag (one time through, stop at the end of the first ending)</li>
                     <li>Alma Mater (one time through)</li>
-                </ol>
+                    <li>2021 Audition Excerpt</li>
+                </ul>
               <h1>Requirements</h1>
                 <p>All 3 songs on the video must be done in <b><u>one,</u> <u>continuous,</u> <u>un-edited</u></b> take. (Do not turn the camera off between songs)</p>
-                <p>Your face and fingers/valves/slides must be visible at all times in the video.</p>
-                <p>Returning members must submit a new video for the 2020 season. Videos used in previous seasons will not be accepted.</p>
+                <p>Your face and fingers/valves/slides must be visible <b>at all times</b> in the video.</p>
+                <p>Sheet music for Tiger Rag, The Alma Mater, and the 2021 Audition Excerpt can be viewed and downloaded below.</p>
+                <p><b>Returning members must submit a new video for the 2021 season.</b> Videos used in previous seasons will not be accepted.</p>
                 <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
-                <p>Sheet music for Tiger Rag and The Alma Mater can be downloaded below.</p>
+                <p>New for 2021: The Audition Excerpt is a portion of a selection that Tiger Band has played at halftime in the past. It is our hope that including a piece like this on the audition will give you an opportunity to better show us your musicianship and technical ability relative to a normal Tiger Band performance.</p>
               <h1>Reference Recordings</h1>
                 <div id="audioContainer">
                     <div class="auditionAudio">
@@ -140,24 +141,28 @@
                     </div>
                 </div>
 
+                <p>All submissions will be evaluated by expert players and educators and the process will be overseen by the Tiger Band directors.</p>
+                  <p>Returning members will earn 1 bonus point on their audition for every semester of participation in Tiger Band, other Clemson Bands, and private lessons with Clemson University Instructors.</p>
+                  <p><a href="/doc/2021WindScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+
             </article>
             <article class="text fullWidth">
                 <h1>Submission</h1>
                 <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive, Dropbox, or Box.</p>
                 <p>Secure a download link for the file that you can share with us. Please check to make sure that the permissions will allow us to view it!</p>
                 <p>Fill out the online application below:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqqzF3c60vu6ze61oj7ZwoCQL5kiL5R01cnOGRN706dDwAKg/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
-                <p>Results will be communicated by July 27 via email. All accepted Tiger Band members will report to campus on <u>August 12</u> to begin our 2020 preseason camp.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
+                <p>Results will be communicated by July 25 via email.</p>
             </article>
         </div>
 
         <div id="col2Flex">
           <article class="text fullWidth">
               <h1>Tutorial</h1>
-              <p>Here’s a video tutorial walking you through the audition and submission process:</p>
+              <p>A video tutorial walking you through the entire audition and submission process will be posted here soon:</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/MF5tJBhZZZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
                   </div>
               </div>
           </article>
@@ -168,7 +173,7 @@
 
     <div id="music">
         <div class="heading">
-            <h4>Sheet Music</h4>
+            <h4>Sheet Music for the 2021 Audition</h4>
         </div>
 
         <h4 class="purpleText expand" onclick="expand(this)">Tiger Rag</h4>
@@ -281,6 +286,64 @@
                 </div>
             </a>
             <a href="/doc/AlmaMater/AlmaMater_Sousa.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Sousaphone</span>
+                </div>
+            </a>
+        </div>
+
+        <h4 class="purpleText expand" onclick="expand(this)">2021 Audition Excerpt</h4>
+        <div class="expandButton">
+            <img src="/img/logos/dropdownArrow.svg" width="75">
+        </div>
+
+        <div class="fileUIcontainer">
+            <a href="/doc/2021AuditionExcerpts/2021AE_Piccolo.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Piccolo</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Clarinet.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Clarinet</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Alto_Sax.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Alto Sax</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Tenor_Sax.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Tenor Sax</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Trumpet.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Trumpet</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Mello.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Mellophone</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Trombone.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Trombone</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_BC_Baritone.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Baritone (BC)</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_TC_Baritone.pdf" target="_blank">
+                <div class="fileUIfile">
+                    <span>Baritone (TC)</span>
+                </div>
+            </a>
+            <a href="/doc/2021AuditionExcerpts/2021AE_Tuba.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Sousaphone</span>
                 </div>
