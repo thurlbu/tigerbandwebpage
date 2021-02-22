@@ -135,7 +135,7 @@
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
             <li>All videos must be new footage</li>
-            <li>Please wear a form-fitting top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup (if applicable).</li>
+            <li>Please wear a form-fitting black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup (if applicable).</li>
           </ul>
           <p>All submissions will be evaluated by a panel of:</p>
             <ul>
