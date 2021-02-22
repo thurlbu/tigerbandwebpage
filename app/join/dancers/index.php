@@ -52,10 +52,9 @@
         <div id="col1Flex">
           <article class="text fullWidth">
               <h1 class="purpleText">2021 Tiger Dancer Online Audition Clinics</h1>
-              <p>We will be hosting 3 online audition clinics to help anyone interested in becoming a Tiger Dancer prepare for their audition.</p>
+              <p>We will be hosting 2 more online audition clinics to help anyone interested in becoming a Tiger Dancer prepare for their audition.</p>
               <p>These clinics will be held on:</p>
               <ul>
-                <li>Saturday, February 20 - 1:00pm-3:00pm</li>
                 <li>Sunday, March 7 - 2:00pm-4:00pm</li>
                 <li>Saturday, April 10 - 1:00pm-3:00pm</li>
               </ul>
@@ -69,7 +68,22 @@
               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFy8kFyfvZ3Wx6w046KDA9YEtPiaYa9Ja2CiPxOsXpHJaHXw/viewform?usp=sf_link" class="richLink cta">2021 Dancer Audition Clinic Registration</a></p>
               <p>If you have any questions concerning auditions for the Tiger Dancers, please contact Marilla Riggs: <a href="mailto:marillariggs@gmail.com">marillariggs@gmail.com</a></p>
           </article>
+          <!--- PHOTO SLIDER --->
 
+          <div id="photoSlider">
+              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-1.jpg">
+              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-2.jpg">
+              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-3.jpg">
+              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952846/Join%20Page/Dancer/slide-4.jpg">
+              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-5.jpg">
+              <div class="controls">
+                  <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
+                  <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
+                  <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
+                  <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
+                  <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
+              </div>
+          </div>
 
         </div>
 
@@ -81,14 +95,14 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
-                          <p>February</p>
-                          <b>21</b>
-                          <p>Audition Details posted on this website</p>
+                          <p>April</p>
+                          <b>14</b>
+                          <p>Videos of first 2 routines due</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Choreography and all of the audition details will be posted on this website on February 21.</p>
-
+                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 14. It will also be posted on this website at the same time.</p>
+                      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
 
                   </div>
               </div>
@@ -100,32 +114,81 @@
                       <div class="textContainer">
                           <p>April</p>
                           <b>21</b>
-                          <p>Deadline for 2021 Audition Video Submissions</p>
+                          <p>Deadline for video of final routine</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Visit this website on or after February 21 for all audition details including submission instructions.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 14.</p>
 
 
                   </div>
               </div>
           </div>
-            <!--- PHOTO SLIDER --->
+          <article class="text fullWidth">
+              <h1 class="purpleText">2021 Tiger Dancer Auditions</h1>
+          <p>The 2021 Tiger Dancer auditions will consist of 3 short video submissions.</p>
+          <p>Please use the Tiger Dancer Application link below to submit your video audition.</p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
+          <p>The first 2 audition videos are due on <b>April 14.</b> The last will be due on <b>April 21.</b></p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 14 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 21.</b></p>
+          <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
+          <ul>
+            <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
+            <li>All videos must be new footage</li>
+            <li>Please wear a form-fitting top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup (if applicable).</li>
+          </ul>
+          <p>All submissions will be evaluated by a panel of:</p>
+            <ul>
+              <li>4 independent, expert dance judges</li>
+              <li>Tiger Band Dancer Instructor</li>
+            </ul>
+            <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
+            <p><a href="/doc/DancerScoreSheet2021.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+          <br>
 
-            <div id="photoSlider">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-1.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-2.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-3.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952846/Join%20Page/Dancer/slide-4.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-5.jpg">
-                <div class="controls">
-                    <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
+          <br>
+          <h1 class="purpleText">Video 1</h1>
+          <h5 class="purpleText">Choreography - Yeah!</h5>
+          <p>The first video will be a choreographed routine to <b>Yeah! by Usher</b> performed by Tiger Band.</p>
+          <p>You can learn the choreography from the video below:</p>
+          <p><iframe width="560" height="315" src="https://www.youtube.com/embed/n-IETgoVYWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+          <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+          <div id="audioContainer">
+              <div class="auditionAudio">
+                  <p>Yeah!</p>
+                  <audio src="/audio/Yeah.mp3" controls></audio>
+              </div>
                 </div>
-            </div>
+
+                <br>
+
+                <br>
+                <h1 class="purpleText">Video 2</h1>
+                <h5 class="purpleText">Choreography - Tiger Rag</h5>
+                <p>The second video will be a choreographed routine to <b>Tiger Rag</b> performed by Tiger Band.</p>
+                <p>You can learn the choreography from the video below:</p>
+                <p><iframe width="560" height="315" src="https://www.youtube.com/embed/sFj-XCLKq3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+                <div id="audioContainer">
+                    <div class="auditionAudio">
+                        <p>Tiger Rag</p>
+                        <audio src="/audio/TigerRag.mp3" controls></audio>
+                    </div>
+                      </div>
+                      <br>
+                      <h1 class="purpleText">Video 3</h1>
+                      <h5 class="purpleText">Learned Choreography</h5>
+                      <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 14. The third video, <b>due April 21,</b> will be your performance of that choreography.</p>
+                      <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
+                      <p>This routine will be around 1-and-a-half minutes and will be emailed to every audition applicant and also posted on this website.</p>
+                      <br>
+                  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
+                  <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
+              </article>
+
+
+
+
         </div>
     </div>
 
