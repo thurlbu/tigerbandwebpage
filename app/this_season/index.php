@@ -181,27 +181,27 @@
             </article>
             <article class="text officers">
                 <h1>2021 Officers</h1>
-                <p><b>Commander: Victor Fleifel</b></p>
-                <p><b>Vice-Commander: Jordan Pixley</b></p>
-                <p><b>Sergeant Major: Sadie Bates</b></p>
-                <p><b>Drum Majors: </b> TBD</p>
+                <p>Commander: <b>Victor Fleifel</b></p>
+                <p>Vice-Commander: <b>Jordan Pixley</b></p>
+                <p>Sergeant Major: <b>Sadie Bates</b></p>
+                <p>Drum Majors: <b> TBD</b></p>
                 <h1>Section Leaders: </h1>
-                <p><b>Piccolos:</b> TBD</p>
-                <p><b>Clarinets:</b> TBD</p>
-                <p><b>Alto Saxes:</b> TBD</p>
-                <p><b>Tenor Saxes:</b> TBD</p>
-                <p><b>Trumpets:</b> TBD</p>
-                <p><b>Mellophone:</b> TBD</p>
-                <p><b>Trombone:</b> TBD</p>
-                <p><b>Baritone:</b> TBD</p>
-                <p><b>Sousaphone:</b> TBD</p>
-                <p><b>Drumline:</b> TBD</p>
-                <p><b>Color Guard:</b> TBD</p>
-                <p><b>Twirlers:</b> TBD</p>
-                <p><b>Dancers:</b> TBD</p>
-                <p><b>Head Band Manager:</b> TBD</p>
-                <p><b>Instrument Manager:</b> TBD</p>
-                <p><b>Uniform Manager:</b> TBD</p>
+                <p>Piccolos: <b>Hannah Kadets & Megan Patterson</b></p>
+                <p>Clarinets: <b>Tyrell Fleshman & Natalie Henderson</b></p>
+                <p>Alto Saxes: <b>Charlie Brooks-Knepfle & Lauren Davis</b></p>
+                <p>Tenor Saxes: <b>TBD</b></p>
+                <p>Trumpets: <b>Drew Ivey, Sabrina Linke, & Andrew Marsh</b></p>
+                <p>Mellophone: <b>Sadie Bates & Stuart Saletan</b></p>
+                <p>Trombone: <b>Trevor Kimbrell & Jith Vishwanath</b></p>
+                <p>Baritone: <b>Marshall Murdaugh & Morgan Oliver</b></p>
+                <p>Sousaphone: <b>Will Betsill & Jakob McKinney</b></p>
+                <p>Drumline: <b>Briana Parcell & Alex Weyand</b></p>
+                <p>Color Guard: <b>Andra Cummings, Olivia Pappoto, Gwyneth Terry, & Elizabeth Turner</b></p>
+                <p>Twirlers: <b>Amy Rees</b></p>
+                <p>Dancers: <b>Mikayla Bennett & Samantha Bernard</b></p>
+                <p>Head Band Manager: <b>Healey Lucier</b></p>
+                <p>Instrument Manager: <b>Hannah Miller</b></p>
+                <p>Uniform Manager: <b>Arianna Csiszer, Lakeira Nelson, & Cameron Stovall</b></p>
             </article>
         </div>
     </div>
