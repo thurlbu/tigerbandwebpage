@@ -196,7 +196,7 @@
                 <p>Baritone: <b>Marshall Murdaugh & Morgan Oliver</b></p>
                 <p>Sousaphone: <b>Will Betsill & Jakob McKinney</b></p>
                 <p>Drumline: <b>Briana Parcell & Alex Weyand</b></p>
-                <p>Color Guard: <b>Andra Cummings, Olivia Pappoto, Gwyneth Terry, & Elizabeth Turner</b></p>
+                <p>Color Guard: <b>Andra Cummings, Olivia Papotto, Gwyneth Terry, & Elizabeth Turner</b></p>
                 <p>Twirlers: <b>Amy Rees</b></p>
                 <p>Dancers: <b>Mikayla Bennett & Samantha Bernard</b></p>
                 <p>Head Band Manager: <b>Healey Lucier</b></p>
