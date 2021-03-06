@@ -133,7 +133,7 @@
           <article class="text">
               <h1 class="orangeText">2021 Clemson University Drumline PAWZ</h1>
               <img class="articleImg" src='img/2019Drumline.jpg'>
-              <p>Looking for a little extra help with your 2020 Drumline Audition?</p>
+              <p>Looking for a little extra help with your 2021 Drumline Audition?</p>
               <p>Join our 2021 Section Leaders and instructional staff on Saturday, May 22 for a free, online workshop to help sharpen your skills and answer any questions you may have about the Clemson University Drumline or our audition process.</p>
               <p>You'll meet our staff, receive personal feedback, and learn the music for the video audition - just grab your practice pad and <a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">register for free online</a> to receive the link to the Zoom session(s)! You can show up for as many sessions as you'd like!</p>
               <p>Saturday, May 22, 10:00am-12:00pm: Snares and Quads</p>
