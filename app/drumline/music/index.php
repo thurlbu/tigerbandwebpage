@@ -78,7 +78,7 @@
                 </tr>
                 <tr>
                     <td>2021 Callback Excerpt</td>
-                    <td>Coming Soon...</td>
+                    <td>Posted August 2...</td>
                     <td>Score | S | Q | B | C</td>
                     <td><a href="../doc/CymbalKey.pdf" target="_blank">** Cymbal Notation **</a></td>
                 </tr>
