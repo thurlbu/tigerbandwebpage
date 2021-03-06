@@ -109,11 +109,11 @@
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Briana Parcell</h1>
-                <h2 class="purpleText">2020 Section Leader</h2>
+                <h2 class="purpleText">2021 Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/Briana.jpg" class="staffPortrait">
-                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2020 Tiger Band Season. A graduate of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band and has played in the CUD since her freshman year.</p>
-                    <p>Briana is a junior working towards dual degrees in Genetics and Biochemistry with a Psychology minor. When she isn't studying or practicing, she enjoys napping, snacking, and watching movies or hanging out with friends. Her favorite Christmas tradition is watching Elf, a heartwarming Christmas comedy starring her favorite actor/comedian/cotton-headed-ninny-muggins, Will Ferrell.</p>
+                    <p>Briana Parcell is a Clemson University Drumline (CUD) section leader for the 2021 Tiger Band Season. A graduate of Riverside High School from Greer, SC, she joined marching band and indoor percussion her sophomore year and played marimba, xylophone, first bass, and quads. At Clemson, Briana has participated in Steel Band, Percussion Ensemble, and Symphonic Band. She has played Bass and Quads in CUD and has been a member since her freshman year.</p>
+                    <p>Briana is a senior working towards a Performing Arts Degree. When she isn't studying or practicing, she enjoys watching movies or hanging out with friends. Her favorite Christmas tradition is watching Elf, a heartwarming Christmas comedy starring her favorite actor/comedian/cotton-headed-ninny-muggins, Will Ferrell.</p>
                 </div>
             </article>
         </div>
@@ -136,13 +136,12 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>David Cherne</h1>
-                <h2 class="purpleText">2020 Section Leader</h2>
+                <h1>Alex Weyand</h1>
+                <h2 class="purpleText">2021 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/David.jpg" class="staffPortrait">
-                    <p>David Cherne is a section leader of the 2020 Clemson University Drumline (CUD). He was born in Akron, Ohio, but moved to Fort Mill for his sophomore year of high school. David is a junior pursuing a B.A. in Computer Science with a minor in Digital Production Arts and plans to attend grad school to continue his studies in Digital Production Arts.</p>
-		                <p>As a freshman member of the CUD, David played Bass Drum, but then moved to the quad line his sophomore year. Marching band has taken David to many places, whether it’s playing bass drum on the Great Wall of China, playing in a concert honoring fallen veterans in Normandy, France, or watching Clemson win the championship in San Francisco, California, he has many great memories that he would not have been able to make without drums! David also enjoys playing in the Clemson Steel band beating all of the bad vibes away.</p>
-		                <p>David enjoys playing online games with friends, writing fantasy, practicing drum set, doodling, and procrastinating his coding projects until the day before they’re due. He listens to all kinds of music but can’t tell you the lyrics to any of them. He is always down to sit and talk with you for hours, but only if it’s about his favorite comedian/actor Will Ferrell.</p>
+                    <img src="../img/staff/Alex.jpg" class="staffPortrait">
+                    <p>Alex Weyand, from Vero Beach, Florida, is a Clemson University Drumline (CUD) section leader for the 2021 Tiger Band season. He joined marching band in high school and played cymbals and snare drum. While at Clemson, Alex has performed in Jazz Combos, Guitar Ensembles, and has been a member of CUD since he was a freshman. Some of his favorite memories from Tiger Band include running onto the field for his first pregame show and traveling to Arizona for the 2019 Fiesta Bowl.</p>
+                    <p>He is currenly a junior pursuing a degree in Audio Technology with a minor in Music. In his free time, he enjoys watching movies, recording music, and hanging out with friends and family. Some of Alex's favorite movies include Talladega Nights and Anchorman since they both star his favorite comedian/actor, Will Ferrell.</p>
                 </div>
             </article>
         </div>
