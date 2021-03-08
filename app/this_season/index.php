@@ -189,7 +189,7 @@
                 <p>Piccolos: <b>Hannah Kadets & Megan Patterson</b></p>
                 <p>Clarinets: <b>Tyrell Fleshman & Natalie Henderson</b></p>
                 <p>Alto Saxes: <b>Charlie Brooks-Knepfle & Lauren Davis</b></p>
-                <p>Tenor Saxes: <b>TBD</b></p>
+                <p>Tenor Saxes: <b>Bailey Ward</b></p>
                 <p>Trumpets: <b>Drew Ivey, Sabrina Linke, & Andrew Marsh</b></p>
                 <p>Mellophone: <b>Sadie Bates & Stuart Saletan</b></p>
                 <p>Trombone: <b>Trevor Kimbrell & Jith Vishwanath</b></p>
