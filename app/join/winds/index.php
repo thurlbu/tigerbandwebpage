@@ -159,10 +159,10 @@
         <div id="col2Flex">
           <article class="text fullWidth">
               <h1>Tutorial</h1>
-              <p>A video tutorial walking you through the entire audition and submission process will be posted here soon:</p>
+              <p>Watch this video for a step-by-step explanation of our audition process and how to submit your application.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/eWJ797nVkPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
