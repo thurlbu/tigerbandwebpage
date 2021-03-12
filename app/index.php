@@ -205,11 +205,11 @@
           </article>
 
           <article class="media">
-              <h1>Tiger Band Vlog Season 3, Holiday Special</h1>
-              <p>Terry Kent is not only our incredible colorguard instructor, he is also an expert in the holiday spirit! Enjoy this tour of Terry's winter wonderland that he builds every year in his home. Happy holidays from Tiger Band!</p>
+              <h1>Meet the 2021 Section Leaders...</h1>
+              <p>Amy Rees is the 2021 Tiger Twirler Captain. Get to know Amy and hear why she wants YOU to audition to become a Tiger Twirler this season!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/l1QSp5XPNXY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7vM7nZVcCQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
