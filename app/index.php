@@ -165,11 +165,12 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>Clemson Tiger Guard</h1>
-             <p>We're proud to share this special performance from members of the incredibly talented Clemson Tiger Guard! Wishing everyone the happiest and most joyous holiday season ever!!</p>
+             <h1>Tiger Band in 2020</h1>
+             <p>Nothing can stop Tiger Band from Shakin' the Southland!</p>
+             <p>We'd like to take a minute to look back at our unique, but successful 2020 season before working towards getting back on the field in 2021.</p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/42qqMbOCzY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bpevjc2EK58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
 
