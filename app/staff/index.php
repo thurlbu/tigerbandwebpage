@@ -112,12 +112,13 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Lee Maiden</h1>
-                <h2>Administrative coordinator</h2>
+                <h1>Mrs. Amber Thompson</h1>
+                <h2>Administrative Coordinator</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Maiden.png">
-                    <p>Lee Maiden has been Clemson Bands’ administrative coordinator since 2016. Lee and her husband, Jim, are from Pennsylvania, and are happy to have made the Upstate their permanent home, enjoying the community, beauty and nature of the area. Lee is the first contact for questions and information relating to Tiger Band and all Clemson Bands, and manages Band travel, organization, and budgets.</p>
-                    <p>Prior to Clemson, Lee spent 30 years as executive assistant at LNP Engineering Plastics Inc., a multinational company, and throughout her career, worked closely with British and Japanese nationals, and employees in the U.S., Malaysia, South America, and The Netherlands.</p>
+                    <img class="staffPortrait" src="/img/staff/Amber.png">
+                    <p>Mrs. Amber Thompson began working at Clemson in 2019 after 15 years of Active Military Service as a Human Resources NCO. Amber is still serving in the Army National Guard and is stationed at the 263d Army Air and Missile Defense Command in Anderson, SC. She has traveled to South Korea, Germany and all over the United States during the past 20 years of her career. Amber is a graduate of Limestone College and holds a Bachelor of Arts degree in Psychology.</p>
+                    <p>Mrs. Thompson began her Clemson career in the College of Education as an Administrative Assistant for the Department Chair of Teaching and Learning. She has always had a love of music and is very excited to be working with Clemson Bands. In high school Amber played clarinet, bass clarinet and was drum major of Batesburg-Leesville Panther Band.</p>
+                    <p>Amber and her husband Brandt enjoy traveling together and spending time with their cats and yorkies, Piper and Gadget.</p>
                 </div>
             </article>
 
@@ -203,7 +204,7 @@
                     <img class="staffPortrait" src="/img/staff/Hurlburt.png">
                     <p>Mr. Tim Hurlburt is the Assistant Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, Director of Basketball Pep Band, and Conductor of Concert Band.</p>
                     <p>Before arriving at Clemson, Mr. Hurlburt spent 3 years teaching music in Port Huron, Michigan. He still has a great interest in public school music education and continues to work as a clinician for both concert bands and marching bands at every level. Mr. Hurlburt has written several arrangements for athletic bands in both Michigan and Texas, and he continues to write arrangements and drill for high school and college marching bands.</p>
-                    <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Arts degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
+                    <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Music degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
                 </div>
             </article>
 
