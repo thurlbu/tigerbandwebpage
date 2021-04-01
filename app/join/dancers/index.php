@@ -52,13 +52,12 @@
         <div id="col1Flex">
           <article class="text fullWidth">
               <h1 class="purpleText">2021 Tiger Dancer Online Audition Clinics</h1>
-              <p>We will be hosting 2 more online audition clinics to help anyone interested in becoming a Tiger Dancer prepare for their audition.</p>
-              <p>These clinics will be held on:</p>
+              <p>We will be hosting 1 more online audition clinic to help anyone interested in becoming a Tiger Dancer prepare for their audition.</p>
+              <p>This clinic will be held on:</p>
               <ul>
-                <li>Sunday, March 7 - 2:00pm-4:00pm</li>
                 <li>Saturday, April 10 - 1:00pm-3:00pm</li>
               </ul>
-              <p>During these free online clinics you'll get:</p>
+              <p>During the free online clinic you'll get:</p>
               <ul>
               <li>exclusive instruction and feedback from our staff on the <b>choreography for this year's audition</b></li>
               <li>a chance to talk to and <b>ask questions of current students</b> about what it's like to be a Tiger Dancer</li>

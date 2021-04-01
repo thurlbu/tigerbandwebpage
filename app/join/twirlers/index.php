@@ -75,15 +75,9 @@
           <article class="text fullWidth">
                           <h1 class="purpleText">2021 Feature Twirler Auditions</h1>
 
-                          <p>The 2021 Feature Twirler auditions will consist of 4 short video submissions and a resume. This audition submission is for the FEATURE TWIRLER POSITION ONLY. If you'd like to be considered for the twirling line, you must submit a separate audition.</p>
-                          <p>Please use the Feature Twirler Application link below to submit your video audition.</p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJHnSqIsVl_aVFzZSFpgfELboT51KYZJZ5a60gFfXZxgYAoA/viewform?usp=sf_link" class="richLink cta">Feature Twirler Application</a></p>
-                          <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
-                          <ul>
-                            <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                            <li>All videos must be filmed outside.</li>
-                            <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
-                            <li>You may wear whatever you like, but please perform in your gameday hair and makeup (if applicable).</li>
+                          <p>The deadline to audition for Feature Twirler for the 2021 season has passed.</p>
+                          <p>While our audition process is tweaked slightly from year to year, the audition instructions for the 2021 season are below. This should give you an idea of what we might be expecting for auditions for the 2022 season.</p>
+                            <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
                           </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
@@ -132,7 +126,6 @@
                                 <li>Why did you choose Clemson University and Tiger Band?</li>
                                 <li>As a Feature Twirler at Clemson University, you will be representing Tiger Band and the University on a large stage on and off the field. Describe the importance of understanding this and how you would be successful in this role.</li>
                               </ul>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJHnSqIsVl_aVFzZSFpgfELboT51KYZJZ5a60gFfXZxgYAoA/viewform?usp=sf_link" class="richLink cta">Feature Twirler Application</a></p>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
                       </article>
