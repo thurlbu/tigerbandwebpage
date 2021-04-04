@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Trombones</h1>
       <p>Looking for the webpage of the best section in Tiger Band? You found it! We’re looking forward to another fun-filled and exhilarating season here in Clemson. This season, we hope to continue our domination in our weekly battles with the trumpets, show off our ever-so-stylish bone socks, and cheer on our Tigers to another winning season. Keep scrolling to see what we’re all about.</p>
-      <p>&mdash; Georgia &amp; Trevor</p>
+      <p>&mdash; Jith &amp; Trevor</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551911591/Section%20Pages/Trombones/header.jpg">
   </div>
@@ -53,12 +53,12 @@
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/trevor-kimbrell.jpg">
       <h3>Trevor Kimbrell</h3>
-      <p>Sophomore | Industrial Engineering<br/>Mt. Pleasant, SC</p>
+      <p>Senior | Health Services Administration<br/>Mt. Pleasant, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960085/Section%20Pages/Trombones/georgia-krendel.jpg">
-      <h3>Georgia Krendel</h3>
-      <p>Senior | Political Science<br/>Lynbrook, NY</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291708/Section%20Pages/Trombones/Jith.png">
+      <h3>Jith Vishwanath</h3>
+      <p>Junior | Engineering<br/>Alpharetta, GA</p>
     </div>
   </div>
 

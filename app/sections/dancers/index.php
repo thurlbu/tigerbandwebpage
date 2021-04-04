@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Dancers</h1>
       <p>The Tiger Dancers bring spirit, energy, and passion to every performance! On game day, we dance during the 90 minutes before kickoff amphitheater performance, the parade into the stadium, during pregame and halftime, and in the stands with all of Tiger Band. We have also been lucky enough to dance around the country during post-season football games to cheer on the Tigers. We are so excited for the 2020 season and can’t wait to get started!</p>
-      <p>&mdash; Elizabeth &amp; Samantha</p>
+      <p>&mdash; Mikayla &amp; Samantha</p>
     </div>
     
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587568442/Section%20Pages/Dancers/header.jpg">
@@ -52,14 +52,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1572480243/Section%20Pages/Dancers/elizabeth-rola.jpg">
-      <h3>Elizabeth Rola</h3>
-      <p>Senior | Graphic Communications <br/>Daniel Island, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291308/Section%20Pages/Dancers/section-leader-1.png">
+      <h3>Mikayla Bennett</h3>
+      <p>Senior | Psychology <br/>Indian Land, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587657146/Section%20Pages/Dancers/section-leader-2.jpg">
       <h3>Samantha Bernard</h3>
-      <p>Sophomore | Mathematical Sciences<br/>Charlotte, NC</p>
+      <p>Junior | Mathematical Sciences<br/>Charlotte, NC</p>
     </div>
   </div>
 
@@ -76,7 +76,7 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1556556719/Good%20photos/clemson-tiger-band-louisville-2018-67.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291349/Section%20Pages/Dancers/holiday-party.png">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">

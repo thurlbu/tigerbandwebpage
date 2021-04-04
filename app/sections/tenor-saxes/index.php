@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Tenor Saxophones</h1>
       <p>Unity in our diversity. Bring your talents to the tenor sax section!</p>
-      <p>&mdash; Erick</p>
+      <p>&mdash; Bailey</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551837444/Section%20Pages/Tenor%20Saxophones/header.jpg">
   </div>
@@ -51,9 +51,9 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080469/Section%20Pages/Tenor%20Saxophones/section-leader-1.jpg">
-      <h3>Erick Restrepo</h3>
-      <p>Senior | Political Sciences<br/>Spartanburg, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291664/Section%20Pages/Tenor%20Saxophones/bailey-ward.png">
+      <h3>Bailey Ward</h3>
+      <p>Junior | Animal and Veterinary Sciences <br/>Goose Creek, SC</p>
     </div>
   </div>
 
@@ -75,7 +75,7 @@
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>Gameday Hats</h4>
-          <p>It’s a tenor sax tradition to wear propellor hats to every game day practice. This helps add to the game day spirit, definitely distinguishes our section, and makes those early morning practices much more fun and entertaining!</p>
+          <p>It’s a tenor sax tradition to wear cowboy hats to every game day practice. This helps add to the game day spirit, definitely distinguishes our section, and makes those early morning practices much more fun and entertaining!</p>
         </div>
       </div>
     </div>

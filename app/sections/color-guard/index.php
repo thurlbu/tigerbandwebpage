@@ -40,9 +40,9 @@
     <div class="section-quote" id="quoteBox">
       <h1>Color Guard</h1>
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
-      <p>&mdash; Andra, Ada, &amp; Olivia</p>
+      <p>&mdash; Andra, Elizabeth, &amp; Olivia</p>
     </div>
-    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/header.jpg">
+    <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291424/Section%20Pages/Color%20Guard/guard-1.png">
   </div>
 
   <div class="heading">
@@ -57,9 +57,9 @@
     </div>
 
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588106907/Section%20Pages/Color%20Guard/section-leader-2.jpg">
-      <h3>Ada Nwobodu</h3>
-      <p>Senior | Biochemistry<br/>Simpsonvile, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291269/Section%20Pages/Color%20Guard/elizabeth-turner.png">
+      <h3>Elizabeth Turner</h3>
+      <p>Senior | Civil Engineering<br/>Dallas, TX</p>
     </div>
 
     <div class="section-leader">
@@ -82,7 +82,7 @@
   <div class="section-traditions">
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893877/Section%20Pages/Color%20Guard/why-join.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291423/Section%20Pages/Color%20Guard/guard-2.png">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
@@ -100,19 +100,19 @@
         </div>
       </div>
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553898807/Section%20Pages/Color%20Guard/travel.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291428/Section%20Pages/Color%20Guard/guard-3.png">
       </div>
     </div>
 
     <div class="tradition">
       <div class="tradition-tile image">
-        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/how-to-join.jpg">
+        <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291431/Section%20Pages/Color%20Guard/guard-4.png">
       </div>
       <div class="tradition-tile">
         <div class="tradition-text">
           <h4>How to Join!</h4>
           <p>To join Tiger Guard, follow the link below. All you have to do is watch an instructional video that takes you through the audition process. There are no fees! The deadline for submitting your completed application is July 22! We hope to be spinning with you soon!</p>
-          <a href="guard/" class="richLink">Join Tiger Guard</a>
+          <a href="/join/guard/" class="richLink">Join Tiger Guard</a>
         </div>
       </div>
     </div>

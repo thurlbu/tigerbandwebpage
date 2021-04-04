@@ -39,8 +39,8 @@
   <div class="section-heading">
     <div class="section-quote" id="quoteBox">
       <h1>Alto Saxophones</h1>
-      <p>The alto saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal.</p>
-      <p>&mdash; Grant &amp; Charlie </p>
+      <p>The alto saxophone section cultivates a jovial culture unmatched by any other section in Tiger Band. ‘Less dancing, more dressing!’ Mr. Hurlburt, our assistant band director, said this to our section during a rehearsal!</p>
+      <p>&mdash; Lauren &amp; Charlie </p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874098/Section%20Pages/Alto%20Saxophones/header.jpg">
   </div>
@@ -51,14 +51,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551874097/Section%20Pages/Alto%20Saxophones/grant-howard.jpg">
-      <h3>Grant Howard</h3>
-      <p>Senior | Economics <br/>Anderson, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291098/Section%20Pages/Alto%20Saxophones/section-leader-1.png">
+      <h3>Lauren Davis</h3>
+      <p>Senior | Bioengineering <br/>Lakeville, MN</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587734276/Section%20Pages/Alto%20Saxophones/section-leader-2.jpg">
       <h3>Charlie Brooks-Knepfle</h3>
-      <p>Junior | Music <br/>Central, SC</p>
+      <p>Senior | Music <br/>Central, SC</p>
     </div>
   </div>
 

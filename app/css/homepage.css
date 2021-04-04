@@ -123,7 +123,8 @@ video#homeVideoBkg {
   background: url(/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg) center/cover; }
 
 #box5.homepage {
-  background: url(/img/clemson-tiger-band-pitt-2016-713.jpg) center/cover; }
+  background: url(https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617312037/Home%20page/home-donate.png) 10%/cover;
+  background-position-y: 20%; }
 
 #box7.homepage {
   background: #522D80 url(/img/logos/CUTBA.svg) center/60% no-repeat; }

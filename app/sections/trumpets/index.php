@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Trumpets</h1>
       <p>Welcome to the trumpet section! We are an awesome, fun-loving group that also loves to play trumpet together. Throughout the season we battle the trombones (musically) and enjoy countless, unforgettable experiences cheering on our Clemson Tigers. We even have a great paper-plate awards ceremony to end the season. Here is a sneak-peek of the Clemson University Tiger Town Trumpets.</p>
-      <p>&mdash; Nick, Adam, &amp; Andrew</p>
+      <p>&mdash; Andrew, Sabrina, &amp; Drew</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836535/Section%20Pages/Trumpets/header.jpg">
   </div>
@@ -51,19 +51,19 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551836505/Section%20Pages/Trumpets/nick-gustafson.jpg">
-      <h3>Nick Gustafson</h3>
-      <p>Senior | Computer Science <br/>Columbia, SC</p>
-    </div>
-    <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588025029/Section%20Pages/Trumpets/section-leader-2.jpg">
-      <h3>Adam Gootgeld</h3>
-      <p>Senior | Materials Science and Engineering <br/>San Diego, CA</p>
-    </div>
-    <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080744/Section%20Pages/Trumpets/section-leader-3.jpg">
       <h3>Andrew Marsh</h3>
-      <p>Junior | Mechanical Engineering <br/>Pickens, SC</p>
+      <p>Senior | Mechanical Engineering <br/>Pickens, SC</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291725/Section%20Pages/Trumpets/Sabrina_Linke.png">
+      <h3>Sabrina Linke</h3>
+      <p>Senior | Mechanical Engineering <br/>Summerville, SC</p>
+    </div>
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291727/Section%20Pages/Trumpets/Drew_Ivey.png">
+      <h3>Drew Ivey</h3>
+      <p>Senior | Electrical Engineering <br/>York, SC</p>
     </div>
   </div>
 

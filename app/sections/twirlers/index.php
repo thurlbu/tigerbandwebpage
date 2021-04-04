@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Twirlers</h1>
       <p>"Go Tigers, Beat Everyone!" &mdash; Tiger Twirlers <br /> Take a look at why we love twirling for this university and we hope that one day you will, too!</p>
-      <p>&mdash; Reagan</p>
+      <p>&mdash; Amy</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952991/Join%20Page/Twirlers/slide-1.jpg">
   </div>
@@ -51,9 +51,9 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1574453644/Section%20Pages/Twirlers/reagan-king.jpg">
-      <h3>Reagan King</h3>
-      <p>Senior | Nursing <br/>Townville, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291754/Section%20Pages/Twirlers/Amy_Rees.png">
+      <h3>Amy Rees</h3>
+      <p>Senior | Biology and Spanish <br/>Loganville, SC</p>
     </div>
   </div>
 

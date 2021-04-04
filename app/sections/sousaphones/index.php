@@ -40,8 +40,8 @@
   <div class="section-heading">
     <div class="section-quote" id="quoteBox">
       <h1>Sousaphones</h1>
-      <p>Welcome to the (in our unbiased opinion) BEST section in Tiger Band! We’re loud, we’re proud, and we always move as a crowd.</p>
-      <p>&mdash; LK &amp; J</p>
+      <p>Welcome to the home of the Tiger Band Sousaphones. We’re excited for another season in the best place on Earth and a few more trips to Taco Bell.</p>
+      <p>&mdash; Will &amp; Jake</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910607/Section%20Pages/Sousaphones/header.jpg">
   </div>
@@ -52,14 +52,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551910608/Section%20Pages/Sousaphones/laura-kate-reid.jpg">
-      <h3>Laura Kate Reid</h3>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291510/Section%20Pages/Sousaphones/section-leader-1.png">
+      <h3>Will Betsill</h3>
       <p>Junior | Mathematical Sciences <br/>Aiken, SC</p>
     </div>
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681946/Section%20Pages/Sousaphones/section-leader-2.jpg">
-      <h3>John Turpin</h3>
-      <p>Senior | Civil Engineering <br/>Waxhaw, NC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291636/Section%20Pages/Sousaphones/jakob-mckinney-1.png">
+      <h3>Jake Mckinney</h3>
+      <p>Senior | Mechanical Engineering <br/>Lexington, SC</p>
     </div>
   </div>
 

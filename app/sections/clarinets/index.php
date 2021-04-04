@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Clarinets</h1>
       <p>We’re quirky and fun. Come join the clarinet family!</p>
-      <p>&mdash; Jason &amp; Natalie</p>
+      <p>&mdash; Tyrell &amp; Natalie</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551892366/Section%20Pages/Clarinets/header.jpg">
   </div>
@@ -51,15 +51,15 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1553648716/Section%20Pages/Clarinets/jason-gonzales.jpg">
-      <h3>Jason Gonzales</h3>
-      <p>Senior | Civil Engineering <br/>Summerville, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291151/Section%20Pages/Clarinets/section-leader-1.png">
+      <h3>Tyrell Fleshman</h3>
+      <p>Junior | English <br/>Columbia, SC</p>
     </div>
 
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681218/Section%20Pages/Clarinets/section-leader-2.jpg">
       <h3>Natalie Henderson</h3>
-      <p>Junior | Nursing <br/>Greenville, SC</p>
+      <p>Senior | Nursing <br/>Greenville, SC</p>
     </div>
   </div>
 

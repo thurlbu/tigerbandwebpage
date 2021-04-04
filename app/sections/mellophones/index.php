@@ -53,12 +53,12 @@
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023250/Section%20Pages/Mellophones/section-leader-1.jpg">
       <h3>Sadie Bates</h3>
-      <p>Junior | Chemical Engineering<br/>Summerville, SC</p>
+      <p>Senior | Chemical Engineering<br/>Summerville, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023773/Section%20Pages/Mellophones/section-leader-2.jpg">
       <h3>Stuart Saletan</h3>
-      <p>Junior | Computer Science<br/>Charleston, SC</p>
+      <p>Senior | Computer Science<br/>Charleston, SC</p>
     </div>
   </div>
 

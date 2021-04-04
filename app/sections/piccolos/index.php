@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Piccolos</h1>
       <p>We may be the highest pitched instruments, but our section is still down to earth! We are so excited for this next season and we hope you are too!</p>
-      <p>&mdash; Jillian &amp; Hannah</p>
+      <p>&mdash; Megan &amp; Hannah</p>
     </div>
     
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1554168042/Section%20Pages/Piccolos/header.jpg">
@@ -52,14 +52,14 @@
 
   <div class="section-leaders-content">
     <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1552829787/Section%20Pages/Piccolos/jillian-mcnally.jpg">
-      <h3>Jillian McNally</h3>
-      <p>Senior | Financial Management<br/>Walhalla, SC</p>
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291450/Section%20Pages/Piccolos/section-leader-1.png">
+      <h3>Megan Patterson</h3>
+      <p>Junior | Biochemistry and Genetics<br/>Austin, TX</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588041518/Section%20Pages/Piccolos/section-leader-2.jpg">
       <h3>Hannah Kadets</h3>
-      <p>Junior | Animal Veterinary Science<br/>Shelby Twp, Michigan</p>
+      <p>Senior | Animal Veterinary Science<br/>Shelby Twp, Michigan</p>
     </div>
   </div>
 
