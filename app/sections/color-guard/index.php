@@ -40,7 +40,7 @@
     <div class="section-quote" id="quoteBox">
       <h1>Color Guard</h1>
       <p>Welcome to the Tiger Guard! We are looking forward to another great season and want to share with you a little about who we are and what we do!</p>
-      <p>&mdash; Andra, Elizabeth, &amp; Olivia</p>
+      <p>&mdash; Andra, Elizabeth, Olivia, &amp; Gwyneth</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291424/Section%20Pages/Color%20Guard/guard-1.png">
   </div>
@@ -67,6 +67,12 @@
       <h3>Olivia Papotto</h3>
       <p>Senior | Computer Information Systems<br/>Pelzer, SC</p>
     </div>
+    
+    <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291433/Section%20Pages/Color%20Guard/gwyneth-terry.png">
+      <h3>Gwyneth Terry</h3>
+      <p>Sophomore | Spanish & International Business<br/>Seneca, SC</p>
+    </div>
   </div>
 
   <div class="heading section-pages">
@@ -77,6 +83,20 @@
     <video playsinline autoplay loop muted>
         <source src="https://d3fdmt0abme096.cloudfront.net/section-pages/guard.mp4" type="video/mp4">
     </video>
+  </div>
+
+  <div class="centered-articles">
+    <article class="media">
+      <h1>I Just Want To Be Happy performance</h1>
+      <p></p>
+
+      <div class="iframeContainer">
+          <div class="iFrameAspectRatio">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/42qqMbOCzY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+      </div>
+    </article>
+
   </div>
 
   <div class="section-traditions">
