@@ -125,6 +125,13 @@
               <h1>Requirements</h1>
                 <p>All 3 songs on the video must be done in <b><u>one,</u> <u>continuous,</u> <u>un-edited</u></b> take. (Do not turn the camera off between songs)</p>
                 <p>Your face and fingers/valves/slides must be visible <b>at all times</b> in the video.</p>
+                <p>Specialized instruments may use more common instruments for their audition. For example:</p>
+                <ul>
+                  <li>Piccolos may audition on Flute</li>
+                  <li>Mellophones may audition on Horn</li>
+                  <li>Baritones may audition on Euphonium or a Concert Baritone</li>
+                  <li>Sousaphones may audition on Tuba</li>
+                </ul>
                 <p>Sheet music for Tiger Rag, The Alma Mater, and the 2021 Audition Excerpt can be viewed and downloaded below.</p>
                 <p><b>Returning members must submit a new video for the 2021 season.</b> Videos used in previous seasons will not be accepted.</p>
                 <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
@@ -146,17 +153,18 @@
                   <p><a href="/doc/2021WindScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
             </article>
-            <article class="text fullWidth">
-                <h1>Submission</h1>
-                <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive, Dropbox, or Box.</p>
-                <p>Secure a download link for the file that you can share with us. Please check to make sure that the permissions will allow us to view it!</p>
-                <p>Fill out the online application below:</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
-                <p>Results will be communicated by July 25 via email.</p>
-            </article>
+
         </div>
 
         <div id="col2Flex">
+          <article class="text fullWidth">
+              <h1>Submission</h1>
+              <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive, Dropbox, or Box.</p>
+              <p>Secure a download link for the file that you can share with us. Please check to make sure that the permissions will allow us to view it!</p>
+              <p>Fill out the online application below:</p>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
+              <p>Results will be communicated by July 25 via email.</p>
+          </article>
           <article class="text fullWidth">
               <h1>Tutorial</h1>
               <p>Watch this video for a step-by-step explanation of our audition process and how to submit your application.</p>
