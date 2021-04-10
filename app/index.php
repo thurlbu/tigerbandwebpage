@@ -207,10 +207,10 @@
 
           <article class="media">
               <h1>Meet the 2021 Section Leaders...</h1>
-              <p>Amy Rees is the 2021 Tiger Twirler Captain. Get to know Amy and hear why she wants YOU to audition to become a Tiger Twirler this season!</p>
+              <p>Meet our 2021 Tiger Dancer Section Leaders, Sam and Mikayla! Learn why they want you to audition for the upcoming season and what makes the Dancer family so unique!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7vM7nZVcCQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/IsKweD9N-qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
