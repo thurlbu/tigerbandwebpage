@@ -86,8 +86,7 @@
           <article class="text fullWidth">
               <h1 class="purpleText">2021 Tiger Dancer Auditions</h1>
           <p>The 2021 Tiger Dancer auditions will consist of 3 short video submissions.</p>
-          <p>Please use the Tiger Dancer Application link below to submit your video audition.</p>
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
+          <p>The audition deadline for 2021 has passed.</p>
           <p>The first 2 audition videos are due on <b>April 14.</b> The last will be due on <b>April 21.</b></p>
           <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 14 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 21.</b></p>
           <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
@@ -160,12 +159,21 @@
                         </div>
                         <br>
                         <h1 class="purpleText">Video 3</h1>
-                        <h5 class="purpleText">Learned Choreography</h5>
+                        <h5 class="purpleText">Learned Choreography - Don't Start Now</h5>
                         <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 14. The third video, <b>due April 21,</b> will be your performance of that choreography.</p>
                         <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                        <p>This routine will be around 1-and-a-half minutes and will be emailed to every audition applicant and also posted on this website.</p>
-                        <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
+                        <p>Your video should only include the front view. The rear view is for learning purposes only.</p>
+                        <p>You can learn the choreography from the video below:</p>
+                        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/cAjuvWhlBJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                        <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+                        <div id="audioContainer">
+                            <div class="auditionAudio">
+                                <p>Don't Start Now</p>
+                                <audio src="/audio/Don'tStartNow.mp3" controls></audio>
+                            </div>
+                              </div>
+                              <br>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfU-EhuPwF3tD0Un7u0kfG0U-XVAFrT36yN-FKgAobAquuTSw/viewform?usp=sf_linkk" class="richLink cta">Final Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
                   </article>
 

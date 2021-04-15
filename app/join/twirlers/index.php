@@ -186,8 +186,7 @@
           <article class="text fullWidth">
               <h1 class="purpleText">2021 Tiger Twirler Auditions</h1>
               <p>The 2021 Tiger Twirler auditions will consist of 4 short video submissions and a resume.</p>
-              <p>Please use the Tiger Twirler Application link below to submit your video audition.</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXEdONMJsG0MymXYhQSmPTf8xwKA_WmFt8UNlrBNnhr-dNJg/viewform?usp=sf_link" class="richLink cta">Tiger Twirler Application</a></p>
+              <p>The deadline for the 2021 season has passed.</p>
               <p>The first 3 audition videos are due on <b>April 14.</b> The last will be due on <b>April 21.</b></p>
               <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 14 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 21.</b></p>
               <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
@@ -250,9 +249,18 @@
                   <h5 class="purpleText">Learned Choreography</h5>
                   <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on April 14. The fourth video, <b>due April 21,</b> will be your performance of that choreography.</p>
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                  <p>This routine will be around 1-and-a-half minutes and will be emailed to every audition applicant and also posted on this website.</p>
-                  <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXEdONMJsG0MymXYhQSmPTf8xwKA_WmFt8UNlrBNnhr-dNJg/viewform?usp=sf_link" class="richLink cta">Tiger Twirler Application</a></p>
+                  <p>Your video should only include the front view. The rear view is for learning purposes only.</p>
+                  <p>You can learn the choreography from the video below:</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/KlyQyFpyObg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+                  <div id="audioContainer">
+                      <div class="auditionAudio">
+                          <p>Eye of the Tiger</p>
+                          <audio src="/audio/EOTT.mp3" controls></audio>
+                      </div>
+                        </div>
+                        <br>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfU-EhuPwF3tD0Un7u0kfG0U-XVAFrT36yN-FKgAobAquuTSw/viewform?usp=sf_linkk" class="richLink cta">Final Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
