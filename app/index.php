@@ -207,10 +207,11 @@
 
           <article class="media">
               <h1>Meet the 2021 Section Leaders...</h1>
-              <p>Meet our 2021 Tiger Dancer Section Leaders, Sam and Mikayla! Learn why they want you to audition for the upcoming season and what makes the Dancer family so unique!</p>
+              <p>Introducing Briana and Alex - our 2021 Drumline section leaders! Hear what it's like to be a member of CUD and why you should audition for our 2021 season.</p>
+              <p>Don't forget to sign up for our PAWZ camp in May. Visit the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline Page</a> for more information!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/IsKweD9N-qQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mHXgfpoo0xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
           </article>
