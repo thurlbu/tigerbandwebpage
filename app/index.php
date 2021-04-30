@@ -195,15 +195,14 @@
 
         <div id="col2Flex">
 
-          <article class="media">
-              <h1>Nothing can stop us...</h1>
-              <p>Not even a pandemic can stop Tiger Band!</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/IoJrB3bZVGU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
-          </article>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper" target="_blank">
+              <article class="text">
+                  <h1>Sign Up Today</h1>
+                  <img class="articleImg" src='/img/CuseAmp.jpg'>
+                  <p>Click here to receive information about what it takes to be a member of Tiger Band.</p>
+                  <p>You'll get <u><b>EXCLUSIVE</u></b> information about auditions and become eligible for <u><b>EARLY REGISTRATION</u></b> to Tiger Band events BEFORE they're released to the public!</p>
+              </article>
+          </a>
 
           <article class="media">
               <h1>Meet the 2021 Section Leaders...</h1>
