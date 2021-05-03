@@ -165,12 +165,12 @@
        <div id="col1Flex">
 
          <article class="media">
-             <h1>Tiger Band in 2020</h1>
-             <p>Nothing can stop Tiger Band from Shakin' the Southland!</p>
-             <p>We'd like to take a minute to look back at our unique, but successful 2020 season before working towards getting back on the field in 2021.</p>
+             <h1>2021 Tiger Band Auditions</h1>
+             <p>Don't wait until it's too late! We want you to join us for the upcoming 2021 season!</p>
+             <p>Check out the our online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/bpevjc2EK58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/fCWKKdDjzXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                  </div>
              </div>
 
