@@ -140,8 +140,13 @@
                 <article class="text">
                     <h1>2021 Preseason Camp</h1>
                     <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                    <p>We're hoping to welcome the 2021 edition of "The Band that Shakes the Southland" to campus in mid-August. Obviously, our ability to have a normal in-person preseason camp hinges on the state of the COVID situation at that time.</p>
-                    <p>As updates regarding next fall become available, they will be posted here.</p>
+                    <p>We're excited to welcome the 2021 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
+                    <p>Mark your calendars with our move-in dates:</p>
+                      <p><u>Drumline Callbacks</u>  <b>Monday, August 9</b></p>
+                      <p><u>Leadership Meetings</u> <b>Tuesday, August 10</b></p>
+                      <p><u>All Tiger Band Members</u> <b>Wednesday, August 11</b></p>
+
+
                 </article>
         </div>
     </div>
