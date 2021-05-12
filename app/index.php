@@ -204,6 +204,18 @@
 
         <div id="col2Flex">
 
+
+          <article class="media">
+              <h1>Tiger Band Traditions - Bruce's Brick</h1>
+              <p>Tiger Band has many traditions - some of which people would never know about if you weren't a Tiger Band member...</p>
+              <p>Learn about Bruce's Brick which honors the memory of one of Tiger Band's most beloved directors, Dr. Bruce Cook.</p>
+              <div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/EcnTo6-2rX8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  </div>
+              </div>
+
+          </article>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper" target="_blank">
               <article class="text">
                   <h1>Sign Up Today</h1>
