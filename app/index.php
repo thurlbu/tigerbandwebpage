@@ -164,10 +164,22 @@
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
 
+<article class="media">
+    <h1>Tiger Clean</h1>
+    <p>This audition reminder is brought to you by Tiger Clean! Don't get stuck on the sidelines, join Tiger Band TODAY!!</p>
+    <p>Check out the online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
+    <div class="iframeContainer">
+        <div class="iFrameAspectRatio">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/s6SVU-Jvn-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    </div>
+
+</article>
+
          <article class="media">
              <h1>2021 Tiger Band Auditions</h1>
              <p>Don't wait until it's too late! We want you to join us for the upcoming 2021 season!</p>
-             <p>Check out the our online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
+             <p>Check out the online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
              <div class="iframeContainer">
                  <div class="iFrameAspectRatio">
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/fCWKKdDjzXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -186,19 +198,6 @@
                <p><u>All Tiger Band Members</u> <b>Wednesday, August 11</b></p>
 
              </article>
-
-
-
-            <article class="media">
-                <h1>We are Tiger Band</h1>
-                <p>What does it mean to be a member of Tiger Band?</p>
-                <div class="iframeContainer">
-                    <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZK1zC3QSIAg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                    </div>
-                </div>
-            </article>
-
 
         </div>
 
