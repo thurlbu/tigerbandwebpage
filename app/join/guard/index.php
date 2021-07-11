@@ -221,9 +221,9 @@
     <h5 class="purpleText">Learned Choreography</h5>
     <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on July 10. The fourth video, <b>due July 17,</b> will be your performance of that choreography.</p>
     <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-    <p>This routine will be emailed to every audition applicant and also posted on this website.</p>
+    <p>Here is the choreography that must be submitted before 11:59pm on July 17:</p>
     <br>
-      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/85vfSG7B2rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
   <br>
               <p>Please direct all questions concerning auditions for the Tiger Guard to Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger_Guard_Audition_Question">tkent25646@aol.com</a>.</p>
           </article>
