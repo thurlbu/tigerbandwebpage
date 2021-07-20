@@ -158,7 +158,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Fall Audition Schedule">2021 Audition Schedule</a>
+                <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2021 Audition Schedule</a>
                 <br>
                 <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Full Preseason Schedule">2021 Full Preseason Schedule</a>
             </article>
