@@ -228,7 +228,7 @@
             </article>
             <article class="text">
                 <h1>The Most Exciting 25 Seconds in College Football</h1>
-                    <img class="articleImg" src='/img/25Seconds.jpg'>
+                    <img class="articleImg" src='/img/25Second.jpg'>
                 <p>The Clemson football team enters the field after touching Howard's Rock and running down the hill to the sounds of Tiger Rag.</p>
                 <p>In 1985, Brent Musburger dubbed our stadium entrance "the most exciting 25 seconds in college football" and anyone who has seen it is sure to agree.</p>
                 <p>It is truly an experience you will never forget.</p>
