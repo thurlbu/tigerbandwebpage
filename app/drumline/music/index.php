@@ -78,8 +78,12 @@
                 </tr>
                 <tr>
                     <td>2021 Callback Excerpt</td>
-                    <td>Posted August 2...</td>
-                    <td>Score | S | Q | B | C</td>
+                    <td>7/30/21</td>
+                    <td><a href="../doc/Excerpt2021Battery.pdf" target="_blank">Score</a> |
+                        <a href="../doc/Excerpt2021Snares.pdf" target="_blank">S</a> |
+                        <a href="../doc/Excerpt2021Quads.pdf" target="_blank">Q</a> |
+                        <a href="../doc/Excerpt2021Bass.pdf" target="_blank">B</a> |
+                        <a href="../doc/Excerpt2021Cymbals.pdf" target="_blank">C</a></td>
                     <td><a href="../doc/CymbalKey.pdf" target="_blank">** Cymbal Notation **</a></td>
                 </tr>
 		</table>
