@@ -41,7 +41,7 @@
     <a href="/" class="mobileNav" target="_blank">Tiger Band Website</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Store</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Newsletter</a>
-    <a href="https://cualumni.clemson.edu/give/cutba" class="mobileNav" target="_blank">Donate to CUTBA</a>
+    <a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2" class="mobileNav" target="_blank">Donate to CUTBA</a>
     <a href="../buy-a-brick/" class="mobileNav">Buy a Brick</a>
 </nav>
 
@@ -71,9 +71,9 @@
 		<p>3) CUTBA Donor (Member)</p>
     <p>There are many ways <b><u>YOU</b></u> can help support Tiger Band financially:</p>
     <ul>
-      <li><a href="https://cualumni.clemson.edu/give/cutba">A one time, immediate, online contribution via credit/debit card</a></li>
-      <li><a href="http://www.clemson.edu/giving/documents/bankdraft.pdf">A recurring contribution via bank draft</a></li>
-      <li><a href="http://www.clemson.edu/giving/documents/creditcarddraft.pdf">A recurring contribution via a debit/credit card</a></li>
+      <li><a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2">A one time, immediate, online contribution via credit/debit card</a></li>
+      <li><a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2">A recurring contribution via bank draft</a></li>
+      <li><a href="https://iamatiger.clemson.edu/giving/giving-to-clemson?id=6e67bd58-92e8-4e74-b351-6c6ede0c07e2">A recurring contribution via a debit/credit card</a></li>
     </ul>
             </article>
 
