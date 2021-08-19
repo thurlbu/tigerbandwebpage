@@ -54,7 +54,7 @@
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291510/Section%20Pages/Sousaphones/section-leader-1.png">
       <h3>Will Betsill</h3>
-      <p>Junior | Mathematical Sciences <br/>Aiken, SC</p>
+      <p>Senior | Biochemistry <br/>Easley, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291636/Section%20Pages/Sousaphones/jakob-mckinney-1.png">
