@@ -165,39 +165,18 @@
        <div id="col1Flex">
 
 <article class="media">
-    <h1>Tiger Clean</h1>
-    <p>This audition reminder is brought to you by Tiger Clean! Don't get stuck on the sidelines, join Tiger Band TODAY!!</p>
-    <p>Check out the online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
+    <h1>Halftime Performance - September 11</h1>
+    <p>It was a great pleasure to collaborate with our friends from the South Carolina State University Marching 101.</p>
+    <p>Here's our show commemorating the 20th anniversary of 9/11 honoring our first responder heroes.</p>
     <div class="iframeContainer">
         <div class="iFrameAspectRatio">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/s6SVU-Jvn-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/lBKg3InOpeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
     </div>
 
 </article>
 
-         <article class="media">
-             <h1>2021 Tiger Band Auditions</h1>
-             <p>Don't wait until it's too late! We want you to join us for the upcoming 2021 season!</p>
-             <p>Check out the online <a href="http://tband.people.clemson.edu/join/">audition process on our Join page!</a></p>
-             <div class="iframeContainer">
-                 <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/fCWKKdDjzXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                 </div>
-             </div>
 
-         </article>
-
-         <article class="text">
-             <h1>2021 Preseason Camp</h1>
-             <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-             <p>We're excited to welcome the 2021 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
-             <p>Mark your calendars with our move-in dates:</p>
-               <p><u>Drumline Callbacks</u>  <b>Monday, August 9</b></p>
-               <p><u>Leadership Meetings</u> <b>Tuesday, August 10</b></p>
-               <p><u>All Tiger Band Members</u> <b>Wednesday, August 11</b></p>
-
-             </article>
 
         </div>
 
@@ -215,32 +194,6 @@
               </div>
 
           </article>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper" target="_blank">
-              <article class="text">
-                  <h1>Sign Up Today</h1>
-                  <img class="articleImg" src='/img/CuseAmp.jpg'>
-                  <p>Click here to receive information about what it takes to be a member of Tiger Band.</p>
-                  <p>You'll get <u><b>EXCLUSIVE</u></b> information about auditions and become eligible for <u><b>EARLY REGISTRATION</u></b> to Tiger Band events BEFORE they're released to the public!</p>
-              </article>
-          </a>
-
-          <article class="media">
-              <h1>Meet the 2021 Section Leaders...</h1>
-              <p>Introducing Briana and Alex - our 2021 Drumline section leaders! Hear what it's like to be a member of CUD and why you should audition for our 2021 season.</p>
-              <p>Don't forget to sign up for our PAWZ camp in May. Visit the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline Page</a> for more information!</p>
-              <div class="iframeContainer">
-                  <div class="iFrameAspectRatio">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/mHXgfpoo0xU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  </div>
-              </div>
-          </article>
-
-
-
-
-
-
-
 
         </div>
     </div>
