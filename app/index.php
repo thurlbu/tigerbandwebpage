@@ -164,6 +164,16 @@
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
 
+         <article class="text">
+             <h1>HIGH SCHOOL SENIOR DAY</h1>
+             <img class="articleImg" src='/img/HSSD2021.png'>
+             <p>High School Seniors: Join Tiger Band for a gameday experience on November 13!  Learn firsthand what it’s like to be a member of the band by spending the day with and performing with us!</p>
+             <p>Space is limited so register at the link below for a chance to attend the event!</p>
+             <p>All applicants will be notified of their status by Monday, November 8</p>
+               <p><a href="https://forms.gle/gvjjgsyGLhpYBBzi8" class="richLink cta">HIGH SCHOOL SENIOR DAY REGISTRATION FORM</a></p>
+         </article>
+
+
 <article class="media">
     <h1>Halftime Performance - September 11</h1>
     <p>It was a great pleasure to collaborate with our friends from the South Carolina State University Marching 101.</p>
@@ -184,11 +194,11 @@
 
 
           <article class="media">
-              <h1>Tiger Band Vlog - We're Back - Season 4, Episode 1</h1>
-              <p>After a season on The Hill, Tiger Band returns to the field in 2021. Meet some of Tiger Band's student leadership and hear what it means to be back together again doing what we love!</p>
+              <h1>Tiger Band Vlog - Douthit Rag - Season 4, Episode 3</h1>
+              <p>In this episode, enjoy an impromptu concert while waiting for the traffic light, meet The Tiger Guard, The Tiger Dancers, & The Tiger Twirlers, witness the hard work of the Clemson University Drumline, and follow Tiger Band to Syracuse!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/rJp4cVZat30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/pdMNWjG4o4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
 
