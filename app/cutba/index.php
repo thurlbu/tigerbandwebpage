@@ -46,6 +46,7 @@
         class="mobileNav" target="_blank">CUTBA and Tiger Band Merchandise</a>
     <a href="https://secure.touchnet.net:443/C20569_ustores/web/product_detail.jsp?PRODUCTID=3973" class="mobileNav"
         target="_blank">Purchase Tiger Band Parent T-Shirts</a>
+    <a href="https://secure.touchnet.net/C20569_ustores/web/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Newsletter</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba?utm_source=digital_website&utm_medium=tdf_link&utm_campaign=dar_online_giving_cutba&utm_term=giving_button_cutba&utm_content=departmental_site_giving_button" class="mobileNav" target="_blank">Donate to CUTBA</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba/buy-a-brick" class="mobileNav">Buy a Brick</a>
 </nav>
