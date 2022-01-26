@@ -78,7 +78,7 @@
                           <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season is 11:59pm on March 16.</p>
                           <p>All of the information about the audition requirements and submission process can be found below.</p>
                             <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          </ul>
+                          
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
                               <li>4 independent judges - all certified nationally</li>
