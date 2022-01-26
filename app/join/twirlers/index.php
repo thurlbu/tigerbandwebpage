@@ -59,12 +59,12 @@
                       <div class="textContainer">
 
                           <p>March</p>
-                          <b>31</b>
-                          <p>Deadline for 2021 Feature Twirler Auditions</p>
+                          <b>16</b>
+                          <p>Deadline for 2022 Feature Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Deadline for 2021 Feature Twirler audition video submissions.</p>
+                      <p>Deadline for 2022 Feature Twirler audition video submissions.</p>
 
                   </div>
 
@@ -73,10 +73,10 @@
           </div>
 
           <article class="text fullWidth">
-                          <h1 class="purpleText">2021 Feature Twirler Auditions</h1>
+                          <h1 class="purpleText">2022 Feature Twirler Auditions</h1>
 
-                          <p>The deadline to audition for Feature Twirler for the 2021 season has passed.</p>
-                          <p>While our audition process is tweaked slightly from year to year, the audition instructions for the 2021 season are below. This should give you an idea of what we might be expecting for auditions for the 2022 season.</p>
+                          <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season is 11:59pm on March 16.</p>
+                          <p>All of the information about the audition requirements and submission process can be found below.</p>
                             <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
                           </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
@@ -85,8 +85,10 @@
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                            <p><a href="/doc/2021FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
-
+                            <p><a href="/doc/2022FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                            <br>
+                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdK3Wq8Y7Bvp3Yz6hw1i8sn6A9UiVlAvJSAitMjMBST_4DL7g/viewform?usp=sf_link" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
                           <p>The first video will be a <b>2:30-3:00</b> individually choreographed routine to any <b>music of your choice.</b></p>
@@ -128,6 +130,7 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
+                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdK3Wq8Y7Bvp3Yz6hw1i8sn6A9UiVlAvJSAitMjMBST_4DL7g/viewform?usp=sf_link" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
@@ -155,12 +158,12 @@
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>14</b>
+                          <b>6</b>
                           <p>Deadline for Tiger Twirler 1st round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 14. It will also be posted on this website at the same time.</p>
+                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 6. It will also be posted on this website at the same time.</p>
 
 
                   </div>
@@ -172,29 +175,28 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>21</b>
+                          <b>13</b>
                           <p>Deadline for Tiger Twirler 2nd round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 14.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. All auditions results will be communicated via email by April 20.</p>
 
 
                   </div>
               </div>
           </div>
           <article class="text fullWidth">
-              <h1 class="purpleText">2021 Tiger Twirler Auditions</h1>
-              <p>The 2021 Tiger Twirler auditions will consist of 4 short video submissions and a resume.</p>
-              <p>The deadline for the 2021 season has passed.</p>
-              <p>The first 3 audition videos are due on <b>April 14.</b> The last will be due on <b>April 21.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 14 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 21.</b></p>
+              <h1 class="purpleText">2022 Tiger Twirler Auditions</h1>
+              <p>The 2022 Tiger Twirler auditions will consist of 4 short video submissions and a resume.</p>
+              <p>The first 3 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 14.</b></p>
               <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
                 <li>All videos must be filmed outside.</li>
                 <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
-                <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup (if applicable).</li>
+                <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup. Hair can be up or down for the twirling videos.</li>
               </ul>
               <p>All submissions will be evaluated by a panel of:</p>
                 <ul>
@@ -202,37 +204,40 @@
                   <li>Tiger Band Twirler Instructor</li>
                 </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/2021TTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
-              <br>
-
+                <p><a href="/doc/2022TTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <br>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdop5_953WSlMs7Bkeq31YT8wQ4aI4Byqqn0hOtKypoe81lEw/viewform?usp=sf_link" class="richLink cta">2022 Tiger Twirler Audition Video Submission Form</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Individual Choreography</h5>
-              <p>The first video will be an individually choreographed routine to <b>Don't Stop Me Now</b> performed by Tiger Band in 2018. Please use the audio recording posted below.</p>
+              <p>The first video will be an individually choreographed routine to <b>California Gurls</b> performed by Tiger Band in 2021. Please use the audio recording posted below.</p>
               <div id="audioContainer">
                   <div class="auditionAudio">
-                      <p>Don't Stop Me Now</p>
-                      <audio src="/audio/Don'tStopMeNow.mp3" controls></audio>
+                      <p>California Gurls</p>
+                      <audio src="/audio/CaliforniaGurls.mp3" controls></audio>
                   </div>
                     </div>
               <p>You may show us anything in this routine, but please include the following <b>required tricks</b> in your performance:</p>
               <ul>
                 <li>1, 2, & 3 baton work</li>
-                <li>Toss Illusion</li>
+                <li>Toss Illusion (May be substituted with Double Illusion or Toss Spin Illusion)</li>
                 <li>Dance Body Work</li>
-                <li>3-Turn Catch Right</li>
-                <li>3-Turn Catch Left</li>
+                <li>Minimum 3-Turn</li>
+                <li>At least one trick with the following catches: Left, Right, Backhand, & Blind</li>
               </ul>
               <br>
               <h1 class="purpleText">Video 2</h1>
               <h5 class="purpleText">Basic Skills</h5>
               <p>In the second video, please demonstrate the following skills in a single unedited and unspliced video:</p>
               <ul>
-                <li>Left Split</li>
                 <li>Right Split</li>
-                <li>3-turn (3 times)</li>
+                <li>Left Split</li>
                 <li>Toss Illusion (3 times)</li>
-                <li>Any 3-baton trick (3 times)</li>
+                <li>3-turn (3 times)</li>
+                <li>3-Baton: 5 juggles with loops into 4 vertical boxes (3 times)</li>
+                <br>
+                <li><b>Optional Bonus Points:</b> Toss Walkover (3 times)</li>
+                <li><b>Optional Bonus Points:</b> Toss Cartwheel (3 times)</li>
               </ul>
               <br>
               <h1 class="purpleText">Video 3</h1>
@@ -247,20 +252,13 @@
                   <br>
                   <h1 class="purpleText">Video 4</h1>
                   <h5 class="purpleText">Learned Choreography</h5>
-                  <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on April 14. The fourth video, <b>due April 21,</b> will be your performance of that choreography.</p>
+                  <p>Every candidate who has submitted the first 3 videos by the deadline will be sent choreography to learn on April 6. The fourth video, <b>due April 14 by 11:59pm</b>, will be your performance of that choreography.</p>
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                  <p>Your video should only include the front view. The rear view is for learning purposes only.</p>
-                  <p>You can learn the choreography from the video below:</p>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/KlyQyFpyObg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                  <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
-                  <div id="audioContainer">
-                      <div class="auditionAudio">
-                          <p>Eye of the Tiger</p>
-                          <audio src="/audio/EOTT.mp3" controls></audio>
-                      </div>
-                        </div>
+                  <p>This choreography will also be posted here when the emails are sent to eligible audition candidates.</p>
+
+
                         <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfU-EhuPwF3tD0Un7u0kfG0U-XVAFrT36yN-FKgAobAquuTSw/viewform?usp=sf_linkk" class="richLink cta">Final Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdop5_953WSlMs7Bkeq31YT8wQ4aI4Byqqn0hOtKypoe81lEw/viewform?usp=sf_link" class="richLink cta">2022 Tiger Twirler Audition Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
