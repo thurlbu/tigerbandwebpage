@@ -140,8 +140,7 @@
                 <div class="auditionAudio">
                     <p>Coming Soon</p>
                     <audio src="" controls></audio>
-                    <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
+
                 </div>
                   </div>
 
@@ -158,8 +157,7 @@
                       <div class="auditionAudio">
                           <p>Tiger Rag</p>
                           <audio src="/audio/TigerRag.mp3" controls></audio>
-                          <br>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
+                        
                       </div>
                         </div>
                         <br>
