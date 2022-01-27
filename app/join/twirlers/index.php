@@ -78,7 +78,7 @@
                           <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season is 11:59pm on March 16.</p>
                           <p>All of the information about the audition requirements and submission process can be found below.</p>
                             <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          
+
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
                               <li>4 independent judges - all certified nationally</li>
@@ -190,7 +190,7 @@
               <h1 class="purpleText">2022 Tiger Twirler Auditions</h1>
               <p>The 2022 Tiger Twirler auditions will consist of 4 short video submissions and a resume.</p>
               <p>The first 3 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 14.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 13.</b></p>
               <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -252,7 +252,7 @@
                   <br>
                   <h1 class="purpleText">Video 4</h1>
                   <h5 class="purpleText">Learned Choreography</h5>
-                  <p>Every candidate who has submitted the first 3 videos by the deadline will be sent choreography to learn on April 6. The fourth video, <b>due April 14 by 11:59pm</b>, will be your performance of that choreography.</p>
+                  <p>Every candidate who has submitted the first 3 videos by the deadline will be sent choreography to learn on April 6. The fourth video, <b>due April 13 by 11:59pm</b>, will be your performance of that choreography.</p>
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
                   <p>This choreography will also be posted here when the emails are sent to eligible audition candidates.</p>
 
