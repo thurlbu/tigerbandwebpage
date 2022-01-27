@@ -55,13 +55,13 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>14</b>
+                          <b>6</b>
                           <p>Videos of first 2 routines due</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 14. It will also be posted on this website at the same time.</p>
-                      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-rYxVeh9_2xC_J4thsSiFPRGeOv9QlbzqIk-tUQ7QOb0q6A/viewform?usp=sf_link" class="richLink cta">Tiger Dancer Application</a></p>
+                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 6. It will also be posted on this website at the same time.</p>
+                      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
 
                   </div>
               </div>
@@ -72,23 +72,22 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>21</b>
+                          <b>13</b>
                           <p>Deadline for video of final routine</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 14.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. All results will be communicated via email by April 20.</p>
 
 
                   </div>
               </div>
           </div>
           <article class="text fullWidth">
-              <h1 class="purpleText">2021 Tiger Dancer Auditions</h1>
-          <p>The 2021 Tiger Dancer auditions will consist of 3 short video submissions.</p>
-          <p>The audition deadline for 2021 has passed.</p>
-          <p>The first 2 audition videos are due on <b>April 14.</b> The last will be due on <b>April 21.</b></p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 14 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 21.</b></p>
+              <h1 class="purpleText">2022 Tiger Dancer Auditions</h1>
+          <p>The 2022 Tiger Dancer auditions will consist of 3 short video submissions.</p>
+          <p>The first 2 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b> All results will be communicated via email by <b>April 20</b>.</p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 13.</b></p>
           <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -102,6 +101,8 @@
             </ul>
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
             <p><a href="/doc/DancerScoreSheet2021.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+            <br>
+            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
           <br>
 
 
@@ -109,11 +110,11 @@
           <!--- PHOTO SLIDER --->
 
           <div id="photoSlider">
-              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-1.jpg">
-              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-2.jpg">
-              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952849/Join%20Page/Dancer/slide-3.jpg">
-              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952846/Join%20Page/Dancer/slide-4.jpg">
-              <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952845/Join%20Page/Dancer/slide-5.jpg">
+              <img class="slider" src="https://i.imgur.com/zfP682h.jpg">
+              <img class="slider" src="https://i.imgur.com/LI6ecfs.jpg">
+              <img class="slider" src="https://i.imgur.com/Xpk099p.jpg">
+              <img class="slider" src="https://i.imgur.com/f4P01rO.jpg">
+              <img class="slider" src="https://i.imgur.com/8LwA4wl.jpg">
               <div class="controls">
                   <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                   <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
@@ -130,15 +131,17 @@
           <!--- DEADLINE CALENDAR UI --->
           <article class="text fullWidth">
             <h1 class="purpleText">Video 1</h1>
-            <h5 class="purpleText">Choreography - Yeah!</h5>
-            <p>The first video will be a choreographed routine to <b>Yeah! by Usher</b> performed by Tiger Band.</p>
+            <h5 class="purpleText">Choreography - TBD</h5>
+            <p>The first video will be a choreographed routine to <b>TBD</b> performed by Tiger Band.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/n-IETgoVYWs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            <p>COMING SOON!</p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
-                    <p>Yeah!</p>
-                    <audio src="/audio/Yeah.mp3" controls></audio>
+                    <p>Coming Soon</p>
+                    <audio src="" controls></audio>
+                    <br>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
                 </div>
                   </div>
 
@@ -155,25 +158,27 @@
                       <div class="auditionAudio">
                           <p>Tiger Rag</p>
                           <audio src="/audio/TigerRag.mp3" controls></audio>
+                          <br>
+                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
                       </div>
                         </div>
                         <br>
                         <h1 class="purpleText">Video 3</h1>
-                        <h5 class="purpleText">Learned Choreography - Don't Start Now</h5>
-                        <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 14. The third video, <b>due April 21,</b> will be your performance of that choreography.</p>
+                        <h5 class="purpleText">Learned Choreography - Coming April 6</h5>
+                        <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 6. The third video, <b>due April 13 at 11:59pm,</b> will be your performance of that choreography.</p>
                         <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
                         <p>Your video should only include the front view. The rear view is for learning purposes only.</p>
                         <p>You can learn the choreography from the video below:</p>
-                        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/cAjuvWhlBJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                        <p>COMING APRIL 6</p>
                         <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                         <div id="audioContainer">
                             <div class="auditionAudio">
-                                <p>Don't Start Now</p>
-                                <audio src="/audio/Don'tStartNow.mp3" controls></audio>
+                                <p>Coming Soon!</p>
+                                <audio src="" controls></audio>
                             </div>
                               </div>
                               <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfU-EhuPwF3tD0Un7u0kfG0U-XVAFrT36yN-FKgAobAquuTSw/viewform?usp=sf_linkk" class="richLink cta">Final Video Submission Form</a></p>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
                   </article>
 
