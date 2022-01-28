@@ -74,16 +74,16 @@
                     <th colspan="4">Callback Audition Excerpt</th>
                 </tr>
                 <tr>
-                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 10.</td>
+                    <td colspan="4">Prepare this excerpt as you would any show music you will receive during the season. Learn and memorize (in that order) this music for auditions on August 15.</td>
                 </tr>
                 <tr>
-                    <td>2021 Callback Excerpt</td>
-                    <td>7/30/21</td>
-                    <td><a href="../doc/Excerpt2021Battery.pdf" target="_blank">Score</a> |
-                        <a href="../doc/Excerpt2021Snares.pdf" target="_blank">S</a> |
-                        <a href="../doc/Excerpt2021Quads.pdf" target="_blank">Q</a> |
-                        <a href="../doc/Excerpt2021Bass.pdf" target="_blank">B</a> |
-                        <a href="../doc/Excerpt2021Cymbals.pdf" target="_blank">C</a></td>
+                    <td>2022 Callback Excerpt</td>
+                    <td>To Be Posted July 2</td>
+                    <td><a href="" target="_blank">Score</a> |
+                        <a href="" target="_blank">S</a> |
+                        <a href="" target="_blank">Q</a> |
+                        <a href="" target="_blank">B</a> |
+                        <a href="" target="_blank">C</a></td>
                     <td><a href="../doc/CymbalKey.pdf" target="_blank">** Cymbal Notation **</a></td>
                 </tr>
 		</table>

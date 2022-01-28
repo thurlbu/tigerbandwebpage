@@ -49,7 +49,7 @@
 <body>
     <div class="heading">
         <h3>Call Back Auditions for</h3>
-        <h4>2021 Clemson University Drumline</h4>
+        <h4>2022 Clemson University Drumline</h4>
     </div>
 
     <!--- DEADLINES UI --->
@@ -66,24 +66,17 @@
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>22</b>
-                    <p>Online Audition Workshop</p>
+                    <b>7</b>
+                    <p>Pre-Audition Workshop</p>
                 </div>
             </div>
             <div class="deadlinesInfo" id="info1">
                 <p>Audition materials for VIDEO round will be available on website</p>
             </div>
             <div class="deadlinesInfo" id="info2">
-                <p>Clemson University Drumline Pre-Audition Workshop on Zoom (P.A.W.Z.)
+                <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
                 <br>
                 <br>Meet our staff, receive personal feedback, and learn the music for the video audition!
-                <br>
-                <br>The only thing you need is a practice pad and some sticks!
-                <br>
-                <br>10:00am - Snares and Quads
-                <br>1:00pm - Basses
-                <br>2:30pm - Cymbals
-                <br>3:30pm - Wrap-up session
                 <br>
                 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE FOR FREE REGISTRATION!</a></p>
             </div>
@@ -93,7 +86,8 @@
                 <div class="textContainer">
                     <p>June</p>
                     <b>25</b>
-                    <p>Video Deadline</p>
+                    <p>Video Audition Deadline</p>
+
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
@@ -105,25 +99,27 @@
             </div>
             <div class="deadlinesInfo" id="info3">
                 <p>Deadline for VIDEO round audition submissions<p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2yxNaI9Poqo1SrbdcsouUYpgONv68r-FbA9wlfDZfjrQreQ/viewform?c=0&w=1">Click here to submit your video!</a></p>
             </div>
             <div class="deadlinesInfo" id="info4">
-                <p>Audition results announced<br>
-                    Those selected must report to CALL BACK auditions on Monday, August 9</p>
+                <p>Audition results announced</p>
+                  <br>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 15</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>9</b>
+                    <b>15</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>11</b>
-                    <p>Band Camp</p>
+                    <b>16</b>
+                    <p>Pre-season Camp</p>
                 </div>
             </div>
             <div class="deadlinesInfo" id="info6">
@@ -132,7 +128,7 @@
                 Brooks and Bellamy Theaters<p>
             </div>
             <div class="deadlinesInfo" id="info7">
-                <p>Tiger Band Preseason Camp begins</p>
+                <p>Tiger Band Preseason Camp begins for CUD</p>
             </div>
         </div>
     </div>
@@ -142,10 +138,10 @@
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2021 Drumline Auditions</h1>
+                <h1 class="purpleText">2022 Drumline Auditions</h1>
                 <p>Prospective CUD Members:</p>
                 <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 25.</p>
-                <p>Auditionees will be notified about video audition results by July 2. Students who earn a call-back audition invitation will move to Clemson on August 9 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
+                <p>Auditionees will be notified about video audition results by July 2. Students who earn a call-back audition invitation will move to Clemson on August 15 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
                 <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">
@@ -158,9 +154,9 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2021 Audition Schedule</a>
+                <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2022 Audition Schedule</a>
                 <br>
-                <a href="../doc/2021CUDSchedule.pdf" class="richLink" target="_blank" title="Full Preseason Schedule">2021 Full Preseason Schedule</a>
+                <a href="" class="richLink" target="_blank" title="Full Preseason Schedule">2022 Full Preseason Schedule</a>
             </article>
         </div>
     </div>

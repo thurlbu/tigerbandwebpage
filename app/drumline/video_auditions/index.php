@@ -49,7 +49,7 @@
 <body>
     <div class="heading">
         <h3>Clemson University Drumline</h3>
-        <h4>2021 Video Audition Information</h4>
+        <h4>2022 Video Audition Information</h4>
     </div>
 
     <!--- DEADLINES UI --->
@@ -66,24 +66,17 @@
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>22</b>
-                    <p>Online Audition Workshop</p>
+                    <b>7</b>
+                    <p>Pre-Audition Workshop</p>
                 </div>
             </div>
             <div class="deadlinesInfo" id="info1">
                 <p>Audition materials for VIDEO round will be available on website</p>
             </div>
             <div class="deadlinesInfo" id="info2">
-                <p>Clemson University Drumline Pre-Audition Workshop on Zoom (P.A.W.Z.)
+                <p>Clemson University Drumline Pre-Audition Workshop (P.A.W.)
                 <br>
                 <br>Meet our staff, receive personal feedback, and learn the music for the video audition!
-                <br>
-                <br>The only thing you need is a practice pad and some sticks!
-                <br>
-                <br>10:00am - Snares and Quads
-                <br>1:00pm - Basses
-                <br>2:30pm - Cymbals
-                <br>3:30pm - Wrap-up session
                 <br>
                 <br><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform">CLICK HERE FOR FREE REGISTRATION!</a></p>
             </div>
@@ -109,23 +102,24 @@
                 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2yxNaI9Poqo1SrbdcsouUYpgONv68r-FbA9wlfDZfjrQreQ/viewform?c=0&w=1">Click here to submit your video!</a></p>
             </div>
             <div class="deadlinesInfo" id="info4">
-                <p>Audition results announced<br>
-                    Those selected must report to CALL BACK auditions on Monday, August 9</p>
+                <p>Audition results announced</p>
+                  <br>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 15</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>9</b>
+                    <b>15</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>11</b>
-                    <p>Band Camp</p>
+                    <b>16</b>
+                    <p>Pre-season Camp</p>
                 </div>
             </div>
             <div class="deadlinesInfo" id="info6">
@@ -134,7 +128,7 @@
                 Brooks and Bellamy Theaters<p>
             </div>
             <div class="deadlinesInfo" id="info7">
-                <p>Tiger Band Preseason Camp begins</p>
+                <p>Tiger Band Preseason Camp begins for CUD</p>
             </div>
         </div>
     </div>
@@ -158,7 +152,7 @@
         <div id="col2Flex">
 
             <article class="text fullWidth">
-                <h1 class="purpleText">2021 Clemson University Drumline Auditions</h1>
+                <h1 class="purpleText">2022 Clemson University Drumline Auditions</h1>
                 <p>CUD is looking for players who want to be a part of the drumline as an ensemble and not just play a certain instrument. This means understanding and respecting that the Clemson Drumline is made up of 4 sections - snares, quads, basses, and cymbals - and each section is of equal importance to Tiger Band, to the music, and to our success as a unit. At Clemson, there is no hierarchy. Everybody is valued, and everybody contributes. We will accept multiple video submissions for those that are auditioning for multiple sections.
                 <a href="https://docs.google.com/document/d/1Okp__K2LMh1i7LlnYH1yi1Yi24QMDZQs22gzKJV-IIE" class="richLink" target="_blank">Video Audition Requirements<br>for Each Section</a>
                 <br>
