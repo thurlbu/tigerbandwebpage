@@ -100,7 +100,7 @@
               <li>Tiger Band Dancer Instructor</li>
             </ul>
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-            <p><a href="/doc/DancerScoreSheet2021.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+            <p><a href="/doc/2022ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
             <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
           <br>
@@ -131,8 +131,8 @@
           <!--- DEADLINE CALENDAR UI --->
           <article class="text fullWidth">
             <h1 class="purpleText">Video 1</h1>
-            <h5 class="purpleText">Choreography - TBD</h5>
-            <p>The first video will be a choreographed routine to <b>TBD</b> performed by Tiger Band.</p>
+            <h5 class="purpleText">Choreography - Industry Baby</h5>
+            <p>The first video will be a choreographed routine to <b>Industry Baby</b> performed by Tiger Band.</p>
             <p>You can learn the choreography from the video below:</p>
             <p>COMING SOON!</p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
@@ -151,13 +151,13 @@
                   <h5 class="purpleText">Choreography - Tiger Rag</h5>
                   <p>The second video will be a choreographed routine to <b>Tiger Rag</b> performed by Tiger Band.</p>
                   <p>You can learn the choreography from the video below:</p>
-                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/sFj-XCLKq3c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                  <p>COMING SOON!</p>
                   <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                   <div id="audioContainer">
                       <div class="auditionAudio">
                           <p>Tiger Rag</p>
                           <audio src="/audio/TigerRag.mp3" controls></audio>
-                        
+
                       </div>
                         </div>
                         <br>
@@ -171,7 +171,7 @@
                         <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                         <div id="audioContainer">
                             <div class="auditionAudio">
-                                <p>Coming Soon!</p>
+                                <p>Coming April 6</p>
                                 <audio src="" controls></audio>
                             </div>
                               </div>
