@@ -120,7 +120,7 @@
                     <li>A short introduction of yourself</li>
                     <li>Tiger Rag (one time through, stop at the end of the first ending)</li>
                     <li>Alma Mater (one time through)</li>
-                    <li>2022 Audition Excerpts</li>
+                    <li>2022 Audition Excerpt</li>
                 </ul>
               <h1>Requirements</h1>
                 <p>All 3 portions of the video must be done in <b><u>one,</u> <u>continuous,</u> <u>un-edited</u></b> take. (Do not turn the camera off between songs)</p>
@@ -132,10 +132,10 @@
                   <li>Baritones may audition on Euphonium or a Concert Baritone</li>
                   <li>Sousaphones may audition on Tuba</li>
                 </ul>
-                <p>Sheet music for Tiger Rag, The Alma Mater, and the 2022 Audition Excerpts can be viewed and downloaded below.</p>
+                <p>Sheet music for Tiger Rag, The Alma Mater, and the 2022 Audition Excerpt can be viewed and downloaded below.</p>
                 <p><b>Returning members must submit a new video for the 2022 season.</b> Videos used in previous seasons will not be accepted.</p>
                 <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
-                <p>The Audition Excerpt is a portion of a selection that Tiger Band has played at halftime in the past. It is our hope that including a piece like this on the audition will give you an opportunity to better show us your musicianship and technical ability relative to a normal Tiger Band performance. Please play all of the excerpts listed on the music.</p>
+                <p>The Audition Excerpt is a portion of a selection that Tiger Band has played at halftime in the past. It is our hope that including a piece like this on the audition will give you an opportunity to better show us your musicianship and technical ability relative to a normal Tiger Band performance.</p>
               <h1>Reference Recordings</h1>
                 <div id="audioContainer">
                     <div class="auditionAudio">
