@@ -165,26 +165,13 @@
        <div id="col1Flex">
 
          <article class="text">
-             <h1>HIGH SCHOOL SENIOR DAY</h1>
-             <img class="articleImg" src='/img/HSSD2021.png'>
-             <p>High School Seniors: Join Tiger Band for a gameday experience on November 13!  Learn firsthand what it’s like to be a member of the band by spending the day with and performing with us!</p>
-             <p>Space is limited so register at the link below for a chance to attend the event!</p>
-             <p>All applicants will be notified of their status by Monday, November 8</p>
-               <p><a href="https://forms.gle/gvjjgsyGLhpYBBzi8" class="richLink cta">HIGH SCHOOL SENIOR DAY REGISTRATION FORM</a></p>
+             <h1>TIGER GUARD INSTRUCTOR</h1>
+             <img class="articleImg" src='/img/clemson-tiger-band-bc-2017-181.jpg'>
+             <p>Tiger Band is seeking a dedicated and dynamic colorguard instructor to join our staff for the upcoming season.</p>
+             <p>All interested applicants should apply at the link below before March 1.</p>
+             <p>GO TIGERS!</p>
+               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScZ9fhyZX44p859OpXXg_CFzRtSN4mr83DUEvABDVL0M9XZHA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Instructor Application</a></p>
          </article>
-
-
-<article class="media">
-    <h1>Halftime Performance - September 11</h1>
-    <p>It was a great pleasure to collaborate with our friends from the South Carolina State University Marching 101.</p>
-    <p>Here's our show commemorating the 20th anniversary of 9/11 honoring our first responder heroes.</p>
-    <div class="iframeContainer">
-        <div class="iFrameAspectRatio">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/lBKg3InOpeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-    </div>
-
-</article>
 
 
 
