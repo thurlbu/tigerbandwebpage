@@ -95,7 +95,7 @@
                         <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Results will be emailed to everyone by July 23, 2021</p>
+                        <p>Results will be emailed to everyone by July 23</p>
                     </div>
                 </div>
             </div>
