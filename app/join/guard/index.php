@@ -55,28 +55,28 @@
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
                           <p>July</p>
-                          <b>10</b>
+                          <b>9</b>
                           <p>Deadline for Tiger Guard 1st round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>After first round videos are submitted, all audition candidates will receive the choreography for the round 2 video electronically on July 10. It will also be posted on this website at the same time.</p>
+                      <p>After first round videos are submitted, all audition candidates will receive the choreography for the round 2 video electronically on July 9. It will also be posted on this website at the same time.</p>
 
 
                   </div>
               </div>
           </div>
             <article class="text fullWidth">
-                <h1 class="purpleText">2021 Tiger Guard Auditions</h1>
+                <h1 class="purpleText">2022 Tiger Guard Auditions</h1>
                 <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
                 <p>This year's audition will consist of 4 separate short videos. Each of the videos must be <b>unedited and shot in one-continuous take.</b> Individual videos that have splices will not be considered.</p>
-                <p>The first 3 videos - for all returners and new members - must be submitted by <b>July 10</b>.</p>
-                <p>The fourth video - for all returners and new members - must be submitted by <b>July 17</b>. Both deadlines must be met in order to receive full consideration.</p>
+                <p>The first 3 videos - for all returners and new members - must be submitted by <b>July 9</b>.</p>
+                <p>The fourth video - for all returners and new members - must be submitted by <b>July 16</b>. Both deadlines must be met in order to receive full consideration.</p>
                 <p>The content of these videos is explained below in detail.</p>
-                <p>After you create your videos, please upload them to google drive or another file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link">on-line application</a>.</p>
-                <p>Choreography for the 4th video will be emailed to everyone on July 10 who submitted their first 3 videos. Final results will be communicated by July 25.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
-                <p>If you have any questions about auditions or anything else, please contact Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger Guard Audition Question">tkent25646@aol.com</a>.</p>
+                <p>After you create your videos, please upload them to google drive or another file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link">on-line application</a>.</p>
+                <p>Choreography for the 4th video will be emailed to everyone on July 9 who submitted their first 3 videos. Final results will be communicated by July 23.</p>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
+                <p>If you have any questions about auditions or anything else, please contact the <a href="mailto:aoswald@clemson.edu">band office.</a></p>
             </article>
 
             <!--- DEADLINE CALENDAR UI --->
@@ -94,12 +94,12 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>July</p>
-                          <b>17</b>
+                          <b>16</b>
                           <p>Deadline for Tiger Guard 2nd round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on July 10.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on July 9.</p>
 
 
                   </div>
@@ -111,17 +111,15 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952920/Join%20Page/Guard/slide-1.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952921/Join%20Page/Guard/slide-2.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952919/Join%20Page/Guard/slide-3.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952917/Join%20Page/Guard/slide-4.jpg">
-                <img class="slider" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1580952918/Join%20Page/Guard/slide-5.jpg">
+                <img class="slider" src="https://i.imgur.com/U17cKRF.jpg">
+                <img class="slider" src="https://i.imgur.com/cWFOU8U.jpg">
+                <img class="slider" src="https://i.imgur.com/QMUZQmu.jpg">
+                <img class="slider" src="https://i.imgur.com/bId92hT.jpg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
                 </div>
             </div>
         </div>
@@ -140,7 +138,7 @@
 
           <article class="text fullWidth">
               <h1>Audition Videos</h1>
-              <p>The 2021 Tiger Guard auditions will consist of 4 short video submissions:</p>
+              <p>The 2022 Tiger Guard auditions will consist of 4 short video submissions:</p>
               <ul>
               <li>Video 1 will cover choreography that you have lots of time to learn and perfect.</li>
               <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
@@ -149,9 +147,9 @@
             </ul>
               <p>Each of these videos will be described in detail below.</p>
               <p>After you have completed the videos, you must submit them via this application form:</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexqgT6ILCQbdsF2zIpR2CzTWLP15CB1zHev1cTJbihUnv7WA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
-              <p>The first 3 audition videos are due on <b>July 10.</b> The last will be due on <b>July 17.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY JULY 10 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON JULY 17.</b></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+              <p>The first 3 audition videos are due on <b>July 9.</b> The last will be due on <b>July 16.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY JULY 9 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON JULY 16.</b></p>
               <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -159,53 +157,58 @@
                 <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
               </ul>
               <br>
-              <p>All submissions will be evaluated by a panel of Tiger Band staff.</p>
+              <p>All submissions will be evaluated by a panel of:</p>
+              <ul>
+                <li>4 independent expert colorguard instructors</li>
+                <li>Tiger Band Colorguard Instructor</li>
+              </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/CGScoreSheet2021.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/CGScoreSheet22.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Choreography</h5>
-              <p>The first video will consist of your performance of the Tiger Guard choreography to 2 Clemson school songs: Tiger Fanfare and Orange Bowl March.</p>
-              <p>Please refer to following video to learn the choreography for these 2 songs.</p>
-              <p>This tutorial video has front and back views for learning purposes only. Your video should only contain the front view. Make sure that we can hear the music on your audition video. You can download the audio tracks below.</p>
+              <p>The first video will consist of your performance of the Tiger Guard choreography to the Clemson University Fight Song: Tiger Rag.</p>
+              <p>Please refer to following video to learn the choreography for this song.</p>
+              <p>You can download the audio tracks below.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/Zp1nVLWh9mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="315" src="https://www.youtube.com/embed/68Za-OESpd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
               <br>
               <div id="audioContainer">
                   <div class="auditionAudio">
-                      <p>Tiger Fanfare:</p>
-                      <audio src="/audio/Tiger Fanfare.mp3" controls></audio>
-                  </div>
-                  <div class="auditionAudio">
-                      <p>Orange Bowl March:</p>
-                      <audio src="/audio/Orange Bowl March.mp3" controls></audio>
+                      <p>Tiger Rag:</p>
+                      <audio src="/audio/TigerRag.mp3" controls></audio>
                   </div>
               </div>
 <br>
 <h1 class="purpleText">Video 2</h1>
 <h5 class="purpleText">Basic Skills</h5>
-<p>In the second video, a demonstration the following skills is required in a single unedited and unspliced video:</p>
+<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video:</p>
 <ul>
   <li>8 to 12 steps of a <b>Jazz Run</b></li>
   <li>at least <b>2 Chasse and 2 Saute maneuvers</b> in combination</li>
+  <li>1 time through the <b>Across the Floor Sequence</b> demonstrated below</li>
   <li>16 counts of <b>Drop Spins</b></li>
-  <li>2 <b>Cone-Tosses</b></li>
-  <li>2 <b>45-Tosses</b></li>
+  <li>16 counts of <b>Cones</b></li>
+  <li>24 count <b>Windmills & Around the World</b> demonstrated below</li>
   <li>2 <b>Tosses-From-The-Flag</b></li>
+  <li>2 <b>Cone-Tosses</b></li>
+  <li>4 <b>45-Tosses</b></li>
+  <li>4 <b>Body Wrap 45-Tosses</b></li>
+
 </ul>
 <p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED. If you would like to include the rifle portion, it should include:</p>
 <ul>
-  <li>8 counts of right hand spins with a single out</li>
-  <li>8 counts of left hand spins with a single out</li>
+  <li>16 counts of right hand spins with a single out</li>
+  <li>26 counts of left hand spins with a single out</li>
   <li>2 double tosses</li>
   <li>2 triple tosses</li>
   <li>2 quad tosses</li>
 </ul>
-<p>Each of these skills is explained in detail in the video below along with some tips of what our judges are looking for.</p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/P5K8dSUFIGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Each of these skills is demonstrated in the video below along with some tips of what our judges are looking for.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/050qADBqpqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <br>
 <h1 class="purpleText">Video 3</h1>
 <h5 class="purpleText">Interview</h5>
@@ -219,13 +222,11 @@
     <br>
     <h1 class="purpleText">Video 4</h1>
     <h5 class="purpleText">Learned Choreography</h5>
-    <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on July 10. The fourth video, <b>due July 17,</b> will be your performance of that choreography.</p>
+    <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on July 9. The fourth video, <b>due July 16,</b> will be your performance of that choreography.</p>
     <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-    <p>Here is the choreography that must be submitted before 11:59pm on July 17:</p>
-    <br>
-    <p><iframe width="560" height="315" src="https://www.youtube.com/embed/85vfSG7B2rM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <p>The choreography that must be submitted before 11:59pm on July 16, will be sent to all potential members who submit the first 3 videos on time and will also be posted here on July 9.</p>
   <br>
-              <p>Please direct all questions concerning auditions for the Tiger Guard to Terry Kent: <a href="mailto:tkent25646@aol.com?subject=Tiger_Guard_Audition_Question">tkent25646@aol.com</a>.</p>
+              <p>Please direct all questions concerning auditions for the Tiger Guard to <a href="mailto:aoswald@clemson.edu?subject=Tiger_Guard_Audition_Question">the band office</a>.</p>
           </article>
         </div>
 

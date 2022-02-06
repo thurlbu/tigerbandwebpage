@@ -134,12 +134,12 @@
             <h5 class="purpleText">Choreography - Industry Baby</h5>
             <p>The first video will be a choreographed routine to <b>Industry Baby</b> performed by Tiger Band.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p>COMING SOON!</p>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/h8Gd4exlNao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
-                    <p>Coming Soon</p>
-                    <audio src="" controls></audio>
+                    <p>Industry Baby</p>
+                    <audio src="/audio/IndustryBaby.mp3" controls></audio>
 
                 </div>
                   </div>
@@ -151,7 +151,7 @@
                   <h5 class="purpleText">Choreography - Tiger Rag</h5>
                   <p>The second video will be a choreographed routine to <b>Tiger Rag</b> performed by Tiger Band.</p>
                   <p>You can learn the choreography from the video below:</p>
-                  <p>COMING SOON!</p>
+                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Kc6zuWJzBtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
                   <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                   <div id="audioContainer">
                       <div class="auditionAudio">
