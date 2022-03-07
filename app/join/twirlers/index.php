@@ -84,7 +84,7 @@
                               <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
                               <li>All videos must be filmed outside.</li>
                               <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
-
+                            </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
                               <li>4 independent judges - all certified nationally</li>
