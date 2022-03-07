@@ -79,6 +79,12 @@
                           <p>All of the information about the audition requirements and submission process can be found below.</p>
                             <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
+                            <p>Your audition videos - explained in the next section - will all need to follow these requirements:</p>
+                            <ul>
+                              <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
+                              <li>All videos must be filmed outside.</li>
+                              <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
+
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
                               <li>4 independent judges - all certified nationally</li>
