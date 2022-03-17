@@ -75,8 +75,8 @@
           <article class="text fullWidth">
                           <h1 class="purpleText">2022 Feature Twirler Auditions</h1>
 
-                          <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season is 11:59pm on March 16.</p>
-                          <p>All of the information about the audition requirements and submission process can be found below.</p>
+                          <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season has passed.</p>
+                          <p>All of the information about the audition requirements and submission process for this season can be found below.</p>
                             <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
                             <p>Your audition videos - explained in the next section - will all need to follow these requirements:</p>
@@ -93,7 +93,7 @@
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                             <p><a href="/doc/2022FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
                             <br>
-                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdK3Wq8Y7Bvp3Yz6hw1i8sn6A9UiVlAvJSAitMjMBST_4DL7g/viewform?usp=sf_link" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <p><a href="http://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
                             <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
@@ -136,7 +136,7 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdK3Wq8Y7Bvp3Yz6hw1i8sn6A9UiVlAvJSAitMjMBST_4DL7g/viewform?usp=sf_link" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                          <p><a href="http://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
