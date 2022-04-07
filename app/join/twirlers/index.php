@@ -262,7 +262,7 @@
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
                   <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
                   <p>You can learn the choreography from the video below:</p>
-                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/i7S3tsW7rug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/K4UHYpeQQ24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                     <div id="audioContainer">
                         <div class="auditionAudio">
