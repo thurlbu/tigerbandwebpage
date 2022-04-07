@@ -60,8 +60,8 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 6. It will also be posted on this website at the same time.</p>
-                      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
+                      <p>2022 Dancer Auditions are closed.</p>
+
 
                   </div>
               </div>
@@ -77,7 +77,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. All results will be communicated via email by April 20.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link">CLICK HERE</a> to submit your final video. All results will be communicated via email by April 20.</p>
 
 
                   </div>
@@ -85,6 +85,7 @@
           </div>
           <article class="text fullWidth">
               <h1 class="purpleText">2022 Tiger Dancer Auditions</h1>
+          <p>Auditions for the 2022 season are now closed.</p>
           <p>The 2022 Tiger Dancer auditions will consist of 3 short video submissions.</p>
           <p>The first 2 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b> All results will be communicated via email by <b>April 20</b>.</p>
           <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 13.</b></p>
@@ -102,7 +103,7 @@
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
             <p><a href="/doc/2022ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
+
           <br>
 
 
@@ -162,21 +163,21 @@
                         </div>
                         <br>
                         <h1 class="purpleText">Video 3</h1>
-                        <h5 class="purpleText">Learned Choreography - Coming April 6</h5>
+                        <h5 class="purpleText">Short-Term Choreography</h5>
                         <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 6. The third video, <b>due April 13 at 11:59pm,</b> will be your performance of that choreography.</p>
                         <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                        <p>Your video should only include the front view. The rear view is for learning purposes only.</p>
+                        <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
                         <p>You can learn the choreography from the video below:</p>
-                        <p>COMING APRIL 6</p>
+                        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/i7S3tsW7rug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
                         <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                         <div id="audioContainer">
                             <div class="auditionAudio">
-                                <p>Coming April 6</p>
-                                <audio src="" controls></audio>
+                                <p>Let's Get Loud</p>
+                                <audio src="/audio/LetsGetLoud.mp3" controls></audio>
                             </div>
                               </div>
                               <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXtUrBgcuLvgUn5NC5xBc8SpftRXs8lJZD-6grEliNoKZe6Q/viewform?usp=sf_link" class="richLink cta">2022 Tiger Dancer Video Submission Form</a></p>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link" class="richLink cta">Final 2022 Tiger Dancer Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
                   </article>
 

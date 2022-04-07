@@ -167,11 +167,11 @@
                       <div class="textContainer">
                           <p>April</p>
                           <b>6</b>
-                          <p>Deadline for Tiger Twirler 1st round videos</p>
+                          <p>Deadline for Tiger Twirler 1st Round Videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>After first round submissions are submitted, all audition candidates will receive the choreography for the round 2 video electronically on April 6. It will also be posted on this website at the same time.</p>
+                      <p>2022 Tiger Twirler Auditions are closed.</p>
 
 
                   </div>
@@ -188,7 +188,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. All auditions results will be communicated via email by April 20.</p>
+                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link">CLICK HERE</a> to submit your final video. All results will be communicated via email by April 20.</p>
 
 
                   </div>
@@ -213,8 +213,6 @@
                 </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                 <p><a href="/doc/2022TTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
-                <br>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdop5_953WSlMs7Bkeq31YT8wQ4aI4Byqqn0hOtKypoe81lEw/viewform?usp=sf_link" class="richLink cta">2022 Tiger Twirler Audition Video Submission Form</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Individual Choreography</h5>
@@ -262,11 +260,19 @@
                   <h5 class="purpleText">Learned Choreography</h5>
                   <p>Every candidate who has submitted the first 3 videos by the deadline will be sent choreography to learn on April 6. The fourth video, <b>due April 13 by 11:59pm</b>, will be your performance of that choreography.</p>
                   <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                  <p>This choreography will also be posted here when the emails are sent to eligible audition candidates.</p>
-
+                  <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
+                  <p>You can learn the choreography from the video below:</p>
+                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/i7S3tsW7rug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
+                    <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+                    <div id="audioContainer">
+                        <div class="auditionAudio">
+                            <p>Girlfriend</p>
+                            <audio src="/audio/Girlfriend.mp3" controls></audio>
+                        </div>
+                          </div>
 
                         <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdop5_953WSlMs7Bkeq31YT8wQ4aI4Byqqn0hOtKypoe81lEw/viewform?usp=sf_link" class="richLink cta">2022 Tiger Twirler Audition Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link" class="richLink cta">Final 2022 Tiger Twirler Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
