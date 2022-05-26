@@ -60,10 +60,7 @@
     <div class="heading">
         <h4>Audition Information</h4>
     </div>
-        <br>
-        <center><h3><b><u>Tiger Band COVID-19 Response</u></b>
-        <br>
-        <a href="http://tband.people.clemson.edu/contact/">If you are having trouble meeting the audition requirements due to COVID-19 related restrictions, please contact the band office to see if we can help!</center></h3></a>
+        
     <div id="auditionBoxUI">
         <a href="/join/winds/" class="boxWrapper">
             <div id="inlineBox1" class="boxUIelement sq white">
