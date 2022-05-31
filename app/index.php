@@ -173,6 +173,16 @@
              </article>
          </a>
 
+         <article class="media">
+             <h1>Are You Ready?</h1>
+             <p>Tiger Band plays an integral role in the campus community. Help us continue our mission by becoming a member of Tiger Band in 2022!!</p>
+             <div class="iframeContainer">
+                 <div class="iFrameAspectRatio">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/X9eSUyyFyhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 </div>
+             </div>
+
+         </article>
 
 
         </div>
