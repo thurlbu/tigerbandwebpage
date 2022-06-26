@@ -60,7 +60,7 @@
     <div class="heading">
         <h4>Audition Information</h4>
     </div>
-        
+
     <div id="auditionBoxUI">
         <a href="/join/winds/" class="boxWrapper">
             <div id="inlineBox1" class="boxUIelement sq white">
@@ -120,10 +120,6 @@
                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7AiSHjqK21djzgOLz9HHRgyYtlxVJG-Gtz-iKRsUsrgc9vQ/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
             </article>
 
-
-        </div>
-
-        <div id="col1Flex">
             <a href="https://clemsontigerband.shopwindow.io/content/render/cms_landing_page/122e0ebb-5281-4cd6-919d-d9fc9e072904?presentation=web" class="boxWrapper" target="_blank">
                 <article class="text">
                     <h1>Sign Up Today</h1>
@@ -132,6 +128,21 @@
                     <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
                 </article>
             </a>
+
+
+        </div>
+
+        <div id="col1Flex">
+
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7eoFMvhoEbJuNaF0O3rwGgmovwbgmah3PJ13kczYBYrWRtQ/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+              <article class="text">
+                  <h1>Tiger Band Zoom</h1>
+                  <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg'>
+                  <p>Tiger Band will be hosting Zoom sessions on Wednesday, June 29 at 5:00pm and Saturday, July 9 at 1:00pm for interested students.</p>
+                  <p>You'll get a chance to meet the staff, learn more about Tiger Band and Clemson University, and ask any questions you may have about auditions or the organization. Join us! We'd love to meet you!!</p>
+                  <p>Click here to register and to receive the link to the meeting!</p>
+              </article>
+          </a>
 
 
                 <article class="text">
