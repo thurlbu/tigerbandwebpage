@@ -156,7 +156,7 @@
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
                 <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2022 Audition Schedule</a>
                 <br>
-                <a href="" class="richLink" target="_blank" title="Full Preseason Schedule">2022 Full Preseason Schedule</a>
+                <a href="https://drive.google.com/file/d/1qZdU2WJ_N1RiUVibZQJD4mz2yGW2UbfO/view" class="richLink" target="_blank" title="Full Preseason Schedule">2022 Full Preseason Schedule</a>
             </article>
         </div>
     </div>
