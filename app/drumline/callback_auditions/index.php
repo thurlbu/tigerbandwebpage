@@ -179,7 +179,7 @@
         </article>
         <article class="text fullWidth">
             <h1>Audition Material</h1>
-            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="/music/">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises are required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 2nd</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 2nd to download the show excerpt and prepare it for the call-back auditions.</p>
+            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises are required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 2nd</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 2nd to download the show excerpt and prepare it for the call-back auditions.</p>
             <p><u>Basses and Cymbals:</u><br/>When practicing split parts, Basses should choose one of the drums and Cymbals should choose one of the Cymbal parts described in the <a href="/doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank">Notation Legend</a>. During the ensemble audition, <strong>you may be moved around</strong>, so being adaptable and having a basic knowledge of the part as a whole would be to your advantage. The cymbal line plays a variety of techniques that are described in the <a href="https://docs.google.com/document/d/1NUsNK8ojJ9HUMhJF1uHkof-qPFbd4pgOF6Sh3er-tUM/edit" target="_blank">Cymbal Technique Manual</a> including crashes, chokes, slides, hi-hats, smashes, sizzles, scrapes, and taps. Cymbals may be asked to play forte crashes and upbeat hi-hats while marking time to demonstrate sound quality and timing/feel. New cymbal players should also refer to the article, <a href="/doc/PBuyer-2001-MotivatingtheCymbalLine.pdf" target="_blank"><i>Motivating the Marching Cymbal Line</i></a> and do your best. We will teach you these techniques in further detail when you arrive at camp.</p>
         </article>
         <article class="text fullWidth">
@@ -192,7 +192,7 @@
             <h1>Items Needed for Camp</h1>
             <p>The following items are required for auditions and camp:</p>
             <ul>
-                <li>3-ring binder with all <a href="/music/">music</a> for your section in plastic page protectors (for use during auditions, through camp, and into the early season)</li>
+                <li>3-ring binder with all <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">music</a> for your section in plastic page protectors (for use during auditions, through camp, and into the early season)</li>
                 <li>Practice page</li>
                 <li>Sticks</li>
                     <ul>

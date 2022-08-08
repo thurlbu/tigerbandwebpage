@@ -71,7 +71,7 @@
                 </div>
             </a>
 
-            <a href="music/">
+            <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">
                 <div class="boxWrapper">
                     <div id="homepageNav2" class="boxUIelement rect purp">
                         <div class="textContainer">
