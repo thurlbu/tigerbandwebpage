@@ -6,7 +6,7 @@
       "<a href=\"/drumline/about/\">About</a>",
       "<a href=\"/drumline/video_auditions/\">Video Auditions</a>",
       "<a href=\"/drumline/callback_auditions/\">Callback Auditions</a>",
-      "<a href=\"/drumline/music/\">Music</a>",
+      "<a href=\"https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit\">Music</a>",
       "<a href=\"/drumline/contact/\">Contact</a>");
 
     $activeNav->home = new stdClass();
@@ -26,7 +26,7 @@
     $activeNav->callback_auditions->order = 3;
 
     $activeNav->music = new stdClass();
-    $activeNav->music->value = "<a href=\"/drumline/music/\" class=\"active\">Music</a>";
+    $activeNav->music->value = "<a href=\"https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit\">Music</a>";
     $activeNav->music->order = 4;
 
     $activeNav->contact = new stdClass();
