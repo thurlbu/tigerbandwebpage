@@ -116,7 +116,7 @@
                 <img class="articleImg" src='/img/Horns.jpg'>
                 <p>All Clemson University enrolled band students, regardless of major, are eligible to receive band participation-based awards. The standard award is $500 per semester and requires participation in Tiger Band AND either Symphonic Band or Jazz Ensemble (“The Jungaleers”). All three groups are auditioned ensembles; Tiger Band auditions are by video during the summer, and Symphonic Band and Jazz Ensemble auditions occur during the first week of classes in the fall semester.</p>
                 <p>Incoming freshmen who have participated in the Senior All-State or Region Bands are encouraged to submit a video audition to be considered for more than the standard award. Please prepare two short excerpts demonstrating your lyrical and technical playing. These can be from any music of your choosing, such as an etude book, All-State audition piece, concerto, solo, etc. 4 minutes of total music is plenty.</p>
-                <p>Scholarship auditions for the 2022-2023 academic year are now open. All scholarship auditions must be submitted at the link below by <b>April 30</b> in order to receive full consideration.</p>
+                <p>Scholarship auditions for the 2023-2024 academic year are now open. All scholarship auditions must be submitted at the link below by <b>April 30</b> in order to receive full consideration.</p>
                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSepovI1j1bEF5TnyaMGF0riolNLhzHEz9xi5qnJJoQFLbRQvw/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
             </article>
 

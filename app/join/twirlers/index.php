@@ -59,12 +59,12 @@
                       <div class="textContainer">
 
                           <p>March</p>
-                          <b>16</b>
-                          <p>Deadline for 2022 Feature Twirler Auditions</p>
+                          <b>15</b>
+                          <p>Deadline for 2023 Feature Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Deadline for 2022 Feature Twirler audition video submissions.</p>
+                      <p>2023 Feature Twirler audition videos must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link">audition form.</a></p>
 
                   </div>
 
@@ -73,16 +73,18 @@
           </div>
 
           <article class="text fullWidth">
-                          <h1 class="purpleText">2022 Feature Twirler Auditions</h1>
+                          <h1 class="purpleText">2023 Feature Twirler Auditions</h1>
 
-                          <p>The deadline to submit audition videos to be considered for the Feature Twirler position for the 2022 season has passed.</p>
-                          <p>All of the information about the audition requirements and submission process for this season can be found below.</p>
-                            <p>If you have any questions concerning auditions for the Feature Twirler Position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
+                          <p>All auditions for Clemson University Feature Twirler will be via video submission.</p>
+
+                          <p>In order for us to judge all submissions fairly, the requirements from these submissions are specific and all of the details are outlined below.</p>
+
+                            <p>If you have any questions concerning auditions for the Feature Twirler position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
                             <p>Your audition videos - explained in the next section - will all need to follow these requirements:</p>
                             <ul>
-                              <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                              <li>All videos must be filmed outside.</li>
+                              <li>Each individual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
+                              <li>All twirling videos must be filmed outside. The interview video may be filmed anywhere.</li>
                               <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                             </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
@@ -91,9 +93,9 @@
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                            <p><a href="/doc/2022FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                            <p><a href="/doc/FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
                             <br>
-                            <p><a href="http://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
                             <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
@@ -136,7 +138,7 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          <p><a href="http://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2022 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
@@ -165,13 +167,13 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
-                          <p>April</p>
-                          <b>6</b>
-                          <p>Deadline for Tiger Twirler 1st Round Videos</p>
+                          <p>March</p>
+                          <b>22</b>
+                          <p>Deadline for Tiger Twirler 1st Round Videos.</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>2022 Tiger Twirler Auditions are closed.</p>
+                      <p>2023 Tiger Twirler Auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScN_Ysok84CZMaQjgm0ipfgesF6Yc2boETftqoGdRwfUKIsfQ/viewform?usp=sf_link">audition form.</a> First round results will be communicated on or before March 26.</p>
 
 
                   </div>
@@ -183,26 +185,26 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>13</b>
-                          <p>Deadline for Tiger Twirler 2nd round videos</p>
+                          <b>15</b>
+                          <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link">CLICK HERE</a> to submit your final video. All results will be communicated via email by April 20.</p>
+                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
 
 
                   </div>
               </div>
           </div>
           <article class="text fullWidth">
-              <h1 class="purpleText">2022 Tiger Twirler Auditions</h1>
-              <p>The 2022 Tiger Twirler auditions will consist of 4 short video submissions and a resume.</p>
-              <p>The first 3 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 13.</b></p>
-              <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
+              <h1 class="purpleText">2023 Tiger Twirler Auditions</h1>
+              <p>The 2023 Tiger Twirler auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 15.</p>
+              <p>The first 3 audition videos are due on <b>March 22.</b> The results of the first round will be communicated via email on or before <b>March 26.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY MARCH 22 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 15.</b></p>
+              <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                <li>All videos must be filmed outside.</li>
+                <li>All twirling videos must be filmed outside. Your interview video may be filmed anywhere.</li>
                 <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                 <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup. Hair can be up or down for the twirling videos.</li>
               </ul>
@@ -212,15 +214,17 @@
                   <li>Tiger Band Twirler Instructor</li>
                 </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/2022TTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/TTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+              <br>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScN_Ysok84CZMaQjgm0ipfgesF6Yc2boETftqoGdRwfUKIsfQ/viewform?usp=sf_link" class="richLink cta">2023 Tiger Twirler Video Submission Form</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Individual Choreography</h5>
-              <p>The first video will be an individually choreographed routine to <b>California Gurls</b> performed by Tiger Band in 2021. Please use the audio recording posted below.</p>
+              <p>The first video will be an individually choreographed routine to <b>Good 4 U</b> performed in the past by Tiger Band. Please use the audio recording posted below.</p>
               <div id="audioContainer">
                   <div class="auditionAudio">
-                      <p>California Gurls</p>
-                      <audio src="/audio/CaliforniaGurls.mp3" controls></audio>
+                      <p>Good 4 U</p>
+                      <audio src="/audio/Good4U.mp3" controls></audio>
                   </div>
                     </div>
               <p>You may show us anything in this routine, but please include the following <b>required tricks</b> in your performance:</p>
@@ -238,12 +242,10 @@
               <ul>
                 <li>Right Split</li>
                 <li>Left Split</li>
-                <li>Toss Illusion (3 times)</li>
-                <li>3-turn (3 times)</li>
+                <li>Toss Illusion (3 times) <b>(May be substituted with double illusion or toss spin illusion)</b></li>
+                <li>3-turn (3 times) <b>(May be substituted with a larger number of turns)</b></li>
                 <li>3-Baton: 5 juggles with loops into 4 vertical boxes (3 times)</li>
-                <br>
-                <li><b>Optional Bonus Points:</b> Toss Walkover (3 times)</li>
-                <li><b>Optional Bonus Points:</b> Toss Cartwheel (3 times)</li>
+                <li>Toss Walkover (3 times) <b>(May be substituted with a toss cartwheel)</b></li>
               </ul>
               <br>
               <h1 class="purpleText">Video 3</h1>
@@ -255,24 +257,26 @@
                 <li>Why did you choose Clemson University?</li>
                 <li>Why do you want to be a Tiger Twirler?</li>
               </ul>
-                  <br>
-                  <h1 class="purpleText">Video 4</h1>
-                  <h5 class="purpleText">Learned Choreography</h5>
-                  <p>Every candidate who has submitted the first 3 videos by the deadline will be sent choreography to learn on April 6. The fourth video, <b>due April 13 by 11:59pm</b>, will be your performance of that choreography.</p>
-                  <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                  <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
-                  <p>You can learn the choreography from the video below:</p>
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/K4UHYpeQQ24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
-                    <div id="audioContainer">
-                        <div class="auditionAudio">
-                            <p>Girlfriend</p>
-                            <audio src="/audio/Girlfriend.mp3" controls></audio>
-                        </div>
-                          </div>
+
+              <br>
+              <br>
+              <h1 class="purpleText">2nd Round Live Callback Audition</h1>
+              <h5 class="purpleText">April 15 - Brooks Center for the Perfoming Arts</h5>
+              <p>Results of the first round of video auditions will be communicated via email on or before March 26.</p>
+              <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 15 and can plan to be finished by 3:00pm at the latest.</p>
+              <p>Students will receive more specific details on March 26, but the 2nd round live audition will consist of:<p>
+              <ul>
+                <li>A group warm-up session</li>
+                <li>A choreography learning session</li>
+                <li>A group performance of the learned choreography</li>
+                <li>An individual performance of learned choreography</b></li>
+                <li>A performance of individual tricks</li>
+              </ul>
+
+            <p>All final audition results will be communicated via email on or before April 19.</p>
 
                         <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link" class="richLink cta">Final 2022 Tiger Twirler Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScN_Ysok84CZMaQjgm0ipfgesF6Yc2boETftqoGdRwfUKIsfQ/viewform?usp=sf_link" class="richLink cta">2023 Tiger Twirler Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please contact reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
@@ -319,9 +323,8 @@
 
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
-                <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $100 for returners and $600 for new members.</p>
+                <p>The average cost for a member to acquire all of the supplies, warm-up, uniform, etc. is approximately $600.</p>
                 <p>Twirlers will be able to keep everything they've purchased (including their uniform) at the conclusion of the season.</p>
-                <p>The first deposit is due June 1st and the balance will be due July 15th.</p>
             </article>
         </div>
     </div>
