@@ -273,7 +273,7 @@
                 <li>A performance of individual tricks</li>
               </ul>
 
-            <p>All final audition results will be communicated via email on or before April 19.</p>
+            <p>All final audition results will be posted by the end of the day.</p>
 
                         <br>
               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScN_Ysok84CZMaQjgm0ipfgesF6Yc2boETftqoGdRwfUKIsfQ/viewform?usp=sf_link" class="richLink cta">2023 Tiger Twirler Video Submission Form</a></p>

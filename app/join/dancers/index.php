@@ -47,49 +47,32 @@
         <h3>Audition for</h3>
         <h4>Tiger Dancers</h4>
     </div>
-
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
           <div class="deadlines">
               <div class="month">
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
-                          <p>April</p>
-                          <b>6</b>
-                          <p>Videos of first 2 routines due</p>
+                          <p>March</p>
+                          <b>22</b>
+                          <p>Deadline for Tiger Dancer 1st Round Videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2022 Dancer Auditions are closed.</p>
+                      <p>2023 First Round Videos are due. Please submit all videos via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link">SUBMISSION FORM.</a></p>
 
 
                   </div>
               </div>
           </div>
 
-          <div class="deadlines">
-              <div class="month">
-                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
-                      <div class="textContainer">
-                          <p>April</p>
-                          <b>13</b>
-                          <p>Deadline for video of final routine</p>
-                      </div>
-                  </div>
-                  <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on April 6. <a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link">CLICK HERE</a> to submit your final video. All results will be communicated via email by April 20.</p>
 
-
-                  </div>
-              </div>
-          </div>
           <article class="text fullWidth">
-              <h1 class="purpleText">2022 Tiger Dancer Auditions</h1>
-          <p>Auditions for the 2022 season are now closed.</p>
-          <p>The 2022 Tiger Dancer auditions will consist of 3 short video submissions.</p>
-          <p>The first 2 audition videos are due on <b>April 6.</b> The last will be due on <b>April 13.</b> All results will be communicated via email by <b>April 20</b>.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY APRIL 6 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON APRIL 13.</b></p>
-          <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
+              <h1 class="purpleText">2023 Tiger Dancer Auditions</h1>
+          <p>The 2023 Tiger Dancer auditions will consist of 2 rounds. THe first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 16.</p>
+          <p>The first 2 audition videos are due on <b>March 22.</b> All results will be communicated via email by <b>March 27</b>.</p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 22 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 16.</b></p>
+          <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements:</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
             <li>All videos must be new footage</li>
@@ -101,11 +84,26 @@
               <li>Tiger Band Dancer Instructor</li>
             </ul>
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-            <p><a href="/doc/2022ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+            <p><a href="/doc/2023ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
+          <h1 class="purpleText">2nd Round Live Callback Audition</h1>
+          <h5 class="purpleText">April 16 - Brooks Center for the Perfoming Arts</h5>
+          <p>Results of the first round of video auditions will be communicated via email on or before March 27.</p>
+          <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 16 and can plan to be finished by 3:00pm at the latest.</p>
+          <p>Students will receive more specific details on March 27, but the invitees should be ready for:<p>
+          <ul>
+            <li>A group warm-up session</li>
+            <li>A choreography learning session</li>
+            <li>A group performance of the learned choreography</li>
+            <li>An individual performance of learned choreography</b></li>
+            <li>A performance of individual tricks</li>
+          </ul>
 
+        <p>All final audition results will be posted by the end of the day.</p>
+
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
 
               </article>
           <!--- PHOTO SLIDER --->
@@ -127,15 +125,33 @@
 
         </div>
 
-        <div id="col2Flex">
+
 
           <!--- DEADLINE CALENDAR UI --->
+              <div id="col2Flex">
+          <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                      <div class="textContainer">
+                          <p>April</p>
+                          <b>16</b>
+                          <p>2nd Round Live Auditions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info2">
+                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
+                  </div>
+              </div>
+          </div>
+
+
           <article class="text fullWidth">
             <h1 class="purpleText">Video 1</h1>
             <h5 class="purpleText">Choreography - Industry Baby</h5>
             <p>The first video will be a choreographed routine to <b>Industry Baby</b> performed by Tiger Band.</p>
+            <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/h8Gd4exlNao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ExghfOrGgQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
@@ -144,15 +160,16 @@
 
                 </div>
                   </div>
-
+<br>
                   <br>
-
+<br>
                   <br>
                   <h1 class="purpleText">Video 2</h1>
                   <h5 class="purpleText">Choreography - Tiger Rag</h5>
                   <p>The second video will be a choreographed routine to <b>Tiger Rag</b> performed by Tiger Band.</p>
+                  <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
                   <p>You can learn the choreography from the video below:</p>
-                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Kc6zuWJzBtQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/mQ43WySYEBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
                   <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                   <div id="audioContainer">
                       <div class="auditionAudio">
@@ -161,23 +178,9 @@
 
                       </div>
                         </div>
-                        <br>
-                        <h1 class="purpleText">Video 3</h1>
-                        <h5 class="purpleText">Short-Term Choreography</h5>
-                        <p>Every candidate who has submitted the first 2 videos will be sent choreography to learn on April 6. The third video, <b>due April 13 at 11:59pm,</b> will be your performance of that choreography.</p>
-                        <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-                        <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
-                        <p>You can learn the choreography from the video below:</p>
-                        <p><iframe width="560" height="315" src="https://www.youtube.com/embed/i7S3tsW7rug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
-                        <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
-                        <div id="audioContainer">
-                            <div class="auditionAudio">
-                                <p>Let's Get Loud</p>
-                                <audio src="/audio/LetsGetLoud.mp3" controls></audio>
-                            </div>
-                              </div>
+
                               <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd7YvEkSn61AT3Or3fjQBBKUXfvsCDTm5nxcPZ3I_eDTPVWBw/viewform?usp=sf_link" class="richLink cta">Final 2022 Tiger Dancer Video Submission Form</a></p>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
                   </article>
 
