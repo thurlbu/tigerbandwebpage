@@ -232,7 +232,7 @@
                 <h1>Financial Responsibility</h1>
                 <p>The average cost for a new member to acquire all of the supplies, warm-up, uniform, etc. is approximately $200 for returners and $450 for new members.</p>
                 <p>Dancers will be able to keep everything they've purchased (including their uniform) at the conclusion of the season.</p>
-                <p>The first deposit is due June 1st and the balance will be due July 15th.</p>
+                
             </article>
         </div>
     </div>
