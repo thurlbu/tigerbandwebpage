@@ -261,7 +261,7 @@
               <br>
               <br>
               <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-              <h5 class="purpleText">April 15 - Brooks Center for the Perfoming Arts</h5>
+              <h5 class="purpleText">April 15 - Brooks Center for the Performing Arts</h5>
               <p>Results of the first round of video auditions will be communicated via email on or before March 26.</p>
               <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 15 and can plan to be finished by 3:00pm at the latest.</p>
               <p>Students will receive more specific details on March 26, but the 2nd round live audition will consist of:<p>

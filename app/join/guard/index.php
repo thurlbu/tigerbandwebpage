@@ -54,30 +54,35 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
-                          <p>July</p>
-                          <b>9</b>
+                          <p>April</p>
+                          <b>10</b>
                           <p>Deadline for Tiger Guard 1st round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>After first round videos are submitted, all audition candidates will receive the choreography for the round 2 video electronically on July 9. It will also be posted on this website at the same time.</p>
+                      <p>2023 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link">audition form</a>. First round results will be communicated on or before April 14th.</p>
 
 
                   </div>
               </div>
           </div>
+
+
             <article class="text fullWidth">
-                <h1 class="purpleText">2022 Tiger Guard Auditions</h1>
-                <p>All auditions for the Clemson University Tiger Guard will be completed via online video submission.</p>
-                <p>This year's audition will consist of 4 separate short videos. Each of the videos must be <b>unedited and shot in one-continuous take.</b> Individual videos that have splices will not be considered.</p>
-                <p>The first 3 videos - for all returners and new members - must be submitted by <b>July 9</b>.</p>
-                <p>The fourth video - for all returners and new members - must be submitted by <b>July 16</b>. Both deadlines must be met in order to receive full consideration.</p>
-                <p>The content of these videos is explained below in detail.</p>
-                <p>After you create your videos, please upload them to google drive or another file sharing service. When you're ready to submit, simply fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link">on-line application</a>.</p>
-                <p>Choreography for the 4th video will be emailed to everyone on July 9 who submitted their first 3 videos. Final results will be communicated by July 23.</p>
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a>
-                <p>If you have any questions about auditions or anything else, please contact the <a href="mailto:aoswald@clemson.edu">band office.</a></p>
+                <h1 class="purpleText">2023 Tiger Guard Auditions</h1>
+                <p>The 2023 Tiger Guard auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 22nd.</p>
+                <p>The first 3 audition videos are due on <b>April 10th</b>. The results of the first round will be communicated via email on or before <b>April 14th</b>.
+                <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 10th IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 22nd.</b>
+                  <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
+                  <ul>
+                    <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
+                    <li>All videos must be filmed outside.</li>
+                    <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
+                  </ul>
+                <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
             </article>
+
+
 
             <!--- DEADLINE CALENDAR UI --->
 
@@ -93,18 +98,19 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
-                          <p>July</p>
-                          <b>16</b>
-                          <p>Deadline for Tiger Guard 2nd round videos</p>
+                          <p>April</p>
+                          <b>22</b>
+                          <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>Deadline to submit a video of your performance of the round 2 choreography sent to you on July 9.</p>
+                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
 
 
                   </div>
               </div>
           </div>
+
 
 
 
@@ -138,32 +144,23 @@
 
           <article class="text fullWidth">
               <h1>Audition Videos</h1>
-              <p>The 2022 Tiger Guard auditions will consist of 4 short video submissions:</p>
+              <p>The 2023 Tiger Guard auditions will consist of 3 short video submissions:</p>
               <ul>
-              <li>Video 1 will cover choreography that you have lots of time to learn and perfect.</li>
+              <li>Video 1 will cover choreography that you have time to learn and perfect.</li>
               <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
               <li>Video 3 will be a short interview style video for us to get to know you.</li>
-              <li>Video 4 will cover different choreography that you will have a limited time (1 week) to learn.</li>
             </ul>
               <p>Each of these videos will be described in detail below.</p>
-              <p>After you have completed the videos, you must submit them via this application form:</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
-              <p>The first 3 audition videos are due on <b>July 9.</b> The last will be due on <b>July 16.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY JULY 9 IN ORDER TO BE ELIGIBLE TO SUBMIT THE LAST VIDEO ON JULY 16.</b></p>
-              <p>Your 4 audition videos - explained in the next section - will all need to follow these requirements:</p>
-              <ul>
-                <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                <li>All videos must be filmed outside.</li>
-                <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
-              </ul>
-              <br>
+              <p>After you create your videos, please upload them to google drive or another file sharing service. You must submit them via this application form:</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
               <p>All submissions will be evaluated by a panel of:</p>
               <ul>
                 <li>4 independent expert colorguard instructors</li>
                 <li>Tiger Band Colorguard Instructor</li>
               </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/CGScoreSheet22.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/CGScoreSheet23.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Choreography</h5>
@@ -219,22 +216,30 @@
   <li>Why did you choose Clemson University?</li>
   <li>Why do you want to be a member of the Tiger Guard?</li>
 </ul>
-    <br>
-    <h1 class="purpleText">Video 4</h1>
-    <h5 class="purpleText">Learned Choreography</h5>
-    <p>Every candidate who has submitted the first 3 videos will be sent choreography to learn on July 9. The fourth video, <b>due July 16,</b> will be your performance of that choreography.</p>
-    <p>The purpose of this part of the audition process is to gauge how well you can learn new choreography quickly. There will be occasions when Tiger Band has limited time to learn new material due to the NCAA football schedule.</p>
-    <p>The choreography that must be submitted before 11:59pm on July 16, will be sent to all potential members who submit the first 3 videos on time and will also be posted here on July 9.</p>
-  <br>
-              <p>Please direct all questions concerning auditions for the Tiger Guard to <a href="mailto:aoswald@clemson.edu?subject=Tiger_Guard_Audition_Question">the band office</a>.</p>
-          </article>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
         </div>
 
         <div id="col2Flex">
+
           <article class="text fullWidth">
-              <h1>General Information</h1>
-              <p>The Tiger Guard is full members of the Clemson University Tiger Band and perform whenever and wherever the full band performs. As a member, you will perform live for over 750,000 each year and be seen by over 25 million more during nationally televised events.</p>
+
+              <h3 class="purpleText">2nd Round Live Callback Audition</h1>
+              <h5 class="purpleText">April 22nd - Brooks Center for the Performing Arts</h5>
+              <p>Results of the first round of video auditions will be communicated via email on or before April 14th.</p>
+              <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 22nd and can plan to be finished by 3:00pm at the latest.</p>
+              <p>Students will receive more specific details on April 14th, but the 2nd round live audition will consist of:</p>
+              <ul>
+                <li>A group warm-up session</li>
+                <li>A choreography learning session</li>
+                <li>A group performance of the learned choreography</li>
+                <li>An individual performance of learned choreography</b></li>
+              </ul>
+
+            <p>All final audition results will be posted by the end of the day.</p>
           </article>
+
+
+
 
           <article class="text fullWidth">
               <h1>Eligibility Requirements</h1>
