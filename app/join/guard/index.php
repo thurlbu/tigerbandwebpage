@@ -166,10 +166,11 @@
               <h5 class="purpleText">Choreography</h5>
               <p>The first video will consist of your performance of the Tiger Guard choreography to the Clemson University Fight Song: Tiger Rag.</p>
               <p>Please refer to following video to learn the choreography for this song.</p>
+              <p>The front and back view of the choreography is for learning purposes only. Your video should only include a front view.</p>
               <p>You can download the audio tracks below.</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                      <iframe width="560" height="315" src="https://www.youtube.com/embed/68Za-OESpd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/qsIXNXVuqd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                   </div>
               </div>
               <br>
@@ -182,30 +183,28 @@
 <br>
 <h1 class="purpleText">Video 2</h1>
 <h5 class="purpleText">Basic Skills</h5>
-<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video:</p>
+<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video. All of these skills are demonstrated in the video below. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a>.</p>
 <ul>
   <li>8 to 12 steps of a <b>Jazz Run</b></li>
-  <li>at least <b>2 Chasse and 2 Saute maneuvers</b> in combination</li>
-  <li>1 time through the <b>Across the Floor Sequence</b> demonstrated below</li>
+  <li>1 time through the <b>Across the Floor Sequence</b></li>
   <li>16 counts of <b>Drop Spins</b></li>
   <li>16 counts of <b>Cones</b></li>
-  <li>24 count <b>Windmills & Around the World</b> demonstrated below</li>
+  <li>24 count <b>Windmills & Around the World</b></li>
   <li>2 <b>Tosses-From-The-Flag</b></li>
   <li>2 <b>Cone-Tosses</b></li>
   <li>4 <b>45-Tosses</b></li>
-  <li>4 <b>Body Wrap 45-Tosses</b></li>
+  <li>2 <b>Body Wrap 45-Tosses</b></li>
 
 </ul>
 <p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED. If you would like to include the rifle portion, it should include:</p>
 <ul>
   <li>16 counts of right hand spins with a single out</li>
-  <li>26 counts of left hand spins with a single out</li>
+  <li>16 counts of left hand spins with a single out</li>
   <li>2 double tosses</li>
   <li>2 triple tosses</li>
   <li>2 quad tosses</li>
 </ul>
-<p>Each of these skills is demonstrated in the video below along with some tips of what our judges are looking for.</p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/050qADBqpqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/VLN8-8WDsQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <br>
 <h1 class="purpleText">Video 3</h1>
 <h5 class="purpleText">Interview</h5>
