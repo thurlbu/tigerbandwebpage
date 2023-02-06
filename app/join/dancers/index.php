@@ -181,7 +181,7 @@
 
                               <br>
                     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
-                    <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
+                    <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:MarillaRiggs@gmail.com">MarillaRiggs@gmail.com</a></p>
                   </article>
 
 
