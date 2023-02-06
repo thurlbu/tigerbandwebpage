@@ -49,7 +49,7 @@
 <body>
     <div class="heading">
         <h3>Call Back Auditions for</h3>
-        <h4>2022 Clemson University Drumline</h4>
+        <h4>2023 Clemson University Drumline</h4>
     </div>
 
     <!--- DEADLINES UI --->
@@ -59,14 +59,14 @@
             <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                 <div class="textContainer">
                     <p>March</p>
-                    <b>6</b>
+                    <b>5</b>
                     <p>Music Available</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>7</b>
+                    <b>6</b>
                     <p>Pre-Audition Workshop</p>
                 </div>
             </div>
@@ -85,7 +85,7 @@
             <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                 <div class="textContainer">
                     <p>June</p>
-                    <b>25</b>
+                    <b>24</b>
                     <p>Video Audition Deadline</p>
 
                 </div>
@@ -93,7 +93,7 @@
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
                 <div class="textContainer">
                     <p>July</p>
-                    <b>2</b>
+                    <b>1</b>
                     <p>Audition Results</p>
                 </div>
             </div>
@@ -104,21 +104,21 @@
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced</p>
                   <br>
-                <p>Those selected must report to CALL BACK auditions on Monday, August 15</p>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 14</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>15</b>
+                    <b>14</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>16</b>
+                    <b>15</b>
                     <p>Pre-season Camp</p>
                 </div>
             </div>
@@ -138,10 +138,10 @@
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2022 Drumline Auditions</h1>
+                <h1 class="purpleText">2023 Drumline Auditions</h1>
                 <p>Prospective CUD Members:</p>
-                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 25.</p>
-                <p>Auditionees will be notified about video audition results by July 2. Students who earn a call-back audition invitation will move to Clemson on August 15 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
+                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 24.</p>
+                <p>Auditionees will be notified about video audition results by July 1. Students who earn a call-back audition invitation will move to Clemson on August 14 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
                 <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">
@@ -154,9 +154,9 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing" class="richLink" target="_blank" title="Fall Audition Schedule">2022 Audition Schedule</a>
+                <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Fall Audition Schedule">2023 Audition Schedule Coming Soon!</a>
                 <br>
-                <a href="https://drive.google.com/file/d/1qZdU2WJ_N1RiUVibZQJD4mz2yGW2UbfO/view" class="richLink" target="_blank" title="Full Preseason Schedule">2022 Full Preseason Schedule</a>
+                <a href="http://tband.people.clemson.edu/drumline/callback_auditions/" class="richLink" target="_blank" title="Full Preseason Schedule">2023 Full Preseason Schedule Coming Soon</a>
             </article>
         </div>
     </div>
@@ -179,7 +179,7 @@
         </article>
         <article class="text fullWidth">
             <h1>Audition Material</h1>
-            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises are required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 2nd</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 2nd to download the show excerpt and prepare it for the call-back auditions.</p>
+            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises are required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 1st</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 1st to download the show excerpt and prepare it for the call-back auditions.</p>
             <p><u>Basses and Cymbals:</u><br/>When practicing split parts, Basses should choose one of the drums and Cymbals should choose one of the Cymbal parts described in the <a href="/doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank">Notation Legend</a>. During the ensemble audition, <strong>you may be moved around</strong>, so being adaptable and having a basic knowledge of the part as a whole would be to your advantage. The cymbal line plays a variety of techniques that are described in the <a href="https://docs.google.com/document/d/1NUsNK8ojJ9HUMhJF1uHkof-qPFbd4pgOF6Sh3er-tUM/edit" target="_blank">Cymbal Technique Manual</a> including crashes, chokes, slides, hi-hats, smashes, sizzles, scrapes, and taps. Cymbals may be asked to play forte crashes and upbeat hi-hats while marking time to demonstrate sound quality and timing/feel. New cymbal players should also refer to the article, <a href="/doc/PBuyer-2001-MotivatingtheCymbalLine.pdf" target="_blank"><i>Motivating the Marching Cymbal Line</i></a> and do your best. We will teach you these techniques in further detail when you arrive at camp.</p>
         </article>
         <article class="text fullWidth">

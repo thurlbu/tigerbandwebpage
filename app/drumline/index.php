@@ -104,7 +104,7 @@
     <div id="Col2FlexContent" class="homepage">
         <div id="col1Flex">
             <article class="media">
-                <h1 class="orangeText">2022 Video Audition Requirements</h1>
+                <h1 class="orangeText">2023 Video Audition Requirements</h1>
                 <p><a href="video_auditions/">Click here</a> to review audition video requirements.</p>
                 <p>If you have any questions about the video audition process you can send an email to <a
                         href="mailto:ClemsonDrumline@gmail.com">ClemsonDrumline@gmail.com</a></p>
@@ -131,12 +131,12 @@
         <div id="col2Flex">
 
           <article class="text">
-              <h1 class="orangeText">2022 Clemson University Drumline PAW</h1>
+              <h1 class="orangeText">2023 Clemson University Drumline PAW</h1>
               <img class="articleImg" src='img/2019Drumline.jpg'>
-              <p>Looking for a little extra help with your 2022 Drumline Audition?</p>
-              <p>Join our 2022 Section Leaders and instructional staff on Saturday, May 7 for a free workshop to help sharpen your skills and answer any questions you may have about the Clemson University Drumline or our audition process.</p>
+              <p>Looking for a little extra help with your 2023 Drumline Audition?</p>
+              <p>Join our 2023 Section Leaders and instructional staff on Saturday, May 6 for a free workshop to help sharpen your skills and answer any questions you may have about the Clemson University Drumline or our audition process.</p>
               <p>You'll meet our staff, receive personal feedback, and learn the music for the video audition - just grab your practice pad and <a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">register for free online</a>!</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">REGISTER TODAY</a> for the 2022 <b>P</b>re-<b>A</b>udition <b>W</b>orkshop!</p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSde61C389qTfQCChtwPz4pcHvOSLQyfJKcaFsnshiJtRLXIWA/viewform?usp=sf_link">REGISTER TODAY</a> for the 2023 <b>P</b>re-<b>A</b>udition <b>W</b>orkshop!</p>
           </article>
 
 
