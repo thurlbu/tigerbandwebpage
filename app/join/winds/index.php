@@ -52,10 +52,10 @@
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2022 Tiger Band Brass and Woodwind Auditions</h1>
-                <p>All auditions for wind players for the 2022 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
-                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
-                <p>The first round of drumline auditions will be via video submission due on June 25. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
+                <h1 class="purpleText">2023 Tiger Band Brass and Woodwind Auditions</h1>
+                <p>All auditions for wind players for the 2023 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
+                <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                <p>The first round of drumline auditions will be via video submission due on June 24. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
             </article>
         </div>
 
@@ -68,34 +68,34 @@
                     <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>9</b>
+                            <b>8</b>
                             <p>Returners</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>16</b>
+                            <b>15</b>
                             <p>New Members</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>July</p>
-                            <b>23</b>
+                            <b>22</b>
                             <p>Results</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
                         <p>Returners Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info2">
                         <p>First Year Members Video Audition Submission Deadline</p>
-                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
+                        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Results will be emailed to everyone by July 23</p>
+                        <p>Results will be emailed to everyone by July 22</p>
                     </div>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                     <li>A short introduction of yourself</li>
                     <li>Tiger Rag (one time through, stop at the end of the first ending)</li>
                     <li>Alma Mater (one time through)</li>
-                    <li>2022 Audition Excerpt</li>
+                    <li>2023 Audition Excerpt</li>
                 </ul>
               <h1>Requirements</h1>
                 <p>All 3 portions of the video must be done in <b><u>one,</u> <u>continuous,</u> <u>un-edited</u></b> take. (Do not turn the camera off between songs)</p>
@@ -132,8 +132,8 @@
                   <li>Baritones may audition on Euphonium or a Concert Baritone</li>
                   <li>Sousaphones may audition on Tuba</li>
                 </ul>
-                <p>Sheet music for Tiger Rag, The Alma Mater, and the 2022 Audition Excerpt can be viewed and downloaded below.</p>
-                <p><b>Returning members must submit a new video for the 2022 season.</b> Videos used in previous seasons will not be accepted.</p>
+                <p>Sheet music for Tiger Rag, The Alma Mater, and the 2023 Audition Excerpt can be viewed and downloaded below.</p>
+                <p><b>Returning members must submit a new video for the 2023 season.</b> Videos used in previous seasons will not be accepted.</p>
                 <p>Returners: Please use the posted part for your section for the audition regardless of what part you played in previous seasons of Tiger Band.</p>
                 <p>The Audition Excerpt is a portion of a selection that Tiger Band has played at halftime in the past. It is our hope that including a piece like this on the audition will give you an opportunity to better show us your musicianship and technical ability relative to a normal Tiger Band performance.</p>
               <h1>Reference Recordings</h1>
@@ -150,7 +150,7 @@
 
                 <p>All submissions will be evaluated by expert players and educators and the process will be overseen by the Tiger Band directors.</p>
                   <p>Returning members will earn 1 bonus point on their audition for every semester of participation in Tiger Band, other Clemson Bands, and private lessons with Clemson University Instructors.</p>
-                  <p><a href="/doc/2022WindsScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                  <p><a href="/doc/WindsScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
             </article>
 
@@ -162,8 +162,8 @@
               <p>Upload your video to YouTube as an “unlisted” video or to another file sharing service like Google Drive, Dropbox, or Box.</p>
               <p>Secure a download link for the file that you can share with us. Please check to make sure that the permissions will allow us to view it!</p>
               <p>Fill out the online application below:</p>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSc59Fu9N-K5xmDz6apyDUrmt0QwFqKxG30zktD1IBgZuU4IBA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
-              <p>Results will be communicated by July 23 via email.</p>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a>
+              <p>Results will be communicated by July 22 via email.</p>
           </article>
           <article class="text fullWidth">
               <h1>Tutorial</h1>
@@ -181,7 +181,7 @@
 
     <div id="music">
         <div class="heading">
-            <h4>Sheet Music for the 2022 Audition</h4>
+            <h4>Sheet Music for the 2023 Audition</h4>
         </div>
 
         <h4 class="purpleText expand" onclick="expand(this)">Tiger Rag</h4>
@@ -300,58 +300,58 @@
             </a>
         </div>
 
-        <h4 class="purpleText expand" onclick="expand(this)">2022 Audition Excerpt</h4>
+        <h4 class="purpleText expand" onclick="expand(this)">2023 Audition Excerpt</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
 
         <div class="fileUIcontainer">
-            <a href="/doc/2022AuditionExcerpts/Piccolo.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Piccolo.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Piccolo</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/Clarinet.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Clarinet.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Clarinet</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/AltoSax.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/AltoSax.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Alto Sax</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/TenorSax.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/TenorSax.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Tenor Sax</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/Trumpet.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Trumpet.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Trumpet</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/Mellophone.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Mellophone.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Mellophone</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/Trombone.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Trombone.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Trombone</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/BaritoneBC.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/BaritoneBC.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Baritone (BC)</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/BaritoneTC.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/BaritoneTC.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Baritone (TC)</span>
                 </div>
             </a>
-            <a href="/doc/2022AuditionExcerpts/Sousaphone.pdf" target="_blank">
+            <a href="/doc/2023AuditionExcerpts/Tuba.pdf" target="_blank">
                 <div class="fileUIfile">
                     <span>Sousaphone</span>
                 </div>
