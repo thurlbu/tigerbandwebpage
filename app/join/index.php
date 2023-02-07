@@ -138,21 +138,21 @@
               <article class="text">
                   <h1>Tiger Band Zoom</h1>
                   <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg'>
-                  <p>Tiger Band will be hosting Zoom sessions on Wednesday, June 29 at 5:00pm and Saturday, July 9 at 1:00pm for interested students.</p>
+                  <p>Tiger Band will be hosting Zoom sessions throughout the spring and summer for interested students.</p>
                   <p>You'll get a chance to meet the staff, learn more about Tiger Band and Clemson University, and ask any questions you may have about auditions or the organization. Join us! We'd love to meet you!!</p>
-                  <p>Click here to register and to receive the link to the meeting!</p>
+                  <p>Check back soon for dates and registration information!</p>
               </article>
           </a>
 
 
                 <article class="text">
-                    <h1>2022 Preseason Camp</h1>
+                    <h1>2023 Preseason Camp</h1>
                     <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                    <p>We're excited to welcome the 2022 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
+                    <p>We're excited to welcome the 2023 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
                     <p>Mark your calendars with our move-in dates:</p>
-                      <p><u>Drumline Callbacks</u>  <b>Monday, August 15</b></p>
-                      <p><u>Leadership Meetings</u> <b>Tuesday, August 16</b></p>
-                      <p><u>All Tiger Band Members</u> <b>Wednesday, August 17</b></p>
+                      <p><u>Drumline Callbacks</u>  <b>Monday, August 14</b></p>
+                      <p><u>Leadership Meetings</u> <b>Tuesday, August 15</b></p>
+                      <p><u>All Tiger Band Members</u> <b>Wednesday, August 16</b></p>
 
 
                 </article>
