@@ -209,11 +209,11 @@
                 <h6>3</h6>
             </div>
             <div class="processText">
-                <h8>Upload your video to YouTube</h8>
+                <h8>Upload your video to a file sharing service</h8>
                 <ul>
-                    <li>Upload your video to YouTube as “Unlisted”.</li>
-                    <li>Make any cuts and trim your video.</li>
-                    <li>Once it has processed, copy the link for submission.</li>
+                    <li>Upload your video to a file sharing service such as Google Drive, Dropbox, YouTube (as an unlisted video), etc.</li>
+                    <li>Adjust your link sharing settings to "anyone with the link can view."</li>
+                    <li>Copy the shared link for submission.</li>
                 </ul>
             </div>
         </div>
@@ -226,7 +226,7 @@
                 <h8>Submit your video link and information</h8>
                 <ul>
                     <li>Open the <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2yxNaI9Poqo1SrbdcsouUYpgONv68r-FbA9wlfDZfjrQreQ/viewform?c=0&w=1" target="_blank">CUD Video Audition Form</a>.</li>
-                    <li>Fill out the information and copy/paste your YouTube video link.</li>
+                    <li>Fill out the information and copy/paste the shared link to your video audition.</li>
                     <li>To submit a video audition for another section, re-fill out the form and add your additional link(s).</li>
                     <br>
                     <strong><em>***Please double-check that all your information is correct, including your email address, phone number, and your video link.***</em></strong>
