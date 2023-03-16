@@ -64,7 +64,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2023 Feature Twirler audition videos must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link">audition form.</a></p>
+                      <p>The deadline for 2023 Feature Twirler auditions has passed.</a></p>
 
                   </div>
 
@@ -75,6 +75,8 @@
           <article class="text fullWidth">
                           <h1 class="purpleText">2023 Feature Twirler Auditions</h1>
 
+                          <p>Feature Twirler auditions for the 2023 season are closed. The information below is a good example of what the future audition process may look like.</p>
+                          
                           <p>All auditions for Clemson University Feature Twirler will be via video submission.</p>
 
                           <p>In order for us to judge all submissions fairly, the requirements from these submissions are specific and all of the details are outlined below.</p>
@@ -95,7 +97,7 @@
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                             <p><a href="/doc/FTScoreSheet.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
                             <br>
-                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
                             <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
@@ -138,7 +140,7 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfMi520dwUooz9QJUH7kfJwizzWlZhqtc-CCcAb6ZU9ETuxPw/viewform?usp=sf_link" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                          <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2023 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
