@@ -112,13 +112,13 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mrs. Amber Thompson</h1>
-                <h2>Administrative Coordinator</h2>
+                <h1>Ms. Emily Church</h1>
+                <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Amber.png">
-                    <p>Mrs. Amber Thompson began working at Clemson in 2019 after 15 years of Active Military Service as a Human Resources NCO. Amber is still serving in the Army National Guard and is stationed at the 263d Army Air and Missile Defense Command in Anderson, SC. She has traveled to South Korea, Germany and all over the United States during the past 20 years of her career. Amber is a graduate of Limestone College and holds a Bachelor of Arts degree in Psychology.</p>
-                    <p>Mrs. Thompson began her Clemson career in the College of Education as an Administrative Assistant for the Department Chair of Teaching and Learning. She has always had a love of music and is very excited to be working with Clemson Bands. In high school Amber played clarinet, bass clarinet and was drum major of Batesburg-Leesville Panther Band.</p>
-                    <p>Amber and her husband Brandt enjoy traveling together and spending time with their cats and yorkies, Piper and Gadget.</p>
+                    <p>Emily Church is the Assistant Director of Bands, Assistant Director of Tiger Band, Assistant Director of Basketball Pep Band, and Conductor of the Concert Band. Originally from Hendersonville, TN, Ms. Church received her undergraduate degree in music education from the University of Alabama. There she was a member of the Million Dollar Band, pep bands, horn choir, flute choir, and concert bands. In 2021 she received the Chris Hainsey “Ultimate Team Player” award for her outstanding leadership during her time with the Million Dollar Band. Emily earned a Masters degree in wind conducting from the University of Kentucky where she worked as a Graduate Teaching Assistant in the bands department. She worked extensively with the Wildcat Marching Band, pep bands, and concert bands throughout her time at Kentucky and enjoyed performing with both the UK Wind Symphony and the UK Women's Choir.</p>
+                    <p>Before coming to Clemson, Ms. Church served as a middle school band director for Huntsville City Schools and as the Adjunct Horn Professor for Alabama A&M University. She is an active performer and freelance musician on French horn, tenor horn, and flute, and played principal horn for Twickenham Winds and Sacred Winds and tenor horn in the Brass Band of Huntsville.</p>
+                    <p>Ms. Church is an avid baker, knitter, and gardener, and loves spending time with family, friends, and her own personal Tiger, Charlie. She is also excited to marry her fiancė Caleb at the end of May and become Emily Hamlyn! </p>
                 </div>
             </article>
 
@@ -199,10 +199,10 @@
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Mr. Timothy Hurlburt</h1>
-                <h2>Assistant Director of Bands</h2>
+                <h2>Associate Director of Bands</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Hurlburt.png">
-                    <p>Mr. Tim Hurlburt is the Assistant Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, Director of Basketball Pep Band, and Conductor of Concert Band.</p>
+                    <p>Mr. Tim Hurlburt is the Associate Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, and Director of Basketball Pep Band.</p>
                     <p>Before arriving at Clemson, Mr. Hurlburt spent 3 years teaching music in Port Huron, Michigan. He still has a great interest in public school music education and continues to work as a clinician for both concert bands and marching bands at every level. Mr. Hurlburt has written several arrangements for athletic bands in both Michigan and Texas, and he continues to write arrangements and drill for high school and college marching bands.</p>
                     <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Music degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
                 </div>
