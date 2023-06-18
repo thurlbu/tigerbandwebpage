@@ -45,7 +45,7 @@
 <body>
     <div class="heading">
         <h3>This Season</h3>
-        <h4>2021</h4>
+        <h4>2023</h4>
     </div>
 
     <div id="Col2FlexContent">
@@ -73,7 +73,7 @@
             <!--- FOOTBALL SCHEDULE --->
 
             <article class="text schedule">
-                <h1>2021 Clemson Tiger Band Performance Schedule</h1>
+                <h1>2023 Clemson Tiger Band Performance Schedule</h1>
                 <table>
                     <tr>
                         <th>Date</th>
@@ -82,87 +82,87 @@
                         <th>Info/Location</th>
                     </tr>
                     <tr class="orange-row">
-                        <td>TBD</td>
+                        <td>April 9</td>
                         <td></td>
                         <td>Spring Game</td>
                         <td>Clemson, SC</td>
                     </tr>
                     <tr>
                         <td>Sept 4</td>
-                        <td></td>
-                        <td>University of Georgia Bulldogs</td>
-                        <td>Charlotte, NC</td>
+                        <td>@</td>
+                        <td>Duke University Blue Devils</td>
+                        <td>Durham, NC</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 10</td>
+                        <td>Sept 8</td>
                         <td></td>
                         <td>First Friday Parade</td>
                         <td>Clemson, SC</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Sept 11</td>
+                        <td>Sept 9</td>
                         <td>VS</td>
-                        <td>South Carolina State University Bulldogs</td>
-                        <td></td>
+                        <td>Charleston Southern University Buccaneers</td>
+                        <td>Football Reunion Day & Land Grant Day</td>
                     </tr>
 
                     <tr class="orange-row">
-                        <td>Sept 18</td>
+                        <td>Sept 16</td>
                         <td>VS</td>
-                        <td>Georgia Institute of Technology Yellowjackets</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Sept 25</td>
-                        <td>@</td>
-                        <td>North Carolina State University Wolfpack</td>
-                        <td></td>
+                        <td>Florida Atlantic University Owls</td>
+                        <td>Family Weekend</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Oct 2</td>
-                        <td>VS</td>
-                        <td>Boston College Eagles</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Oct 15</td>
-                        <td>@</td>
-                        <td>Syracuse University Orange</td>
-                        <td></td>
-                    </tr>
-                    <tr>
-                        <td>Oct 23</td>
-                        <td>@</td>
-                        <td>University of Pittsburgh Panthers</td>
-                        <td></td>
-                    </tr>
-
-                    <tr class="orange-row">
-                        <td>Oct 30</td>
+                        <td>Sept 23</td>
                         <td>VS</td>
                         <td>Florida State University Seminoles</td>
-                        <td></td>
+                        <td>Hall of Fame Day</td>
                     </tr>
                     <tr>
-                        <td>Nov 6</td>
+                        <td>Sept 30</td>
                         <td>@</td>
-                        <td>University of Louisville Cardinals</td>
-                        <td></td>
+                        <td>Syracuse University Orange</td>
+                        <td>Syracuse, NY</td>
                     </tr>
                     <tr class="orange-row">
-                        <td>Nov 13</td>
-                        <td>VS</td>
-                        <td>University of Connecticut Huskies</td>
-                        <td></td>
-                    </tr>
-                    <tr class="orange-row">
-                        <td>Nov 20</td>
+                        <td>Oct 7</td>
                         <td>VS</td>
                         <td>Wake Forest University Demon Deacons</td>
-                        <td></td>
+                        <td>Homecoming & Breast Cancer Awareness Game</td>
                     </tr>
                     <tr>
-                        <td>Nov 27</td>
+                        <td>Oct 21</td>
+                        <td>@</td>
+                        <td>University of Miami Hurricanes</td>
+                        <td>Miami Gardens, FL</td>
+                    </tr>
+
+                    <tr>
+                        <td>Oct 28</td>
+                        <td>@</td>
+                        <td>North Carolina State University Wolfpack</td>
+                        <td>Raleigh, NC</td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Nov 4</td>
+                        <td>VS</td>
+                        <td>Notre Dame Univeristy Fighting Irish</td>
+                        <td>IPTAY Day</td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Nov 11</td>
+                        <td>VS</td>
+                        <td>Georgia Polytechnic Institute Yellowjackets</td>
+                        <td>Military Appreciation Day</td>
+                    </tr>
+                    <tr class="orange-row">
+                        <td>Nov 18</td>
+                        <td>VS</td>
+                        <td>University of North Carolina Tar Heels</td>
+                        <td>Senior Day</td>
+                    </tr>
+                    <tr>
+                        <td>Nov 25</td>
                         <td>@</td>
                         <td>University of South Carolina Gamecocks</td>
                         <td>Palmetto Bowl</td>
@@ -176,32 +176,31 @@
 
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2021 Major Shows</h1>
-                <p>To be announced this summer...</p>
+                <h1>2023 Major Shows</h1>
+                <p>Guardians of the Galaxy Mixtape 3</p>
+                <p>TBA</p>
+                <p>TBA</p>
             </article>
             <article class="text officers">
-                <h1>2021 Officers</h1>
-                <p>Commander: <b>Victor Fleifel</b></p>
-                <p>Vice-Commander: <b>Jordan Pixley</b></p>
-                <p>Sergeant Major: <b>Sadie Bates</b></p>
-                <p>Drum Majors: <b> TBD</b></p>
+                <h1>2023 Officers</h1>
+                <p>Commander: <b>Cam Stovall</b></p>
+                <p>Vice-Commander: <b>JC Atieh</b></p>
+                <p>Sergeant Major: <b>Hannah Skinner</b></p>
+                <p>Drum Majors: <b>TBD</b></p>
                 <h1>Section Leaders: </h1>
-                <p>Piccolos: <b>Hannah Kadets & Megan Patterson</b></p>
-                <p>Clarinets: <b>Tyrell Fleshman & Natalie Henderson</b></p>
-                <p>Alto Saxes: <b>Charlie Brooks-Knepfle & Lauren Davis</b></p>
-                <p>Tenor Saxes: <b>Bailey Ward</b></p>
-                <p>Trumpets: <b>Drew Ivey, Sabrina Linke, & Andrew Marsh</b></p>
-                <p>Mellophone: <b>Sadie Bates & Stuart Saletan</b></p>
-                <p>Trombone: <b>Trevor Kimbrell & Jith Vishwanath</b></p>
-                <p>Baritone: <b>Marshall Murdaugh & Morgan Oliver</b></p>
-                <p>Sousaphone: <b>Will Betsill & Jakob McKinney</b></p>
-                <p>Drumline: <b>Briana Parcell & Alex Weyand</b></p>
-                <p>Color Guard: <b>Andra Cummings, Olivia Papotto, Gwyneth Terry, & Elizabeth Turner</b></p>
-                <p>Twirlers: <b>Amy Rees</b></p>
-                <p>Dancers: <b>Mikayla Bennett & Samantha Bernard</b></p>
-                <p>Head Band Manager: <b>Healey Lucier</b></p>
-                <p>Instrument Manager: <b>Hannah Miller</b></p>
-                <p>Uniform Manager: <b>Arianna Csiszer, Lakeira Nelson, & Cameron Stovall</b></p>
+                <p>Piccolos: <b>Abbey Arrington & Elise Calixte</b></p>
+                <p>Clarinets: <b>Hailey McPhail & Rylee Jackson</b></p>
+                <p>Saxophones: <b>Mikayla Dallas, Fritz Rowell, & Zeke Walsh</b></p>
+                <p>Trumpets: <b>Evan Dwinnell, Savannah Shealy, & Parker Welsh</b></p>
+                <p>Mellophone: <b>Laney Midgley & Eric Mitchell</b></p>
+                <p>Trombone: <b>Mark Cristino & James Suggs</b></p>
+                <p>Baritone: <b>Chase Snoots & Katie Susol</b></p>
+                <p>Sousaphone: <b>Eva McDowell & Marcus Murdoch</b></p>
+                <p>Drumline: <b>JT Hill & Luke Manolescu</b></p>
+                <p>Color Guard: <b>Eva Grace Kirkman & Jessica Sloyan</b></p>
+                <p>Twirlers: <b>Caitlin Parker & Cordray Negley</b></p>
+                <p>Dancers: <b>Allyson Good & Madison Lombardo</b></p>
+                <p>Operations Team Leader: <b>Katie McCarter</b></p>
             </article>
         </div>
     </div>
