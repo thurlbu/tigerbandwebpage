@@ -177,7 +177,7 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2023 Major Shows</h1>
-                <p>Guardians of the Galaxy Mixtape 3</p>
+                <p><b>Guardians of the Galaxy Mixtape 3</b></p>
                 <p>TBA</p>
                 <p>TBA</p>
             </article>
