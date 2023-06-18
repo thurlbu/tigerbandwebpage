@@ -109,12 +109,12 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Alicia Santarelli</h1>
-                <h2 class="purpleText">2022 Section Leader</h2>
+                <h1>JT Hill</h1>
+                <h2 class="purpleText">2023 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/Alicia.jpg" class="staffPortrait">
-                    <p>Alicia Santarelli, from Charleston, South Carolina, is a Clemson University Drumline (CUD) Section Leader for the 2022 Season. Alicia joined the marching band in 8th grade and played bass and snare and served as drum major her senior year. She also competed and participated in many local, regional, and state clinics throughout highschool. Alicia joined CUD in 2019 and has since played cymbals and bass for the group. She has also participated in Concert Band in the spring semesters. Some of her favorite memories from Tiger Band include CUD pregame traditions and traveling to New Orleans, Louisiana, her freshman year for the 2020 National Championship.</p>
-                    <p>Alicia is currently working towards a degree in Biological Sciences with a minor in Psychology. When she has free time, she enjoys taking care of her plants, playing with her rabbits, and watching movies with friends and family. Some of her favorite movies include Land of the Lost and Step Brothers featuring her favorite actor/comedian, Will Ferrell.</p>
+                    <img src="../img/staff/JTHill.jpg" class="staffPortrait">
+                    <p>J.T. Hill, from Tampa, Florida, is a Clemson University Drumline (CUD) section leader for the 2023 Tiger Band season. He joined the marching band in high school and played cymbals and quads. While at Clemson, J.T. has performed in Steel Band, Guitar Ensembles, and has been a member of CUD since he was a freshman. Some of his favorite memories from Tiger Band include the trip down to Miami for the Orange Bowl and College Football Gameday against NC State.</p>
+                    <p>He is currently a junior pursuing a degree in Construction Science and Management. In his free time, he enjoys playing spikeball, watching hockey, and hanging out with friends and family. Some of J.T.’s favorite movies include Star Wars and Step Brothers, featuring his favorite comedian, Will Ferrell.</p>
                 </div>
             </article>
         </div>
@@ -137,12 +137,12 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Alex Weyand</h1>
-                <h2 class="purpleText">2022 Section Leader</h2>
+                <h1>Luke Manolescu</h1>
+                <h2 class="purpleText">2023 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/Alex.jpg" class="staffPortrait">
-                    <p>Alex Weyand, from Vero Beach, Florida, is a Clemson University Drumline (CUD) section leader for the 2022 Tiger Band season. He joined marching band in high school and played cymbals and snare drum. While at Clemson, Alex has performed in Jazz Combos, Guitar Ensembles, and has been a member of CUD since he was a freshman. Some of his favorite memories from Tiger Band include running onto the field for his first pregame show and traveling to Arizona for the 2019 Fiesta Bowl.</p>
-                    <p>He is currenly a junior pursuing a degree in Audio Technology with a minor in Music. In his free time, he enjoys watching movies, recording music, and hanging out with friends and family. Some of Alex's favorite movies include Talladega Nights and Anchorman since they both star his favorite comedian/actor, Will Ferrell.</p>
+                    <img src="../img/staff/LukeM.jpg" class="staffPortrait">
+                    <p>Luke Manolescu, from West Grove, PA, is a Clemson University Drumline (CUD) section leader for the 2023 Tiger Band season. He joined marching band as well as indoor percussion in high school and has played both bass and snare drum. While at Clemson, Luke has been a member of CUD since he was a freshman and has enjoyed an historical run for Clemson Football. Some of his favorite memories from CUD and Tiger Band are traveling to Boston College, experiencing the 2022 ACC Championship, and performing the first ever Drumline 3rd Quarter show in front of the student section.</p>
+                    <p>He is currently a senior pursuing a degree in Civil Engineering with an emphasis in Structures. In his free time, he enjoys going to concerts, listening to records, and watching movies. Luke’s favorite band to listen to is the Red Hot Chili Peppers since their drummer is his favorite comedian/actor/musician, Will Ferrell.</p>
                 </div>
             </article>
         </div>
