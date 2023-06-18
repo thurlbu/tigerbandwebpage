@@ -73,7 +73,7 @@
             <!--- CONTACT ADDRESS --->
 
             <div id="contactAddress">
-                <img id="contactTBlogo" src="../img/logos/TigerBandFull.png">
+                <img id="contactTBlogo" src="../img/logos/TigerBandPurple.jpg">
                 <div id="contactInfo">
                     <h5>Address:</h5>
                         <p>119 Brooks Center for the Performing Arts</p>
