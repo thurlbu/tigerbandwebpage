@@ -54,13 +54,13 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
-                          <p>April</p>
-                          <b>10</b>
+                          <p>July</p>
+                          <b>15</b>
                           <p>Deadline for Tiger Guard 1st round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>2023 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link">audition form</a>. First round results will be communicated on or before April 14th.</p>
+                      <p>2023 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link">audition form</a>. Results will be communicated by July 22.</p>
 
 
                   </div>
@@ -70,9 +70,9 @@
 
             <article class="text fullWidth">
                 <h1 class="purpleText">2023 Tiger Guard Auditions</h1>
-                <p>The 2023 Tiger Guard auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 22nd.</p>
-                <p>The first 3 audition videos are due on <b>April 10th</b>. The results of the first round will be communicated via email on or before <b>April 14th</b>.
-                <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY APRIL 10th IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 22nd.</b>
+                <p>The 2023 Tiger Guard auditions will consist of 3 short video submissions.</p>
+                <p>The first 3 audition videos are due on <b>July 15th</b>. The results of the first round will be communicated via email on or before <b>July 22nd</b>.
+                
                   <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
                   <ul>
                     <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -94,22 +94,7 @@
 
 
 
-          <div class="deadlines">
-              <div class="month">
-                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
-                      <div class="textContainer">
-                          <p>April</p>
-                          <b>22</b>
-                          <p>2nd Round Live Auditions</p>
-                      </div>
-                  </div>
-                  <div class="deadlinesInfo" id="info2">
-                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
-
-
-                  </div>
-              </div>
-          </div>
+          
 
 
 
@@ -220,22 +205,7 @@
 
         <div id="col2Flex">
 
-          <article class="text fullWidth">
-
-              <h3 class="purpleText">2nd Round Live Callback Audition</h1>
-              <h5 class="purpleText">April 22nd - Brooks Center for the Performing Arts</h5>
-              <p>Results of the first round of video auditions will be communicated via email on or before April 14th.</p>
-              <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 22nd and can plan to be finished by 3:00pm at the latest.</p>
-              <p>Students will receive more specific details on April 14th, but the 2nd round live audition will consist of:</p>
-              <ul>
-                <li>A group warm-up session</li>
-                <li>A choreography learning session</li>
-                <li>A group performance of the learned choreography</li>
-                <li>An individual performance of learned choreography</b></li>
-              </ul>
-
-            <p>All final audition results will be posted by the end of the day.</p>
-          </article>
+          
 
 
 
