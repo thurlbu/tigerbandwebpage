@@ -112,13 +112,13 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Emily Church</h1>
+                <h1>Ms. Emily Hamlyn</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Emily.jpg">
-                    <p>Emily Church is the Assistant Director of Bands, Assistant Director of Tiger Band, Assistant Director of Basketball Pep Band, and Conductor of the Concert Band. Originally from Hendersonville, TN, Ms. Church received her undergraduate degree in music education from the University of Alabama. There she was a member of the Million Dollar Band, pep bands, horn choir, flute choir, and concert bands. In 2021 she received the Chris Hainsey “Ultimate Team Player” award for her outstanding leadership during her time with the Million Dollar Band. Emily earned a Masters degree in wind conducting from the University of Kentucky where she worked as a Graduate Teaching Assistant in the bands department. She worked extensively with the Wildcat Marching Band, pep bands, and concert bands throughout her time at Kentucky and enjoyed performing with both the UK Wind Symphony and the UK Women's Choir.</p>
-                    <p>Before coming to Clemson, Ms. Church served as a middle school band director for Huntsville City Schools and as the Adjunct Horn Professor for Alabama A&M University. She is an active performer and freelance musician on French horn, tenor horn, and flute, and played principal horn for Twickenham Winds and Sacred Winds and tenor horn in the Brass Band of Huntsville.</p>
-                    <p>Ms. Church is an avid baker, knitter, and gardener, and loves spending time with family, friends, and her own personal Tiger, Charlie. She is also excited to marry her fiancė Caleb at the end of May and become Emily Hamlyn! </p>
+                    <p>Emily Hamlyn is the Assistant Director of Bands, Assistant Director of Tiger Band, Assistant Director of Basketball Pep Band, and Conductor of the Concert Band. Originally from Hendersonville, TN, Mrs. Hamlyn received her undergraduate degree in music education from the University of Alabama. There she was a member of the Million Dollar Band, pep bands, horn choir, flute choir, and concert bands. In 2021 she received the Chris Hainsey “Ultimate Team Player” award for her outstanding leadership during her time with the Million Dollar Band. Emily earned a Masters degree in wind conducting from the University of Kentucky where she worked as a Graduate Teaching Assistant in the bands department. She worked extensively with the Wildcat Marching Band, pep bands, and concert bands throughout her time at Kentucky and enjoyed performing with both the UK Wind Symphony and the UK Women's Choir.</p>
+                    <p>Before coming to Clemson, Mrs. Hamlyn served as a middle school band director for Huntsville City Schools and as the Adjunct Horn Professor for Alabama A&M University. She is an active performer and freelance musician on French horn, tenor horn, and flute, and played principal horn for Twickenham Winds and Sacred Winds and tenor horn in the Brass Band of Huntsville.</p>
+                    <p>Mrs. Hamlyn is an avid baker, knitter, and gardener, and loves spending time with family, friends, her husband Caleb, and her own personal Tiger, Charlie.</p>
                 </div>
             </article>
 
