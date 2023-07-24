@@ -112,7 +112,7 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Ms. Emily Hamlyn</h1>
+                <h1>Mrs. Emily Hamlyn</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Emily.jpg">
