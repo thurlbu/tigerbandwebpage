@@ -59,7 +59,7 @@
             <!--- CONTACT FORM --->
 
             <form action="http://www.clemson.edu/cgi-bin/formail.cgi" method="POST" id="contactForm">
-                <input type="hidden" name="recipient" value="tony.stapleton@alumni.clemson.edu">
+                <input type="hidden" name="recipient" value="CUTBA1977@gmail.com">
                 <input type="hidden" name="subject" value="CUTBA Website Form Results">
                 <input type="hidden" name="sort" value="order:regarding,realname,email,phone,message">
                 <input type="hidden" name="print_config" value="realname, email">
