@@ -59,8 +59,8 @@
                 <h1 class="purpleText">About Us</h1>
                 <p>The Clemson University Tiger Band Association (CUTBA) is a non-profit organization dedicated to support Tiger Band and Tiger Band Students. CUTBA’s Scholarship Endowment provides funds annually for Tiger Band Scholarships to deserving students.  These scholarships are awarded by the Tiger Band Director in addition to funds from other Endowments and Awards. Throughout each year, CUTBA sponsors several activities in support of Tiger Band Students to enhance their experience while participating in Tiger Band while attending Clemson University.</p>
 		 <p>Our organization is governed by an elected Board of Directors and Officers.  All Board and Officer positions are voluntary.</p>
-                <p>For more information you can contact Tony Stapleton at:
-                <p><a href="mailto:tony.stapleton76@gmail.com">tony.stapleton76@gmail.com</a></p>
+                <p>For more information you can contact us at:
+                <p><a href="mailto:CUTBA1977@gmail.com">CUTBA1977@gmail.com</a></p>
             </article>
                         <article class="text fullWidth">
                 <h1 class="purpleText">Support Tiger Band</h1>
