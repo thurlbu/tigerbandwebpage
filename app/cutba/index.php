@@ -181,16 +181,7 @@
 
         <div id="col2Flex">
 
-        <article class="text">
-                <h1 class="purpleText">Tiger Band Reunion 2023</h1>
-                <img class="articleImg" src='img/Alumni2023.jpg'>
-                <p>On <b>August 26, 2023</b> from <b>6:00pm-10:00pm</b>, CUTBA is hosting a reunion and we want YOU to join us!</p>
-                <p>Please join your fellow Tiger Band members for an evening of fun, fellowship, food, and entertainment. Appetizers and open bar begins at 6. Dinner is served at 7 with entertainment to follow.</p>
-                <p>The cost is $79 and the deadline to register is August 11. If you register BEFORE July 15, you'll receive a $10 discount and the opportunity to sign up for a bus tour of the newest places on campus and to watch Tiger Band rehearse.</p>
-                <p>The TRU Hotel, near campus, has reserved a block of rooms for reunion participants. Contact the hotel (864) 280-8800 and ask for the CUTBA rate to book.
-                <p><a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=6129&SINGLESTORE=true">CLICK HERE</a> to register today!</p>
-                <p>Please contact Mary Barron with any questions via email at: <a href="mailto:maryjewel2@gmail.com">maryjewel2@gmail.com</a>
-            </article>
+      
 
           <article class="media">
               <h1>Supporting Tiger Band Through CUTBA</h1>
