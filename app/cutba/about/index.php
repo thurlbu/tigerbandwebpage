@@ -316,13 +316,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button1">
                 </div>
-                <h1>Tony Stapleton</h1>
+                <h1>Kelly Holliday</h1>
                 <h2 class="purpleText">President</h2>
                 <div id="expand1" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:tony.stapleton76@gmail.com"> tony.stapleton76@gmail.com</a><br>
-
-                    <strong>Phone:</strong> 864-508-2209<br>
-                    <strong>Graduation Year:</strong> 1976
+                    <p><strong>Graduation Year:</strong> 2005<br>
+                    <strong>Instrument:</strong> Sousaphone
                     </p>
                 </div>
             </article>
@@ -330,11 +328,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button2">
                 </div>
-                <h1>Ben Adams</h1>
+                <h1>Walter Betsill</h1>
                 <h2 class="purpleText">Vice President</h2>
                 <div id="expand2" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:bensadams@bellsouth.net"> bensadams@bellsouth.net</a><br>
-                    <strong>Graduation Year:</strong> 1985
+                <p><strong>Graduation Year:</strong> 1985<br>
+                    <strong>Instrument:</strong> Percussion
                     </p>
                 </div>
             </article>
@@ -344,11 +342,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button3">
                 </div>
-                <h1>Molly Schaefer</h1>
+                <h1>Lee Maiden</h1>
                 <h2 class="purpleText">Secretary</h2>
                 <div id="expand3" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:mollyjschaefer@gmail.com"> mollyjschaefer@gmail.com</a><br>
-                    <strong>Graduation Year: 2008</strong>
+                <p><strong>Retirement Year:</strong> 2021<br>
+                    <strong>Tiger Band Position:</strong> Administrative Coordinator
                     </p>
                 </div>
             </article>
@@ -356,11 +354,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button4">
                 </div>
-                <h1>Tom Waldrop</h1>
+                <h1>Alicia Cameron</h1>
                 <h2 class="purpleText">Treasurer</h2>
                 <div id="expand4" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:tomwaldrop@bellsouth.net"> tomwaldrop@bellsouth.net</a><br>
-                    <strong>Graduation Year:</strong> 1978
+                <p><strong>Graduation Year:</strong> 2020<br>
+                    <strong>Instrument:</strong> Trumpet
                     </p>
                 </div>
             </article>
@@ -379,10 +377,10 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button5">
                 </div>
-                <h1>Ben Adams</h1>
-                <h2 class="purpleText">Director of Regional Rep Program</h2>
+                <h1>Joseph & Michelle Paddenburg</h1>
+                <h2 class="purpleText">Greenville, SC Representative</h2>
                 <div id="expand5" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:benadams85@alumni.clemson.edu"> benadams85@alumni.clemson.edu</a><br>
+                    <p><strong>Email:</strong><a href="mailto:paddenburgs5@charter.net"> paddenburgs5@charter.net</a><br>
 
                     </p>
             </div>
