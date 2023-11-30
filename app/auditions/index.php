@@ -75,9 +75,7 @@
                 <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
                      <img class="articleImg" src='/img/SymphonicBand.jpg'>
-                    <p>Dr. Mark J. Spede is Professor, Director of Bands, Director of Tiger Band, and Conductor of the Symphonic Band at Clemson University, where he administrates the band program (symphonic, athletic, and jazz bands). Dr. Spede is the recipient of the Clemson University 2009 Dean's Award for Excellence in Teaching (College of Architecture, Arts, and Humanities), and three Clemson University Board of Trustees Awards for Faculty Excellence (2008, 2009, and 2012). He teaches a number of courses, including two for the Calhoun Honors College: aesthetics of music and science of music. In 2012, Dr. Spede conducted the Clemson University Symphonic Band at venues in London, England, for the Summer Olympic Games. Also in 2012, he founded the Clemson Faculty Jazz Quintet, for which he plays drums.</p>
-                    <p>Dr. Spede earned a Bachelor of Music from the University of Michigan (1984), and Master of Music from Ball State University (1988), and a Doctor of Musical Arts from The University of Texas at Austin (1998). He has served the College Band Directors National Association (CBDNA) in a number of capacities. From 2003 to 2005, Dr. Spede served as state chair for South Carolina. He also served on the CBDNA "New Era Think Tank" from 2005 to 2007, and served as chair of the "Athletic Band Task Force" from 2005 to 2009. He served as President of the Southern Division of CBDNA (encompassing eleven southern states) and was recently elected National Vice President and will rise to National President in 2019. In addition, he has served as president of the Atlantic Coast Conference (ACC) Band Directors Association. Dr. Spede previously served on the faculties at The University of Texas at Austin (1998-1999) and the University of Florida in Gainesville (1989-1995) as Assistant Director of Bands. At Florida, he also taught studio percussion.</p>
-                    <p>As a freelance arranger, Dr. Spede has written extensively for high school and college marching bands (over 200 arrangements). His wind band arrangements and transcriptions are published by Peer Music, Shirmer, Boosery and Hawkes, and Carl Fischer, including "D.C. Fanfare" by John Corigliano, "Red Cape Tango" by Michael Daugherty, "Wedding Dances from Bandanna" by Daron Hagen, "Acrostic Song" by David Del Tredici, and "Millennium Canons" by Kevin Puts. He served as Assistant Conductor of the Dallas Wind Symphony, where he also helped produce two of their recordings. His professional performing experience includes orchestra (principal percussion in the Gainesville Chamber Orchestra, Muncie Symphony Orchestra, Ann Arbor Symphony Orchestra, Flint Symphony Orchestra), jazz (performing with such artists as Randy Brecker, Ray Brown, Pete Christlieb, Dennis DiBlasio, Duffy Jackson, Dave Pell, Bobby Shew, Marvin Stamm, Bill Watrous, Ernie Watts, and Phil Wilson), as well as at Walt Disney World.</p>
+                    <p></p>
                     </div>
             </article>
 
@@ -171,13 +169,32 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mr. Timothy Hurlburt</h1>
-                <h2>Associate Director of Bands</h2>
+                <h1>Jazz Ensemble, "The Jungaleers"</h1>
+                <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Hurlburt.png">
-                    <p>Mr. Tim Hurlburt is the Associate Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, and Director of Basketball Pep Band.</p>
-                    <p>Before arriving at Clemson, Mr. Hurlburt spent 3 years teaching music in Port Huron, Michigan. He still has a great interest in public school music education and continues to work as a clinician for both concert bands and marching bands at every level. Mr. Hurlburt has written several arrangements for athletic bands in both Michigan and Texas, and he continues to write arrangements and drill for high school and college marching bands.</p>
-                    <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Music degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
+                   <img class="articleImg" src='/img/JazzEnsemble.jpg'>
+                   <h1>Spring 2024 Auditions</h1>
+                   <br> 
+                   <p>Wind players <b>(saxes, trumpets, and trombones)</b> will submit their auditions via online video submission.</p>
+                   <p>You will perform <b>Mr. PC, A Night in Tunisia, and Full House</b> WITH THE BACKGROUND TRACK. The sheet music, the background track, and some reference recordings to help you practice can all be found in the same linked <a href="https://drive.google.com/drive/folders/1L65FF21hb85tZzDhJxooc-YhEuH0mQl8">Google Drive Folder</a>.</p>
+                   <p>The first time through each tune, please play the head (the notated part melody on the music provided with all notated repeats). The second time through, play an improvised solo through at least 1 chorus on all 3 songs.</p>
+                   <p>If you're not an experienced improviser, don't worry! The improvisation section will not count against your audition score, it's like extra credit. Give it a try, you might surprise yourself!</p>
+                   <p>All links to music and recordings can be found here: <a href="https://drive.google.com/drive/folders/1L65FF21hb85tZzDhJxooc-YhEuH0mQl8">AUDITION MATERIALS</a></p>
+                   <p>Simply film your video (cell phone video is acceptable) and upload it to a file sharing service (youtube, Google Drive, Dropbox, etc.), then submit the link on the appropriate linked form below.</p>
+                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform">SUBMISSION FORM</a></p>
+                   <p>Your videos must:</p>
+                   <ol>
+                    <li>Be filmed in one continuous take (including time between selections).</li>
+                    <li>Be completely unedited.</li>
+                    <li>Have an uninhibited view of your embouchure and your hands on the keys/valves for the entire video.</li>
+                    <li>Include playing through the head and soloing on all 3 tunes. Make sure that the background track CAN be heard on the recording too!</li>
+                    <li>Be submitted by 5:00pm on Monday, January 15 via <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform">THIS FORM</a></li>
+                   </ol>
+                   <br>
+                   <p>Rhythm Section players <b>(drum set, guitar, bass, & piano)</b> will audition live on January 16 at 2:00 in Room 112 of the Brooks Center. All people interested in auditioning for the Spring 2024 Rhythm Section MUST sign up on <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform">THIS FORM</a> by January 11. Guitarists and Bassists should bring an instrument. Amps will be provided. If you need to borrow an instrument, please contact the band office for help.</p>
+                   <p>Please be prepared to comp and solo on these 3 tunes from the Real Book: Mr. PC, A Night in Tunisia, and Full House. You can find music and reference recordings to <a href="https://drive.google.com/drive/folders/1L65FF21hb85tZzDhJxooc-YhEuH0mQl8">practice with here.</a></p>
+                   <p>You should also be ready to comp and solo on a blues progression in Bb, F, C, and Eb in common big band styles like swing, rock, funk, various latin styles, etc.</p>
+
                 </div>
             </article>
 
