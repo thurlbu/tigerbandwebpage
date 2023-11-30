@@ -67,7 +67,7 @@
 
     <div id="Col2FlexContent">
         <div id="col1Flex">
-            <article class="text fullWidth expand" onclick="expand(this)">
+        <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
