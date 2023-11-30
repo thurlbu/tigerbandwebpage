@@ -40,7 +40,7 @@
         <h4>Clemson University Concert Ensembles</h4>
     </div>
 
-    <div id="Col1FlexContent" class="about">
+    <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
                 <h1>Clemson University Bands</h1>
@@ -52,29 +52,10 @@
         <!--- NAVIGATION BOXES --->
 
         <div id="col2Flex">
-            <div class="aboutLinks">
-                <a href="../join/" class="boxWrapper">
-                    <div id="box8" class="boxUIelement sq orange">
-                        <div class="textContainer">
-                            <p>Join<br/>Tiger Band</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="/cutba/" class="boxWrapper" target="_blank">
-                    <div id="aboutBox2" class="boxUIelement sq purp">
-                        <div class="textContainer">
-                            <p>Alumni</p>
-                        </div>
-                    </div>
-                </a>
-                <a href="/organizations/" class="boxWrapper">
-                    <div id="box5"class="boxUIelement sq white">
-                        <div class="textContainer">
-                            <p>Organizations</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
+         
+            <img class="articleImg" src='/img/CUBands.png'>
+                   
+            
         </div>
     </div>
 
