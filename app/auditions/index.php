@@ -40,7 +40,8 @@
         <h4>Clemson University Concert Ensembles</h4>
     </div>
 
-
+    <div id="Col1FlexContent" class="about">
+        <div id="col1Flex">
             <article class="text fullWidth">
                 <h1>Clemson University Bands</h1>
                 <p>The Clemson University Bands are proud to compliment its thriving athletic band program with concert ensembles in the fall and spring semesters.</p> 
