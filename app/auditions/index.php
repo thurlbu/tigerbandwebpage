@@ -86,7 +86,7 @@
                 <h1>Concert Band</h1>
                 <h2>Spring Semester</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/ConcertBand.jpg">
+                <img class="articleImg" src="/img/ConcertBand.jpg">
                     <p></p>
                 </div>
             </article>
@@ -98,7 +98,7 @@
                 <h1>Steel Band</h1>
                 <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/SteelBand.jpg">
+                <img class="articleImg" src="/img/SteelBand.jpg">
                     <p></p>
                 </div>
             </article>
@@ -147,7 +147,7 @@
                 <h1>Percussion Ensemble</h1>
                 <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/SteelBand.jpg">
+                <img class="articleImg" src="/img/SteelBand.jpg">
                     <p></p>
                 </div>
             </article>
@@ -159,7 +159,7 @@
                 <h1>Jazz Combos</h1>
                 <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                  <img class="staffPortrait" src="/img/Combo.jpg">
+                <img class="articleImg" src="/img/Combo.jpg">
                     <p></p>
                 </div>
             </article>
