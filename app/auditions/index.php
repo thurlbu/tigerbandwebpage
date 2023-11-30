@@ -83,13 +83,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mrs. Emily Hamlyn</h1>
-                <h2>Assistant Director of Bands</h2>
+                <h1>Concert Band</h1>
+                <h2>Spring Semester</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Emily.jpg">
-                    <p>Emily Hamlyn is the Assistant Director of Bands, Assistant Director of Tiger Band, Assistant Director of Basketball Pep Band, and Conductor of the Concert Band. Originally from Hendersonville, TN, Mrs. Hamlyn received her undergraduate degree in music education from the University of Alabama. There she was a member of the Million Dollar Band, pep bands, horn choir, flute choir, and concert bands. In 2021 she received the Chris Hainsey “Ultimate Team Player” award for her outstanding leadership during her time with the Million Dollar Band. Emily earned a Masters degree in wind conducting from the University of Kentucky where she worked as a Graduate Teaching Assistant in the bands department. She worked extensively with the Wildcat Marching Band, pep bands, and concert bands throughout her time at Kentucky and enjoyed performing with both the UK Wind Symphony and the UK Women's Choir.</p>
-                    <p>Before coming to Clemson, Mrs. Hamlyn served as a middle school band director for Huntsville City Schools and as the Adjunct Horn Professor for Alabama A&M University. She is an active performer and freelance musician on French horn, tenor horn, and flute, and played principal horn for Twickenham Winds and Sacred Winds and tenor horn in the Brass Band of Huntsville.</p>
-                    <p>Mrs. Hamlyn is an avid baker, knitter, and gardener, and loves spending time with family, friends, her husband Caleb, and her own personal Tiger, Charlie.</p>
+                    <img class="staffPortrait" src="/img/ConcertBand.jpg">
+                    <p></p>
                 </div>
             </article>
 
@@ -97,71 +95,15 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mr. Terry Kent</h1>
-                <h2>Color Guard Instructor</h2>
+                <h1>Steel Band</h1>
+                <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Terry.jpg">
-                    <p>Mr. Terry Kent has been the instructor for the Clemson Tiger Guard and Winter Guard since 2010. The Tiger Guard performs at all home football games and travels with the full band to away games. The Winterguard competes in the local colorguard circuit, CWEA, and also at WGI events. Mr. Kent is one of the founding members of the CIPA color guard circuit and is a member of the CIPA Hall of Fame.</p>
-                    <p>Mr. Kent has worked for Marching Auxiliaries for 25 years as summer camp staff, traveling, and teaching weekly camps for rifles, flags, majorettes, drum majors and dancers. There, he served as an instructor, division head, and clinic director. While on staff with Marching Auxiliaries, Mr. Kent was on the half time staff for the Citrus, Capital One, Bluebonnet, Alamo, Outback, and Peach Bowls. Duties included instruction of the cast members, choreography design, and game day productions.</p>
-                    <p>Mr. Kent has performed with Infiniti winter guard 1990-91, Corps Vets all-age drum corps 2002-04, 2007, 2009-2010, and Alliance all-age drum corps 2005-06. He was color guard caption head of Corps Vets (2003-04) and Alliance (2005-06). Mr. Kent has placed second in both rifle and flag solo at DCA finals and choreographed the first-place Guard Ensemble in 2004, 2005 and 2009. He was on the staff for Infiniti winter guard (1992-2001) where they were WGI Independent A World Champions in 2001.</p>
-                    <p>Mr. Kent is the band director at Hillcrest Middle School in the School District of Greenville County. He has been the band director at Hillcrest Middle for over 27 years, and is a Graduate of Furman University.</p>
+                    <img class="staffPortrait" src="/img/SteelBand.jpg">
+                    <p></p>
                 </div>
             </article>
 
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mrs. Emily Curry</h1>
-                <h2>Twirler Instructor</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/EmilyCurry.jpg">
-                    <p>Mrs. Emily Curry is entering her third year on the Tiger Band staff and first year as the Twirling Coordinator. Emily received her B.A. in Elementary Education from Clemson and is currently a fifth grade teacher at Cedar Grove Elementary, located in Anderson County.</p>
-                    <p>A native of Madison, Indiana, Emily found her way to Clemson through years of baton twirling and participating in competitions across the country. Beginning with her Tiger Twirler audition in 2002, Emily has made Clemson her home. She was a Tiger Twirler for four years and performed in various bowl games, parades, and community events as a member of Tiger Band. After graduation, Emily began teaching baton privately and has worked with dozens of students throughout the last decade.</p>
-                    <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband and two daughters.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Larry Sloan</h1>
-                <h2>Tiger Band Videographer</h2>
-                <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Larry.jpeg">
-                    <p>Mr. Larry Sloan has been the videographer for the Clemson University Tiger Band since the mid 1970's and has shot the band all over the United States and Japan.</p>
-                    <p>After receiving his B.S. in Mechanical Engineering from Clemson University in 1974, he spent his professional career in the electrical field with Square D Company, Maddux Supply Company, and then his own company, Electrical Power Products. He retired in 2006 and in 2009 moved back to Clemson where he has become an active member in University development. He has served on the Clemson University Alumni Board of Directors, Clemson University Foundation Board of Directors, Fort Hill Clemson Club Board of Directors, the Clemson University Tiger Band Association (CUTBA) Board of Directors, and is a proud member of the Tiger Brotherhood. In 2010 he was awarded the Clemson University Distinguished Service Award, the highest honor awarded by the Clemson University Alumni Association.</p>
-                    <p>In 1977 Larry had an idea of an organization of Tiger Band alumni to raise scholarships for future Tiger Band students, to keep Tiger Band alumni informed about current Tiger Band activities and to enhance the Tiger Band experience for current Tiger Band members. This was the beginning of the Clemson University Tiger Band Assocation (CUTBA).</p>
-                    <p>Larry is also very involved in his community and church.  He has served on the Board of Directors at the Clemson Rotary Club and as an Elder at Ft. Hill Presbyterian Church.  He currently serves on the Board of Directors of Ripple of One, a 501C3 charitable organization.  He has been married to his wife Cindy for over 45 years and has 2 sons and 4 grandchildren.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Christopher Sloan</h1>
-                <h2>Tiger Band Photographer</h2>
-                <div class="staffBio">
-            		<img class="staffPortrait" src="/img/staff/CSloan.png">
-                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Jeff Norman</h1>
-                <h2>Visual Assistant</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Jeff.jpg">
-                    <p>Mr. Norman is a native of Alexandria, Louisiana. He received his under graduate degree in music education from Northeast Louisiana University (University of Louisiana) in Monroe, Louisiana. While attending NLU, Jeff was the drum major of the famed “Sound of Today” Marching Band and was also a part of the jazz band and wind ensemble and a member of KAPPA KAPPA PSI National Band Fraternity and PHI MU ALPHA SINFONIA professional musician Fraternity.</p>
-                    <p>Mr. Norman has served as a music educator in South Carolina since 1986.   Mr. Norman holds a master’s degree in music from Radford University in Radford, Va. with an emphasis on composing and conducting. After completing this degree, Mr. Norman took a position at Wren High and Wren Middle School where he was the director of the 7th and 8th Grade band program. He served as the marching band music arranger and program coordinator and was director of the concert band program.  He is a two-time recipient of the WYFF4 Golden Apple Teacher Award and a past teacher of the year at Greer. His marching arrangements have been played by high school bands in South Carolina, North Carolina, Florida, Georgia, Texas, and Louisiana and he has also written marching shows for the University of Michigan, University of Texas, and Baylor University Marching Bands.</p>
-            		<p>Since 2006, Mr. Norman has served as the Director of Bands at Greer High School where he directs the marching and concert programs. He is a member of the South Carolina Band Director’s Association, South Carolina Music Educators Association, and Phi Beta Mu Professional Music Fraternity. Mr. Norman is also a very active clinician for both marching and symphonic band programs across the region. He resides in Mauldin with his wife Donna and their dog Wynton.</p>
-                </div>
-            </article>
+           
         </div>
 
         <div id="col2Flex">
@@ -202,14 +144,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Dr. Paul Buyer</h1>
-                <h2>Director of Percussion</h2>
+                <h1>Percussion Ensemble</h1>
+                <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Paul.jpg">
-                    <p>Dr. Paul Buyer is Director of Percussion, Director of Music, and Professor of Music at Clemson University.  He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
-                    <p>Featured in SUCCESS Magazine’s Achiever’s Series, Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>Drumline Gold: Innovative Systems for Marching Percussion Excellence</i> (Meredith Music Publications), <i>Working Toward Excellence: 8 Values for Achieving Uncommon Success in Work and Life</i> (Morgan James Publishing), <i>Marching Bands and Drumlines: Secrets of Success from the Best of the Best</i> (Meredith Music Publications), and co-author of <i>The Art of Vibraphone Playing: An Essential Method for Study and Performance</i> (Meredith Music Publications).</p>
-                    <p>He is a contributing author to the second edition of <i>Teaching Percussion</i> by Gary Cook, and his articles have appeared in <i>American Music Teacher, Teaching Music, Jazz Education Network, Percussive Notes,</i> and <i>The PAS Educators’ Companion.</i> He has been interviewed for the <i>Rudimental Mindset</i> podcast, <i>The Marching Roundtable</i> podcast, <i>Pete's Percussion</i> podcast, <i>The Washington Tattoo</i> podcast, Sabian Insights, Neil Grover's <i>Discussions in Percussion</i>, and Deomenico Zarro's blog, <i>The Percussion Student</i> among others.</p>
-                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Vic-Firth Drumsticks, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Balter Mallets. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for <i>Percussive Notes,</i> the official PAS journal.</p>
+                    <img class="staffPortrait" src="/img/SteelBand.jpg">
+                    <p></p>
                 </div>
             </article>
 
@@ -217,69 +156,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mr. Lance Curry</h1>
-                <h2>Drumline Instructor</h2>
+                <h1>Jazz Combos</h1>
+                <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Lance.jpg">
-                    <p>Mr. Lance Curry is the instructor for the Clemson University Drumline. He has been working with the drumline in different capacities since 2010.</p>
-                    <p>Lance received his B.A. in Secondary Education - Mathematics from Clemson University and a M.Ed. in Instructional Technology from the University of Georgia. After graduating from Clemson he taught at nearby Easley High School for eight years. He is now employed by the Greenville County School District as an Instructional Technology Facilitator.</p>
-                    <p>While at Clemson Lance was a member of the Clemson University Concert Band, Symphonic Band, Percussion Ensemble, Steel Band, and Clemson University Drumline. He was also a member of the inaugral Clemson University Gigging Steel Band, playing lead and contributing to their first CD, Steelin' the Spotlight. Lance's marching experience also includes the Tampa Bay Thunder Drum and Bugle Corps, Carolina Crown Drum and Bugle Corps, and Epiphany Independent Indoor.</p>
-                    <p>As an educator, Lance has taught percussion at various middle and high schools around South Carolina including D.W. Daniel High School, Summerville High School, Easley High School, Gettys Middle School, and T.L. Hanna High School. He was also on the staff of Carolina Force Indoor Percussion Ensemble and directed Trifecta Independent.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Ms. Marilla Riggs</h1>
-                <h2>Dancer Instructor</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Marilla.jpg">
-                    <p>Marilla Riggs is an East Tennessee native currently residing in Anderson, SC with her husband and daughter. She began dancing at the age of three, and by the time she graduated high school, she was trained in Vaganova ballet technique, pointe, jazz, tap, modern, and musical theatre styles. Marilla continued her dance education and graduated, with honors, earning a Bachelor of Fine Arts in Dance from Shenandoah Conservatory in 2014.</p>
-                    <p>At Shenandoah, Marilla performed as a featured dancer for several mainstage concerts, choreographed solos and group pieces for herself and her peers, and performed in many student and faculty concerts. Post graduation, she worked as the Administrative and Production Assistant, as well as an apprentice, for Christopher K. Morgan & Artists, a contemporary dance company based outside of Washington DC. She has teaching credits in Tennessee, Virginia, Maryland, and South Carolina and currently teaches at Carolina Superstars Baton & Dance, owned by Tiger Band twirling coach, Hazel Cartee.</p>
-                    <p>Although her life is mostly dedicated to being a stay-at-home mom with her young daughter, Marilla has a passion for sharing dance through teaching and performance.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Dr. Tim Willis</h1>
-                <h2>Tiger Band Announcer</h2>
-                <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Willis.png">
-                    <p>After serving as the PA announcer in Death Valley for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He has also served as an Intentional Interim pastor, Life Coach, Conflict Consultant and Chaplain at a retirement community.  He recently retired at the end of 2017 after 43 years of ministry.  He is married to Lynda and they have two sons, John (deceased) and David.</p>
-
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Randy Christ</h1>
-                <h2>Tiger Band Videographer</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Randy.jpeg">
-                    <p>Mr. Randy Christ has been the "on-field" videographer for Tiger Band since 2010. He is a 1978 graduate of Clemson University where he earned a B.S. in Mechanical Engineering. He marched with Tiger Band for four years as a tenor sax player. Randy was employed by Michelin for over 38 years working in technical fields as a programmer, a system manager, a high performance test driver, and finally as a certified information systems security professional.</p>
-                    <p>Currently, Randy is the owner of Moving Images LLC, a supplier of professional videography and photography services.  He enjoys using digital technologies to capture the special moments that tell people’s stories.</p>
-                    <p>Randy was already deeply involved in photography when he purchased his first video camera in 1987 just before the birth of his first child. This is when he discovered how powerful and meaningful story telling with video could be. When his children joined the high school marching band, Randy saw an opportunity to record and tell the story of their marching band experience through videography. For six years he documented each marching competition season from a band member's perspective. Around that time, Dr. Bruce Cook, a former Tiger Band Director, created a video compilation from archived film featuring old Tiger Band half time shows. This reinforced in Randy’s mind the importance of having that recorded history.  It was a logical progression from there to Randy shooting video for Tiger Band, and later starting his photo / video business.</p>
-                    <p>Randy and his wife, Robin, have two children who graduated from Clemson University.  The children are both Tiger Band alumni as well. Each is also now married to former Tiger Band members. Randy and his family enjoy marching with the Alumni Band at Homecoming when they can.</p>
-                    <p>Now, as a member of the Tiger Band staff, Randy is often found interacting with the students while helping them mount GoPro cameras on their instruments prior to their performances. Besides filming the half time performances, he provides footage for special projects that are used for the promotional and recruiting efforts of Tiger Band. He finds it especially rewarding to work with the enthusiastic students on the Tiger Band Media Team.  Randy is thrilled to be back on the field in Death Valley, capturing images and telling the story of one of the best marching bands in the country.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mrs. Tamara Sloan</h1>
-                <h2>Tiger Band Photographer</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Tamara.jpg">
-                    <p>Tamara Sloan is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
+                  <img class="staffPortrait" src="/img/Combo.jpg">
+                    <p></p>
                 </div>
             </article>
         </div>
