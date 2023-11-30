@@ -36,16 +36,16 @@
 
 <body>
     <div class="heading">
-        <h3>Staff</h3>
-        <h4>Tiger Band</h4>
+        <h3>Auditions</h3>
+        <h4>Clemson University Concert Ensembles</h4>
     </div>
 
     <div id="Col2FlexContent" class="about">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1>Mission Statement</h1>
-                <p>As an ambassador of Clemson University, Tiger Band provides inspiring spirit and entertainment to the university community and beyond.</p>
-                <p>Tiger Band is committed to outstanding, creative performances on and off the playing field through the dedication of its staff and members. It also provides its students the opportunity to develop life skills through training in teamwork and leadership.</p>
+                <h1>Clemson University Bands</h1>
+                <p>The Clemson University Bands are proud to compliment its thriving athletic band program with concert ensembles in the fall and spring semesters.</p> 
+                <p>The Symphonic Band, Jazz Ensemble, Concert Band, Jazz Combos, Percussion Ensemble, and Steel Band provide an artistic outlet and an arts education opportunity for students across the campus representing a diverse list of majors. Performing concerts in the beautiful, Brooks Center for the Performing Arts, these ensembles have been bringing music to the upstate community for years.</p>
             </article>
         </div>
 
