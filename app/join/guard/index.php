@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>  <!-- Global site tag (gtag.js) - Google Analytics -->
+<head>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-8965430-3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -10,7 +11,7 @@
     gtag('config', 'UA-8965430-3');
   </script>
 
-    <meta charset="utf-8">
+<meta charset="utf-8">
     <title>Tiger Guard Auditions | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
@@ -48,27 +49,30 @@
         <h4>Tiger Guard</h4>
     </div>
 
-    <div id="Col2FlexContent" class="about">
+    <div id="Col2FlexContent">
         <div id="col1Flex">
+          <!--- DEADLINE CALENDAR UI --->
+
           <div class="deadlines">
               <div class="month">
-                  <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
+                  <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
+
                           <p>March</p>
                           <b>15</b>
                           <p>Deadline for Tiger Guard 1st round videos</p>
                       </div>
                   </div>
-                  <div class="deadlinesInfo" id="info3">
-                      <p>2024 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link">audition form</a>. Results will be communicated by March 22.</p>
-
+                  <div class="deadlinesInfo" id="info1">
+                      <p>2024 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link">audition form</a>. Results will be communicated by March 22.</a></p>
 
                   </div>
+
+
               </div>
           </div>
 
-
-            <article class="text fullWidth">
+          <article class="text fullWidth">
                 <h1 class="purpleText">2024 Tiger Guard Auditions</h1>
                 <p>The 2024 Tiger Guard auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 27.</p>
               <p>The first 3 audition videos are due on <b>March 15.</b> The results of the first round will be communicated via email on or before <b>March 22.</b></p>
@@ -157,14 +161,18 @@
                 <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
             </article>
 
+            
 
+        </div>
 
-            <!--- DEADLINE CALENDAR UI --->
-            <div class="deadlines">
+        <div id="col2Flex">
+
+          <!--- DEADLINE CALENDAR UI --->
+          <div class="deadlines">
               <div class="month">
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
-                          <p>April</p>
+                      <p>April</p>
                           <b>27</b>
                           <p>2nd Round Live Auditions</p>
                       </div>
@@ -173,19 +181,13 @@
                       <p>A second round of live auditions will take place on campus for those that have been invited.</p>
 
 
+
                   </div>
               </div>
           </div>
 
-
-       
-
-        <div id="col2Flex">
-
-
-
-          
-        <article class="text fullWidth">
+         
+          <article class="text fullWidth">
         <h1 class="purpleText">2nd Round Live Callback Audition</h1>
           <h5 class="purpleText">April 27 - Clemson University Campus</h5>
           <p>Results of the first round of video auditions will be communicated via email on or before March 22.</p>
@@ -201,24 +203,13 @@
 
         <p>All final audition results will be posted by the end of the day.</p>
 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">2024 Tiger Guard Application</a></p>
+          
 
               </article>
 
+<!--- PHOTO SLIDER --->
 
-
-            
-
-
-    <!--- AUDITION INFORMATION --->
-
-  
-    <div id="Col2FlexContent">
-        <div id="col1Flex">
-
-          <!--- PHOTO SLIDER --->
-
-          <div id="photoSlider">
+<div id="photoSlider">
                 <img class="slider" src="https://i.imgur.com/U17cKRF.jpg">
                 <img class="slider" src="https://i.imgur.com/cWFOU8U.jpg">
                 <img class="slider" src="https://i.imgur.com/QMUZQmu.jpg">
@@ -230,17 +221,21 @@
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
                 </div>
             </div>
-         </div>
+
+        </div>
     </div>
 
-        <div id="col2Flex">
+    <!--- AUDITION INFORMATION --->
 
-          
+    <div id="itineraries">
+        <div class="heading">
+            <h4>What is it like to be in the Tiger Guard?</h4>
+        </div>
+    </div>
 
-
-
-
-          <article class="text fullWidth">
+    <div id="Col2FlexContent">
+        <div id="col1Flex">
+            <article class="text fullWidth">
               <h1>Eligibility Requirements</h1>
               <ul>
                   <li>Full time Clemson student</li>
@@ -253,24 +248,23 @@
           <article class="text fullWidth">
               <h1>Weekly Schedule</h1>
               <ul>
-                  <li>As	a	member,	you	will	earn	2	credit	hours	for	your	participation	in	the	fall	semester.	Grading	is	based	mainly	on	attendance.</li>
-                  <li>Full	band	rehearsal	4:00pm	– 6:00pm	Mondays,	Wednesdays	and	Fridays.</li>
-                  <li>Sectional	Rehearsal	6:00pm	– 8:00pm	Mondays	if	needed.</li>
-                  <li>Game	day	Rehearsal times	depend on	game time.</li>
-                  <li>All	Full	Band	performances</li>
+                  <li>As a member, you will	earn 2 credit hours	for	your participation in the fall semester. Grading is	based mainly on	attendance.</li>
+                  <li>Full band	rehearsal 4:00pm – 6:00pm Mondays, Wednesdays and Fridays.</li>
+                  <li>Sectional	Rehearsal 6:00pm – 8:00pm Mondays if needed.</li>
+                  <li>Game day Rehearsal times depend on game time.</li>
+                  <li>All Full Band	performances</li>
               </ul>
           </article>
             <article class="text fullWidth">
                 <h1>Financial Responsibility</h1>
-                <p>The	Guard	members	acquire	a	warm–up	jacket for	cooler weather	and	shoes.	Extra	cost	could	be	gloves,	a	guard	member t-shirt	and	items	similar	to	this	as	a	section.	Approximate	cost	for	shoes	and	warm-up	is	about	$100.00.</p>
+                <p>The Guard members acquire a warm–up jacket for cooler weather and shoes.	Extra cost could be	gloves,	a guard	member t-shirt and items similar to	this as	a section. Approximate cost	for	shoes and warm-up is about $100.00.</p>
             </article>
 
             <article class="text fullWidth">
                 <h1>Appearance</h1>
-                <p>Tiger	guard	members	are	a	positive	role	model	and	represent	Clemson	University	and	Tiger	Band at	all	times	with	good	character	and	a	positive	image.</p>
-                <p>Each	member	agrees	to remain	in	full	uniform	at	all	appearances	including	hair,	make-up,	uniform	etc.</p>
+                <p>Tiger guard members are a positive role model and represent Clemson University and Tiger	Band at	all	times with good	character and a	positive image.</p>
+                <p>Each	member agrees to remain	in full	uniform	at all appearances including hair, make-up,	uniform	etc.</p>
             </article>
-
         </div>
     </div>
 
