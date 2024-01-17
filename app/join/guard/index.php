@@ -54,13 +54,13 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
-                          <p>July</p>
+                          <p>March</p>
                           <b>15</b>
                           <p>Deadline for Tiger Guard 1st round videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>2023 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link">audition form</a>. Results will be communicated by July 22.</p>
+                      <p>2024 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link">audition form</a>. Results will be communicated by March 22.</p>
 
 
                   </div>
@@ -69,9 +69,10 @@
 
 
             <article class="text fullWidth">
-                <h1 class="purpleText">2023 Tiger Guard Auditions</h1>
-                <p>The 2023 Tiger Guard auditions will consist of 3 short video submissions.</p>
-                <p>The first 3 audition videos are due on <b>July 15th</b>. The results of the first round will be communicated via email on or before <b>July 22nd</b>.
+                <h1 class="purpleText">2024 Tiger Guard Auditions</h1>
+                <p>The 2024 Tiger Guard auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 27.</p>
+              <p>The first 3 audition videos are due on <b>March 15.</b> The results of the first round will be communicated via email on or before <b>March 22.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY MARCH 15 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 27.</b></p>
                 
                   <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
                   <ul>
@@ -79,72 +80,24 @@
                     <li>All videos must be filmed outside.</li>
                     <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
                   </ul>
-                <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
-            </article>
-
-
-
-            <!--- DEADLINE CALENDAR UI --->
-
-
-
-        </div>
-
-        <div id="col2Flex">
-
-
-
-          
-
-
-
-
-            <!--- PHOTO SLIDER --->
-
-            <div id="photoSlider">
-                <img class="slider" src="https://i.imgur.com/U17cKRF.jpg">
-                <img class="slider" src="https://i.imgur.com/cWFOU8U.jpg">
-                <img class="slider" src="https://i.imgur.com/QMUZQmu.jpg">
-                <img class="slider" src="https://i.imgur.com/bId92hT.jpg">
-                <div class="controls">
-                    <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
-                    <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!--- AUDITION INFORMATION --->
-
-    <div id="itineraries">
-        <div class="heading">
-            <h4>Audition Information</h4>
-        </div>
-    </div>
-
-    <div id="Col2FlexContent">
-        <div id="col1Flex">
-
-          <article class="text fullWidth">
+                  <article class="text fullWidth">
               <h1>Audition Videos</h1>
               <p>The 2023 Tiger Guard auditions will consist of 3 short video submissions:</p>
               <ul>
-              <li>Video 1 will cover choreography that you have time to learn and perfect.</li>
-              <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
-              <li>Video 3 will be a short interview style video for us to get to know you.</li>
+                 <li>Video 1 will cover choreography that you have time to learn and perfect.</li>
+                <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
+                <li>Video 3 will be a short interview style video for us to get to know you.</li>
             </ul>
               <p>Each of these videos will be described in detail below.</p>
               <p>After you create your videos, please upload them to google drive or another file sharing service. You must submit them via this application form:</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
               <p>All submissions will be evaluated by a panel of:</p>
               <ul>
-                <li>4 independent expert colorguard instructors</li>
+                <li>3-4 independent expert colorguard instructors</li>
                 <li>Tiger Band Colorguard Instructor</li>
               </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/CGScoreSheet23.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/CGScoreSheet24.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
               <br>
               <h1 class="purpleText">Video 1</h1>
@@ -200,8 +153,85 @@
   <li>Why did you choose Clemson University?</li>
   <li>Why do you want to be a member of the Tiger Guard?</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScGUl0bPugZzZLMRXOFszeOLUj-ORdpIL6UQkebahUsNjCTbA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
-        </div>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+                <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
+            </article>
+
+
+
+            <!--- DEADLINE CALENDAR UI --->
+            <div class="deadlines">
+              <div class="month">
+                  <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
+                      <div class="textContainer">
+                          <p>April</p>
+                          <b>27</b>
+                          <p>2nd Round Live Auditions</p>
+                      </div>
+                  </div>
+                  <div class="deadlinesInfo" id="info2">
+                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
+
+
+                  </div>
+              </div>
+          </div>
+
+
+       
+
+        <div id="col2Flex">
+
+
+
+          
+        <article class="text fullWidth">
+        <h1 class="purpleText">2nd Round Live Callback Audition</h1>
+          <h5 class="purpleText">April 27 - Clemson University Campus</h5>
+          <p>Results of the first round of video auditions will be communicated via email on or before March 22.</p>
+          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 27 and can plan to be finished by 3:00pm at the latest.</p>
+          <p>Students will receive more specific details on March 22, but the invitees should be ready for:<p>
+          <ul>
+            <li>A group warm-up session</li>
+            <li>A choreography learning session</li>
+            <li>A group performance of the learned choreography</li>
+            <li>An individual performance of learned choreography</b></li>
+            <li>An optional performance of rifle tosses</li>
+          </ul>
+
+        <p>All final audition results will be posted by the end of the day.</p>
+
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">2024 Tiger Guard Application</a></p>
+
+              </article>
+
+
+
+            
+
+
+    <!--- AUDITION INFORMATION --->
+
+  
+    <div id="Col2FlexContent">
+        <div id="col1Flex">
+
+          <!--- PHOTO SLIDER --->
+
+          <div id="photoSlider">
+                <img class="slider" src="https://i.imgur.com/U17cKRF.jpg">
+                <img class="slider" src="https://i.imgur.com/cWFOU8U.jpg">
+                <img class="slider" src="https://i.imgur.com/QMUZQmu.jpg">
+                <img class="slider" src="https://i.imgur.com/bId92hT.jpg">
+                <div class="controls">
+                    <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
+                </div>
+            </div>
+         </div>
+    </div>
 
         <div id="col2Flex">
 

@@ -54,12 +54,12 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
                           <p>March</p>
-                          <b>22</b>
+                          <b>15</b>
                           <p>Deadline for Tiger Dancer 1st Round Videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2023 First Round Videos are due. Please submit all videos via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link">SUBMISSION FORM.</a></p>
+                      <p>2024 First Round Videos are due by 11:59pm. Please submit all videos via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link">SUBMISSION FORM.</a></p>
 
 
                   </div>
@@ -68,11 +68,11 @@
 
 
           <article class="text fullWidth">
-              <h1 class="purpleText">2023 Tiger Dancer Auditions</h1>
-          <p>The 2023 Tiger Dancer auditions will consist of 2 rounds. THe first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 16.</p>
-          <p>The first 2 audition videos are due on <b>March 22.</b> All results will be communicated via email by <b>March 27</b>.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 22 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 16.</b></p>
-          <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements:</p>
+              <h1 class="purpleText">2024 Tiger Dancer Auditions</h1>
+          <p>The 2024 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 7.</p>
+          <p>The first 2 audition videos are due on <b>March 15.</b> All results will be communicated via email by <b>March 22</b>.</p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 15 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 7.</b></p>
+          <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements (videos containing substitutions or omissions will not be considered):</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
             <li>All videos must be new footage</li>
@@ -80,19 +80,19 @@
           </ul>
           <p>All submissions will be evaluated by a panel of:</p>
             <ul>
-              <li>4 independent, expert dance judges</li>
+              <li>3-4 independent, expert dance judges</li>
               <li>Tiger Band Dancer Instructor</li>
             </ul>
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-            <p><a href="/doc/2023ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+            <p><a href="/doc/2024ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-          <h5 class="purpleText">April 16 - Brooks Center for the Perfoming Arts</h5>
-          <p>Results of the first round of video auditions will be communicated via email on or before March 27.</p>
-          <p>Students that are invited to campus for the second round of live auditions should plan to arrive at the Brooks Center for the Performing Arts on the Clemson University campus by 9:00am on April 16 and can plan to be finished by 3:00pm at the latest.</p>
-          <p>Students will receive more specific details on March 27, but the invitees should be ready for:<p>
+          <h5 class="purpleText">April 7 - Clemson University Campus</h5>
+          <p>Results of the first round of video auditions will be communicated via email on or before March 22.</p>
+          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 7 and can plan to be finished by 3:00pm at the latest.</p>
+          <p>Students will receive more specific details on March 22, but the invitees should be ready for:<p>
           <ul>
             <li>A group warm-up session</li>
             <li>A choreography learning session</li>
@@ -103,7 +103,7 @@
 
         <p>All final audition results will be posted by the end of the day.</p>
 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
 
               </article>
           <!--- PHOTO SLIDER --->
@@ -134,7 +134,7 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>16</b>
+                          <b>7</b>
                           <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
@@ -147,16 +147,16 @@
 
           <article class="text fullWidth">
             <h1 class="purpleText">Video 1</h1>
-            <h5 class="purpleText">Choreography - Industry Baby</h5>
-            <p>The first video will be a choreographed routine to <b>Industry Baby</b> performed by Tiger Band.</p>
+            <h5 class="purpleText">Choreography - Dog Days are Over</h5>
+            <p>The first video will be a choreographed routine to <b>Dog Days are Over</b> performed by Tiger Band.</p>
             <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/ExghfOrGgQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+            <p>COMING SOON!!!!</p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
-                    <p>Industry Baby</p>
-                    <audio src="/audio/IndustryBaby.mp3" controls></audio>
+                    <p>Dog Days are Over</p>
+                    <audio src="/audio/DogDays.mp3" controls></audio>
 
                 </div>
                   </div>
@@ -180,7 +180,7 @@
                         </div>
 
                               <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfnwdEqbcPrbjX7m9MP2GyV4lTFDPFGA73kEc2y2g8R0qwmwg/viewform?usp=sf_link" class="richLink cta">2023 Tiger Dancer Audition Video Submission Form</a></p>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:clemsontigerdancers@gmail.com">clemsontigerdancers@gmail.com</a></p>
                   </article>
 
