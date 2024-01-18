@@ -125,7 +125,7 @@
 <br>
 <h1 class="purpleText">Video 2</h1>
 <h5 class="purpleText">Basic Skills</h5>
-<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video. All of these skills are demonstrated in the video below. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a>.</p>
+<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video. All of these skills are demonstrated in the video below. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
 <ul>
   <li>8 to 12 steps of a <b>Jazz Run</b></li>
   <li>1 time through the <b>Across the Floor Sequence</b></li>
@@ -138,7 +138,7 @@
   <li>2 <b>Body Wrap 45-Tosses</b></li>
 
 </ul>
-<p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED. If you would like to include the rifle portion, it should include:</p>
+<p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED but will be taken into consideration when determining what pieces of equipment will be used for each show. If you would like to include the rifle portion, it should include:</p>
 <ul>
   <li>16 counts of right hand spins with a single out</li>
   <li>16 counts of left hand spins with a single out</li>
