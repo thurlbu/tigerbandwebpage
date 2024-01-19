@@ -69,20 +69,20 @@
                         <div class="textContainer">
                             <p>April</p>
                             <b>12</b>
-                            <p>Returners & Early Decision Deadline</p>
+                            <p>Returners & Early Decision</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                         <div class="textContainer">
                             <p>April</p>
                             <b>26</b>
-                            <p>Returners & Early Decision Results</p>
+                            <p>Returners & Early Decision</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>Rolling</p>
-                            <b>4/13-7/22</b>
+                            <b>7/22</b>
                             <p>Auditions</p>
                         </div>
                     </div>
