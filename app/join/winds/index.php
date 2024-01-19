@@ -83,7 +83,7 @@
                         <div class="textContainer">
                             <p>Rolling</p>
                             <b>7/22</b>
-                            <p>Auditions</p>
+                            <p>Auditions until full</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
