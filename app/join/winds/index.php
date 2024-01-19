@@ -81,9 +81,9 @@
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
-                            <p>Rolling</p>
-                            <b>7/22</b>
-                            <p>Auditions until full</p>
+                            <p>July</p>
+                            <b>22</b>
+                            <p>Accepted until full</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
