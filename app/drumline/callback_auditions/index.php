@@ -49,7 +49,7 @@
 <body>
     <div class="heading">
         <h3>Call Back Auditions for</h3>
-        <h4>2023 Clemson University Drumline</h4>
+        <h4>2024 Clemson University Drumline</h4>
     </div>
 
     <!--- DEADLINES UI --->
@@ -59,14 +59,14 @@
             <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                 <div class="textContainer">
                     <p>March</p>
-                    <b>5</b>
+                    <b>3</b>
                     <p>Music Available</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>6</b>
+                    <b>4</b>
                     <p>Pre-Audition Workshop</p>
                 </div>
             </div>
@@ -85,15 +85,15 @@
             <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                 <div class="textContainer">
                     <p>June</p>
-                    <b>24</b>
+                    <b>22</b>
                     <p>Video Audition Deadline</p>
 
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
                 <div class="textContainer">
-                    <p>July</p>
-                    <b>1</b>
+                    <p>June</p>
+                    <b>29</b>
                     <p>Audition Results</p>
                 </div>
             </div>
@@ -104,21 +104,21 @@
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced</p>
                   <br>
-                <p>Those selected must report to CALL BACK auditions on Monday, August 14</p>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 12</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>14</b>
+                    <b>12</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>15</b>
+                    <b>13</b>
                     <p>Pre-season Camp</p>
                 </div>
             </div>
@@ -138,10 +138,10 @@
     <div id="Col2FlexContent" class="auditions">
         <div id="col1Flex">
             <article class="text fullWidth">
-                <h1 class="purpleText">2023 Drumline Auditions</h1>
+                <h1 class="purpleText">2024 Drumline Auditions</h1>
                 <p>Prospective CUD Members:</p>
-                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 24.</p>
-                <p>Auditionees will be notified about video audition results by July 1. Students who earn a call-back audition invitation will move to Clemson on August 14 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
+                <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 22.</p>
+                <p>Auditionees will be notified about video audition results by June 29. Students who earn a call-back audition invitation will move to Clemson on August 12 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
                 <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">
@@ -154,9 +154,9 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <a href="https://docs.google.com/document/d/18B16Zdbj1mQUcjkRoqaJjwECXwv1rQzG-sy277p81Y4/edit?usp=sharing " class="richLink" target="_blank" title="Fall Audition Schedule">2023 Audition Schedule</a>
+                <p>2024 Audition Schedule - COMING SOON</p>
                 <br>
-                <a href="https://drive.google.com/file/d/1YHfL0G6Gh9gGDkQICCkCWQCeJMiulEb9/view?usp=drive_link" class="richLink" target="_blank" title="Full Preseason Schedule">2023 Full Preseason Schedule</a>
+                <p>2024 Full Preseason Schedule - COMING SOON</p>
             </article>
         </div>
     </div>

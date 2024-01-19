@@ -116,8 +116,8 @@
                 <img class="articleImg" src='/img/Horns.jpg'>
                 <p>All Clemson University enrolled band students, regardless of major, are eligible to receive band participation-based awards. The standard award is $500 per semester and requires participation in Tiger Band AND either Symphonic Band or Jazz Ensemble (“The Jungaleers”). All three groups are auditioned ensembles; Tiger Band auditions are by video during the summer, and Symphonic Band and Jazz Ensemble auditions occur during the first week of classes in the fall semester.</p>
                 <p>Incoming freshmen who have participated in the Senior All-State or Region Bands are encouraged to submit a video audition to be considered for more than the standard award. Please prepare two short excerpts demonstrating your lyrical and technical playing. These can be from any music of your choosing, such as an etude book, All-State audition piece, concerto, solo, etc. 4 minutes of total music is plenty.</p>
-                <p>Scholarship auditions for the 2023-2024 academic year are now open. All scholarship auditions must be submitted at the link below by <b>April 30</b> in order to receive full consideration.</p>
-                  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSepovI1j1bEF5TnyaMGF0riolNLhzHEz9xi5qnJJoQFLbRQvw/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
+                <p>Scholarship auditions for the 2024-2025 academic year are now open. All scholarship auditions must be submitted at the link below by <b>April 30</b> in order to receive full consideration.</p>
+                  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScP4AEW_OPsyeyeFzxLDDKRRg_36CuhyCENM_WfYsu8Vexe3w/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
             </article>
 
             <a href="https://clemsontigerband.shopwindow.io/content/render/cms_landing_page/122e0ebb-5281-4cd6-919d-d9fc9e072904?presentation=web" class="boxWrapper" target="_blank">
@@ -134,25 +134,25 @@
 
         <div id="col1Flex">
 
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7eoFMvhoEbJuNaF0O3rwGgmovwbgmah3PJ13kczYBYrWRtQ/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+          
               <article class="text">
                   <h1>Tiger Band Zoom</h1>
                   <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg'>
                   <p>Tiger Band will be hosting Zoom sessions throughout the spring and summer for interested students.</p>
+                  <p>Stay tuned for dates and a registration link and don't forget to follow us on social media - @cutigerband</p>
                   <p>You'll get a chance to meet the staff, learn more about Tiger Band and Clemson University, and ask any questions you may have about auditions or the organization. Join us! We'd love to meet you!!</p>
-                  <p>Check back soon for dates and registration information!</p>
               </article>
-          </a>
+         
 
 
                 <article class="text">
-                    <h1>2023 Preseason Camp</h1>
+                    <h1>2024 Preseason Camp</h1>
                     <img class="articleImg" src='/img/PreseasonCamp2018.jpg'>
-                    <p>We're excited to welcome the 2023 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
+                    <p>We're excited to welcome the 2024 edition of "The Band that Shakes the Southland" to campus for our preseason camp!</p>
                     <p>Mark your calendars with our move-in dates:</p>
-                      <p><u>Drumline Callbacks</u>  <b>Monday, August 14</b></p>
-                      <p><u>Leadership Meetings</u> <b>Tuesday, August 15</b></p>
-                      <p><u>All Tiger Band Members</u> <b>Wednesday, August 16</b></p>
+                      <p><u>Drumline Callbacks</u>  <b>Monday, August 12</b></p>
+                      <p><u>Leadership Meetings</u> <b>Tuesday, August 13</b></p>
+                      <p><u>All Tiger Band Members</u> <b>Wednesday, August 14</b></p>
 
 
                 </article>
