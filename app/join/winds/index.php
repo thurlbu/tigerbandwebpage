@@ -54,6 +54,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">2024 Tiger Band Brass and Woodwind Auditions</h1>
                 <p>All auditions for wind players for the 2024 Tiger Band season will be completed by video submission. Cell phone videos are acceptable if that is the only equipment available. All of the information you need to complete and submit your video, including a video tutorial is posted below. If you still have questions, please contact the band office at 864.656.3380.</p>
+                <p>All Auditions submitted between January 20 and April 12 are eligible for an early acceptance decision on April 26. Any new member videos submitted after that date will be reviewed and considered for remaining open spots until the roster is filled. All returning members MUST have their videos submitted by April 12.</p>
                 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                 <p>The first round of drumline auditions will be via video submission due on June 22. Please see the <a href="http://tband.people.clemson.edu/drumline/">Clemson University Drumline website</a> for more details.</p>
             </article>
