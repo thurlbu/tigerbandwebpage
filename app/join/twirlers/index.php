@@ -86,7 +86,7 @@
                             <p>Your audition videos - explained in the next section - will all need to follow these requirements:</p>
                             <ul>
                               <li>Each individual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                              <li>All twirling videos must be filmed outside. The interview video may be filmed anywhere.</li>
+                              <li>Individual choreography and interview videos may be filmed indoors. Down the field routines and all fire baton routines must be filmed outdoors.</li>
                               <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                             </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
@@ -206,7 +206,7 @@
               <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements (videos with substitutions or omissions will not be considered):</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
-                <li>All twirling videos must be filmed outside. Your interview video may be filmed anywhere.</li>
+                <li>Individual chorography and interview videos may be filmed indoors. Trick video must be filmed outside on grass.</li>
                 <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                 <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup. Hair can be up or down for the twirling videos.</li>
               </ul>
