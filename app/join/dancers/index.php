@@ -151,7 +151,7 @@
             <p>The first video will be a choreographed routine to <b>Dog Days are Over</b> performed by Tiger Band.</p>
             <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p>COMING SOON!!!!</p>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/98i_o9q-6_E?si=gBC2WVLhT_rVr7B7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
