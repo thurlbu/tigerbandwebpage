@@ -73,21 +73,21 @@
                         <div class="textContainer">
                             <p>April</p>
                             <b>12</b>
-                            <p>Returners & Early Decision</p>
+                            <p>Deadline</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                         <div class="textContainer">
                             <p>April</p>
                             <b>26</b>
-                            <p>Returners & Early Decision</p>
+                            <p>Notification</p>
                         </div>
                     </div>
                     <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                         <div class="textContainer">
                             <p>July</p>
                             <b>22</b>
-                            <p>Accepted until full</p>
+                            <p>Deadline</p>
                         </div>
                     </div>
                     <div class="deadlinesInfo" id="info1">
@@ -95,11 +95,11 @@
                         <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Band Application</a></p>
                     </div>
                     <div class="deadlinesInfo" id="info2">
-                        <p>First Year Members Video Audition Submission Deadline</p>
+                        
                         <p>Returners & Early Decision applications will be notified of results via email.</p>
                     </div>
                     <div class="deadlinesInfo" id="info3">
-                        <p>Rolling auditions will continue for new members only throughout the spring and summer for open positions until all positions are filled.</p>
+                        <p>Rolling auditions will continue for <b>NEW MEMBERS ONLY</b> throughout the spring and summer for open positions until all positions are filled.</p>
                     </div>
                 </div>
             </div>
