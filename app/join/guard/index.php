@@ -172,13 +172,13 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
-                      <p>April</p>
-                          <b>27</b>
-                          <p>2nd Round Live Auditions</p>
+                      <p>July</p>
+                          <b>1</b>
+                          <p>New Member Rolling Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
+                      <p>We are still accepting audition videos until July 1st OR until roster is filled.</p>
 
 
 
@@ -188,20 +188,11 @@
 
          
           <article class="text fullWidth">
-        <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-          <h5 class="purpleText">April 27 - Clemson University Campus</h5>
-          <p>Results of the first round of video auditions will be communicated via email on or before March 22.</p>
-          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 27 and can plan to be finished by 3:00pm at the latest.</p>
-          <p>Students will receive more specific details on March 22, but the invitees should be ready for:<p>
-          <ul>
-            <li>A group warm-up session</li>
-            <li>A choreography learning session</li>
-            <li>A group performance of the learned choreography</li>
-            <li>An individual performance of learned choreography</b></li>
-            <li>An optional performance of rifle tosses</li>
-          </ul>
-
-        <p>All final audition results will be posted by the end of the day.</p>
+        <h1 class="purpleText">New Member Rolling Auditions</h1>
+          <p>We are still accepting audition videos from new members until July 1st OR until the 2024 roster is filled. There are currently a few spots still available.</p>
+          <p>Audition submissions will be reviewed as they are submitted. Please allow at least 10 days to hear about your submission to give our judges a chance to review the videos.</p>
+          <p>Students interested in submitting a rolling audition should follow the same guidelines as the 1st round videos outlined on this page.<p>
+ 
 
           
 

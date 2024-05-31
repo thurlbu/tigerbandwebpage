@@ -64,7 +64,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2024 Feature Twirler video auditions will be accepted until 11:59pm on March 1. Please submit via <a href="https://docs.google.com/forms/d/e/1FAIpQLSdOHpqg6512_OlxOlsBHQ_LSF19nBZ6bDmYYr-w-ph_bEE4Sg/viewform?usp=sf_link">THIS LINKED FORM.</a></p>
+                      <p>Auditions for the 2024 season are now closed.</p>
 
                   </div>
 
@@ -74,6 +74,8 @@
 
           <article class="text fullWidth">
                           <h1 class="purpleText">2024 Feature Twirler Auditions</h1>
+
+                          <p>Auditions for the 2024 season are now closed. You can review our audition process for future seasons by reviewing the information below.</p>
 
                           <p>Clemson University Tiger Band is now accepting audition applications for Feature Twirler for the 2024 season!</p>
                           
@@ -97,7 +99,7 @@
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                             <p><a href="/doc/FTScoreSheet2024.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
                             <br>
-                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdOHpqg6512_OlxOlsBHQ_LSF19nBZ6bDmYYr-w-ph_bEE4Sg/viewform?usp=sf_link" class="richLink cta">2024 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2024 Clemson Feature Twirler Audition Video Submission Form</a></p>
                             <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
@@ -140,7 +142,7 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdOHpqg6512_OlxOlsBHQ_LSF19nBZ6bDmYYr-w-ph_bEE4Sg/viewform?usp=sf_link" class="richLink cta">2024 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                          <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2024 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
@@ -171,11 +173,11 @@
                       <div class="textContainer">
                           <p>March</p>
                           <b>15</b>
-                          <p>Deadline for Tiger Twirler 1st Round Videos.</p>
+                          <p>Deadline for 2024 Feature Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>2024 Tiger Twirler Auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgm1qipvG2zzcygLFMVaXVPR3kXsxFQxmRv_leo0HEsrqnAg/viewform?usp=sf_link">audition form.</a> First round results will be communicated on or before March 20.</p>
+                      <p>Auditions for the 2024 season are closed.</p>
 
 
                   </div>
@@ -192,7 +194,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>A second round of live auditions will take place on campus for those that have been invited.</p>
+                      <p>Auditions for the 2024 season are closed.</p>
 
 
                   </div>
@@ -200,6 +202,7 @@
           </div>
           <article class="text fullWidth">
               <h1 class="purpleText">2024 Tiger Twirler Auditions</h1>
+              <p>Auditions for the 2024 season are now closed. You can review our audition process for future seasons by reviewing the information below.</p>
               <p>The 2024 Tiger Twirler auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 13.</p>
               <p>The first 3 audition videos are due on <b>March 15.</b> The results of the first round will be communicated via email on or before <b>March 20.</b></p>
               <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY MARCH 15 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 13.</b></p>
@@ -218,7 +221,7 @@
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                 <p><a href="/doc/TTScoreSheet2024.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
               <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgm1qipvG2zzcygLFMVaXVPR3kXsxFQxmRv_leo0HEsrqnAg/viewform?usp=sf_link" class="richLink cta">2024 Tiger Twirler Video Submission Form</a></p>
+              <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2024 Tiger Twirler Video Submission Form</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Individual Choreography</h5>
@@ -279,7 +282,7 @@
             <p>All final audition results will be posted by the end of the day.</p>
 
                         <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdgm1qipvG2zzcygLFMVaXVPR3kXsxFQxmRv_leo0HEsrqnAg/viewform?usp=sf_link" class="richLink cta">2024 Tiger Twirler Video Submission Form</a></p>
+              <p><a href="https://tband.people.clemson.edu/join/twirlers/" class="richLink cta">2024 Tiger Twirler Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 

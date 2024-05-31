@@ -59,7 +59,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2024 First Round Videos are due by 11:59pm. Please submit all videos via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link">SUBMISSION FORM.</a></p>
+                      <p>Tiger Dancer Auditions for the 2024 season are closed.</p>
 
 
                   </div>
@@ -69,6 +69,7 @@
 
           <article class="text fullWidth">
               <h1 class="purpleText">2024 Tiger Dancer Auditions</h1>
+          <p>Auditions for the 2024 season are now closed. If you'd like to see what our audition process is like for future seasons, please review the process from this season below.</p>    
           <p>The 2024 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 7.</p>
           <p>The first 2 audition videos are due on <b>March 15.</b> All results will be communicated via email by <b>March 22</b>.</p>
           <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 15 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 7.</b></p>
@@ -86,7 +87,7 @@
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
             <p><a href="/doc/2024ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+<p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
           <h5 class="purpleText">April 7 - Clemson University Campus</h5>
@@ -103,7 +104,7 @@
 
         <p>All final audition results will be posted by the end of the day.</p>
 
-          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+          <p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
 
               </article>
           <!--- PHOTO SLIDER --->
@@ -180,7 +181,7 @@
                         </div>
 
                               <br>
-                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFqo4VmKGQdOzQQ6Myk7iQcamtCo9oua7ootow7heO8J3LLQ/viewform?usp=sf_link" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+                    <p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:clemsontigerdancers@gmail.com">clemsontigerdancers@gmail.com</a></p>
                   </article>
 
