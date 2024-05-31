@@ -173,7 +173,7 @@
                       <div class="textContainer">
                           <p>March</p>
                           <b>15</b>
-                          <p>Deadline for 2024 Feature Twirler Auditions</p>
+                          <p>Deadline for 2024 Tiger Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
