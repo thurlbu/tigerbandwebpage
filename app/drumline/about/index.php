@@ -16,7 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="The official website of the Clemson University Drumline">
-    <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Vic Firth, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
+    <meta name="keywords" content="Clemson, University, Drumline, CUD, Marching, Percussion, Band, Drum Line, Yamaha, Drums, Remo, Drumheads, Heads, Sabian, Cymbals, Innovative Percussion, Drumsticks, Sticks, Sheet Music, Music, mp3, pdf, Technique, Manuals, Articles, Audition, Schedule, Information, Packets, Packet, Photo, Gallery, Members, Instructional, Staff">
     <meta name="copyright" content="2009-2018 Clemson University Drumline">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -53,7 +53,7 @@
             </article>
             <article class="text fullWidth">
                 <h1 class="purpleText">Sponsors</h1>
-                <p>The Clemson Drumline is sponsored by Remo Drumheads, Sabian Cymbals, DrumTagz Drum Wraps, Vic Firth Drumsticks, and Yamaha Marching Percussion. We greatly value the relationships we have with all of our sponsors.</p>
+                <p>The Clemson Drumline is sponsored by Remo Drumheads, Sabian Cymbals, DrumTagz Drum Wraps, Innovative Percussion, and Yamaha Marching Percussion. We greatly value the relationships we have with all of our sponsors.</p>
             </article>
         </div>
 
@@ -72,8 +72,8 @@
         <a href="http://remo.com/" target="_blank">
             <img src="../img/logos/remo.svg">
         </a>
-        <a href="http://vicfirth.com/" target="_blank">
-            <img src="../img/logos/vic-firth.svg">
+        <a href="https://www.innovativepercussion.com/" target="_blank">
+            <img src="../img/logos/IP.png">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg">
@@ -98,11 +98,11 @@
                 <h1>Dr. Paul Buyer</h1>
                 <h2 class="purpleText">Director of Percussion</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/pbuyer.png" class="staffPortrait">
+                    <img src="../img/staff/pbuyer.jpeg" class="staffPortrait">
                     <p>Dr. Paul Buyer is Director of Percussion, Director of Music, and Professor of Music at Clemson University.  He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
                     <p>Featured in SUCCESS Magazine’s Achiever’s Series, Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>Drumline Gold: Innovative Systems for Marching Percussion Excellence</i> (Meredith Music Publications), <i>Working Toward Excellence: 8 Values for Achieving Uncommon Success in Work and Life</i> (Morgan James Publishing), <i>Marching Bands and Drumlines: Secrets of Success from the Best of the Best</i> (Meredith Music Publications), and co-author of <i>The Art of Vibraphone Playing: An Essential Method for Study and Performance</i> (Meredith Music Publications).</p>
                     <p>He is a contributing author to the second edition of <i>Teaching Percussion</i> by Gary Cook, and his articles have appeared in <i>American Music Teacher, Teaching Music, Jazz Education Network, Percussive Notes,</i> and <i>The PAS Educators’ Companion.</i> He has been interviewed for the <i>Rudimental Mindset</i> podcast, <i>The Marching Roundtable</i> podcast, <i>Pete's Percussion</i> podcast, <i>The Washington Tattoo</i> podcast, Sabian Insights, Neil Grover's <i>Discussions in Percussion</i>, and Deomenico Zarro's blog, <i>The Percussion Student</i> among others.</p>
-                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Vic-Firth Drumsticks, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Balter Mallets. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for <i>Percussive Notes,</i> the official PAS journal.</p>
+                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Innovative Percussion, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Balter Mallets. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for <i>Percussive Notes,</i> the official PAS journal.</p>
                 </div>
             </article>
             <article class="text fullWidth expand" onclick="expand(this)">
