@@ -73,7 +73,7 @@
             <img src="../img/logos/remo.svg">
         </a>
         <a href="https://www.innovativepercussion.com/" target="_blank">
-            <img src="../img/logos/IP.png">
+            <img src="../img/logos/IP.png" width="1536" height="1152">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg">
