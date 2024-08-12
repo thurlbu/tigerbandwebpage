@@ -154,9 +154,7 @@
             <article class="text fullWidth">
                 <h1 class="purpleText">Schedules</h1>
                 <p>A detailed band camp schedule will be sent to all prospective members in mid-late July. There will be additional weekend rehearsals up until the first football game.</p>
-                <p>2024 Audition Schedule - COMING SOON</p>
-                <br>
-                <p>2024 Full Preseason Schedule - COMING SOON</p>
+                <p><a href="https://tband.people.clemson.edu/drumline/doc/2024PreseasonSchedule.pdf">2024 Full Preseason Schedule</a></p>
             </article>
         </div>
     </div>
@@ -179,7 +177,7 @@
         </article>
         <article class="text fullWidth">
             <h1>Audition Material</h1>
-            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises are required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 1st</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 1st to download the show excerpt and prepare it for the call-back auditions.</p>
+            <p>Instrument assignments will be based on the ensemble audition (using the music found on the <a href="https://docs.google.com/document/d/1K8HMaopNcJwJFDNlff3y6RL3ttI2FfvE8Ta_pgUd77A/edit">Music page</a>) and the individual audition (which includes sight reading). <strong>Memorization of the exercises is required for the audition</strong>; cadences, supplemental materials, and pregame music do not have to be memorized for the audition. In addition, <strong>a show excerpt will be posted on the Music page on August 6th</strong>. This excerpt is expected to be playable with musical expression and memorized for the purpose of emulating mid-season music distribution. Please check the website on August 6th to download the show excerpt and prepare it for the call-back auditions.</p>
             <p><u>Basses and Cymbals:</u><br/>When practicing split parts, Basses should choose one of the drums and Cymbals should choose one of the Cymbal parts described in the <a href="/doc/CymbalNotationLegend(2010.07.06).pdf" target="_blank">Notation Legend</a>. During the ensemble audition, <strong>you may be moved around</strong>, so being adaptable and having a basic knowledge of the part as a whole would be to your advantage. The cymbal line plays a variety of techniques that are described in the <a href="https://docs.google.com/document/d/1NUsNK8ojJ9HUMhJF1uHkof-qPFbd4pgOF6Sh3er-tUM/edit" target="_blank">Cymbal Technique Manual</a> including crashes, chokes, slides, hi-hats, smashes, sizzles, scrapes, and taps. Cymbals may be asked to play forte crashes and upbeat hi-hats while marking time to demonstrate sound quality and timing/feel. New cymbal players should also refer to the article, <a href="/doc/PBuyer-2001-MotivatingtheCymbalLine.pdf" target="_blank"><i>Motivating the Marching Cymbal Line</i></a> and do your best. We will teach you these techniques in further detail when you arrive at camp.</p>
         </article>
         <article class="text fullWidth">
@@ -196,15 +194,15 @@
                 <li>Practice page</li>
                 <li>Sticks</li>
                     <ul>
-                        <li>Snares need to bring their own sticks to auditions - Vic Firth Mike Jackson signature sticks</li>
-                        <li>Quads need to bring their own sticks to auditions - Vic Firth Bill Bachman Billy Clubs</li>
+                        <li>Snares need to bring their own sticks to auditions - Innovative Percussion FS-PR2</li>
+                        <li>Quads need to bring their own sticks to auditions - Innovative Percussion TS-PR</li>
                         <li>Basses will be provided with mallets but should also bring sticks and a practice pad</li>
                     </ul>
                 <li>Pencils (everyone) and Highlighters (basses &amp; cymbals only)</li>
                 <li>Appropriate clothes and shoes for marching rehearsals</li>
                 <li>Ear plugs</li>
                     <ul>
-                        <li><a href="http://vicfirth.com/products/accessories/hearing-protection/high-fidelity-earplugs-regular/" target="_blank">Vic Firth ear plugs</a> will be sold at band camp and throughout the year for $10 a pair</li>
+                        <li>Vibes ear plugs</a> will be sold at band camp and throughout the year for $10 a pair</li>
                         <li>Or, you can purchase your own - Ear plugs are required for all indoor rehearsals the entire season!</li>
                     </ul>
                 <li>Required Purchases at Tiger Band Registration:</li>
