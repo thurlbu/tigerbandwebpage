@@ -11,7 +11,7 @@
     gtag('config', 'UA-8965430-3');
   </script>
     <meta charset="utf-8">
-    <title>Managers | Tiger Band</title>
+    <title>Operations Team | Tiger Band</title>
     <link rel="stylesheet" href="/css/main.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <meta name=viewport content="width=device-width, initial-scale=1">
@@ -38,8 +38,8 @@
 <body>
   <div class="section-heading">
     <div class="section-quote" id="quoteBox">
-      <h1>Managers</h1>
-      <p>Welcome to the Tiger Band Managers! We support all of the logisitcal needs of Tiger Band. We also get to ride a golf cart.</p>
+      <h1>Operations Team</h1>
+      <p>Welcome to the Tiger Band Operations Team! We support all of the logisitcal needs of Tiger Band. We also get to ride a golf cart.</p>
       <p>&mdash; Caroline</p>
     </div>
     <img src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894929/Section%20Pages/Managers/header.jpg">
@@ -52,10 +52,16 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894757/Section%20Pages/Managers/caroline-web.jpg">
-      <h3>Caroline Webb</h3>
-      <p>Sophomore | Political Science<br/>Lugoff, SC</p>
+      <h3>Ellie Autry</h3>
+      <p>Sophomore | History, Secondary Education<br/>West Columbia, SC</p>
     </div>
-  </div>
+
+  <div class="section-leader">
+      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551894757/Section%20Pages/Managers/caroline-web.jpg">
+      <h3>Lucia Kirland</h3>
+      <p>Sophomore | Criminal Justice, Political Science<br/>Columbia, SC</p>
+    </div>
+</div>
 
   <div class="heading section-pages">
       <h4>Traditions</h4>

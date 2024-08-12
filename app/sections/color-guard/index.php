@@ -52,28 +52,16 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681178/Section%20Pages/Color%20Guard/section-leader-1.jpg">
-      <h3>Andra Cummings</h3>
-      <p>Senior | Genetics <br/>Simpsonville, SC</p>
+      <h3>Alexis Hagedorn</h3>
+      <p>Junior | Elementary Education <br/>Simpsonville, SC</p>
     </div>
 
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291269/Section%20Pages/Color%20Guard/elizabeth-turner.png">
-      <h3>Elizabeth Turner</h3>
-      <p>Senior | Civil Engineering<br/>Dallas, TX</p>
+      <h3>Eva Grace Kirkman</h3>
+      <p>Senior | Management <br/>Piedmont, SC</p>
     </div>
 
-    <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551893876/Section%20Pages/Color%20Guard/olivia-papotto.jpg">
-      <h3>Olivia Papotto</h3>
-      <p>Senior | Computer Information Systems<br/>Pelzer, SC</p>
-    </div>
-    
-    <div class="section-leader">
-      <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291433/Section%20Pages/Color%20Guard/gwyneth-terry.png">
-      <h3>Gwyneth Terry</h3>
-      <p>Sophomore | Spanish & International Business<br/>Seneca, SC</p>
-    </div>
-  </div>
 
   <div class="heading section-pages">
       <h4>Our Section</h4>

@@ -52,14 +52,14 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291151/Section%20Pages/Clarinets/section-leader-1.png">
-      <h3>Tyrell Fleshman</h3>
-      <p>Junior | English <br/>Columbia, SC</p>
+      <h3>Quinnya Burns</h3>
+      <p>Junior | Management <br/>Sumter, SC</p>
     </div>
 
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587681218/Section%20Pages/Clarinets/section-leader-2.jpg">
-      <h3>Natalie Henderson</h3>
-      <p>Senior | Nursing <br/>Greenville, SC</p>
+      <h3>Ruth Salas-Rodriguez</h3>
+      <p>Senior | Mechanical Engineering <br/>Aiken, SC</p>
     </div>
   </div>
 

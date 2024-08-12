@@ -53,13 +53,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291450/Section%20Pages/Piccolos/section-leader-1.png">
-      <h3>Megan Patterson</h3>
-      <p>Junior | Biochemistry and Genetics<br/>Austin, TX</p>
+      <h3>Elise Calixte</h3>
+      <p>Senior | Chemistry<br/>Greer, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588041518/Section%20Pages/Piccolos/section-leader-2.jpg">
-      <h3>Hannah Kadets</h3>
-      <p>Senior | Animal Veterinary Science<br/>Shelby Twp, Michigan</p>
+      <h3>Avery Robinson</h3>
+      <p>Senior | Modern Languages & Women's Leadership<br/>Mount Pleasant, SC</p>
     </div>
   </div>
 

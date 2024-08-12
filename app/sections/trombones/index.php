@@ -52,13 +52,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/q_auto/v1551960380/Section%20Pages/Trombones/trevor-kimbrell.jpg">
-      <h3>Trevor Kimbrell</h3>
-      <p>Senior | Health Services Administration<br/>Mt. Pleasant, SC</p>
+      <h3>Tien Nguyen</h3>
+      <p>Senior | Computer Science <br/>Greenville, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291708/Section%20Pages/Trombones/Jith.png">
-      <h3>Jith Vishwanath</h3>
-      <p>Junior | Engineering<br/>Alpharetta, GA</p>
+      <h3>James Suggs</h3>
+      <p>Senior | Chemical Engineering<br/>Florence, SC</p>
     </div>
   </div>
 

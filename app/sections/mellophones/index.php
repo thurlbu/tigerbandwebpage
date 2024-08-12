@@ -52,13 +52,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023250/Section%20Pages/Mellophones/section-leader-1.jpg">
-      <h3>Sadie Bates</h3>
-      <p>Senior | Chemical Engineering<br/>Summerville, SC</p>
+      <h3>Eric Mitchell</h3>
+      <p>Senior | Computer Engineering<br/>Irmo, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588023773/Section%20Pages/Mellophones/section-leader-2.jpg">
-      <h3>Stuart Saletan</h3>
-      <p>Senior | Computer Science<br/>Charleston, SC</p>
+      <h3>June Simms</h3>
+      <p>Sophomore | Mechanical Engineering <br/>Pickens, SC</p>
     </div>
   </div>
 

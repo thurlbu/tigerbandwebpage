@@ -53,13 +53,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291510/Section%20Pages/Sousaphones/section-leader-1.png">
-      <h3>Will Betsill</h3>
-      <p>Senior | Biochemistry <br/>Easley, SC</p>
+      <h3>Joey Cangelosi</h3>
+      <p>Senior | Environmental and Natural Resources <br/>Sugar Hill, GA</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291636/Section%20Pages/Sousaphones/jakob-mckinney-1.png">
-      <h3>Jake Mckinney</h3>
-      <p>Senior | Mechanical Engineering <br/>Lexington, SC</p>
+      <h3>Graham McCrary</h3>
+      <p>Senior | Financial Management <br/>Clemson, SC</p>
     </div>
   </div>
 

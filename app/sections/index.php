@@ -56,7 +56,7 @@
           </div>
         </div>
     </a>
-    <a href="tenor-saxes/">
+    <a href="https://tband.people.clemson.edu/sections/alto-saxes/">
       <div id="tenors" class="boxWrapper">
         <div class="boxUIelement sq section">
             <div class="textContainer hide">

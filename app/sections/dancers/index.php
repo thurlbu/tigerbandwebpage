@@ -53,13 +53,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291308/Section%20Pages/Dancers/section-leader-1.png">
-      <h3>Mikayla Bennett</h3>
-      <p>Senior | Psychology <br/>Indian Land, SC</p>
+      <h3>Allyson Good</h3>
+      <p>Senior | Management <br/>Remington, VA</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587657146/Section%20Pages/Dancers/section-leader-2.jpg">
-      <h3>Samantha Bernard</h3>
-      <p>Junior | Mathematical Sciences<br/>Charlotte, NC</p>
+      <h3>Madison Lombardo</h3>
+      <p>Senior | Marketing <br/>Ridge, NY</p>
     </div>
   </div>
 

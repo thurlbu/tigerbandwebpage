@@ -52,13 +52,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291098/Section%20Pages/Alto%20Saxophones/section-leader-1.png">
-      <h3>Lauren Davis</h3>
-      <p>Senior | Bioengineering <br/>Lakeville, MN</p>
+      <h3>Jordan Brown</h3>
+      <p>Junior | Health Science <br/>Columbia, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1587734276/Section%20Pages/Alto%20Saxophones/section-leader-2.jpg">
-      <h3>Charlie Brooks-Knepfle</h3>
-      <p>Senior | Music <br/>Central, SC</p>
+      <h3>Clara Nichols</h3>
+      <p>Senior | Graphic Communications <br/>Asheville, NC</p>
     </div>
   </div>
 

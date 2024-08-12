@@ -52,18 +52,18 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588080744/Section%20Pages/Trumpets/section-leader-3.jpg">
-      <h3>Andrew Marsh</h3>
-      <p>Senior | Mechanical Engineering <br/>Pickens, SC</p>
+      <h3>Lance Brown</h3>
+      <p>Junior | Marketing <br/>Salley, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291725/Section%20Pages/Trumpets/Sabrina_Linke.png">
-      <h3>Sabrina Linke</h3>
-      <p>Senior | Mechanical Engineering <br/>Summerville, SC</p>
+      <h3>Gunar Sekhon</h3>
+      <p>Junior | Biochemistry <br/>Central, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291727/Section%20Pages/Trumpets/Drew_Ivey.png">
-      <h3>Drew Ivey</h3>
-      <p>Senior | Electrical Engineering <br/>York, SC</p>
+      <h3>Parker Welsh</h3>
+      <p>Senior | Civil Engineering <br/>Graniteville, SC</p>
     </div>
   </div>
 

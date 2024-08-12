@@ -52,8 +52,8 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291754/Section%20Pages/Twirlers/Amy_Rees.png">
-      <h3>Amy Rees</h3>
-      <p>Senior | Biology and Spanish <br/>Loganville, SC</p>
+      <h3>Caitlin Parker</h3>
+      <p>Senior | Marketing <br/>Colebert, GA</p>
     </div>
   </div>
 

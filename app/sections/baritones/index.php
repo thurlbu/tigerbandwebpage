@@ -52,13 +52,13 @@
   <div class="section-leaders-content">
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1588021606/Section%20Pages/Baritones/section-leader-1.jpg">
-      <h3>Morgan Oliver</h3>
-      <p>Senior | Landscape Architecture<br/>Columbia, SC</p>
+      <h3>Chase Snoots</h3>
+      <p>Junior | Mechanical Engineering <br/>Mount Pleasant, SC</p>
     </div>
     <div class="section-leader">
       <img class="section-leader-photo" src="https://res.cloudinary.com/clemson-university-tiger-band/image/upload/v1617291130/Section%20Pages/Baritones/section-leader-2.png">
-      <h3>Marshall Murdaugh</h3>
-      <p>Senior | Mechanical Engineering <br/>Greenville, SC</p>
+      <h3>Katie Susol</h3>
+      <p>Senior | Mechanical Engineering <br/>Charleston, SC</p>
     </div>
   </div>
 
