@@ -73,7 +73,7 @@
             <img src="../img/logos/remo.svg">
         </a>
         <a href="https://www.innovativepercussion.com/" target="_blank">
-            <img src="../img/logos/IP.png">
+            <img src="../img/logos/IP2.png">
         </a>
         <a href="http://www.sabian.com/en/home" target="_blank">
             <img src="../img/logos/sabian.svg">
@@ -99,22 +99,21 @@
                 <h2 class="purpleText">Director of Percussion</h2>
                 <div class="staffBio">
                     <img src="../img/staff/pbuyer.jpeg" class="staffPortrait">
-                    <p>Dr. Paul Buyer is Director of Percussion, Director of Music, and Professor of Music at Clemson University.  He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
-                    <p>Featured in SUCCESS Magazine’s Achiever’s Series, Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>Drumline Gold: Innovative Systems for Marching Percussion Excellence</i> (Meredith Music Publications), <i>Working Toward Excellence: 8 Values for Achieving Uncommon Success in Work and Life</i> (Morgan James Publishing), <i>Marching Bands and Drumlines: Secrets of Success from the Best of the Best</i> (Meredith Music Publications), and co-author of <i>The Art of Vibraphone Playing: An Essential Method for Study and Performance</i> (Meredith Music Publications).</p>
-                    <p>He is a contributing author to the second edition of <i>Teaching Percussion</i> by Gary Cook, and his articles have appeared in <i>American Music Teacher, Teaching Music, Jazz Education Network, Percussive Notes,</i> and <i>The PAS Educators’ Companion.</i> He has been interviewed for the <i>Rudimental Mindset</i> podcast, <i>The Marching Roundtable</i> podcast, <i>Pete's Percussion</i> podcast, <i>The Washington Tattoo</i> podcast, Sabian Insights, Neil Grover's <i>Discussions in Percussion</i>, and Deomenico Zarro's blog, <i>The Percussion Student</i> among others.</p>
-                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha Percussion, Innovative Percussion, Remo Drumheads, Sabian Cymbals, Grover Pro Percussion, and is an Educational Artist for Balter Mallets. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for <i>Percussive Notes,</i> the official PAS journal.</p>
+                    <p>Paul Buyer is Director of Percussion and Professor of Music at Clemson University where he also served as Acting Associate Dean for Research and Faculty Affairs for the College of Arts and Humanities. He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
+                    <p>Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>World Music, Drumline Gold, Working Toward Excellence, Marching Bands and Drumlines,</i> and co-author of <i>The Art of Vibraphone Playing</i>. His articles have appeared in <i>American Music Teacher, Teaching Music, Yamaha Educator Suite, Jazz Education Network, Percussive Notes, Rhythm! Scene,</i> and <i>The PAS Educators’ Companion</i>.</p>
+                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha, Innovative Percussion, Remo, Sabian, and Grover. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for Percussive Notes, the official PAS journal.</p>
                 </div>
             </article>
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>JT Hill</h1>
-                <h2 class="purpleText">2023 Section Leader</h2>
+                <h1>Jonathan Byers</h1>
+                <h2 class="purpleText">2024 Section Leader</h2>
                 <div class="staffBio">
-                    <img src="../img/staff/JTHill.jpg" class="staffPortrait">
-                    <p>J.T. Hill, from Tampa, Florida, is a Clemson University Drumline (CUD) section leader for the 2023 Tiger Band season. He joined the marching band in high school and played cymbals and quads. While at Clemson, J.T. has performed in Steel Band, Guitar Ensembles, and has been a member of CUD since he was a freshman. Some of his favorite memories from Tiger Band include the trip down to Miami for the Orange Bowl and College Football Gameday against NC State.</p>
-                    <p>He is currently a junior pursuing a degree in Construction Science and Management. In his free time, he enjoys playing spikeball, watching hockey, and hanging out with friends and family. Some of J.T.’s favorite movies include Star Wars and Step Brothers, featuring his favorite comedian, Will Ferrell.</p>
+                    <img src="../img/staff/Byers.jpg" class="staffPortrait">
+                    <p>Jonathan Byers, from Westminster, South Carolina, is a Clemson University Drumline (CUD) section leader for the 2024 Tiger Band season. He joined marching band and indoor percussion in high school and has played both bass and snare drum. While at Clemson, Jonathan has been a member of CUD since he was a freshman and has performed in Steel Band. Some of his favorite memories from Tiger Band include the 2022 Orange Bowl trip to Miami, Florida, and CUD’s first ever performance at the Clemson v.s. USC hockey game.</p>
+                    <p>He is currently a junior pursuing a Business Management degree. In his free time, he enjoys playing pickleball, teaching percussion, and going to the gym. Jonathan enjoys watching SNL every weekend in hopes that his favorite actor/comedian/musician, Will Ferrell, will be hosting.</p>
                 </div>
             </article>
         </div>
@@ -138,7 +137,7 @@
                     <img src="../img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Luke Manolescu</h1>
-                <h2 class="purpleText">2023 Section Leader</h2>
+                <h2 class="purpleText">2024 Section Leader</h2>
                 <div class="staffBio">
                     <img src="../img/staff/LukeM.jpg" class="staffPortrait">
                     <p>Luke Manolescu, from West Grove, PA, is a Clemson University Drumline (CUD) section leader for the 2023 Tiger Band season. He joined marching band as well as indoor percussion in high school and has played both bass and snare drum. While at Clemson, Luke has been a member of CUD since he was a freshman and has enjoyed an historical run for Clemson Football. Some of his favorite memories from CUD and Tiger Band are traveling to Boston College, experiencing the 2022 ACC Championship, and performing the first ever Drumline 3rd Quarter show in front of the student section.</p>
