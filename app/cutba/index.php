@@ -49,7 +49,7 @@
     <a href="https://secure.touchnet.net/C20569_ustores/web/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Newsletter</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba?utm_source=digital_website&utm_medium=tdf_link&utm_campaign=dar_online_giving_cutba&utm_term=giving_button_cutba&utm_content=departmental_site_giving_button" class="mobileNav" target="_blank">Donate to CUTBA</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba/buy-a-brick" class="mobileNav">Buy a Brick</a>
-    <a href="https://secure.touchnet.net/C20569_ustores/web/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNAV">Register for Homecoming</a>
+    <a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=1973&SINGLESTORE=true" class="mobileNAV">Register for Homecoming</a>
 </nav>
 
 <!--- PAGE CONTENT --->
@@ -93,11 +93,11 @@
                 </div>
             </a>
 
-            <a href="https://forms.gle/gyH4BV7DJqYEsEaj9" target="_blank">
+            <a href="https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=1973&SINGLESTORE=true" target="_blank">
                 <div class="boxWrapper">
                     <div id="homepageNav2" class="boxUIelement rect purp">
                         <div class="textContainer">
-                            <p>Hawai'i Trip Interest Form</p>
+                            <p>Register for Alumni Band</p>
                         </div>
                     </div>
                 </div>
@@ -123,15 +123,7 @@
                 </div>
             </a>
 
-             <a href="https://secure.touchnet.net/C20569_ustores/web/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true">
-                <div class="boxWrapper">
-                    <div id="homepageNav5" class="boxUIelement rect orange">
-                        <div class="textContainer">
-                            <p>Register for Homecoming</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
+             
 
         </div>
     </div>
@@ -145,14 +137,7 @@
         <div id="col1Flex">
 
         <article class="text">
-                <h1 class="purpleText">CUTBA is going to Hawai'i!</h1>
-                <img class="articleImg" src='img/USSMissouri.jpeg'>
-                <p>The Pearl Harbor Memorial Parade Committee has invited the Clemson University Alumni Band to represent the state of South Carolina at their event commemorating the 80th anniversary of World War II. CUTBA is working diligently to put together the trip in conjunction with, <a href="https://www.historicprograms.org/">Historic Programs</a>.</p>
-                <p>Please join us in honoring the service members who defended Pearl Harbor in Honolulu, Hawai’i. This invitation is open to any former member of the Clemson University Tiger Band, current members of CUTBA, friends of Tiger Band, and their friends and families. Please note that only Tiger Band Alumni will be eligible to participate in the performances.</p>
-                <p>The band will play a tribute concert at the USS Missouri at Pearl Harbor and parade down Kalakaua Avenue in the Pearl Harbor Memorial Parade along side other bands from around the country. Other highlights of this trip will include a tour of the island of Oahu which includes Diamond Head, Pali Lookout, Dole Plantation, North Shores Beaches, the world-famous Banzai Pipeline, Waimea Bay, and Sunset Beach. We will visit the USS Arizona Memorial, the Polynesian Cultural Center, and provide plenty of free time to explore the beaches, hiking trails, and culture of Hawai’i.</p>
-                <p>This is an opportunity for the trip of a lifetime. Please follow the link below to the interest form for the trip. This interest form will get you on the list for additional information. If you have previously expressed your interest, you do not need to complete the form again.</p>
-                <p><a href="https://forms.gle/gyH4BV7DJqYEsEaj9">HAWAI'I TRIP INTEREST FORM</a></p>
-            </article>
+               
 
             <article class="text">
                 <h1 class="purpleText">CUTBA Wants YOU!</h1>

@@ -320,7 +320,7 @@
                 <h2 class="purpleText">President</h2>
                 <div id="expand1" class="hide">
                     <p><strong>Graduation Year:</strong> 2005<br>
-                    <strong>Instrument:</strong> Sousaphone
+                   
                     </p>
                 </div>
             </article>
@@ -328,11 +328,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button2">
                 </div>
-                <h1>Walter Betsill</h1>
+                <h1>Alicia Cameron</h1>
                 <h2 class="purpleText">Vice President</h2>
                 <div id="expand2" class="hide">
-                <p><strong>Graduation Year:</strong> 1985<br>
-                    <strong>Instrument:</strong> Percussion
+                <p><strong>Graduation Year:</strong> 2020<br>
+                
                     </p>
                 </div>
             </article>
@@ -342,11 +342,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button3">
                 </div>
-                <h1>Lee Maiden</h1>
+                <h1>Mary Barron</h1>
                 <h2 class="purpleText">Secretary</h2>
                 <div id="expand3" class="hide">
-                <p><strong>Retirement Year:</strong> 2021<br>
-                    <strong>Tiger Band Position:</strong> Administrative Coordinator
+                <p><strong>Retirement Year:</strong> 1978<br>
+                    
                     </p>
                 </div>
             </article>
@@ -354,11 +354,11 @@
                 <div class="expandButton">
                     <img src="../img/logos/dropdownArrow.svg" width="75" id="button4">
                 </div>
-                <h1>Alicia Cameron</h1>
+                <h1>Victor Fleifel</h1>
                 <h2 class="purpleText">Treasurer</h2>
                 <div id="expand4" class="hide">
-                <p><strong>Graduation Year:</strong> 2020<br>
-                    <strong>Instrument:</strong> Trumpet
+                <p><strong>Graduation Year:</strong> 2022<br>
+                   
                     </p>
                 </div>
             </article>
@@ -380,9 +380,9 @@
                 <h1>Joseph & Michelle Paddenburg</h1>
                 <h2 class="purpleText">Greenville, SC Representative</h2>
                 <div id="expand5" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:paddenburgs5@charter.net"> paddenburgs5@charter.net</a><br>
+                    
 
-                    </p>
+                    
             </div>
             </article>
 
@@ -393,9 +393,7 @@
                 <h1>Mindy Hester</h1>
                 <h2 class="purpleText">Charleston, SC Representative</h2>
                 <div id="expand7" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:mindy_hester@hotmail.com"> mindy_hester@hotmail.com</a><br>
-                    <strong>Phone:</strong> 864-923-0725<br>
-                    </p>
+                   
                 </div>
             </article>
 	   </div>
@@ -407,9 +405,7 @@
                 <h1>Kevin Wigington</h1>
                 <h2 class="purpleText">Charlotte/York Representative</h2>
                 <div id="expand9" class="hide">
-                    <p><strong>Email:</strong><a href="mailto:kevinwigington@earthlink.com"> kevinwigington@earthlink.com</a><br>
-                    <strong>Phone:</strong> 704-562-2575<br>
-                    </p>
+                  
                 </div>
             </article>
 
