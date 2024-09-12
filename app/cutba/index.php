@@ -44,8 +44,6 @@
     <a href="/" class="mobileNav" target="_blank">Tiger Band Website</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/classic/store_cat.jsp?STOREID=192&CATID=371&SINGLESTORE=true"
         class="mobileNav" target="_blank">CUTBA and Tiger Band Merchandise</a>
-    <a href="https://forms.gle/gyH4BV7DJqYEsEaj9" class="mobileNav"
-        target="_blank">Hawai'i trip interest form</a>
     <a href="https://secure.touchnet.net/C20569_ustores/web/store_cat.jsp?STOREID=192&CATID=368&SINGLESTORE=true" class="mobileNav" target="_blank">CUTBA Newsletter</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba?utm_source=digital_website&utm_medium=tdf_link&utm_campaign=dar_online_giving_cutba&utm_term=giving_button_cutba&utm_content=departmental_site_giving_button" class="mobileNav" target="_blank">Donate to CUTBA</a>
     <a href="https://iamatiger.clemson.edu/giving/cutba/buy-a-brick" class="mobileNav">Buy a Brick</a>
@@ -123,7 +121,15 @@
                 </div>
             </a>
 
-             
+             <a href="https://tband.people.clemson.edu/cutba/about/">
+                <div class="boxWrapper">
+                    <div id="homepageNav5" class="boxUIelement rect orange">
+                        <div class="textContainer">
+                            <p>Learn More about CUTBA</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
 
         </div>
     </div>
