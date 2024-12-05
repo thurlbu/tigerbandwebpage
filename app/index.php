@@ -174,16 +174,16 @@
              </article>
          </a>
 
-         <article class="media">
-             <h1>Are You Ready?</h1>
-             <p>Tiger Band plays an integral role in the campus community. Help us continue our mission by becoming a member of Tiger Band in 2022!!</p>
-             <div class="iframeContainer">
-                 <div class="iFrameAspectRatio">
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/X9eSUyyFyhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                 </div>
-             </div>
+         <a href="https://www.scfederal.org/" class="boxWrapper" target="_blank">
+         <article class="text">
+             <h1>THANK YOU!</h1>
+             <img class="articleImg" src='/img/SCFCU_Logo_Color_VERT.png'>
+             <p>Tiger Band would like to thank the South Carolina Federal Credit Union for their support and sponsorship this season! Connect with them today for all your finanical products and service needs!</p>
+             </article>   
+        </a> 
+            
 
-         </article>
+   
 
 
         </div>
@@ -192,11 +192,11 @@
 
 
           <article class="media">
-              <h1>Tiger Band Performs the Music from Top Gun!</h1>
-              <p>Check out Tiger Band's first performance of the 2022 season! Make sure you watch until the end when they land an F-18 on an aircraft carrier!!</p>
+              <h1>Tiger Band Performs the Women of Pop Show!</h1>
+              <p>Check out Tiger Band's first performance of the 2024 season!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                   <iframe width="560" height="315" src="https://www.youtube.com/embed/1yRQmTuj8No" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/fdAYVzi1uZE?si=33uviz877knoquXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                   </div>
               </div>
 
