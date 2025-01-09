@@ -99,11 +99,11 @@
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                             <p>The scoresheet that all of the judges will use will be posted here as soon as it is finalized.</p>
                             <br>
-                            <p><b>By submitting your audition materials, you are agreeing to the following conditions:</b></p>
+                            <p><b>By submitting your audition materials, you are agreeing to the following conditions:</p>
                             <ul>
                                 <li>ALL DECISIONS MADE BY THE PANEL OF JUDGES ARE FINAL</li>
-                                <li>JUDGE'S IDENTITIES WILL BE KEPT CONFIDENTIAL FROM ALL AUDITIONERS TO RESPECT THEIR PRIVACY</li>
-                                <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED WITH AUDITIONERS</li>
+                                <li>JUDGE'S IDENTITIES WILL BE KEPT CONFIDENTIAL TO RESPECT THEIR PRIVACY</li>
+                                <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED</li></b>
                             </ul>
                             <br>
                             <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog" class="richLink cta">2025 Clemson Feature Twirler Audition Video Submission Form</a></p>
@@ -200,13 +200,11 @@
                       <div class="textContainer">
                           <p>March</p>
                           <b>29</b>
-                          <p>2nd Round Live Auditions on the Clemson University campus</p>
+                          <p>2nd Round Live Auditions on the Clemson campus</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                  <p>Submit your 2025 Tiger Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog" class="richLink cta">this form.</a></p>
-                      <p>Audition requirements are below.</p>
-                      <p>Results will be communicated via email on or before February 28.</p>>
+                      <p>First Round Results will be communicated via email on or before February 28.</p>>
 
 
                   </div>
@@ -233,11 +231,11 @@
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
                             <p>The scoresheet that all of the judges will use will be posted here as soon as it is finalized.</p>
                             <br>
-                            <p><b>By submitting your audition materials, you are agreeing to the following conditions:</b></p>
+                            <p><b>By submitting your audition materials, you are agreeing to the following conditions:</p>
                             <ul>
                                 <li>ALL DECISIONS MADE BY THE PANEL OF JUDGES ARE FINAL</li>
-                                <li>JUDGE'S IDENTITIES WILL BE KEPT CONFIDENTIAL FROM ALL AUDITIONERS TO RESPECT THEIR PRIVACY</li>
-                                <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED WITH AUDITIONERS</li>
+                                <li>JUDGE'S IDENTITIES WILL BE KEPT CONFIDENTIAL TO RESPECT THEIR PRIVACY</li>
+                                <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED</li></b>
                             </ul>
               <br>
               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog" class="richLink cta">2025 Tiger Twirler Video Submission Form</a></p>
