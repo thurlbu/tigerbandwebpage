@@ -93,7 +93,7 @@
                             </ul>
                           <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
-                              <li>Nationally certified, independent judges. Half certified by the USTA and half certified by the NBTA</li>
+                              <li>Nationally certified, independent judges</li>
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
@@ -225,7 +225,7 @@
               </ul>
               <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
-                              <li>Nationally certified, independent judges. Half certified by the USTA and half certified by the NBTA</li>
+                              <li>Nationally certified, independent judges</li>
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
