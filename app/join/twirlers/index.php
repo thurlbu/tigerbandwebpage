@@ -64,7 +64,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Submit your 2025 Feature Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog" class="richLink cta">this form.</a></p>
+                      <p>Submit your 2025 Feature Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog">this form.</a></p>
                       <p>Audition requirements are below.</p>
                       <p>Results will be communicated via email on or before February 28.</p>
 
@@ -185,7 +185,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>Submit your 2025 Tiger Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog" class="richLink cta">this form.</a></p>
+                      <p>Submit your 2025 Tiger Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog">this form.</a></p>
                       <p>Audition requirements are below.</p>
                       <p>Results will be communicated via email on or before February 28.</p>
 
