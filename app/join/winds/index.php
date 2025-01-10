@@ -149,7 +149,7 @@
 
                 <p>All submissions will be evaluated by expert educators and the process will be overseen by the Tiger Band directors.</p>
                   <p>Returning members will earn 1 bonus point on their audition for every semester of participation in Tiger Band, other Clemson Bands, and private lessons with Clemson University Instructors.</p>
-                  <p><a href="/doc/WindsScoreSheet2024.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                  <p><a href="/doc/WindsScoreSheet2025.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
             </article>
 
