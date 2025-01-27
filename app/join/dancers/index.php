@@ -59,7 +59,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Submit 1st round audition video <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">HERE</a> by the end of the day on March 1.</p>
+                      <p>Submit 1st round audition video <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog">HERE</a> by the end of the day on March 1.</p>
 
 
                   </div>
