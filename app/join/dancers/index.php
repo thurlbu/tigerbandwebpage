@@ -54,12 +54,12 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
                           <p>March</p>
-                          <b>15</b>
+                          <b>1</b>
                           <p>Deadline for Tiger Dancer 1st Round Videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Tiger Dancer Auditions for the 2024 season are closed.</p>
+                      <p>Submit 1st round audition video <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">HERE</a> by the end of the day on March 1.</p>
 
 
                   </div>
@@ -68,16 +68,15 @@
 
 
           <article class="text fullWidth">
-              <h1 class="purpleText">2024 Tiger Dancer Auditions</h1>
-          <p>Auditions for the 2024 season are now closed. If you'd like to see what our audition process is like for future seasons, please review the process from this season below.</p>    
-          <p>The 2024 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 7.</p>
-          <p>The first 2 audition videos are due on <b>March 15.</b> All results will be communicated via email by <b>March 22</b>.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 15 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 7.</b></p>
+              <h1 class="purpleText">2025 Tiger Dancer Auditions</h1>    
+          <p>The 2025 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 6.</p>
+          <p>The first 2 audition videos are due on <b>March 1.</b> All results will be communicated via email by <b>March 10</b>.</p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 6.</b></p>
           <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements (videos containing substitutions or omissions will not be considered):</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
             <li>All videos must be new footage</li>
-            <li>Please wear a form-fitting black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup (if applicable).</li>
+            <li>Please wear a form-fitting black bra top or tank top, black leggings, dance shoes (jazz, ballet, turners, etc), and please perform in your gameday hair and makeup (you may refer to the our instagram page for examples).</li>
           </ul>
           <p>All submissions will be evaluated by a panel of:</p>
             <ul>
@@ -85,15 +84,15 @@
               <li>Tiger Band Dancer Instructor</li>
             </ul>
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-            <p><a href="/doc/2024ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+            <p><a href="/doc/2025ScoreSheetTD.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-<p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-          <h5 class="purpleText">April 7 - Clemson University Campus</h5>
-          <p>Results of the first round of video auditions will be communicated via email on or before March 22.</p>
-          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 7 and can plan to be finished by 3:00pm at the latest.</p>
-          <p>Students will receive more specific details on March 22, but the invitees should be ready for:<p>
+          <h5 class="purpleText">April 6 - Clemson University Campus</h5>
+          <p>Results of the first round of video auditions will be communicated via email on or before March 10.</p>
+          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 6 and can plan to be finished by 3:00pm at the latest.</p>
+          <p>Students will receive more specific details on March 10, but the invitees should be ready for:<p>
           <ul>
             <li>A group warm-up session</li>
             <li>A choreography learning session</li>
@@ -103,8 +102,9 @@
           </ul>
 
         <p>All final audition results will be posted by the end of the day.</p>
+        <p>Please be aware that accomodations for the on-campus call back auditions will be made only for students doing official Clemson University Study Abroad programs or required internships.</p>
 
-          <p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
 
               </article>
           <!--- PHOTO SLIDER --->
@@ -135,7 +135,7 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>7</b>
+                          <b>6</b>
                           <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
@@ -148,16 +148,16 @@
 
           <article class="text fullWidth">
             <h1 class="purpleText">Video 1</h1>
-            <h5 class="purpleText">Choreography - Dog Days are Over</h5>
-            <p>The first video will be a choreographed routine to <b>Dog Days are Over</b> performed by Tiger Band.</p>
+            <h5 class="purpleText">Choreography - Obsessed</h5>
+            <p>The first video will be a choreographed routine to <b>Obsessed</b> performed by Tiger Band.</p>
             <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
             <p>You can learn the choreography from the video below:</p>
-            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/98i_o9q-6_E?si=gBC2WVLhT_rVr7B7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+            <p><iframe width="560" height="315" src="https://www.youtube.com/embed/3HLEWs53N2o?si=8TrLjm7XQWC67yUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
             <div id="audioContainer">
                 <div class="auditionAudio">
-                    <p>Dog Days are Over</p>
-                    <audio src="/audio/DogDays.mp3" controls></audio>
+                    <p>Obsessed</p>
+                    <audio src="/audio/Obsessed.mp3" controls></audio>
 
                 </div>
                   </div>
@@ -170,7 +170,7 @@
                   <p>The second video will be a choreographed routine to <b>Tiger Rag</b> performed by Tiger Band.</p>
                   <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
                   <p>You can learn the choreography from the video below:</p>
-                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/mQ43WySYEBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+                  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/hi1KQaZ6Tf4?si=5F5m8vrWUy2cljpq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
                   <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
                   <div id="audioContainer">
                       <div class="auditionAudio">
@@ -181,7 +181,7 @@
                         </div>
 
                               <br>
-                    <p><a href="https://tband.people.clemson.edu/join/dancers/" class="richLink cta">2024 Tiger Dancer Audition Video Submission Form</a></p>
+                    <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:clemsontigerdancers@gmail.com">clemsontigerdancers@gmail.com</a></p>
                   </article>
 
