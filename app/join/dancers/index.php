@@ -69,9 +69,9 @@
 
           <article class="text fullWidth">
               <h1 class="purpleText">2025 Tiger Dancer Auditions</h1>    
-          <p>The 2025 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 6.</p>
+          <p>The 2025 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 19.</p>
           <p>The first 2 audition videos are due on <b>March 1.</b> All results will be communicated via email by <b>March 10</b>.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 6.</b></p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 19.</b></p>
           <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements (videos containing substitutions or omissions will not be considered):</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -89,7 +89,7 @@
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-          <h5 class="purpleText">April 6 - Clemson University Campus</h5>
+          <h5 class="purpleText">April 19 - Clemson University Campus</h5>
           <p>Results of the first round of video auditions will be communicated via email on or before March 10.</p>
           <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 6 and can plan to be finished by 3:00pm at the latest.</p>
           <p>Students will receive more specific details on March 10, but the invitees should be ready for:<p>
@@ -135,7 +135,7 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>April</p>
-                          <b>6</b>
+                          <b>19</b>
                           <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
