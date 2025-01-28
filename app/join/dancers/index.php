@@ -154,6 +154,7 @@
             <p>You can learn the choreography from the video below:</p>
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/3HLEWs53N2o?si=8TrLjm7XQWC67yUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+            <br>
             <div id="audioContainer">
                 <div class="auditionAudio">
                     <p>Obsessed</p>
@@ -172,6 +173,7 @@
                   <p>You can learn the choreography from the video below:</p>
                   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/hi1KQaZ6Tf4?si=5F5m8vrWUy2cljpq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
                   <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
+                  <br>
                   <div id="audioContainer">
                       <div class="auditionAudio">
                           <p>Tiger Rag</p>
@@ -179,9 +181,11 @@
 
                       </div>
                         </div>
-
+                              <br>
                               <br>
                     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
+                              <br>
+                              <br>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:clemsontigerdancers@gmail.com">clemsontigerdancers@gmail.com</a></p>
                   </article>
 
