@@ -183,7 +183,11 @@
                         </div>
                               <br>
                               <br>
+                              <br>
+                              <br>
                     <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeZhP4prLMub0NQtU9K0gNe0cNMi_RFMS2YrLToPhwgKClRLA/viewform?usp=dialog" class="richLink cta">2025 Tiger Dancer Audition Video Submission Form</a></p>
+                              <br>
+                              <br>
                               <br>
                               <br>
                     <p>If you have any questions concerning auditions for the Tiger Dancers, please reach out via email to Marilla Riggs at: <a href="mailto:clemsontigerdancers@gmail.com">clemsontigerdancers@gmail.com</a></p>
