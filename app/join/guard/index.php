@@ -58,13 +58,13 @@
                   <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                       <div class="textContainer">
 
-                          <p>March</p>
-                          <b>15</b>
-                          <p>Deadline for Tiger Guard 1st round videos</p>
+                          <p>April</p>
+                          <b>11</b>
+                          <p>Deadline for Tiger Guard First Decision videos</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2024 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link">audition form</a>. Results will be communicated by March 22.</a></p>
+                      <p>2025 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog">audition form</a>. Results will be communicated by April 25.</a></p>
 
                   </div>
 
@@ -73,10 +73,10 @@
           </div>
 
           <article class="text fullWidth">
-                <h1 class="purpleText">2024 Tiger Guard Auditions</h1>
-                <p>The 2024 Tiger Guard auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on April 27.</p>
-              <p>The first 3 audition videos are due on <b>March 15.</b> The results of the first round will be communicated via email on or before <b>March 22.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY MARCH 15 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 27.</b></p>
+                <h1 class="purpleText">2025 Tiger Guard Auditions</h1>
+                <p>The 2025 Tiger Guard auditions will be completed via video submission. All videos submitted by <b>April 11</b> will receive full consideration and will be notified of results by <b>April 25</b>.</p> 
+              <p>All returning members must submit their auditions by the April 11 deadline. Audition videos <b>FOR NEW MEMBERS ONLY</b> will continue to be accepted until <b>July 21 until all positions are filled</b>. The audition window will close as soon as all positions are filled.</p>
+              <br>
                 
                   <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
                   <ul>
@@ -86,7 +86,7 @@
                   </ul>
                   <article class="text fullWidth">
               <h1>Audition Videos</h1>
-              <p>The 2023 Tiger Guard auditions will consist of 3 short video submissions:</p>
+              <p>The 2025 Tiger Guard auditions will consist of 3 short video submissions:</p>
               <ul>
                  <li>Video 1 will cover choreography that you have time to learn and perfect.</li>
                 <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
@@ -94,14 +94,14 @@
             </ul>
               <p>Each of these videos will be described in detail below.</p>
               <p>After you create your videos, please upload them to google drive or another file sharing service. You must submit them via this application form:</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
               <p>All submissions will be evaluated by a panel of:</p>
               <ul>
                 <li>3-4 independent expert colorguard instructors</li>
                 <li>Tiger Band Colorguard Instructor</li>
               </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/CGScoreSheet24.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/CGScoreSheet25.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
               <br>
               <h1 class="purpleText">Video 1</h1>
@@ -173,12 +173,12 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                       <p>July</p>
-                          <b>1</b>
+                          <b>21</b>
                           <p>New Member Rolling Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info2">
-                      <p>We are still accepting audition videos until July 1st OR until roster is filled.</p>
+                      <p>We will still accept audition videos until July 21st OR until roster is filled.</p>
 
 
 
@@ -189,9 +189,9 @@
          
           <article class="text fullWidth">
         <h1 class="purpleText">New Member Rolling Auditions</h1>
-          <p>We are still accepting audition videos from new members until July 1st OR until the 2024 roster is filled. There are currently a few spots still available.</p>
+          <p>We will accepting audition videos from <b>new members</b> until July 21st OR until the 2025 roster is filled.</p>
           <p>Audition submissions will be reviewed as they are submitted. Please allow at least 10 days to hear about your submission to give our judges a chance to review the videos.</p>
-          <p>Students interested in submitting a rolling audition should follow the same guidelines as the 1st round videos outlined on this page.<p>
+          <p>Students interested in submitting a rolling audition should follow the same guidelines outlined on this page.<p>
  
 
           
