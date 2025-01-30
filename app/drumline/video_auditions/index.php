@@ -49,7 +49,7 @@
 <body>
     <div class="heading">
         <h3>Clemson University Drumline</h3>
-        <h4>2024 Video Audition Information</h4>
+        <h4>2025 Video Audition Information</h4>
     </div>
 
     <!--- DEADLINES UI --->
@@ -59,14 +59,14 @@
             <div class="boxUIelement sq white" id="text1" onclick="moreInfo(1)">
                 <div class="textContainer">
                     <p>March</p>
-                    <b>3</b>
+                    <b>2</b>
                     <p>Music Available</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                 <div class="textContainer">
                     <p>May</p>
-                    <b>4</b>
+                    <b>3</b>
                     <p>Pre-Audition Workshop</p>
                 </div>
             </div>
@@ -85,7 +85,7 @@
             <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                 <div class="textContainer">
                     <p>June</p>
-                    <b>22</b>
+                    <b>21</b>
                     <p>Video Audition Deadline</p>
 
                 </div>
@@ -93,7 +93,7 @@
             <div class="boxUIelement sq white" id="text4" onclick="moreInfo(4)">
                 <div class="textContainer">
                     <p>June</p>
-                    <b>29</b>
+                    <b>28</b>
                     <p>Audition Results</p>
                 </div>
             </div>
@@ -104,21 +104,21 @@
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced</p>
                   <br>
-                <p>Those selected must report to CALL BACK auditions on Monday, August 12</p>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 11</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>12</b>
+                    <b>11</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>13</b>
+                    <b>12</b>
                     <p>Pre-season Camp</p>
                 </div>
             </div>
@@ -152,7 +152,7 @@
         <div id="col2Flex">
 
             <article class="text fullWidth">
-                <h1 class="purpleText">2024 Clemson University Drumline Auditions</h1>
+                <h1 class="purpleText">2025 Clemson University Drumline Auditions</h1>
                 <p>CUD is looking for players who want to be a part of the drumline as an ensemble and not just play a certain instrument. This means understanding and respecting that the Clemson Drumline is made up of 4 sections - snares, quads, basses, and cymbals - and each section is of equal importance to Tiger Band, to the music, and to our success as a unit. At Clemson, there is no hierarchy. Everybody is valued, and everybody contributes. We will accept multiple video submissions for those that are auditioning for multiple sections.
                 <a href="https://docs.google.com/document/d/1Okp__K2LMh1i7LlnYH1yi1Yi24QMDZQs22gzKJV-IIE" class="richLink" target="_blank">Video Audition Requirements<br>for Each Section</a>
                 <br>
@@ -240,7 +240,7 @@
             </div>
             <div class="processText">
                 <h8>Wait for our response</h8>
-                <p>You will receive an email from us containing your status for call-back auditions by June 29.</p>
+                <p>You will receive an email from us containing your status for call-back auditions by June 28.</p>
             </div>
         </div>
     </div>
