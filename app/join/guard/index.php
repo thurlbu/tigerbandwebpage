@@ -157,7 +157,7 @@
   <li>Why did you choose Clemson University?</li>
   <li>Why do you want to be a member of the Tiger Guard?</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfY3Tys1jm4YIBHpVDHZ_DW9Tuus6bjeaYd7pvQKB8VfoGa4Q/viewform?usp=sf_link" class="richLink cta">Tiger Guard Application</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
                 <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
             </article>
 
