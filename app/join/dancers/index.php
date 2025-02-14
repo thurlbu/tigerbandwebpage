@@ -95,10 +95,10 @@
           <p>Students will receive more specific details on March 10, but the invitees should be ready for:<p>
           <ul>
             <li>A group warm-up session</li>
-            <li>A choreography learning session</li>
-            <li>A group performance of the learned choreography</li>
-            <li>An individual performance of learned choreography</b></li>
-            <li>A performance of individual tricks</li>
+            <li>Across the floor technique</li>
+            <li>Short improv section to showcase any additional skills</li>
+            <li>Choreography learning session</b></li>
+            <li>Performance of learned choreography in small groups</li>
           </ul>
 
         <p>All final audition results will be posted by the end of the day.</p>
