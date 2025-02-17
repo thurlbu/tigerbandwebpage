@@ -81,7 +81,7 @@
                           
                           <p>All auditions for Clemson University Feature Twirler will be via video submission.</p>
 
-                          <p>In order for us to judge all submissions fairly, the requirements for these submissions are specifically detailed below. While extensions will not be given, should you need specific accomodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a>.</p>
+                          <p>In order for us to judge all submissions fairly, the requirements for these submissions are specifically detailed below. While extensions will not be given, should you need specific accommodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a>.</p>
 
                             <p>If you have any questions concerning auditions for the Feature Twirler position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
@@ -222,7 +222,7 @@
                 <li>Individual chorography and interview videos may be filmed indoors. Trick video must be filmed outside on grass.</li>
                 <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                 <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup. Hair can be up or down for the twirling videos.</li>
-                <li>While extensions will not be given, should you need specific accomodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></li>
+                <li>While extensions will not be given, should you need specific accommodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></li>
               </ul>
               <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
