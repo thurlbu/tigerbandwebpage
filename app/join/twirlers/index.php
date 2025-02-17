@@ -81,7 +81,7 @@
                           
                           <p>All auditions for Clemson University Feature Twirler will be via video submission.</p>
 
-                          <p>In order for us to judge all submissions fairly, the requirements for these submissions are specifically detailed below. No substitutions will be accepted.</p>
+                          <p>In order for us to judge all submissions fairly, the requirements for these submissions are specifically detailed below. While extensions will not be given, should you need specific accomodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a>.</p>
 
                             <p>If you have any questions concerning auditions for the Feature Twirler position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
@@ -216,12 +216,13 @@
               <p>The 2025 Tiger Twirler auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on March 29.</p>
               <p>The first 3 audition videos are due on <b>February 22.</b> The results of the first round will be communicated via email on or before <b>February 28.</b></p>
               <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY FEBRUARY 22 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 29.</b></p>
-              <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements (videos with substitutions or omissions will not be considered):</p>
+              <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
                 <li>Individual chorography and interview videos may be filmed indoors. Trick video must be filmed outside on grass.</li>
                 <li>All videos must be new footage - <b>videos of past competitions or field performances will not be accepted.</b></li>
                 <li>Please wear a black top, black pants or leggings, jazz shoes, and please perform in your gameday hair and makeup. Hair can be up or down for the twirling videos.</li>
+                <li>While extensions will not be given, should you need specific accomodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></li>
               </ul>
               <p>All submissions will be evaluated by a panel of:</p>
                             <ul>
