@@ -202,9 +202,9 @@
                 <h2>Director of Percussion</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Paul.jpg">
-                    <p>Paul Buyer is Director of Percussion and Professor of Music at Clemson University where he also served as Acting Associate Dean for Research and Faculty Affairs for the College of Arts and Humanities. He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
-                    <p>Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>World Music, Drumline Gold, Working Toward Excellence, Marching Bands and Drumlines,</i> and co-author of <i>The Art of Vibraphone Playing</i>. His articles have appeared in <i>American Music Teacher, Teaching Music, Yamaha Educator Suite, Jazz Education Network, Percussive Notes, Rhythm! Scene,</i> and <i>The PAS Educators’ Companion</i>.</p>
-                    <p>Dr. Buyer is a former member of the Star of Indiana Drum and Bugle Corps and placed 2nd in DCI Keyboard Individuals in 1990. In 1992, he was a percussion staff member with the Dutch Boy Drum and Bugle Corps. Dr. Buyer serves as a clinician/endorser for Yamaha, Innovative Percussion, Remo, Sabian, and Grover. He was the recipient of the 2019 PAS Outstanding Service Award, served as PAS Second Vice President from 2015-2018, and currently serves as Co-Editorial Director for Percussive Notes, the official PAS journal.</p>
+                    <p>Paul Buyer is Director of Percussion and Professor of Music at Clemson University where he also served as Director of Music and Acting Associate Dean. He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
+                    <p>Featured in <i>Success Magazine's</i> Achiever's Series, Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>Working Toward Excellence, World Music, Drumline Gold, Marching Bands and Drumlines,</i> and co-author of <i>The Art of Vibraphone Playing</i>. His articles have appeared in <i>American Music Teacher, Teaching Music, Yamaha Educator Suite, Jazz Education Network, Percussive Notes, Rhythm! Scene,</i> and <i>The PAS Educators’ Companion</i>.</p>
+                    <p>Dr. Buyer serves as an endorser for Yamaha Percussion, Innovative Percussion Mallets and Sticks, Remo Drumheads, Sabian Cymbals, and Grover Pro Percussion. He is the recipient of the Percussive Arts Society (PAS) Outstanding Service Award, served as PAS Second Vice President, and currently serves as Co-Editorial Director of <i>Percussive Notes</i>, the official PAS journal. His website is <a href="https://www.paulbuyer.com/">paulbuyer.com</a></p>
                 </div>
             </article>
 
@@ -247,22 +247,6 @@
                     <img class="staffPortrait" src="/img/staff/Willis.png">
                     <p>After serving as the PA announcer in Death Valley for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He has also served as an Intentional Interim pastor, Life Coach, Conflict Consultant and Chaplain at a retirement community.  He recently retired at the end of 2017 after 43 years of ministry.  He is married to Lynda and they have two sons, John (deceased) and David.</p>
 
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Randy Christ</h1>
-                <h2>Tiger Band Videographer</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Randy.jpeg">
-                    <p>Mr. Randy Christ has been the "on-field" videographer for Tiger Band since 2010. He is a 1978 graduate of Clemson University where he earned a B.S. in Mechanical Engineering. He marched with Tiger Band for four years as a tenor sax player. Randy was employed by Michelin for over 38 years working in technical fields as a programmer, a system manager, a high performance test driver, and finally as a certified information systems security professional.</p>
-                    <p>Currently, Randy is the owner of Moving Images LLC, a supplier of professional videography and photography services.  He enjoys using digital technologies to capture the special moments that tell people’s stories.</p>
-                    <p>Randy was already deeply involved in photography when he purchased his first video camera in 1987 just before the birth of his first child. This is when he discovered how powerful and meaningful story telling with video could be. When his children joined the high school marching band, Randy saw an opportunity to record and tell the story of their marching band experience through videography. For six years he documented each marching competition season from a band member's perspective. Around that time, Dr. Bruce Cook, a former Tiger Band Director, created a video compilation from archived film featuring old Tiger Band half time shows. This reinforced in Randy’s mind the importance of having that recorded history.  It was a logical progression from there to Randy shooting video for Tiger Band, and later starting his photo / video business.</p>
-                    <p>Randy and his wife, Robin, have two children who graduated from Clemson University.  The children are both Tiger Band alumni as well. Each is also now married to former Tiger Band members. Randy and his family enjoy marching with the Alumni Band at Homecoming when they can.</p>
-                    <p>Now, as a member of the Tiger Band staff, Randy is often found interacting with the students while helping them mount GoPro cameras on their instruments prior to their performances. Besides filming the half time performances, he provides footage for special projects that are used for the promotional and recruiting efforts of Tiger Band. He finds it especially rewarding to work with the enthusiastic students on the Tiger Band Media Team.  Randy is thrilled to be back on the field in Death Valley, capturing images and telling the story of one of the best marching bands in the country.</p>
                 </div>
             </article>
 
