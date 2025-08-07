@@ -112,13 +112,16 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mrs. Emily Hamlyn</h1>
+                <h1>Mrs. Caroline Wright Pfisterer</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Emily.jpg">
-                    <p>Emily Hamlyn is the Assistant Director of Bands, Assistant Director of Tiger Band, Assistant Director of Basketball Pep Band, and Conductor of the Concert Band. Originally from Hendersonville, TN, Mrs. Hamlyn received her undergraduate degree in music education from the University of Alabama. There she was a member of the Million Dollar Band, pep bands, horn choir, flute choir, and concert bands. In 2021 she received the Chris Hainsey “Ultimate Team Player” award for her outstanding leadership during her time with the Million Dollar Band. Emily earned a Masters degree in wind conducting from the University of Kentucky where she worked as a Graduate Teaching Assistant in the bands department. She worked extensively with the Wildcat Marching Band, pep bands, and concert bands throughout her time at Kentucky and enjoyed performing with both the UK Wind Symphony and the UK Women's Choir.</p>
-                    <p>Before coming to Clemson, Mrs. Hamlyn served as a middle school band director for Huntsville City Schools and as the Adjunct Horn Professor for Alabama A&M University. She is an active performer and freelance musician on French horn, tenor horn, and flute, and played principal horn for Twickenham Winds and Sacred Winds and tenor horn in the Brass Band of Huntsville.</p>
-                    <p>Mrs. Hamlyn is an avid baker, knitter, and gardener, and loves spending time with family, friends, her husband Caleb, and her own personal Tiger, Charlie.</p>
+                    <img class="staffPortrait" src="/img/staff/Caroline.jpeg">
+                    <p>Caroline Wright Pfisterer is a dedicated musician and educator currently pursuing a Doctor of Musical Arts in Wind Conducting at the University of Georgia, where she has maintained a 4.0 GPA throughout both her doctoral studies and her Master’s degree from the University of Alabama. She has excelled in various leadership roles, including Assistant Director of Festival Band and Doctoral Conducting Associate.</p>
+                    <p>Caroline now serves as Lecturer and Assistant Director of Bands at Clemson University, where she works with the Tiger Band and Concert Band. Her conducting experience spans a wide range of ensembles, from the University of Georgia's Wind Ensemble to the University of Alabama's Million Dollar Band, and she has taught courses such as Introduction to Conducting and Instrumental Techniques.</p>
+                    <p>Her teaching and outreach extend beyond the traditional classroom—Caroline has worked with Disney’s Performing Arts Center in Orlando, engaging young musicians from across the country in immersive performance experiences, and has also taught music internationally in China.</p>
+                    <p>She is deeply involved in community music education, having served as a clinician and coordinator for honor bands and workshops.</p>
+                    <p>An accomplished conductor, Caroline has performed internationally and received numerous accolades, including the Osborne Fellowship and the Mike Moss Conducting Grant. With a passion for nurturing young musicians, she combines her extensive teaching experience with a commitment to excellence, fostering creativity and collaboration in her students.</p>
+                    <p>Caroline lives with her husband, Zack, and their beloved dog, Mr. Beaufort, whose enthusiasm for long walks and rehearsal snacks keeps life full of joy and laughter.</p>
                 </div>
             </article>
 
@@ -127,13 +130,13 @@
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
                 <h1>Mr. Terry Kent</h1>
-                <h2>Color Guard Instructor</h2>
+                <h2>Visual Staff Coordinator</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Terry.jpg">
-                    <p>Mr. Terry Kent has been the instructor for the Clemson Tiger Guard and Winter Guard since 2010. The Tiger Guard performs at all home football games and travels with the full band to away games. The Winterguard competes in the local colorguard circuit, CWEA, and also at WGI events. Mr. Kent is one of the founding members of the CIPA color guard circuit and is a member of the CIPA Hall of Fame.</p>
+                    <p>Mr. Terry Kent was been the instructor for the Clemson Tiger Guard and Winter Guard from 2010-2023. The Tiger Guard performs at all home football games and travels with the full band to away games. The Winterguard competes in the local colorguard circuit, CWEA, and also at WGI events. Mr. Kent is one of the founding members of the CIPA color guard circuit and is a member of the CIPA Hall of Fame.</p>
                     <p>Mr. Kent has worked for Marching Auxiliaries for 25 years as summer camp staff, traveling, and teaching weekly camps for rifles, flags, majorettes, drum majors and dancers. There, he served as an instructor, division head, and clinic director. While on staff with Marching Auxiliaries, Mr. Kent was on the half time staff for the Citrus, Capital One, Bluebonnet, Alamo, Outback, and Peach Bowls. Duties included instruction of the cast members, choreography design, and game day productions.</p>
                     <p>Mr. Kent has performed with Infiniti winter guard 1990-91, Corps Vets all-age drum corps 2002-04, 2007, 2009-2010, and Alliance all-age drum corps 2005-06. He was color guard caption head of Corps Vets (2003-04) and Alliance (2005-06). Mr. Kent has placed second in both rifle and flag solo at DCA finals and choreographed the first-place Guard Ensemble in 2004, 2005 and 2009. He was on the staff for Infiniti winter guard (1992-2001) where they were WGI Independent A World Champions in 2001.</p>
-                    <p>Mr. Kent is the band director at Hillcrest Middle School in the School District of Greenville County. He has been the band director at Hillcrest Middle for over 27 years, and is a Graduate of Furman University.</p>
+                    <p>After 27 years, Mr. Kent retired from teaching band at Hillcrest Middle School in the School District of Greenville County and is a Graduate of Furman University.</p>
                 </div>
             </article>
 

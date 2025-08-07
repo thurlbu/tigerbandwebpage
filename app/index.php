@@ -174,13 +174,14 @@
              </article>
          </a>
 
-         <a href="https://www.scfederal.org/" class="boxWrapper" target="_blank">
+         
          <article class="text">
-             <h1>THANK YOU!</h1>
-             <img class="articleImg" src='/img/SCFCU_Logo_Color_VERT.png'>
-             <p>Tiger Band would like to thank the South Carolina Federal Credit Union for their support and sponsorship this season! Connect with them today for all your finanical products and service needs!</p>
+             <h1>WELCOME!</h1>
+             <img class="articleImg" src='/img/staff/Caroline.jpeg'>
+             <p>Please join us in welcoming our new Assistant Director of Bands, Mrs. Caroline Wright Pfisterer, to the Tiger Band family!</p>
+             <p>Learn more about her background and all the exciting things she's bringing to Clemson on our staff page!</p>
              </article>   
-        </a> 
+        
             
 
    
