@@ -158,11 +158,11 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="https://imgur.com/qZrtkrZ">
-                <img class="slider" src="https://imgur.com/CNJaM2I">
-                <img class="slider" src="https://imgur.com/8rVDLCs">
-                <img class="slider" src="https://imgur.com/Uf1pevw">
-                <img class="slider" src="https://imgur.com/FLzgQFD">
+                <img class="slider" src="/img/Twirler10.png">
+                <img class="slider" src="/img/Twirler11.png">
+                <img class="slider" src="/img/Twirler12.png">
+                <img class="slider" src="/img/Twirler13.png">
+                <img class="slider" src="/img/Twirler14.png">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
