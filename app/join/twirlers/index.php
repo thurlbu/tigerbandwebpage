@@ -59,12 +59,12 @@
                       <div class="textContainer">
 
                           <p>February</p>
-                          <b>22</b>
-                          <p>Deadline for 2025 Feature Twirler Auditions</p>
+                          <b>21</b>
+                          <p>Deadline for 2026 Feature Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>Submit your 2025 Feature Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog">this form.</a></p>
+                      <p>Submit your 2026 Feature Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLScYjB0l07lyZKCPW6sliZnW5Ov5d3kE8mQB9vgr9qTlUpgDIA/viewform?usp=publish-editor">this form.</a></p>
                       <p>Audition requirements are below.</p>
                       <p>Results will be communicated via email on or before February 28.</p>
 
@@ -75,13 +75,15 @@
           </div>
 
           <article class="text fullWidth">
-                          <h1 class="purpleText">2025 Feature Twirler Auditions</h1>
+                          <h1 class="purpleText">2026 Feature Twirler Auditions</h1>
 
-                          <p>Clemson University Tiger Band is now accepting audition applications for Feature Twirler for the 2025 season!</p>
+                          <p>Clemson University Tiger Band is now accepting audition applications for Feature Twirler for the 2026 season!</p>
                           
                           <p>All auditions for Clemson University Feature Twirler will be via video submission.</p>
 
                           <p>In order for us to judge all submissions fairly, the requirements for these submissions are specifically detailed below. While extensions will not be given, should you need specific accommodations, please contact our instructor via email at: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a>.</p>
+
+                          <p>Returning Feature Twirlers can submit new videos or choose to submit videos from previous seasons' audition submissions.</p>
 
                             <p>If you have any questions concerning auditions for the Feature Twirler position, you can always reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
 
@@ -97,7 +99,7 @@
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                            <p>The scoresheet that all of the judges will use will be posted here as soon as it is finalized.</p>
+                            <p><a href="/doc/FeatureTwirlerScores2026.pdf">CLICK HERE to see the scoresheet that all of the judges will use to evaluate the video submissions.</a></p>
                             <br>
                             <p><b>By submitting your audition materials, you are agreeing to the following conditions:</p>
                             <ul>
@@ -106,7 +108,7 @@
                                 <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED</li></b>
                             </ul>
                             <br>
-                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog" class="richLink cta">2025 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScYjB0l07lyZKCPW6sliZnW5Ov5d3kE8mQB9vgr9qTlUpgDIA/viewform?usp=publish-editor" class="richLink cta">2026 Clemson Feature Twirler Audition Video Submission Form</a></p>
                             <br>
                           <h1 class="purpleText">Video 1</h1>
                           <h5 class="purpleText">Individual Choreography</h5>
@@ -150,17 +152,17 @@
                               </ul>
                           <p>The Feature Twirler will receive the Carolyn Creel Scholarship if yearly academic requirements are met.</p>
                           <p>If you have any questions concerning auditions for the Feature Twirler Position, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com?subject=Tiger Feature Twirler Audition Question">ClemsonTwirlers@gmail.com</a></p>
-                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfob94RBHrYIghtGWIgzm6X2H_FuPM1PRgilPCI4PN3xFXb_A/viewform?usp=dialog" class="richLink cta">2025 Clemson Feature Twirler Audition Video Submission Form</a></p>
+                          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScYjB0l07lyZKCPW6sliZnW5Ov5d3kE8mQB9vgr9qTlUpgDIA/viewform?usp=publish-editor" class="richLink cta">2026 Clemson Feature Twirler Audition Video Submission Form</a></p>
                       </article>
 
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="https://i.imgur.com/vr2JzmQ.jpg">
-                <img class="slider" src="https://i.imgur.com/Q41gp22.jpg">
-                <img class="slider" src="https://i.imgur.com/oHEhL1Y.jpg">
-                <img class="slider" src="https://i.imgur.com/ykjn5xG.jpg">
-                <img class="slider" src="https://i.imgur.com/63FGSnv.jpg">
+                <img class="slider" src="https://imgur.com/qZrtkrZ">
+                <img class="slider" src="https://imgur.com/CNJaM2I">
+                <img class="slider" src="https://imgur.com/8rVDLCs">
+                <img class="slider" src="https://imgur.com/Uf1pevw">
+                <img class="slider" src="https://imgur.com/FLzgQFD">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
@@ -180,12 +182,12 @@
                   <div class="boxUIelement sq white" id="text3" onclick="moreInfo(3)">
                       <div class="textContainer">
                           <p>February</p>
-                          <b>22</b>
-                          <p>Deadline for 2025 Tiger Twirler Auditions</p>
+                          <b>21</b>
+                          <p>Deadline for 2026 Tiger Twirler Auditions</p>
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info3">
-                      <p>Submit your 2025 Tiger Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog">this form.</a></p>
+                      <p>Submit your 2026 Tiger Twirler auditions using <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2Sgs-NrAnHXvX-HM9Clp-jdJWjL0_9fhCRA0LBHv--f8BEg/viewform?usp=publish-editor">this form.</a></p>
                       <p>Audition requirements are below.</p>
                       <p>Results will be communicated via email on or before February 28.</p>
 
@@ -199,7 +201,7 @@
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
                           <p>March</p>
-                          <b>29</b>
+                          <b>28</b>
                           <p>2nd Round Live Auditions on the Clemson campus</p>
                       </div>
                   </div>
@@ -211,11 +213,12 @@
               </div>
           </div>
           <article class="text fullWidth">
-              <h1 class="purpleText">2025 Tiger Twirler Auditions</h1>
+              <h1 class="purpleText">2026 Tiger Twirler Auditions</h1>
               
-              <p>The 2025 Tiger Twirler auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on March 29.</p>
-              <p>The first 3 audition videos are due on <b>February 22.</b> The results of the first round will be communicated via email on or before <b>February 28.</b></p>
-              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY FEBRUARY 22 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 29.</b></p>
+              <p>The 2026 Tiger Twirler auditions will consist of 2 rounds. The first will be 3 short video submissions. A second round of call back auditions will take place live on campus on March 28.</p>
+              <p>Returning Tiger Twirlers <b>DO NOT</b> need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on March 28. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
+              <p>The first 3 audition videos for new members are due on <b>February 21.</b> The results of the first round will be communicated via email on or before <b>February 28.</b></p>
+              <p><b>YOU MUST SUBMIT THE FIRST 3 VIDEOS BY FEBRUARY 21 IN ORDER TO BE ELIGIBLE TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 28.</b></p>
               <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
               <ul>
                 <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -230,7 +233,7 @@
                               <li>Tiger Band Twirler Instructor</li>
                             </ul>
                             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                            <p>The scoresheet that all of the judges will use will be posted here as soon as it is finalized.</p>
+                            <p><a href="/doc/TwirlerScores2026.pdf">CLICK HERE to see the scoresheet that all of the judges will use to evaluate the video submissions.</a></p>
                             <br>
                             <p><b>By submitting your audition materials, you are agreeing to the following conditions:</p>
                             <ul>
@@ -239,15 +242,15 @@
                                 <li>SCORES AND COMMENTS FROM THE JUDGES WILL NOT BE SHARED OR DISCUSSED</li></b>
                             </ul>
               <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog" class="richLink cta">2025 Tiger Twirler Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2Sgs-NrAnHXvX-HM9Clp-jdJWjL0_9fhCRA0LBHv--f8BEg/viewform?usp=publish-editor" class="richLink cta">2026 Tiger Twirler Video Submission Form</a></p>
               <br>
               <h1 class="purpleText">Video 1</h1>
               <h5 class="purpleText">Individual Choreography</h5>
-              <p>The first video will be an individually choreographed routine to <b>Hawaii 5-0</b> performed in the past by Tiger Band. Please use the audio recording posted below.</p>
+              <p>The first video will be an individually choreographed routine to <b>Let's Get Loud</b> performed in the past by Tiger Band. Please use the audio recording posted below.</p>
               <div id="audioContainer">
                   <div class="auditionAudio">
-                      <p>Hawaii 5-0</p>
-                      <audio src="/audio/Hawaii50.mp3" controls></audio>
+                      <p>Let's Get Loud</p>
+                      <audio src="/audio/LetsGetLoud.mp3" controls></audio>
                   </div>
                     </div>
               <p>You may show us anything in this routine, but please include the following <b>required tricks</b> in your performance:</p>
@@ -285,9 +288,9 @@
               <br>
               <br>
               <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-              <h5 class="purpleText">March 29 - Clemson University Campus</h5>
+              <h5 class="purpleText">March 28 - Clemson University Campus</h5>
               <p>Results of the first round of video auditions will be communicated via email on or before February 28.</p>
-              <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 10:00am on March 29 and can plan to be finished by 2:00pm at the latest.</p>
+              <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 10:00am on March 28 and can plan to be finished by 2:00pm at the latest.</p>
               <p>Students will receive more specific details on February 28, but the 2nd round live audition will consist of:<p>
               <ul>
                 <li>A group warm-up session</li>
@@ -300,7 +303,7 @@
             <p>All final audition results will be posted by the end of the day.</p>
 
                         <br>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScBi7gCIs-FqmSqh-QcjHX0mWpn4ad-E-fg03QbzGNJNxGrzg/viewform?usp=dialog" class="richLink cta">2025 Tiger Twirler Video Submission Form</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSe2Sgs-NrAnHXvX-HM9Clp-jdJWjL0_9fhCRA0LBHv--f8BEg/viewform?usp=publish-editor" class="richLink cta">2026 Tiger Twirler Video Submission Form</a></p>
               <p>If you have any questions concerning auditions for the Tiger Twirlers, please reach out via email to: <a href="mailto:ClemsonTwirlers@gmail.com">ClemsonTwirlers@gmail.com</a></p>
           </article>
 
