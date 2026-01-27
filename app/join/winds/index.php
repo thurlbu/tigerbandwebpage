@@ -103,8 +103,7 @@
                         <p>Rolling auditions will continue for <b>NEW MEMBERS ONLY</b> throughout the spring and summer for open positions until all positions are filled.</p>
                     </div>
                 </div>
-            </div>
- <!--- PHOTO SLIDER --->
+                <!--- PHOTO SLIDER --->
 
           <div id="photoSlider">
               <img class="slider" src="/img/Dancers1.jpeg">
@@ -124,6 +123,8 @@
                   <div class="dots" onclick="stopSlider(); currentDiv(7)"></div>
               </div>
           </div>
+            </div>
+ 
 
         </div>
     </div>
