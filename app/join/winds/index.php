@@ -245,7 +245,7 @@
 
         
 
-        <h4 class="purpleText expand" onclick="expand(this)">2025 Audition Excerpt</h4>
+        <h4 class="purpleText expand" onclick="expand(this)">2026 Audition Excerpt</h4>
         <div class="expandButton">
             <img src="/img/logos/dropdownArrow.svg" width="75">
         </div>
