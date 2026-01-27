@@ -69,10 +69,10 @@
 
           <article class="text fullWidth">
               <h1 class="purpleText">2026 Tiger Dancer Auditions</h1>    
-          <p>The 2026 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on April 11.</p>
-          <p>The first 2 audition videos are due on <b>March 7.</b> All results will be communicated via email by <b>March 18</b>.</p>
-          <p>Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on April 11. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON APRIL 11.</b></p>
+          <p>The 2026 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on March 28.</p>
+          <p>The first 2 audition videos are due on <b>March 7.</b> All results will be communicated via email by <b>March 14</b>.</p>
+          <p>Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on March 28. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 28.</b></p>
           <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements (videos containing substitutions or omissions will not be considered):</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
@@ -90,10 +90,10 @@
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQoCBO707u3lSSXkVV1K0Tl1pnajU5aVBCKLs4q34Qy0mF3A/viewform?usp=publish-editor" class="richLink cta">2026 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
-          <h5 class="purpleText">April 11 - Clemson University Campus</h5>
-          <p>Results of the first round of video auditions will be communicated via email on or before March 18.</p>
-          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on April 11 and can plan to be finished by 3:00pm at the latest.</p>
-          <p>Students will receive more specific details on March 18, but the invitees should be ready for:<p>
+          <h5 class="purpleText">March 28 - Clemson University Campus</h5>
+          <p>Results of the first round of video auditions will be communicated via email on or before March 14.</p>
+          <p>Students that are invited to campus for the second round of live auditions should plan to arrive on the Clemson University campus by 9:00am on March 28 and can plan to be finished by 3:00pm at the latest.</p>
+          <p>Students will receive more specific details on March 14, but the invitees should be ready for:<p>
           <ul>
             <li>A group warm-up session</li>
             <li>Across the floor technique</li>
@@ -139,8 +139,8 @@
               <div class="month">
                   <div class="boxUIelement sq white" id="text2" onclick="moreInfo(2)">
                       <div class="textContainer">
-                          <p>April</p>
-                          <b>11</b>
+                          <p>March</p>
+                          <b>28</b>
                           <p>2nd Round Live Auditions</p>
                       </div>
                   </div>
@@ -156,7 +156,7 @@
             <h5 class="purpleText">Choreography - Beat It</h5>
             <p>The first video will be a choreographed routine to <b>Beat It</b> performed by Tiger Band.</p>
             <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
-            <p>**NEW FOR 2026** Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on April 11. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
+            <p>**NEW FOR 2026** Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on March 28. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
             <p>You can learn the choreography from the video below:</p>
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qTZAfXYxETU?si=FSg2ZlWrpSbpcxQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
