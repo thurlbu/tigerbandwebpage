@@ -107,7 +107,9 @@
  
 
         </div>
-        <!--- PHOTO SLIDER --->
+        
+    </div>
+     <!--- PHOTO SLIDER --->
 
           <div id="photoSlider">
               <img class="slider" src="/img/Dancers1.jpeg">
@@ -127,7 +129,7 @@
                   <div class="dots" onclick="stopSlider(); currentDiv(7)"></div>
               </div>
           </div>
-    </div>
+
 
     <!--- AUDITION INFORMATION --->
 
