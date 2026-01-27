@@ -156,6 +156,7 @@
             <h5 class="purpleText">Choreography - Beat It</h5>
             <p>The first video will be a choreographed routine to <b>Beat It</b> performed by Tiger Band.</p>
             <p><b>Your video should only include the front view.</b> The rear view is for learning purposes only.</p>
+            <p>**NEW FOR 2026** Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on April 11. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
             <p>You can learn the choreography from the video below:</p>
             <p><iframe width="560" height="315" src="https://www.youtube.com/embed/qTZAfXYxETU?si=FSg2ZlWrpSbpcxQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
             <p>Please use the audio recording posted below to make your video and please be sure that we can hear the music on your video.</p>
