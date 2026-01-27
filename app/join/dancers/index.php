@@ -87,7 +87,7 @@
             <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
             <p><a href="/doc/DancerScoreSheet2026.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
             <br>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQoCBO707u3lSSXkVV1K0Tl1pnajU5aVBCKLs4q34Qy0mF3A/viewform?usp=publish-editor">2026 Tiger Dancer Audition Video Submission Form</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQoCBO707u3lSSXkVV1K0Tl1pnajU5aVBCKLs4q34Qy0mF3A/viewform?usp=publish-editor" class="richLink cta">2026 Tiger Dancer Audition Video Submission Form</a></p>
           <br>
           <h1 class="purpleText">2nd Round Live Callback Audition</h1>
           <h5 class="purpleText">April 11 - Clemson University Campus</h5>
