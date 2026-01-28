@@ -72,7 +72,7 @@
           <p>The 2026 Tiger Dancer auditions will consist of 2 rounds. The first will be 2 short video submissions. A second round of call back auditions will take place live on campus on March 28.</p>
           <p>The first 2 audition videos are due on <b>March 7.</b> All results will be communicated via email by <b>March 14</b>.</p>
           <p>Returning Tiger Dancers DO NOT need to submit 1st round audition videos and will automatically be invited to the second round of live auditions on March 28. Returning members <b>MUST</b> still complete the audition form to be invited to the second round of auditions.</p>
-          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 1 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 28.</b></p>
+          <p><b>YOU MUST SUBMIT THE FIRST 2 VIDEOS BY MARCH 7 IN ORDER TO BE CONSIDERED FOR THE LIVE CALL BACKS ON MARCH 28.</b></p>
           <p>Your 2 audition videos - explained in the next section - will all need to follow these requirements (videos containing substitutions or omissions will not be considered):</p>
           <ul>
             <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
