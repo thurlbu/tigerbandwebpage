@@ -109,26 +109,6 @@
         </div>
         
     </div>
-     <!--- PHOTO SLIDER --->
-
-          <div id="photoSlider">
-              <img class="slider" src="/img/Dancers1.jpeg">
-              <img class="slider" src="/img/Dancers2.jpeg">
-              <img class="slider" src="/img/Dancers3.jpeg">
-              <img class="slider" src="/img/Dancers4.jpeg">
-              <img class="slider" src="/img/Dancers5.jpeg">
-              <img class="slider" src="/img/Dancers6.jpeg">
-              <img class="slider" src="/img/Dancers7.jpeg">
-              <div class="controls">
-                  <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(3)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(6)"></div>
-                  <div class="dots" onclick="stopSlider(); currentDiv(7)"></div>
-              </div>
-          </div>
 
 
     <!--- AUDITION INFORMATION --->
