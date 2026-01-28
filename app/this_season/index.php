@@ -54,12 +54,13 @@
             <!--- PHOTO SLIDER --->
 
             <div id="photoSlider">
-                <img class="slider" src="https://i.imgur.com/xIb1dy6.jpg">
-                <img class="slider" src="https://i.imgur.com/MiSxfh5.jpg">
-                <img class="slider" src="https://i.imgur.com/IkdDInE.jpg">
-                <img class="slider" src="https://i.imgur.com/fLCYkGb.jpg">
-                <img class="slider" src="https://i.imgur.com/ri3jG0E.jpg">
-                <img class="slider" src="https://i.imgur.com/K27Wc4p.jpg">
+                <img class="slider" src="/img/1TB2026.jpeg">
+                <img class="slider" src="/img/2TB2026.jpeg">
+                <img class="slider" src="/img/3TB2026.jpeg">
+                <img class="slider" src="/img/4TB2026.jpeg">
+                <img class="slider" src="/img/5TB2026.jpeg">
+                <img class="slider" src="/img/6TB2026.jpeg">
+                <img class="slider" src="/img/7TB2026.jpeg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
@@ -67,6 +68,7 @@
                     <div class="dots" onclick="stopSlider(); currentDiv(4)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(5)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(6)"></div>
+                    <div class="dots" onclick="stopSlider(); currentDiv(7)"></div>
                 </div>
             </div>
 
@@ -178,13 +180,13 @@
 
         <div id="col2Flex">
             <article class="text shows">
-                <h1>2024 Shows</h1>
+                <h1>2026 Shows</h1>
                 <p><b>TBA</b></p>
                 <p><b>TBA</b></p>
                 <p><b>TBA</b></p>
             </article>
             <article class="text officers">
-                <h1>2024 Officers</h1>
+                <h1>2026 Officers</h1>
                 <p>Commander: <b>TBA</b></p>
                 <p>Vice-Commander: <b>TBA</b></p>
                 <p>Sergeant Major: <b>TBA</b></p>
