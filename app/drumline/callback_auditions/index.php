@@ -104,21 +104,21 @@
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced</p>
                   <br>
-                <p>Those selected must report to CALL BACK auditions on Monday, August 17</p>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 10</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>17</b>
+                    <b>10</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>18</b>
+                    <b>11</b>
                     <p>Pre-season Camp</p>
                 </div>
             </div>
@@ -141,7 +141,7 @@
                 <h1 class="purpleText">2026 Drumline Auditions</h1>
                 <p>Prospective CUD Members:</p>
                 <p>Clemson University Drumline auditions take place in 2 rounds. The first round consists of submitting a video audition. Students may (and are encouraged) to submit auditions on multiple instruments - snare drum, bass drum, tenor drum, and cymbals - if they would like to. The deadline for this electronic submission is June 20.</p>
-                <p>Auditionees will be notified about video audition results by June 27. Students who earn a call-back audition invitation will move to Clemson on August 17 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
+                <p>Auditionees will be notified about video audition results by June 27. Students who earn a call-back audition invitation will move to Clemson on August 10 to participate in the live audition round before Tiger Band's preseason camp begins.</p>
                 <!-- <a href="video/" class="richLink cta">Video Audition Information</a> -->
 
                 <div class="linkWrapper">

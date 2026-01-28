@@ -104,21 +104,21 @@
             <div class="deadlinesInfo" id="info4">
                 <p>Audition results announced</p>
                   <br>
-                <p>Those selected must report to CALL BACK auditions on Monday, August 17</p>
+                <p>Those selected must report to CALL BACK auditions on Monday, August 10</p>
             </div>
         </div>
         <div class="month num3">
             <div class="boxUIelement sq white" id="text6" onclick="moreInfo(6)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>17</b>
+                    <b>10</b>
                     <p>Callback Auditions</p>
                 </div>
             </div>
             <div class="boxUIelement sq white" id="text7" onclick="moreInfo(7)">
                 <div class="textContainer">
                     <p>August</p>
-                    <b>18</b>
+                    <b>11</b>
                     <p>Pre-season Camp</p>
                 </div>
             </div>
