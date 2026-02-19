@@ -64,7 +64,7 @@
                       </div>
                   </div>
                   <div class="deadlinesInfo" id="info1">
-                      <p>2025 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog">audition form</a>. Results will be communicated by April 25.</a></p>
+                      <p>2026 Tiger Guard auditions must be submitted by 11:59pm via the <a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9gLpaV3KRDhXlwxx8G6MGLaDtgIskuOk4u4DyD1eV-cfLg/viewform?usp=dialog">audition form</a>. Results will be communicated by April 25.</a></p>
 
                   </div>
 
@@ -73,35 +73,39 @@
           </div>
 
           <article class="text fullWidth">
-                <h1 class="purpleText">2025 Tiger Guard Auditions</h1>
-                <p>The 2025 Tiger Guard auditions will be completed via video submission. All videos submitted by <b>April 11</b> will receive full consideration and will be notified of results by <b>April 25</b>.</p> 
-              <p>All returning members must submit their auditions by the April 11 deadline. Audition videos <b>FOR NEW MEMBERS ONLY</b> will continue to be accepted until <b>July 21 until all positions are filled</b>. The audition window will close as soon as all positions are filled.</p>
+                <h1 class="purpleText">2026 Tiger Guard Auditions</h1>
+                <p>The 2026 Tiger Guard auditions will be completed via 5 short video submissions. All videos submitted by <b>April 11</b> will receive full consideration and will be notified of results by <b>April 25</b>.</p> 
+              <p>All returning members must submit their auditions by the April 11 deadline. Returning members are exempted from submitting the first video featuring Tiger Rag Choreography.</p>
+              <p>Audition videos <b>FOR NEW MEMBERS ONLY</b> will continue to be accepted until <b>July 21 or until all positions are filled</b>. The audition window will close as soon as all positions are filled.</p>
               <br>
                 
-                  <p>Your 3 audition videos - explained in the next section - will all need to follow these requirements:</p>
+                  <p>Your 6 audition videos - explained in the next section - will all need to follow these requirements:</p>
                   <ul>
                     <li>Each indvidual video must be one continuous shot. <b>No editing or splicing of different takes together.</b></li>
                     <li>All videos must be filmed outside.</li>
-                    <li>All videos must be new footage - <b>returners may not submit audition videos from previous seasons.</b></li>
+                    <li>All videos must be new footage</li>
                   </ul>
                   <article class="text fullWidth">
               <h1>Audition Videos</h1>
-              <p>The 2025 Tiger Guard auditions will consist of 3 short video submissions:</p>
+              <p>The 2026 Tiger Guard auditions will consist of 5 short video submissions:</p>
               <ul>
-                 <li>Video 1 will cover choreography that you have time to learn and perfect.</li>
-                <li>Video 2 will cover basic skills in body movement and equipment technique.</li>
-                <li>Video 3 will be a short interview style video for us to get to know you.</li>
+                 <li>Video 1 will cover choreography for our Fight Song, Tiger Rag.</li>
+                 <li>Video 2 will cover body control and use of space by performing a short across the floor routine learned from a demonstration video.</li>
+                 <li>Video 3 will cover body movement by performing a short center dance routine learned from a demonstration video.</li>
+                 <li>Video 4 will cover basic flag skills by performing a short warm up routine learned from a demonstration video.</li>
+                <li>Video 5 will cover tosses by performing a series of tosses learned from a demonstration video.</li>
+                <li>Video 6 will be a short interview style video for us to get to know you.</li>
             </ul>
               <p>Each of these videos will be described in detail below.</p>
               <p>After you create your videos, please upload them to google drive or another file sharing service. You must submit them via this application form:</p>
-              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
+              <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9gLpaV3KRDhXlwxx8G6MGLaDtgIskuOk4u4DyD1eV-cfLg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
               <p>All submissions will be evaluated by a panel of:</p>
               <ul>
                 <li>3-4 independent expert colorguard instructors</li>
                 <li>Tiger Band Colorguard Instructor</li>
               </ul>
                 <p>All scores from the panel will be added together to create a composite score for the audition and the process will be overseen by the Tiger Band directors. Returning members will earn 1 bonus point on their audition for every year of participation in Tiger Band.</p>
-                <p><a href="/doc/CGScoreSheet25.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
+                <p><a href="/doc/CGScoreSheet26.pdf">Click here to view the scoresheet that all judges will use to evaluate the audition.</a></p>
 
               <br>
               <h1 class="purpleText">Video 1</h1>
@@ -124,20 +128,76 @@
               </div>
 <br>
 <h1 class="purpleText">Video 2</h1>
-<h5 class="purpleText">Basic Skills</h5>
-<p>In the second video, a demonstration the following skills is required in an unedited and unspliced video. All of these skills are demonstrated in the video below. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
-<ul>
-  <li>8 to 12 steps of a <b>Jazz Run</b></li>
-  <li>1 time through the <b>Across the Floor Sequence</b></li>
-  <li>16 counts of <b>Drop Spins</b></li>
-  <li>16 counts of <b>Cones</b></li>
-  <li>24 count <b>Windmills & Around the World</b></li>
-  <li>2 <b>Tosses-From-The-Flag</b></li>
-  <li>2 <b>Cone-Tosses</b></li>
-  <li>4 <b>45-Tosses</b></li>
-  <li>2 <b>Body Wrap 45-Tosses</b></li>
-
+<h5 class="purpleText">Across the Floor Routine</h5>
+<p>In the second video, please refer to the reference video below to learn a short across the floor routine. We are looking for people with body control and who can use space and perform.</p>
+<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please make sure to set up the camera in a way so you don't move off camera during your performance. Also, please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/bvDo9YNI3G8?si=2yO5nMW2DBXcbgNG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+    </div>
+              </div>
+              <br>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Perfect World:</p>
+                      <audio src="/audio/PerfectWorld.m4a" controls></audio>
+                  </div>
+              </div>
+<br>
+<h1 class="purpleText">Video 3</h1>
+<h5 class="purpleText">Center Dance Exercise</h5>
+<p>In the third video, please refer to the reference video below to learn a short center dance routine. We will be evaluating your timing, control, ability to project, and attention to detail.</p>
+<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_u-Briwnmao?si=tkzYsFsJcaRPBf5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+              </div>
+              <br>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Sky Full of Stars:</p>
+                      <audio src="/audio/SkyFullOfStars.m4a" controls></audio>
+                  </div>
+              </div>
+<br>
+<h1 class="purpleText">Video 4</h1>
+<h5 class="purpleText">Basic Skills Flag Routine</h5>
+<p>In the fourth video, please refer to the reference video below to learn a short warm-up flag routine. The skills demonstrated in this video are basic flag skills that every member of the Tiger Guard should already have in their repertoire. We will be evaulating timing, consistency, and technique.</p>
+<p>Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fWtyckwEB_o?si=8VmRZUGX00WGKyGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+              </div>
+              <br>
+              <div id="audioContainer">
+                  <div class="auditionAudio">
+                      <p>Love you for a Long Time:</p>
+                      <audio src="/audio/LoveYouForALongTime.m4a" controls></audio>
+                  </div>
+              </div>
+<br>
+<h1 class="purpleText">Video 5</h1>
+<h5 class="purpleText">Flag Tosses</h5>
+<p>In the fifth video, please refer to the reference video below to review some basic tosses we'd like to see you perform. Please perform 2 tosses of each toss type listed below. We will be evaluating your basic techinque, timing, release, and catch for each rep.</p>
+<p>Tosses you should include:
+    <ul>
+  <li>Pop Toss</li>
+  <li>Pole Toss</li>
+  <li>Single 45</li>
+  <li>Silk Double</li>
+  <li>Wrap 45</li>
+  <li>One Handed 45</li>
+  <li>Silk Double with Turn around</li>
 </ul>
+<p>If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<div class="iframeContainer">
+                  <div class="iFrameAspectRatio">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vfViXMdPnro?si=rtwB1IIsq13mPnau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+              </div>
+
 <p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED but will be taken into consideration when determining what pieces of equipment will be used for each show. If you would like to include the rifle portion, it should include:</p>
 <ul>
   <li>16 counts of right hand spins with a single out</li>
@@ -148,16 +208,16 @@
 </ul>
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/VLN8-8WDsQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <br>
-<h1 class="purpleText">Video 3</h1>
+<h1 class="purpleText">Video 6</h1>
 <h5 class="purpleText">Interview</h5>
-<p>The third video will be an <b>interview video</b> for you to introduce yourself to our staff and directors.</p>
+<p>The sixth video will be an <b>interview video</b> for you to introduce yourself to our staff and directors.</p>
 <p>Please submit a video of yourself addressing the following information:</p>
 <ul>
   <li>Name, hometown, major, current high school, and an interesting fact about yourself</li>
   <li>Why did you choose Clemson University?</li>
   <li>Why do you want to be a member of the Tiger Guard?</li>
 </ul>
-<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4dZRybu4BwlzSE5jMGiKg9WuRvB3poPHrRFv4zO79wtrTzg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9gLpaV3KRDhXlwxx8G6MGLaDtgIskuOk4u4DyD1eV-cfLg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
                 <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
             </article>
 
@@ -189,7 +249,7 @@
          
           <article class="text fullWidth">
         <h1 class="purpleText">New Member Rolling Auditions</h1>
-          <p>We will accepting audition videos from <b>new members</b> until July 21st OR until the 2025 roster is filled.</p>
+          <p>We will accepting audition videos from <b>new members</b> until July 21st OR until the 2026 roster is filled.</p>
           <p>Audition submissions will be reviewed as they are submitted. Please allow at least 10 days to hear about your submission to give our judges a chance to review the videos.</p>
           <p>Students interested in submitting a rolling audition should follow the same guidelines outlined on this page.<p>
  
@@ -201,10 +261,10 @@
 <!--- PHOTO SLIDER --->
 
 <div id="photoSlider">
-                <img class="slider" src="https://i.imgur.com/U17cKRF.jpg">
-                <img class="slider" src="https://i.imgur.com/cWFOU8U.jpg">
-                <img class="slider" src="https://i.imgur.com/QMUZQmu.jpg">
-                <img class="slider" src="https://i.imgur.com/bId92hT.jpg">
+                <img class="slider" src="/img/Guard1.jpeg">
+                <img class="slider" src="/img/Guard2.jpeg">
+                <img class="slider" src="/img/Guard3.jpeg">
+                <img class="slider" src="/img/Guard4.jpeg">
                 <div class="controls">
                     <div class="dots" onclick="stopSlider(); currentDiv(1)"></div>
                     <div class="dots" onclick="stopSlider(); currentDiv(2)"></div>
