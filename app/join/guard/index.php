@@ -74,8 +74,8 @@
 
           <article class="text fullWidth">
                 <h1 class="purpleText">2026 Tiger Guard Auditions</h1>
-                <p>The 2026 Tiger Guard auditions will be completed via 5 short video submissions. All videos submitted by <b>April 11</b> will receive full consideration and will be notified of results by <b>April 25</b>.</p> 
-              <p>All returning members must submit their auditions by the April 11 deadline. Returning members are exempted from submitting the first video featuring Tiger Rag Choreography.</p>
+                <p>The 2026 Tiger Guard auditions will be completed via 6 short video submissions. All videos submitted by <b>April 11</b> will receive full consideration and will be notified of results by <b>April 25</b>.</p> 
+              <p>All returning members must submit their auditions by the April 11 deadline. <b>Returning members are exempted from submitting the first video featuring Tiger Rag Choreography.</b></p>
               <p>Audition videos <b>FOR NEW MEMBERS ONLY</b> will continue to be accepted until <b>July 21 or until all positions are filled</b>. The audition window will close as soon as all positions are filled.</p>
               <br>
                 
@@ -89,12 +89,12 @@
               <h1>Audition Videos</h1>
               <p>The 2026 Tiger Guard auditions will consist of 5 short video submissions:</p>
               <ul>
-                 <li>Video 1 will cover choreography for our Fight Song, Tiger Rag.</li>
-                 <li>Video 2 will cover body control and use of space by performing a short across the floor routine learned from a demonstration video.</li>
-                 <li>Video 3 will cover body movement by performing a short center dance routine learned from a demonstration video.</li>
-                 <li>Video 4 will cover basic flag skills by performing a short warm up routine learned from a demonstration video.</li>
-                <li>Video 5 will cover tosses by performing a series of tosses learned from a demonstration video.</li>
-                <li>Video 6 will be a short interview style video for us to get to know you.</li>
+                 <li><b>Video</b> 1 will cover choreography for our Fight Song, Tiger Rag.</li>
+                 <li><b>Video 2</b> will cover body control and use of space by performing a short across the floor routine learned from a demonstration video.</li>
+                 <li><b>Video 3</b> will cover body movement by performing a short center dance routine learned from a demonstration video.</li>
+                 <li><b>Video 4</b> will cover basic flag skills by performing a short warm up routine learned from a demonstration video.</li>
+                <li><b>Video 5</b> will cover tosses by performing a series of tosses learned from a demonstration video.</li>
+                <li><b>Video 6</b> will be a short interview style video for us to get to know you.</li>
             </ul>
               <p>Each of these videos will be described in detail below.</p>
               <p>After you create your videos, please upload them to google drive or another file sharing service. You must submit them via this application form:</p>
@@ -197,8 +197,8 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vfViXMdPnro?si=rtwB1IIsq13mPnau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
               </div>
-
-<p>You may also include a rifle demonstration if you feel comfortable. The rifle portion IS NOT REQUIRED but will be taken into consideration when determining what pieces of equipment will be used for each show. If you would like to include the rifle portion, it should include:</p>
+<br>
+<p>You may also include a <b>rifle demonstration</b> in this video if you feel comfortable. The rifle portion <b>IS NOT REQUIRED</b> but will be taken into consideration when determining what pieces of equipment will be used for each show. If you would like to include the rifle portion, it should include:</p>
 <ul>
   <li>16 counts of right hand spins with a single out</li>
   <li>16 counts of left hand spins with a single out</li>
@@ -206,7 +206,6 @@
   <li>2 triple tosses</li>
   <li>2 quad tosses</li>
 </ul>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/VLN8-8WDsQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 <br>
 <h1 class="purpleText">Video 6</h1>
 <h5 class="purpleText">Interview</h5>
