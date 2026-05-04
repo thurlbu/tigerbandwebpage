@@ -148,9 +148,23 @@
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/EmilyCurry.jpg">
-                    <p>Mrs. Emily Curry is entering her third year on the Tiger Band staff and first year as the Twirling Coordinator. Emily received her B.A. in Elementary Education from Clemson and is currently a fifth grade teacher at Cedar Grove Elementary, located in Anderson County.</p>
+                    <p>Mrs. Emily Curry has served on the Tiger Band staff since 2022. Emily received her B.A. in Elementary Education from Clemson and is currently a fifth grade teacher at Cedar Grove Elementary, located in Anderson County.</p>
                     <p>A native of Madison, Indiana, Emily found her way to Clemson through years of baton twirling and participating in competitions across the country. Beginning with her Tiger Twirler audition in 2002, Emily has made Clemson her home. She was a Tiger Twirler for four years and performed in various bowl games, parades, and community events as a member of Tiger Band. After graduation, Emily began teaching baton privately and has worked with dozens of students throughout the last decade.</p>
                     <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband and two daughters.</p>
+                </div>
+            </article>
+
+ <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Ms. Jennifer Crowe</h1>
+                <h2>Colorguard Instructor</h2>
+                <div class="staffBio">
+            		<img class="staffPortrait" src="/img/staff/Crowe.png">
+                    <p>Jennifer has been an instructor for the Clemson University Tiger Guard since 2021. In addition to her role at Clemson, she has served as the director of the D.W. Daniel High School Color Guard since the fall of 2019. Prior to that, she taught color guard at Pickens High School from 2016 to 2019 while attending Clemson University.</p>
+                    <p>A graduate of Summerville High School, she was a member of the competitive marching band from 2011 to 2015 and performed with the Summerville Open Winter Guard from 2013 to 2016. Other performing experience includes marching with Charlestowne Independent in 2017 and Etude World Guard in 2018, 2019, 2021, and 2023.</p>
+                    <p>Outside of the color guard world, she is a full-time special education teacher at D.W. Daniel High School. She holds a degree in Special Education from Clemson University and is passionate about supporting students both in the classroom and on the field.</p>
                 </div>
             </article>
 
@@ -181,19 +195,7 @@
                 </div>
             </article>
 
-             <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Ms. Jennifer Crowe</h1>
-                <h2>Colorguard Instructor</h2>
-                <div class="staffBio">
-            		<img class="staffPortrait" src="/img/staff/Crowe.png">
-                    <p>Jennifer has been an instructor for the Clemson University Tiger Guard since 2021. In addition to her role at Clemson, she has served as the director of the D.W. Daniel High School Color Guard since the fall of 2019. Prior to that, she taught color guard at Pickens High School from 2016 to 2019 while attending Clemson University.</p>
-                    <p>A graduate of Summerville High School, she was a member of the competitive marching band from 2011 to 2015 and performed with the Summerville Open Winter Guard from 2013 to 2016. Other performing experience includes marching with Charlestowne Independent in 2017 and Etude World Guard in 2018, 2019, 2021, and 2023.</p>
-                    <p>Outside of the color guard world, she is a full-time special education teacher at D.W. Daniel High School. She holds a degree in Special Education from Clemson University and is passionate about supporting students both in the classroom and on the field.</p>
-                </div>
-            </article>
+            
         </div>
 
         <div id="col2Flex">
