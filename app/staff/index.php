@@ -148,9 +148,9 @@
                 <h2>Twirler Instructor</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/EmilyCurry.jpg">
-                    <p>Mrs. Emily Curry has served on the Tiger Band staff since 2022. Emily received her B.A. in Elementary Education from Clemson and is currently a fifth grade teacher at Cedar Grove Elementary, located in Anderson County.</p>
+                    <p>Mrs. Emily Curry has served on the Tiger Band staff since 2018. Emily received her B.A. in Elementary Education from Clemson University and her Masters in Library and Information Science from the University of South Carolina.  She has spent 20 years in education and currently serves as a school librarian.</p>
                     <p>A native of Madison, Indiana, Emily found her way to Clemson through years of baton twirling and participating in competitions across the country. Beginning with her Tiger Twirler audition in 2002, Emily has made Clemson her home. She was a Tiger Twirler for four years and performed in various bowl games, parades, and community events as a member of Tiger Band. After graduation, Emily began teaching baton privately and has worked with dozens of students throughout the last decade.</p>
-                    <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband and two daughters.</p>
+                    <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband, Lance, and two daughters.</p>
                 </div>
             </article>
 
@@ -191,7 +191,7 @@
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
             		<img class="staffPortrait" src="/img/staff/CSloan.png">
-                    <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
+                    <p>Christopher Sloan is the co-lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
                 </div>
             </article>
 
@@ -264,7 +264,7 @@
                 <h2>Tiger Band Announcer</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Willis.png">
-                    <p>After serving as the PA announcer in Death Valley for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of Texas A&M-Commerce, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He has also served as an Intentional Interim pastor, Life Coach, Conflict Consultant and Chaplain at a retirement community.  He recently retired at the end of 2017 after 43 years of ministry.  He is married to Lynda and they have two sons, John (deceased) and David.</p>
+                    <p>After serving as the PA announcer in Death Valley for one year, Dr. Willis has been the voice of Tiger Band since 1994. A native Texan and a graduate of East Texas A&M, the Southwestern Baptist Theological Seminary, and the Graduate Theological Foundation, he has served as a College Minister for 31 years, 24 of which have been at Clemson. He has also served as an Intentional Interim pastor, Life Coach, Conflict Consultant and Chaplain at a retirement community.  He retired at the end of 2017 after 43 years of ministry.  He is married to Lynda and they have two sons, John (deceased) and David.</p>
 
                 </div>
             </article>
@@ -277,7 +277,7 @@
                 <h2>Tiger Band Photographer</h2>
                 <div class="staffBio">
                   <img class="staffPortrait" src="/img/staff/Tamara.jpg">
-                    <p>Tamara Sloan is the associate Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. A native of upstate South Carolina and lifelong Clemson fan, Tamara grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. She has a daughter named Peyton who loves to practice baton twirling and wants to be a member of Tiger Band one day. Although Tamara’s time with Tiger Band is just beginning, she has made many memories and looks forward to capturing more in the future with her camera!</p>
+                    <p>Tamara Sloan is the co-lead Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. Tamara is a native of upstate South Carolina, a science teacher at Blue Ridge High School, and a lifelong Clemson fan. She grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. Tamara and Chris have a daughter named Peyton who will graduate from high school in 2027. Tamara has made many memories with Tiger Band and she looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
         </div>
