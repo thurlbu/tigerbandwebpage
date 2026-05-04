@@ -130,7 +130,7 @@
 <h1 class="purpleText">Video 2</h1>
 <h5 class="purpleText">Across the Floor Routine</h5>
 <p>In the second video, please refer to the reference video below to learn a short across the floor routine. We are looking for people with body control and who can use space and perform.</p>
-<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please make sure to set up the camera in a way so you don't move off camera during your performance. Also, please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please make sure to set up the camera in a way so you don't move off camera during your performance. Also, please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jcroweclemsontigerguard@gmail.com"> Jennifer Crowe</a>.</p>
 <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/bvDo9YNI3G8?si=2yO5nMW2DBXcbgNG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
@@ -147,7 +147,7 @@
 <h1 class="purpleText">Video 3</h1>
 <h5 class="purpleText">Center Dance Exercise</h5>
 <p>In the third video, please refer to the reference video below to learn a short center dance routine. We will be evaluating your timing, control, ability to project, and attention to detail.</p>
-<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<p>Keep in mind we perform in an 80,000 seat football stadium - PROJECT YOUR PERFORMANCE! Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jcroweclemsontigerguard@gmail.com"> Jennifer Crowe</a>.</p>
 <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_u-Briwnmao?si=tkzYsFsJcaRPBf5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -164,7 +164,7 @@
 <h1 class="purpleText">Video 4</h1>
 <h5 class="purpleText">Basic Skills Flag Routine</h5>
 <p>In the fourth video, please refer to the reference video below to learn a short warm-up flag routine. The skills demonstrated in this video are basic flag skills that every member of the Tiger Guard should already have in their repertoire. We will be evaulating timing, consistency, and technique.</p>
-<p>Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<p>Please use the posted audio recording in your video so we can see your timing. If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jcroweclemsontigerguard@gmail.com"> Jennifer Crowe</a>.</p>
 <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWtyckwEB_o?si=8VmRZUGX00WGKyGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -191,7 +191,7 @@
   <li>One Handed 45</li>
   <li>Silk Double with Turn around</li>
 </ul>
-<p>If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe</a>.</p>
+<p>If you have specific questions about technique, please feel free to reach out to our colorguard instructor, <a href="mailto:jcroweclemsontigerguard@gmail.com"> Jennifer Crowe</a>.</p>
 <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vfViXMdPnro?si=rtwB1IIsq13mPnau" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -217,7 +217,7 @@
   <li>Why do you want to be a member of the Tiger Guard?</li>
 </ul>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9gLpaV3KRDhXlwxx8G6MGLaDtgIskuOk4u4DyD1eV-cfLg/viewform?usp=dialog" class="richLink cta">Tiger Guard Application</a></p>
-                <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jenn.crowe98@gmail.com"> Jennifer Crowe.</a></p>
+                <p>If you have any questions about auditions or anything else, please contact the Tiger Guard Instructor,<a href="mailto:jcroweclemsontigerguard@gmail.com.com"> Jennifer Crowe.</a></p>
             </article>
 
             

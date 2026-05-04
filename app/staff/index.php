@@ -112,7 +112,7 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mrs. Caroline Wright Pfisterer</h1>
+                <h1>Dr. Caroline Wright Pfisterer</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
                     <img class="staffPortrait" src="/img/staff/Caroline.jpeg">
@@ -121,7 +121,7 @@
                     <p>Her teaching and outreach extend beyond the traditional classroom—Caroline has worked with Disney’s Performing Arts Center in Orlando, engaging young musicians from across the country in immersive performance experiences, and has also taught music internationally in China.</p>
                     <p>She is deeply involved in community music education, having served as a clinician and coordinator for honor bands and workshops.</p>
                     <p>An accomplished conductor, Caroline has performed internationally and received numerous accolades, including the Osborne Fellowship and the Mike Moss Conducting Grant. With a passion for nurturing young musicians, she combines her extensive teaching experience with a commitment to excellence, fostering creativity and collaboration in her students.</p>
-                    <p>Caroline lives with her husband, Zack, and their beloved dog, Mr. Beaufort, whose enthusiasm for long walks and rehearsal snacks keeps life full of joy and laughter.</p>
+                    <p>Caroline lives with her husband, Zack, her son, Holden, and their beloved dog, Mr. Beaufort, whose enthusiasm for long walks and rehearsal snacks keeps life full of joy and laughter.</p>
                 </div>
             </article>
 
@@ -178,6 +178,20 @@
                 <div class="staffBio">
             		<img class="staffPortrait" src="/img/staff/CSloan.png">
                     <p>Christopher Sloan is the lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
+                </div>
+            </article>
+
+             <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Ms. Jennifer Crowe</h1>
+                <h2>Colorguard Instructor</h2>
+                <div class="staffBio">
+            		<img class="staffPortrait" src="/img/staff/Crowe.png">
+                    <p>Jennifer has been an instructor for the Clemson University Tiger Guard since 2021. In addition to her role at Clemson, she has served as the director of the D.W. Daniel High School Color Guard since the fall of 2019. Prior to that, she taught color guard at Pickens High School from 2016 to 2019 while attending Clemson University.</p>
+                    <p>A graduate of Summerville High School, she was a member of the competitive marching band from 2011 to 2015 and performed with the Summerville Open Winter Guard from 2013 to 2016. Other performing experience includes marching with Charlestowne Independent in 2017 and Etude World Guard in 2018, 2019, 2021, and 2023.</p>
+                    <p>Outside of the color guard world, she is a full-time special education teacher at D.W. Daniel High School. She holds a degree in Special Education from Clemson University and is passionate about supporting students both in the classroom and on the field.</p>
                 </div>
             </article>
         </div>
