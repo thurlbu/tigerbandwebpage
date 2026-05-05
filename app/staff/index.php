@@ -249,10 +249,10 @@
                 <h1>Ms. Marilla Riggs</h1>
                 <h2>Dancer Instructor</h2>
                 <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Marilla.jpg">
-                    <p>Marilla Riggs is an East Tennessee native currently residing in Anderson, SC with her husband and daughter. She began dancing at the age of three, and by the time she graduated high school, she was trained in Vaganova ballet technique, pointe, jazz, tap, modern, and musical theatre styles. Marilla continued her dance education and graduated, with honors, earning a Bachelor of Fine Arts in Dance from Shenandoah Conservatory in 2014.</p>
-                    <p>At Shenandoah, Marilla performed as a featured dancer for several mainstage concerts, choreographed solos and group pieces for herself and her peers, and performed in many student and faculty concerts. Post graduation, she worked as the Administrative and Production Assistant, as well as an apprentice, for Christopher K. Morgan & Artists, a contemporary dance company based outside of Washington DC. She has teaching credits in Tennessee, Virginia, Maryland, and South Carolina and currently teaches at Carolina Superstars Baton & Dance, owned by Tiger Band twirling coach, Hazel Cartee.</p>
-                    <p>Although her life is mostly dedicated to being a stay-at-home mom with her young daughter, Marilla has a passion for sharing dance through teaching and performance.</p>
+                  <img class="staffPortrait" src="/img/staff/Marilla.jpeg">
+                    <p>Marilla Riggs has served as the Tiger Dancer coach for Tiger Band since 2018. She resides in Spartanburg, SC, with her husband, 3 children, and 2 dogs. Originally from East Tennessee, she began dancing at age three and trained extensively in ballet (Vaganova technique), pointe, jazz, tap, modern, and musical theatre. She earned her Bachelor of Fine Arts in Dance from Shenandoah Conservatory in 2014, graduating with honors.</p>
+                    <p>During her time at Shenandoah, Marilla performed in numerous mainstage productions and choreographed works for herself and her peers. After graduation, she worked in Washington, D.C. with a contemporary dance company, teaching in studios and performing professionally, including guest appearances with a Grammy-winning artist.</p>
+                    <p>In addition to being on staff with Tiger Band, Marilla is also a long time dance instructor at Carolina Superstars Baton and Dance studio, and also teaches dance classes at a local preschool.</p>
                 </div>
             </article>
 
