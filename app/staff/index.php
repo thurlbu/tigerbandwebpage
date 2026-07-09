@@ -172,14 +172,11 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Mr. Larry Sloan</h1>
+                <h1>Mr. Zach Arms</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Larry.jpeg">
-                    <p>Mr. Larry Sloan has been the videographer for the Clemson University Tiger Band since the mid 1970's and has shot the band all over the United States and Japan.</p>
-                    <p>After receiving his B.S. in Mechanical Engineering from Clemson University in 1974, he spent his professional career in the electrical field with Square D Company, Maddux Supply Company, and then his own company, Electrical Power Products. He retired in 2006 and in 2009 moved back to Clemson where he has become an active member in University development. He has served on the Clemson University Alumni Board of Directors, Clemson University Foundation Board of Directors, Fort Hill Clemson Club Board of Directors, the Clemson University Tiger Band Association (CUTBA) Board of Directors, and is a proud member of the Tiger Brotherhood. In 2010 he was awarded the Clemson University Distinguished Service Award, the highest honor awarded by the Clemson University Alumni Association.</p>
-                    <p>In 1977 Larry had an idea of an organization of Tiger Band alumni to raise scholarships for future Tiger Band students, to keep Tiger Band alumni informed about current Tiger Band activities and to enhance the Tiger Band experience for current Tiger Band members. This was the beginning of the Clemson University Tiger Band Assocation (CUTBA).</p>
-                    <p>Larry is also very involved in his community and church.  He has served on the Board of Directors at the Clemson Rotary Club and as an Elder at Ft. Hill Presbyterian Church.  He currently serves on the Board of Directors of Ripple of One, a 501C3 charitable organization.  He has been married to his wife Cindy for over 45 years and has 2 sons and 4 grandchildren.</p>
+                    <img class="staffPortrait" src="/img/staff/.jpeg">
+                    <p>Info coming soon...</p>
                 </div>
             </article>
 
@@ -256,7 +253,7 @@
                 </div>
             </article>
 
-            
+
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
