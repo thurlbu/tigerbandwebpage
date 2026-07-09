@@ -183,18 +183,6 @@
                 </div>
             </article>
 
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Christopher Sloan</h1>
-                <h2>Tiger Band Photographer</h2>
-                <div class="staffBio">
-            		<img class="staffPortrait" src="/img/staff/CSloan.png">
-                    <p>Christopher Sloan is the co-lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
-                </div>
-            </article>
-
             
         </div>
 
@@ -217,28 +205,15 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
-                <h1>Dr. Paul Buyer</h1>
-                <h2>Director of Percussion</h2>
+                <h1>Dr. Tanner Leonardo</h1>
+                <h2>Director of Percussion & Drumline Instructor</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Paul.jpg">
-                    <p>Paul Buyer is Director of Percussion and Professor of Music at Clemson University where he also served as Director of Music and Acting Associate Dean. He received his Doctor of Musical Arts and Master of Music degrees from the University of Arizona and his Bachelor of Science degree from Ball State University.</p>
-                    <p>Featured in <i>Success Magazine's</i> Achiever's Series, Dr. Buyer is a sought-after keynote speaker, clinician, and the author of <i>Working Toward Excellence, World Music, Drumline Gold, Marching Bands and Drumlines,</i> and co-author of <i>The Art of Vibraphone Playing</i>. His articles have appeared in <i>American Music Teacher, Teaching Music, Yamaha Educator Suite, Jazz Education Network, Percussive Notes, Rhythm! Scene,</i> and <i>The PAS Educators’ Companion</i>.</p>
-                    <p>Dr. Buyer serves as an endorser for Yamaha Percussion, Innovative Percussion Mallets and Sticks, Remo Drumheads, Sabian Cymbals, and Grover Pro Percussion. He is the recipient of the Percussive Arts Society (PAS) Outstanding Service Award, served as PAS Second Vice President, and currently serves as Co-Editorial Director of <i>Percussive Notes</i>, the official PAS journal. His website is <a href="https://www.paulbuyer.com/">paulbuyer.com</a></p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Lance Curry</h1>
-                <h2>Drumline Instructor</h2>
-                <div class="staffBio">
-                  <img class="staffPortrait" src="/img/staff/Lance.jpg">
-                    <p>Mr. Lance Curry is the instructor for the Clemson University Drumline. He has been working with the drumline in different capacities since 2010.</p>
-                    <p>Lance received his B.A. in Secondary Education - Mathematics from Clemson University and a M.Ed. in Instructional Technology from the University of Georgia. After graduating from Clemson he taught at nearby Easley High School for eight years. He is now employed by the Greenville County School District as an Instructional Technology Facilitator.</p>
-                    <p>While at Clemson Lance was a member of the Clemson University Concert Band, Symphonic Band, Percussion Ensemble, Steel Band, and Clemson University Drumline. He was also a member of the inaugral Clemson University Gigging Steel Band, playing lead and contributing to their first CD, Steelin' the Spotlight. Lance's marching experience also includes the Tampa Bay Thunder Drum and Bugle Corps, Carolina Crown Drum and Bugle Corps, and Epiphany Independent Indoor.</p>
-                    <p>As an educator, Lance has taught percussion at various middle and high schools around South Carolina including D.W. Daniel High School, Summerville High School, Easley High School, Gettys Middle School, and T.L. Hanna High School. He was also on the staff of Carolina Force Indoor Percussion Ensemble and directed Trifecta Independent.</p>
+                    <img class="staffPortrait" src="/img/staff/Tanner.jpeg">
+                    <p>Tanner Leonardo came to Clemson after formerly serving as the Assistant Director of Percussion at East Texas A&M University. He holds a Doctor of Musical Arts degree at the University of Kentucky, a Master of Performance from Morehead State University as well as a Bachelor of Music in Music Performance from the University of Louisville. As a composer, educator, performer, and audio-engineer, Tanner finds himself demonstrating his talents across multiple facets of music.</p>
+                    <p>Tanner’s professional career spans a wide array of roles including music arranger, adjudicator, and clinician. His marching percussion arrangements have been featured in Bands of America competitions, winning at Grand Nationals, and have contributed to numerous state championships. His compositions for percussion ensembles have been performed on an international stage, with his 2020 piece premiering at The Conservatoire de Musique de Grasse in France. Known for his innovative teaching and passion for advancing music technology, Tanner has presented multiple clinics and co-produced a virtual session for the prestigious Percussive Arts Society International Convention (PASIC).</p>
+                    <p>A recognized expert in live sound design and audio engineering, Tanner’s work includes audio engineering for elite drum corps such as the Blue Knights, Phantom Regiment, Troopers, and Santa Clara Vanguard. His meticulous attention to audio production extends beyond the marching arts, having most recently served as Music Producer for The Collected Few Dance Project, a modern dance company in Lexington, KY, where he developed and produced the original score for their program Veil of Perception.</p>
+                    <p>Tanner’s performance background is rooted in his extensive experience as a percussionist. He has performed with a variety of ensembles, including chamber groups, orchestras, and contemporary percussion ensembles, showcasing his versatility across different genres. His work with the A/Tonal Ensemble, a contemporary chamber group, has been a key part of his career, where he contributed to performances blending experimental and new music. His background in both traditional and innovative performance settings have deepened his understanding of how to bridge live performance and sound design, allowing him to integrate acoustic and electronic elements.</p>
+                    <p>Performing ensembles of which he has been a member include the Louisville Orchestra, Cave Run Symphony Orchestra, Commonwealth Brass Band, Louisville Philharmonia, Orchestra Enigmatic, Music City Drum & Bugle Corps, Louisville Winds, Walden Theater Opera Co., and a wide variety of collegiate ensembles. He has performed at both the World Association of Symphonic Bands & Ensembles Conference in San Jose, California and the Sandy Feldstein Percussion Festival in Indianapolis, Indiana.  He regularly performs with A/tonal Chamber Ensemble, and also maintains a freelance performing  schedule in the Louisville area. In 2018 he had the opportunity to conduct a self-composed piece for the KMEA District 5 ‘All-District’ Percussion Ensemble.</p>
                 </div>
             </article>
 
@@ -269,6 +244,19 @@
                 </div>
             </article>
 
+                        <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Mr. Christopher Sloan</h1>
+                <h2>Tiger Band Photographer</h2>
+                <div class="staffBio">
+            		<img class="staffPortrait" src="/img/staff/CSloan.png">
+                    <p>Christopher Sloan is the co-lead photographer for Tiger Band. Chris became a member of Tiger Band in 1991, and he served as trumpet section leader and Band Commander before his graduation from Clemson in 1997. As a professional photographer and co-owner of Imagine! Studios, Chris has been creating high quality images for Tiger Band since 2006. Chris captures the essence of Tiger Band, from dynamic on-the-field performances to candid moments in the stands to fun times away from the stadium. Chris has spent the majority of his life around Tiger Band, and he loves to tell its stories through his camera. His work can be viewed and purchased online at <a href="http://www.tigerbandmedia.com" target="_blank">TigerBandMedia.com</a> and through his studio’s website at <a href="http://www.imaginestudiossc.com" target="_blank">ImagineStudiosSC.com</a></p>
+                </div>
+            </article>
+
+            
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
