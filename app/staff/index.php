@@ -261,12 +261,12 @@
                 <h1>Mr. Zach Arms</h1>
                 <h2>Tiger Band Videographer</h2>
                 <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Arms.jpg">
+                    <img class="staffPortrait" src="/img/staff/Arms2.jpg">
                     <p>Zach Arms is a Clemson graduate from the classes of 2017 (Bachelors in Secondary Education & History) and 2024 (Masters in Educational Leadership). He was a member of Tiger Band from 2013 - 2017 where he played trombone for two years, was drum major for two years, and was Tiger Band Commander in 2016 when the Tigers won their second national championship! While at Clemson, he was also a founding brother of Clemson's chapter of Phi Mu Alpha Sinfonia Fraternity. Zach currently serves the Fraternity as Province Governor for South Carolina.</p>
                     <p>Zach served as the Assistant Marching Band Director for the PRIDE of Liberty Marching Band at Liberty High School, SC from 2018 - 2026. While he was at Liberty, the PRIDE broke school records every single season including earning bronze in 2024 and silver in 2025 for the 1A SCBDA State Championships. Zach currently works as an assistant principal at D.W. Daniel High School in Central, SC. He enjoys cooking, hiking, beating Hurly at trivia, and playing with his dog Cooper.</p>
                 </div>
             </article>
-            
+
         </div>
     </div>
 
