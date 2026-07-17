@@ -112,6 +112,20 @@
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
                 </div>
+                <h1>Mr. Timothy Hurlburt</h1>
+                <h2>Associate Director of Bands</h2>
+                <div class="staffBio">
+                    <img class="staffPortrait" src="/img/staff/Hurlburt.png">
+                    <p>Mr. Tim Hurlburt is the Associate Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, and Director of Basketball Pep Band.</p>
+                    <p>Before arriving at Clemson, Mr. Hurlburt spent 3 years teaching music in Port Huron, Michigan. He still has a great interest in public school music education and continues to work as a clinician for both concert bands and marching bands at every level. Mr. Hurlburt has written several arrangements for athletic bands in both Michigan and Texas, and he continues to write arrangements and drill for high school and college marching bands.</p>
+                    <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Music degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
+                </div>
+            </article>
+
+            <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
                 <h1>Dr. Caroline Wright Pfisterer</h1>
                 <h2>Assistant Director of Bands</h2>
                 <div class="staffBio">
@@ -125,6 +139,22 @@
                 </div>
             </article>
 
+              <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Dr. Tanner Leonardo</h1>
+                <h2>Director of Percussion & Drumline Instructor</h2>
+                <div class="staffBio">
+                    <img class="staffPortrait" src="/img/staff/Tanner.jpeg">
+                    <p>Tanner Leonardo came to Clemson after formerly serving as the Assistant Director of Percussion at East Texas A&M University. He holds a Doctor of Musical Arts degree at the University of Kentucky, a Master of Performance from Morehead State University as well as a Bachelor of Music in Music Performance from the University of Louisville. As a composer, educator, performer, and audio-engineer, Tanner finds himself demonstrating his talents across multiple facets of music.</p>
+                    <p>Tanner’s professional career spans a wide array of roles including music arranger, adjudicator, and clinician. His marching percussion arrangements have been featured in Bands of America competitions, winning at Grand Nationals, and have contributed to numerous state championships. His compositions for percussion ensembles have been performed on an international stage, with his 2020 piece premiering at The Conservatoire de Musique de Grasse in France. Known for his innovative teaching and passion for advancing music technology, Tanner has presented multiple clinics and co-produced a virtual session for the prestigious Percussive Arts Society International Convention (PASIC).</p>
+                    <p>A recognized expert in live sound design and audio engineering, Tanner’s work includes audio engineering for elite drum corps such as the Blue Knights, Phantom Regiment, Troopers, and Santa Clara Vanguard. His meticulous attention to audio production extends beyond the marching arts, having most recently served as Music Producer for The Collected Few Dance Project, a modern dance company in Lexington, KY, where he developed and produced the original score for their program Veil of Perception.</p>
+                    <p>Tanner’s performance background is rooted in his extensive experience as a percussionist. He has performed with a variety of ensembles, including chamber groups, orchestras, and contemporary percussion ensembles, showcasing his versatility across different genres. His work with the A/Tonal Ensemble, a contemporary chamber group, has been a key part of his career, where he contributed to performances blending experimental and new music. His background in both traditional and innovative performance settings have deepened his understanding of how to bridge live performance and sound design, allowing him to integrate acoustic and electronic elements.</p>
+                    <p>Performing ensembles of which he has been a member include the Louisville Orchestra, Cave Run Symphony Orchestra, Commonwealth Brass Band, Louisville Philharmonia, Orchestra Enigmatic, Music City Drum & Bugle Corps, Louisville Winds, Walden Theater Opera Co., and a wide variety of collegiate ensembles. He has performed at both the World Association of Symphonic Bands & Ensembles Conference in San Jose, California and the Sandy Feldstein Percussion Festival in Indianapolis, Indiana.  He regularly performs with A/tonal Chamber Ensemble, and also maintains a freelance performing  schedule in the Louisville area. In 2018 he had the opportunity to conduct a self-composed piece for the KMEA District 5 ‘All-District’ Percussion Ensemble.</p>
+                </div>
+            </article>
+            
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
                     <img src="/img/logos/dropdownArrow.svg" width="75">
@@ -153,66 +183,10 @@
                     <p>In her little bit of spare time, Emily enjoys attending Clemson sporting events, crafting, and spending time with her husband, Lance, and two daughters.</p>
                 </div>
             </article>
-
- <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Ms. Jennifer Crowe</h1>
-                <h2>Colorguard Instructor</h2>
-                <div class="staffBio">
-            		<img class="staffPortrait" src="/img/staff/Crowe.png">
-                    <p>Jennifer has been an instructor for the Clemson University Tiger Guard since 2021. In addition to her role at Clemson, she has served as the director of the D.W. Daniel High School Color Guard since the fall of 2019. Prior to that, she taught color guard at Pickens High School from 2016 to 2019 while attending Clemson University.</p>
-                    <p>A graduate of Summerville High School, she was a member of the competitive marching band from 2011 to 2015 and performed with the Summerville Open Winter Guard from 2013 to 2016. Other performing experience includes marching with Charlestowne Independent in 2017 and Etude World Guard in 2018, 2019, 2021, and 2023.</p>
-                    <p>Outside of the color guard world, she is a full-time special education teacher at D.W. Daniel High School. She holds a degree in Special Education from Clemson University and is passionate about supporting students both in the classroom and on the field.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Zach Arms</h1>
-                <h2>Tiger Band Videographer</h2>
-                <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/.jpeg">
-                    <p>Info coming soon...</p>
-                </div>
-            </article>
-
             
         </div>
 
         <div id="col2Flex">
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Mr. Timothy Hurlburt</h1>
-                <h2>Associate Director of Bands</h2>
-                <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Hurlburt.png">
-                    <p>Mr. Tim Hurlburt is the Associate Director of Bands at Clemson University where his duties include Assistant Director of Tiger Band, Director of the Jazz Ensemble, and Director of Basketball Pep Band.</p>
-                    <p>Before arriving at Clemson, Mr. Hurlburt spent 3 years teaching music in Port Huron, Michigan. He still has a great interest in public school music education and continues to work as a clinician for both concert bands and marching bands at every level. Mr. Hurlburt has written several arrangements for athletic bands in both Michigan and Texas, and he continues to write arrangements and drill for high school and college marching bands.</p>
-                    <p>Mr. Hurlburt has performed as principal trumpet in the Texas State University Wind Ensemble, Michigan State University Symphony Band, Spartan Marching Band, Spartan Brass, and was also a member of the Michigan State University Wind Symphony. He earned his Bachelor of Music degree in Music Education from Michigan State University in 2003 and his Master of Music degree in Conducting from Texas State University in 2008.</p>
-                </div>
-            </article>
-
-            <article class="text fullWidth expand" onclick="expand(this)">
-                <div class="expandButton">
-                    <img src="/img/logos/dropdownArrow.svg" width="75">
-                </div>
-                <h1>Dr. Tanner Leonardo</h1>
-                <h2>Director of Percussion & Drumline Instructor</h2>
-                <div class="staffBio">
-                    <img class="staffPortrait" src="/img/staff/Tanner.jpeg">
-                    <p>Tanner Leonardo came to Clemson after formerly serving as the Assistant Director of Percussion at East Texas A&M University. He holds a Doctor of Musical Arts degree at the University of Kentucky, a Master of Performance from Morehead State University as well as a Bachelor of Music in Music Performance from the University of Louisville. As a composer, educator, performer, and audio-engineer, Tanner finds himself demonstrating his talents across multiple facets of music.</p>
-                    <p>Tanner’s professional career spans a wide array of roles including music arranger, adjudicator, and clinician. His marching percussion arrangements have been featured in Bands of America competitions, winning at Grand Nationals, and have contributed to numerous state championships. His compositions for percussion ensembles have been performed on an international stage, with his 2020 piece premiering at The Conservatoire de Musique de Grasse in France. Known for his innovative teaching and passion for advancing music technology, Tanner has presented multiple clinics and co-produced a virtual session for the prestigious Percussive Arts Society International Convention (PASIC).</p>
-                    <p>A recognized expert in live sound design and audio engineering, Tanner’s work includes audio engineering for elite drum corps such as the Blue Knights, Phantom Regiment, Troopers, and Santa Clara Vanguard. His meticulous attention to audio production extends beyond the marching arts, having most recently served as Music Producer for The Collected Few Dance Project, a modern dance company in Lexington, KY, where he developed and produced the original score for their program Veil of Perception.</p>
-                    <p>Tanner’s performance background is rooted in his extensive experience as a percussionist. He has performed with a variety of ensembles, including chamber groups, orchestras, and contemporary percussion ensembles, showcasing his versatility across different genres. His work with the A/Tonal Ensemble, a contemporary chamber group, has been a key part of his career, where he contributed to performances blending experimental and new music. His background in both traditional and innovative performance settings have deepened his understanding of how to bridge live performance and sound design, allowing him to integrate acoustic and electronic elements.</p>
-                    <p>Performing ensembles of which he has been a member include the Louisville Orchestra, Cave Run Symphony Orchestra, Commonwealth Brass Band, Louisville Philharmonia, Orchestra Enigmatic, Music City Drum & Bugle Corps, Louisville Winds, Walden Theater Opera Co., and a wide variety of collegiate ensembles. He has performed at both the World Association of Symphonic Bands & Ensembles Conference in San Jose, California and the Sandy Feldstein Percussion Festival in Indianapolis, Indiana.  He regularly performs with A/tonal Chamber Ensemble, and also maintains a freelance performing  schedule in the Louisville area. In 2018 he had the opportunity to conduct a self-composed piece for the KMEA District 5 ‘All-District’ Percussion Ensemble.</p>
-                </div>
-            </article>
 
             <article class="text fullWidth expand" onclick="expand(this)">
                 <div class="expandButton">
@@ -225,6 +199,20 @@
                     <p>Marilla Riggs has served as the Tiger Dancer coach for Tiger Band since 2018. She resides in Spartanburg, SC, with her husband, 3 children, and 2 dogs. Originally from East Tennessee, she began dancing at age three and trained extensively in ballet (Vaganova technique), pointe, jazz, tap, modern, and musical theatre. She earned her Bachelor of Fine Arts in Dance from Shenandoah Conservatory in 2014, graduating with honors.</p>
                     <p>During her time at Shenandoah, Marilla performed in numerous mainstage productions and choreographed works for herself and her peers. After graduation, she worked in Washington, D.C. with a contemporary dance company, teaching in studios and performing professionally, including guest appearances with a Grammy-winning artist.</p>
                     <p>In addition to being on staff with Tiger Band, Marilla is also a long time dance instructor at Carolina Superstars Baton and Dance studio, and also teaches dance classes at a local preschool.</p>
+                </div>
+            </article>
+
+            <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Ms. Jennifer Crowe</h1>
+                <h2>Colorguard Instructor</h2>
+                <div class="staffBio">
+            		<img class="staffPortrait" src="/img/staff/Crowe.png">
+                    <p>Jennifer has been an instructor for the Clemson University Tiger Guard since 2021. In addition to her role at Clemson, she has served as the director of the D.W. Daniel High School Color Guard since the fall of 2019. Prior to that, she taught color guard at Pickens High School from 2016 to 2019 while attending Clemson University.</p>
+                    <p>A graduate of Summerville High School, she was a member of the competitive marching band from 2011 to 2015 and performed with the Summerville Open Winter Guard from 2013 to 2016. Other performing experience includes marching with Charlestowne Independent in 2017 and Etude World Guard in 2018, 2019, 2021, and 2023.</p>
+                    <p>Outside of the color guard world, she is a full-time special education teacher at D.W. Daniel High School. She holds a degree in Special Education from Clemson University and is passionate about supporting students both in the classroom and on the field.</p>
                 </div>
             </article>
 
@@ -265,6 +253,20 @@
                     <p>Tamara Sloan is the co-lead Tiger Band photographer and co-owner of Imagine! Studios. She has been a professional photographer since 2010, and she’s been capturing images of Tiger Band since 2015. Tamara is a native of upstate South Carolina, a science teacher at Blue Ridge High School, and a lifelong Clemson fan. She grew up admiring the sounds of Tiger Band during her fall Saturdays in Death Valley. Tamara and Chris have a daughter named Peyton who will graduate from high school in 2027. Tamara has made many memories with Tiger Band and she looks forward to capturing more in the future with her camera!</p>
                 </div>
             </article>
+
+                        <article class="text fullWidth expand" onclick="expand(this)">
+                <div class="expandButton">
+                    <img src="/img/logos/dropdownArrow.svg" width="75">
+                </div>
+                <h1>Mr. Zach Arms</h1>
+                <h2>Tiger Band Videographer</h2>
+                <div class="staffBio">
+                    <img class="staffPortrait" src="/img/staff/Arms.jpg">
+                    <p>Zach Arms is a Clemson graduate from the classes of 2017 (Bachelors in Secondary Education & History) and 2024 (Masters in Educational Leadership). He was a member of Tiger Band from 2013 - 2017 where he played trombone for two years, was drum major for two years, and was Tiger Band Commander in 2016 when the Tigers won their second national championship! While at Clemson, he was also a founding brother of Clemson's chapter of Phi Mu Alpha Sinfonia Fraternity. Zach currently serves the Fraternity as Province Governor for South Carolina.</p>
+                    <p>Zach served as the Assistant Marching Band Director for the PRIDE of Liberty Marching Band at Liberty High School, SC from 2018 - 2026. While he was at Liberty, the PRIDE broke school records every single season including earning bronze in 2024 and silver in 2025 for the 1A SCBDA State Championships. Zach currently works as an assistant principal at D.W. Daniel High School in Central, SC. He enjoys cooking, hiking, beating Hurly at trivia, and playing with his dog Cooper.</p>
+                </div>
+            </article>
+            
         </div>
     </div>
 
