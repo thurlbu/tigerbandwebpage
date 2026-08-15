@@ -115,26 +115,26 @@
                 <h2>Fall and Spring Semesters</h2>
                 <div class="staffBio">
                    <img class="articleImg" src='/img/JazzEnsemble.jpg'>
-                   <h1>Spring 2026 Auditions</h1>
+                   <h1>Fall 2026 Auditions</h1>
                    <br> 
                    <p>Wind players <b>(saxes, trumpets, and trombones)</b> will submit their auditions via online video submission.</p>
-                   <p>You will perform <b>Groovin' High, Jordu, and Boplicity</b> WITH THE BACKGROUND TRACK. The sheet music and the background tracks can all be found in the same linked <a href="https://drive.google.com/drive/folders/1JdXvgNOe0ot5K3k19V166jgw-j5L7La_?usp=drive_link">Google Drive Folder</a>.</p>
+                   <p>You will perform <b>One Note Samba, Jordu, and Bessie's Blues</b> WITH THE BACKGROUND TRACK. The sheet music and the background tracks can all be found in the same linked <a href="https://drive.google.com/drive/folders/1IyVJeGwLT6TPXDYs1-AN-eCuewfqLk11?usp=sharing">Google Drive Folder</a>.</p>
                    <p>The first time through each tune, please play the head (the notated part melody on the music provided with all notated repeats). The second time through, play an improvised solo through at least 1 chorus on all 3 songs.</p>
                    <p>If you're not an experienced improviser, don't worry! The improvisation section will not count against your audition score, it's like extra credit. Give it a try, you might surprise yourself!</p>
-                   <p>All links to music and recordings can be found here: <a href="https://drive.google.com/drive/folders/1JdXvgNOe0ot5K3k19V166jgw-j5L7La_?usp=drive_link">AUDITION MATERIALS</a></p>
+                   <p>All links to music and recordings can be found here: <a href="https://drive.google.com/drive/folders/1IyVJeGwLT6TPXDYs1-AN-eCuewfqLk11?usp=sharing">AUDITION MATERIALS</a></p>
                    <p>Simply film your video (cell phone video is acceptable) and upload it to a file sharing service (youtube, Google Drive, Dropbox, etc.), then submit the link on the appropriate linked form below.</p>
-                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform?usp=sf_link">SUBMISSION FORM</a></p>
+                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfOcZsAmg2Tc8k2mF3Todz16iAF3oJ47Pli20WgU_GqY6ITMw/viewform?usp=publish-editor">SUBMISSION FORM</a></p>
                    <p>Your videos must:</p>
                    <ol>
                     <li>Be filmed in one continuous take (including time between selections).</li>
                     <li>Be completely unedited.</li>
                     <li>Have an uninhibited view of your embouchure and your hands on the keys/valves for the entire video.</li>
                     <li>Include playing through the head and soloing on all 3 tunes. Make sure that the background track CAN be heard on the recording too!</li>
-                    <li>Be submitted by 3:30pm on Monday, January 12 via <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform?usp=sf_link">THIS FORM</a></li>
+                    <li>Be submitted by 11:59pm on Saturday, August 22 via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOcZsAmg2Tc8k2mF3Todz16iAF3oJ47Pli20WgU_GqY6ITMw/viewform?usp=publish-editor">THIS FORM</a></li>
                    </ol>
                    <br>
-                   <p>Rhythm Section players <b>(drum set, guitar, bass, & piano)</b> will audition live on January 8 at 2:00 in Room 112 of the Brooks Center. All people interested in auditioning for the Spring 2025 Rhythm Section MUST sign up on <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbF4lyPMXkrLKT4xmH63S2yXxaHDHmrY8-9y0g9Xjsmpvpqw/viewform?usp=sf_link">THIS FORM</a> by January 7. Guitarists and Bassists should bring an instrument. Amps will be provided. If you need to borrow an instrument, please contact the band office for help.</p>
-                   <p>Please be prepared to comp and solo on these 3 tunes from the Real Book: <b>Groovin' High, Jordu, and Boplicity</b>. You can find music and reference recordings to <a href="https://drive.google.com/drive/folders/1JdXvgNOe0ot5K3k19V166jgw-j5L7La_?usp=drive_link">practice with here.</a></p>
+                   <p>Rhythm Section players <b>(drum set, guitar, bass, & piano)</b> will audition live on Thursday, August 20 at 2:00 in Room 112 of the Brooks Center. All people interested in auditioning for the Fall 2026 Rhythm Section MUST sign up on <a href="https://docs.google.com/forms/d/e/1FAIpQLSfOcZsAmg2Tc8k2mF3Todz16iAF3oJ47Pli20WgU_GqY6ITMw/viewform?usp=publish-editor">THIS FORM</a> by August 19. Guitarists and Bassists should bring an instrument. Amps will be provided. If you need to borrow an instrument, please contact the band office for help.</p>
+                   <p>Please be prepared to comp and solo on these 3 tunes from the Real Book: <b>One Note Samba, Jordu, and Bessie's Blues</b>. You can find music and reference recordings to <a href="https://drive.google.com/drive/folders/1IyVJeGwLT6TPXDYs1-AN-eCuewfqLk11?usp=sharing">practice with here.</a></p>
                    <p>You should also be ready to comp and solo on a blues progression in Bb, F, C, and Eb in common big band styles like swing, rock, funk, various latin styles, etc.</p>
 
                 </div>
